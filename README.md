@@ -88,10 +88,10 @@ If you find this project useful, please consider citing our work:
 
 ```bibtex
 @article{lu2025ACD,
-title={Automated Capability Discovery via Foundation Model Self-Exploration},
-author={Lu, Cong and Hu, Shengran and Clune, Jeff},
-journal={arXiv preprint arXiv:2502.07577},
-year={2025}
+    title={Automated Capability Discovery via Foundation Model Self-Exploration},
+    author={Lu, Cong and Hu, Shengran and Clune, Jeff},
+    journal={arXiv preprint arXiv:2502.07577},
+    year={2025}
 }
 ```
 
