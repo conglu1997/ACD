@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/conglu1997/ACD/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge"></a>
-  <a href="https://arxiv.org/abs/XXXX.YYYY"><img src="https://img.shields.io/badge/arXiv-XXXX.YYYY-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
+  <a href="https://arxiv.org/abs/2502.07577"><img src="https://img.shields.io/badge/arXiv-2502.07577-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
   <a href="https://www.conglu.co.uk/ACD/"><img src="https://img.shields.io/badge/-Website-%238D6748?style=for-the-badge&logo=Website&logoColor=white"></a>
 <!--   <a href="https://twitter.com/XXX"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee"></a> -->
 </p>
@@ -90,7 +90,7 @@ If you find this project useful, please consider citing our work:
 @article{lu2025ACD,
 title={Automated Capability Discovery via Foundation Model Self-Exploration},
 author={Lu, Cong and Hu, Shengran and Clune, Jeff},
-journal={arXiv preprint arXiv:TODO},
+journal={arXiv preprint arXiv:2502.07577},
 year={2025}
 }
 ```
