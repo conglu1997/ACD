@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_comprehension",
+    "description_of_task": "Read a code snippet and generate a function to solve a specific problem based on that code.",
+    "capability_being_measured": "coding skills, comprehension, application of programming concepts",
+    "estimated_human_difficulty": "4"
+}

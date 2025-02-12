@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_generation_and_transformation",
+    "description_of_task": "Generate a dialogue between characters based on a given context and transform the dialogue into a different context (e.g., formal to informal).",
+    "capability_being_measured": "contextual understanding, language generation, contextual adaptation",
+    "estimated_human_difficulty": "3"
+}

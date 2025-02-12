@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_contract_drafting_and_interpretation",
+    "description_of_task": "Draft and interpret legal contracts based on given scenarios and requirements.",
+    "capability_being_measured": "legal reasoning, comprehension, structured text generation",
+    "estimated_human_difficulty": "5"
+}

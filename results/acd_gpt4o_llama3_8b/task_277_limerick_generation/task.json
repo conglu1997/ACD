@@ -1,0 +1,6 @@
+{
+    "name_of_task": "limerick_generation",
+    "description_of_task": "Generate a limerick based on a given theme.",
+    "capability_being_measured": "creativity, language understanding, adherence to poetic structure",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_lingual_semantic_mapper",
+    "description_of_task": "Design an AI system that maps semantic relationships across multiple languages, analyzing conceptual similarities and differences, and use it to generate culturally-aware translations of idiomatic expressions.",
+    "capability_being_measured": "multilingual understanding, semantic analysis, cultural awareness, and creative language generation",
+    "estimated_human_difficulty": "5"
+}

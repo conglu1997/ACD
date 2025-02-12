@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_solving_and_generation",
+    "description_of_task": "Solve given puzzles and generate new puzzles based on provided examples.",
+    "capability_being_measured": "logical reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "3"
+}

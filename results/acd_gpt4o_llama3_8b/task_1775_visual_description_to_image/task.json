@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_to_image",
+    "description_of_task": "Generate a detailed description of an image based on a given textual description.",
+    "capability_being_measured": "spatial reasoning, descriptive comprehension, visual imagination",
+    "estimated_human_difficulty": "4"
+}

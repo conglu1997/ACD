@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_mechanics_explanation",
+    "description_of_task": "Explain complex concepts in quantum mechanics and generate content based on given prompts.",
+    "capability_being_measured": "technical knowledge, abstraction, language generation",
+    "estimated_human_difficulty": "5"
+}

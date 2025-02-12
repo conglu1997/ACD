@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_generation",
+    "description_of_task": "Generate a plausible scientific hypothesis based on given scenarios and explain the reasoning behind it.",
+    "capability_being_measured": "scientific literacy, problem-solving, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

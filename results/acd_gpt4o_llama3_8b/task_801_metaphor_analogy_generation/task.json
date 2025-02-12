@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_analogy_generation",
+    "description_of_task": "Generate a metaphor or an analogy based on a given concept and explain its relevance.",
+    "capability_being_measured": "abstract reasoning, language understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

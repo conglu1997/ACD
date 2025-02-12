@@ -1,0 +1,6 @@
+{
+    "name_of_task": "create_custom_recipe",
+    "description_of_task": "Create a new recipe based on given ingredients, dietary constraints, and theme.",
+    "capability_being_measured": "creativity, knowledge application, structured thinking",
+    "estimated_human_difficulty": "3"
+}

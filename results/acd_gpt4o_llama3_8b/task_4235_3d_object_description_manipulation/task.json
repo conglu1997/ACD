@@ -1,0 +1,6 @@
+{
+    "name_of_task": "3d_object_description_manipulation",
+    "description_of_task": "Describe given 3D objects based on geometric properties and perform specified transformations on them.",
+    "capability_being_measured": "spatial reasoning, geometric understanding, logical transformation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_data_analysis",
+    "description_of_task": "Analyze given scientific data sets and provide interpretations and conclusions based on the data.",
+    "capability_being_measured": "scientific reasoning, data analysis, coherent text generation",
+    "estimated_human_difficulty": "4"
+}

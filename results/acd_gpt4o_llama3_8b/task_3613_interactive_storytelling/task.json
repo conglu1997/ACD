@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_storytelling",
+    "description_of_task": "Generate and adapt a story based on given prompts and constraints, ensuring narrative coherence and engagement.",
+    "capability_being_measured": "creativity, contextual understanding, dynamic adaptation",
+    "estimated_human_difficulty": "4"
+}

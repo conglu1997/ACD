@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_dialogue",
+    "description_of_task": "Engage in a multi-turn dialogue based on a given scenario, maintaining coherence and context throughout.",
+    "capability_being_measured": "conversational skills, context understanding, coherence",
+    "estimated_human_difficulty": "4"
+}

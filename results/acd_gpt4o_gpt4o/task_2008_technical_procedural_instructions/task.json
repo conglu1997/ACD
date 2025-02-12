@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_procedural_instructions",
+    "description_of_task": "Generate and explain detailed step-by-step instructions for performing specific technical tasks.",
+    "capability_being_measured": "procedural knowledge, technical writing, clarity",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tech_use_case_generation",
+    "description_of_task": "Generate innovative use cases for fictional technologies based on given descriptions.",
+    "capability_being_measured": "creativity, application of technology, language understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simulate_physical_phenomena",
+    "description_of_task": "Generate code to simulate simple physical phenomena based on given parameters.",
+    "capability_being_measured": "programming, physical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

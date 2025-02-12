@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_procedure_explanation",
+    "description_of_task": "Provide step-by-step explanations of medical procedures and the rationale behind each step.",
+    "capability_being_measured": "medical knowledge, procedural understanding, explanatory skills",
+    "estimated_human_difficulty": "5"
+}

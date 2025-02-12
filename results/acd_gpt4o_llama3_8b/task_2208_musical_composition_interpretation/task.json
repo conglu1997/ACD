@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_interpretation",
+    "description_of_task": "Interpret a given short musical composition and describe the emotions, imagery, or story it conveys.",
+    "capability_being_measured": "creativity, language generation, musical understanding",
+    "estimated_human_difficulty": "4"
+}

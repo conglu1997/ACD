@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_modification",
+    "description_of_task": "Create a cooking recipe based on given ingredients and then modify it to accommodate specific dietary restrictions.",
+    "capability_being_measured": "procedural knowledge, creativity, attention to detail",
+    "estimated_human_difficulty": "3"
+}

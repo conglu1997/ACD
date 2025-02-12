@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_logic_puzzles",
+    "description_of_task": "Solve multi-step logic puzzles that require intricate reasoning and maintaining context across multiple steps.",
+    "capability_being_measured": "logical reasoning, problem-solving, context management",
+    "estimated_human_difficulty": "5"
+}

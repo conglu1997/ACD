@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_color_scene_creation",
+    "description_of_task": "Create a color palette based on a given emotion, then use it to describe a scene that evokes that emotion.",
+    "capability_being_measured": "interdisciplinary knowledge application, creative writing, understanding of color theory and emotional psychology",
+    "estimated_human_difficulty": "4"
+}

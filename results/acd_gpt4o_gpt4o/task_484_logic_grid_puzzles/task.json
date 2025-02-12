@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logic_grid_puzzles",
+    "description_of_task": "Create a logic grid puzzle and solve a given logic grid puzzle.",
+    "capability_being_measured": "logical reasoning, problem-solving, constraint satisfaction",
+    "estimated_human_difficulty": "4"
+}

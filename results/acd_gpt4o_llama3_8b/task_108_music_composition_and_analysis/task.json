@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_composition_and_analysis",
+    "description_of_task": "Generate a simple melody based on given constraints and analyze a piece of music to identify its key features.",
+    "capability_being_measured": "music theory knowledge, creativity, analytical skills",
+    "estimated_human_difficulty": "4"
+}

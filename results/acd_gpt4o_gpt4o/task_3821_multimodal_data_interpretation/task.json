@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_data_interpretation",
+    "description_of_task": "Interpret and analyze information from multiple data forms (text, images, etc.) to provide a coherent and comprehensive response.",
+    "capability_being_measured": "multimodal understanding, data integration, analytical skills",
+    "estimated_human_difficulty": "4"
+}

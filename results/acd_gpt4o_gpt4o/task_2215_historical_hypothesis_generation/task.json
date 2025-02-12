@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_hypothesis_generation",
+    "description_of_task": "Generate plausible hypotheses for historical events based on provided contexts.",
+    "capability_being_measured": "creative reasoning, historical knowledge, narrative construction",
+    "estimated_human_difficulty": "4"
+}

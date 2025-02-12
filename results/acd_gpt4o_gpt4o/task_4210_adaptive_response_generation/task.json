@@ -1,0 +1,6 @@
+{
+    "name_of_task": "adaptive_response_generation",
+    "description_of_task": "Generate responses to prompts that change mid-way through the task.",
+    "capability_being_measured": "cognitive flexibility, adaptability, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

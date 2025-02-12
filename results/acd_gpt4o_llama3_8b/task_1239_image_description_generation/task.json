@@ -1,0 +1,6 @@
+{
+    "name_of_task": "image_description_generation",
+    "description_of_task": "Generate detailed and contextually appropriate descriptions for given images based on provided textual context.",
+    "capability_being_measured": "multimodal reasoning, descriptive language, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

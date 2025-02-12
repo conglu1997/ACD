@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptarithm_solver",
+    "description_of_task": "Solve cryptarithm puzzles where letters represent unique digits.",
+    "capability_being_measured": "logical reasoning, problem-solving, numerical manipulation",
+    "estimated_human_difficulty": "3"
+}

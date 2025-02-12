@@ -1,0 +1,6 @@
+{
+    "name_of_task": "economic_simulation",
+    "description_of_task": "Optimize a city's economy based on specified constraints and goals.",
+    "capability_being_measured": "problem-solving, logical reasoning, real-world understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_continuation_and_planning",
+    "description_of_task": "Continue a given story and outline a plan for subsequent events based on specified guidelines.",
+    "capability_being_measured": "creativity, narrative understanding, strategic planning",
+    "estimated_human_difficulty": "4"
+}

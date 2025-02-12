@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_generation_and_consistency",
+    "description_of_task": "Generate a fictional story based on given constraints and answer questions to ensure logical consistency within the narrative.",
+    "capability_being_measured": "creativity, logical consistency, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

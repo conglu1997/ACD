@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_interpretation",
+    "description_of_task": "Interpret and generate content based on legal documents or scenarios.",
+    "capability_being_measured": "legal reasoning, comprehension, content generation",
+    "estimated_human_difficulty": "5"
+}

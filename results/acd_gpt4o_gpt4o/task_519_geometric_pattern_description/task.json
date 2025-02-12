@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_pattern_description",
+    "description_of_task": "Describe a given geometric pattern and generate a new geometric pattern based on given descriptions.",
+    "capability_being_measured": "spatial reasoning, descriptive abilities, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

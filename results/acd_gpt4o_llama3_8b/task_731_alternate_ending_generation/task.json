@@ -1,0 +1,6 @@
+{
+    "name_of_task": "alternate_ending_generation",
+    "description_of_task": "Generate an alternate ending for a given story, ensuring the new ending is coherent with the established narrative.",
+    "capability_being_measured": "creativity, narrative comprehension, language generation",
+    "estimated_human_difficulty": "3"
+}

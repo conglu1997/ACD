@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_expression_manipulation",
+    "description_of_task": "Interpret a given mathematical expression and generate a new, equivalent expression. Additionally, solve the expression to verify equivalence.",
+    "capability_being_measured": "mathematical reasoning, linguistic interpretation, problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artistic_style_description",
+    "description_of_task": "Generate detailed descriptions of artistic styles based on given images and interpret descriptions to identify or generate appropriate artistic styles.",
+    "capability_being_measured": "creativity, visual interpretation, language generation",
+    "estimated_human_difficulty": "4"
+}

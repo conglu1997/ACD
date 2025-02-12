@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_fiction_creation",
+    "description_of_task": "Generate engaging and coherent interactive fiction stories based on given prompts.",
+    "capability_being_measured": "creativity, narrative coherence, logical consistency, state management",
+    "estimated_human_difficulty": "5"
+}

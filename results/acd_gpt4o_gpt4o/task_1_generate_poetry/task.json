@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_poetry",
+    "description_of_task": "Generate a poem based on a given theme and structure.",
+    "capability_being_measured": "creativity, linguistic ability",
+    "estimated_human_difficulty": "4"
+}

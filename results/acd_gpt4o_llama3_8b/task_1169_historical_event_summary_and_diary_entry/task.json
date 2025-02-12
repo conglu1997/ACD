@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_summary_and_diary_entry",
+    "description_of_task": "Summarize a historical event and generate a fictional diary entry from the perspective of a historical figure involved in that event.",
+    "capability_being_measured": "historical knowledge, contextual understanding, narrative skills",
+    "estimated_human_difficulty": "4"
+}

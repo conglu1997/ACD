@@ -1,0 +1,6 @@
+{
+    "name_of_task": "system_interdependencies_analysis",
+    "description_of_task": "Analyze complex systems with interconnected components and determine the implications of changes within the system.",
+    "capability_being_measured": "system understanding, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "5"
+}

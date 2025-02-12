@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_emotion_music_composition",
+    "description_of_task": "Design an AI system that can compose music based on emotional input and analyze the emotional content of existing music.",
+    "capability_being_measured": "understanding of music theory, emotional intelligence, creative composition, and AI system design",
+    "estimated_human_difficulty": "5"
+}

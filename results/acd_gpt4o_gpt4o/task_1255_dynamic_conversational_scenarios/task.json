@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dynamic_conversational_scenarios",
+    "description_of_task": "Generate and adapt dialogues based on evolving scenarios and specific criteria.",
+    "capability_being_measured": "conversational skills, coherence, adaptability, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "active_to_passive_conversion",
+    "description_of_task": "Convert given active voice sentences into passive voice sentences.",
+    "capability_being_measured": "syntactic transformation and grammatical understanding",
+    "estimated_human_difficulty": "3"
+}

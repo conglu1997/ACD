@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_completion_and_debugging",
+    "description_of_task": "Complete partially written code snippets and debug erroneous code snippets.",
+    "capability_being_measured": "programming knowledge, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning",
+    "description_of_task": "Interpret a legal scenario and provide a reasoned legal argument or solution based on the given facts and principles.",
+    "capability_being_measured": "reasoning, language understanding, application of legal principles",
+    "estimated_human_difficulty": "5"
+}

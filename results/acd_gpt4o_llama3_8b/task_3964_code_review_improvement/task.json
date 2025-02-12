@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_review_improvement",
+    "description_of_task": "Review and suggest improvements for a given piece of code.",
+    "capability_being_measured": "programming knowledge, attention to detail, code optimization",
+    "estimated_human_difficulty": "4"
+}

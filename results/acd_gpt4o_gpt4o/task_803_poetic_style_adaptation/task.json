@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetic_style_adaptation",
+    "description_of_task": "Generate poetry in the style of a specified famous poet.",
+    "capability_being_measured": "creative writing, stylistic adaptation, literary knowledge",
+    "estimated_human_difficulty": "4"
+}

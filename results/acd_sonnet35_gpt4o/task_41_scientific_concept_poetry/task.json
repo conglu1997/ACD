@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_concept_poetry",
+    "description_of_task": "Create a poem that accurately explains a scientific concept while adhering to a specific poetic form",
+    "capability_being_measured": "scientific knowledge, linguistic creativity, and ability to combine technical accuracy with artistic expression",
+    "estimated_human_difficulty": "5"
+}

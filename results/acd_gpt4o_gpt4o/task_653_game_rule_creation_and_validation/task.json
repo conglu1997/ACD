@@ -1,0 +1,6 @@
+{
+    "name_of_task": "game_rule_creation_and_validation",
+    "description_of_task": "Create a set of rules for a simple game and validate sequences of actions based on those rules.",
+    "capability_being_measured": "creativity, logical reasoning, rule adherence",
+    "estimated_human_difficulty": "4"
+}

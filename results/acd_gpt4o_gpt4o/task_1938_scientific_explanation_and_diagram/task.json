@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_and_diagram",
+    "description_of_task": "Interpret scientific diagrams and generate explanations, or create scientific diagrams based on given explanations.",
+    "capability_being_measured": "scientific knowledge, interpretive skills, explanatory skills",
+    "estimated_human_difficulty": "3"
+}

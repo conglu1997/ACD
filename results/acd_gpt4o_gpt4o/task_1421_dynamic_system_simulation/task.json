@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dynamic_system_simulation",
+    "description_of_task": "Model a dynamic system using given parameters and predict its behavior over a specified period. Provide an interpretation of the results.",
+    "capability_being_measured": "systems thinking, simulation, reasoning, interpretation",
+    "estimated_human_difficulty": "5"
+}

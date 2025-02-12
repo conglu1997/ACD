@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_analysis",
+    "description_of_task": "Analyze a given poem, explaining its themes, literary devices, and overall meaning.",
+    "capability_being_measured": "literary analysis, language understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

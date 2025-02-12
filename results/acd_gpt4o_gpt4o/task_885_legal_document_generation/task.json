@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_generation",
+    "description_of_task": "Generate and analyze legal documents based on given scenarios.",
+    "capability_being_measured": "legal reasoning, language comprehension, document generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geographic_mapping",
+    "description_of_task": "Identify geographic features and spatial relationships on a map and generate a map description based on given geographic features.",
+    "capability_being_measured": "spatial reasoning, geographic knowledge",
+    "estimated_human_difficulty": "4"
+}

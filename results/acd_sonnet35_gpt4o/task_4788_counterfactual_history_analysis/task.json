@@ -1,0 +1,6 @@
+{
+    "name_of_task": "counterfactual_history_analysis",
+    "description_of_task": "Analyze and construct detailed counterfactual historical scenarios based on altering specific events or decisions in history, then evaluate their potential consequences across multiple domains.",
+    "capability_being_measured": "historical knowledge, causal reasoning, narrative construction, and interdisciplinary analysis",
+    "estimated_human_difficulty": "4"
+}

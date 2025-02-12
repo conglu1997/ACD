@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_interpretation_and_generation",
+    "description_of_task": "Interpret a given legal clause and generate a legal clause based on provided criteria.",
+    "capability_being_measured": "legal knowledge, linguistic precision, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

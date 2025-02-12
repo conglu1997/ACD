@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_letter_creation",
+    "description_of_task": "Generate a fictional letter from one character to another, capturing their personality, context, and writing style.",
+    "capability_being_measured": "creativity, narrative skills, comprehension",
+    "estimated_human_difficulty": "3"
+}

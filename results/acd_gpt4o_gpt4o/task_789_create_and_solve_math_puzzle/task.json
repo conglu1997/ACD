@@ -1,0 +1,6 @@
+{
+    "name_of_task": "create_and_solve_math_puzzle",
+    "description_of_task": "Create a mathematical puzzle and provide a clear solution for it.",
+    "capability_being_measured": "mathematical reasoning, creativity, problem-solving",
+    "estimated_human_difficulty": "4"
+}

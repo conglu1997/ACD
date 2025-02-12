@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_generation_and_solution",
+    "description_of_task": "Generate and solve different kinds of puzzles, such as crosswords or logic grids.",
+    "capability_being_measured": "logical reasoning, creativity, problem-solving",
+    "estimated_human_difficulty": "5"
+}

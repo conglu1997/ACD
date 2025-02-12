@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_and_verification",
+    "description_of_task": "Generate detailed recipes based on a given dish and verify the logical coherence and feasibility of the steps.",
+    "capability_being_measured": "practical knowledge, instructional skills, creativity",
+    "estimated_human_difficulty": "3"
+}

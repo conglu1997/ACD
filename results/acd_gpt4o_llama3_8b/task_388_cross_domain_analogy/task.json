@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_analogy",
+    "description_of_task": "Generate and explain analogies between two unrelated domains.",
+    "capability_being_measured": "cognitive flexibility, creativity, reasoning, language generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_continuation",
+    "description_of_task": "Continue a given story prompt while adhering to specified constraints.",
+    "capability_being_measured": "creativity, language understanding, narrative consistency",
+    "estimated_human_difficulty": "4"
+}

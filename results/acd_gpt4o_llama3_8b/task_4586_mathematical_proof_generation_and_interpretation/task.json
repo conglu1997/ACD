@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proof_generation_and_interpretation",
+    "description_of_task": "Interpret given mathematical statements and generate valid proofs or disproofs, ensuring logical coherence and correctness.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, abstract thinking",
+    "estimated_human_difficulty": "5"
+}

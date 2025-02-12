@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_linguistic_abstraction",
+    "description_of_task": "Design and analyze a system that generates abstract linguistic descriptions of visual scenes, focusing on the extraction and verbalization of high-level concepts and relationships.",
+    "capability_being_measured": "multimodal integration, abstract reasoning, visual perception, and natural language generation",
+    "estimated_human_difficulty": "5"
+}

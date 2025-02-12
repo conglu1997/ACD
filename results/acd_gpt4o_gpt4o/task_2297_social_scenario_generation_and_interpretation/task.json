@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_scenario_generation_and_interpretation",
+    "description_of_task": "Generate a realistic social scenario based on given criteria and interpret a provided social scenario to understand the emotions and motivations of the characters involved.",
+    "capability_being_measured": "empathy, social awareness, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

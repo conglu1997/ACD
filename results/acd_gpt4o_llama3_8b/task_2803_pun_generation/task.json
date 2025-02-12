@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_generation",
+    "description_of_task": "Generate a pun based on a given word or phrase and provide an explanation of the wordplay.",
+    "capability_being_measured": "linguistic creativity, cultural understanding, humor",
+    "estimated_human_difficulty": "3"
+}

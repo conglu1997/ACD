@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_process_simulation",
+    "description_of_task": "Simulate and explain physical processes based on given parameters and scenarios.",
+    "capability_being_measured": "scientific reasoning, contextual understanding, problem-solving",
+    "estimated_human_difficulty": "4"
+}

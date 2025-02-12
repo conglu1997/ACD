@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_modification",
+    "description_of_task": "Generate or modify a recipe based on given criteria, ensuring the steps are clear, logical, and follow conventional cooking methods.",
+    "capability_being_measured": "procedural knowledge, logical sequencing, creativity",
+    "estimated_human_difficulty": "4"
+}

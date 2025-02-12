@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_reference_generation_and_recognition",
+    "description_of_task": "Generate a cultural reference based on given criteria and recognize the source of a provided cultural reference.",
+    "capability_being_measured": "cultural knowledge, creativity, linguistic skills",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "personalized_fitness_plan",
+    "description_of_task": "Generate a personalized fitness plan based on given constraints and goals.",
+    "capability_being_measured": "health knowledge, personalization, practical reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_pattern_recognition",
+    "description_of_task": "Identify and continue a sequence of abstract patterns.",
+    "capability_being_measured": "abstract reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

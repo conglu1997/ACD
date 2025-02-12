@@ -1,0 +1,6 @@
+{
+    "name_of_task": "problem_solving_under_uncertainty",
+    "description_of_task": "Solve problems where the information provided is incomplete or ambiguous, requiring inference and educated guesses.",
+    "capability_being_measured": "reasoning, problem-solving, adaptability",
+    "estimated_human_difficulty": "4"
+}

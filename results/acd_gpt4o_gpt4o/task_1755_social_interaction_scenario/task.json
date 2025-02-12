@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_interaction_scenario",
+    "description_of_task": "Generate a plausible next step in a given social interaction scenario and analyze a provided social interaction.",
+    "capability_being_measured": "social understanding, empathy, conversational fluency",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_analysis",
+    "description_of_task": "Evaluate and generate poetry based on given themes or prompts.",
+    "capability_being_measured": "creativity, linguistic skill, understanding of poetic devices",
+    "estimated_human_difficulty": "4"
+}

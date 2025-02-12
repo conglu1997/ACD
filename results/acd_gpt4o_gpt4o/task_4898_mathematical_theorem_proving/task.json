@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_theorem_proving",
+    "description_of_task": "Prove or disprove given mathematical statements with detailed logical steps.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, structured argumentation",
+    "estimated_human_difficulty": "4"
+}

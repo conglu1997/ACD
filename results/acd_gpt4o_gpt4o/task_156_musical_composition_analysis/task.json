@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_analysis",
+    "description_of_task": "Compose a short piece of music based on given parameters and analyze a piece of music to identify its key elements.",
+    "capability_being_measured": "creativity, pattern recognition, cultural knowledge, linguistic understanding",
+    "estimated_human_difficulty": "5"
+}

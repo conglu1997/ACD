@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_sequence_generation_and_identification",
+    "description_of_task": "Generate a sequence based on a given mathematical pattern and identify the rule governing a provided sequence.",
+    "capability_being_measured": "mathematical reasoning, pattern recognition, sequence generation",
+    "estimated_human_difficulty": "3"
+}

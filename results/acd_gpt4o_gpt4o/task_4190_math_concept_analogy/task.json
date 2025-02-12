@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_concept_analogy",
+    "description_of_task": "Generate creative analogies to explain mathematical concepts and provide clear explanations of these analogies.",
+    "capability_being_measured": "mathematical understanding, creativity, communication skills",
+    "estimated_human_difficulty": "4"
+}

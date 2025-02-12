@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_translation",
+    "description_of_task": "Translate idiomatic expressions from one language to another and explain their cultural context.",
+    "capability_being_measured": "translation and cultural understanding",
+    "estimated_human_difficulty": "4"
+}

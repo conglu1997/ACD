@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Compose a musical piece based on given constraints, ensuring it follows the specified style and structure.",
+    "capability_being_measured": "creativity, understanding of musical theory, stylistic generation",
+    "estimated_human_difficulty": "5"
+}

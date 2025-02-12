@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_testing",
+    "description_of_task": "Generate a scientific hypothesis based on provided data and outline an experimental setup to test the hypothesis.",
+    "capability_being_measured": "scientific reasoning, creativity, experimental design",
+    "estimated_human_difficulty": "4"
+}

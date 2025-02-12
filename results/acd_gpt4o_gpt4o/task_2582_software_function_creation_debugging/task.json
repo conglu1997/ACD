@@ -1,0 +1,6 @@
+{
+    "name_of_task": "software_function_creation_debugging",
+    "description_of_task": "Create a software function based on a given specification and debug an existing piece of code.",
+    "capability_being_measured": "software engineering, problem-solving, programming",
+    "estimated_human_difficulty": "4"
+}

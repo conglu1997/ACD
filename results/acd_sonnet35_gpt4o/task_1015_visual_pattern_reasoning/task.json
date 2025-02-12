@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_reasoning",
+    "description_of_task": "Generate, analyze, and solve problems involving complex visual patterns based on given rules, then explain the reasoning process.",
+    "capability_being_measured": "visual reasoning, pattern recognition, rule application, creative problem-solving, and explanation of complex cognitive processes",
+    "estimated_human_difficulty": "4"
+}

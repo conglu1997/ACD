@@ -1,0 +1,6 @@
+{
+    "name_of_task": "neuroethical_vr_dilemma_simulator",
+    "description_of_task": "Design a virtual reality system that simulates complex ethical dilemmas while monitoring and analyzing participants' neurological responses, then use this data to develop an AI model for predicting and understanding moral decision-making processes.",
+    "capability_being_measured": "interdisciplinary knowledge integration, ethical reasoning, neuroscientific understanding, VR system design, and AI modeling of complex human behaviors",
+    "estimated_human_difficulty": "5"
+}

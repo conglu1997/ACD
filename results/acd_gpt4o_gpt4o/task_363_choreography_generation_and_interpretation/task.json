@@ -1,0 +1,6 @@
+{
+    "name_of_task": "choreography_generation_and_interpretation",
+    "description_of_task": "Generate a series of choreographic instructions based on a given theme and interpret a provided set of choreographic instructions.",
+    "capability_being_measured": "spatial reasoning, creativity, structured linguistic instructions",
+    "estimated_human_difficulty": "4"
+}

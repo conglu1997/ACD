@@ -1,0 +1,6 @@
+{
+    "name_of_task": "strategic_gameplay",
+    "description_of_task": "Evaluate a game state and determine the best possible move based on given rules.",
+    "capability_being_measured": "strategic reasoning, rule application, logical thinking",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_analysis",
+    "description_of_task": "Analyze a given piece of music for its compositional elements and create a new piece of music employing similar techniques.",
+    "capability_being_measured": "musical theory understanding, creativity, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

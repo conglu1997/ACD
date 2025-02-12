@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_and_analysis",
+    "description_of_task": "Generate analogies for given concepts and analyze provided analogies for their accuracy and appropriateness.",
+    "capability_being_measured": "linguistic creativity, reasoning, cognitive flexibility",
+    "estimated_human_difficulty": "4"
+}

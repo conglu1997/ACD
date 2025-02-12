@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_and_composition",
+    "description_of_task": "Compose a piece of music based on given constraints and analyze a provided piece of music to identify theoretical elements.",
+    "capability_being_measured": "creativity, domain-specific knowledge, analytical skills",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_analysis_transformation",
+    "description_of_task": "Analyze a given poem and transform it according to specific criteria, such as changing its style or adhering to a different poetic form.",
+    "capability_being_measured": "language understanding, creativity, literary knowledge",
+    "estimated_human_difficulty": "4"
+}

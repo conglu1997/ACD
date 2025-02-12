@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_data_transformation",
+    "description_of_task": "Transform a given dataset based on a series of specified rules.",
+    "capability_being_measured": "data manipulation, comprehension, sequential reasoning",
+    "estimated_human_difficulty": "4"
+}

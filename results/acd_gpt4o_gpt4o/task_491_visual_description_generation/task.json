@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_generation",
+    "description_of_task": "Generate detailed textual descriptions of visual scenes based on given scenarios and interpret provided descriptions to recreate the imagined visual.",
+    "capability_being_measured": "creative visualization, spatial reasoning, descriptive language",
+    "estimated_human_difficulty": "4"
+}

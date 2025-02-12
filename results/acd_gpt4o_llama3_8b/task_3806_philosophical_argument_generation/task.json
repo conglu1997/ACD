@@ -1,0 +1,6 @@
+{
+    "name_of_task": "philosophical_argument_generation",
+    "description_of_task": "Generate and explain philosophical arguments based on given prompts, ensuring the arguments are coherent, logical, and reflect an understanding of relevant philosophical theories.",
+    "capability_being_measured": "abstract reasoning, knowledge application, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_understanding_generation",
+    "description_of_task": "Understand and generate humorous content based on given contexts.",
+    "capability_being_measured": "linguistic creativity, cultural knowledge, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

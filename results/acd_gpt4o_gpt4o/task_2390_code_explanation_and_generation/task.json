@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_explanation_and_generation",
+    "description_of_task": "Explain a given piece of code in plain English and generate a new piece of code based on specific requirements.",
+    "capability_being_measured": "technical understanding, code generation, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

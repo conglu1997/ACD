@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems",
+    "description_of_task": "Interpret given mathematical word problems and provide solutions. Additionally, generate new word problems based on specified criteria.",
+    "capability_being_measured": "comprehension, logical reasoning, mathematical problem-solving",
+    "estimated_human_difficulty": "4"
+}

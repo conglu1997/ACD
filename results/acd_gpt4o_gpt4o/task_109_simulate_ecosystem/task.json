@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simulate_ecosystem",
+    "description_of_task": "Simulate the interaction of various species in an ecosystem and predict the outcome of changes in the ecosystem.",
+    "capability_being_measured": "dynamic system reasoning, biological knowledge, predictive modeling",
+    "estimated_human_difficulty": "4"
+}

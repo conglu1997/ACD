@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_cipher_messaging",
+    "description_of_task": "Create and decode messages using a custom cipher based on mathematical operations",
+    "capability_being_measured": "logical reasoning, mathematical operations, and linguistic creativity",
+    "estimated_human_difficulty": "4"
+}

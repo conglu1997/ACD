@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_critique",
+    "description_of_task": "Generate poems based on given themes and critique poems based on specific criteria.",
+    "capability_being_measured": "creativity, linguistic dexterity, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

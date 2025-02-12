@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_generation",
+    "description_of_task": "Generate musical scales or identify chord progressions based on provided notes or chords.",
+    "capability_being_measured": "domain-specific knowledge, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

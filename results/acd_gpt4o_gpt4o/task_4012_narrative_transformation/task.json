@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_transformation",
+    "description_of_task": "Transform a given narrative based on specific instructions, ensuring coherence and maintaining key elements.",
+    "capability_being_measured": "creativity, narrative understanding, coherence",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_drafting",
+    "description_of_task": "Interpret a given legal scenario and draft a corresponding legal document such as a contract clause, a legal argument, or a demand letter.",
+    "capability_being_measured": "legal reasoning, formal language generation, logical structuring",
+    "estimated_human_difficulty": "5"
+}

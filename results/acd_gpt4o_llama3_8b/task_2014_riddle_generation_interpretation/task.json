@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_generation_interpretation",
+    "description_of_task": "Generate a riddle from a given answer and interpret a given riddle to provide the correct answer.",
+    "capability_being_measured": "creativity, linguistic flexibility, logical reasoning, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_reasoning",
+    "description_of_task": "Interpret geometric descriptions to construct shapes and solve geometric puzzles.",
+    "capability_being_measured": "spatial reasoning, geometric understanding, problem-solving",
+    "estimated_human_difficulty": "4"
+}

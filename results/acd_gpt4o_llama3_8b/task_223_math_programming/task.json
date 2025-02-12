@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_programming",
+    "description_of_task": "Write a Python program to solve a specific mathematical problem.",
+    "capability_being_measured": "mathematical reasoning, programming skills",
+    "estimated_human_difficulty": "4"
+}

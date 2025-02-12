@@ -1,0 +1,6 @@
+{
+    "name_of_task": "3d_shape_transformation",
+    "description_of_task": "Describe the resulting 3D shape after a series of specified transformations are applied to an initial geometric object.",
+    "capability_being_measured": "spatial reasoning, visual imagination, geometric understanding",
+    "estimated_human_difficulty": "4"
+}

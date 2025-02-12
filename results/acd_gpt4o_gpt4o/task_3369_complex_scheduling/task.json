@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_scheduling",
+    "description_of_task": "Create a detailed schedule for a given day with multiple constraints, including specific events, time slots, and priorities.",
+    "capability_being_measured": "time management, organizational skills, multi-constraint reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_concept_synthesis",
+    "description_of_task": "Design an AI system capable of synthesizing and manipulating abstract concepts across multiple modalities (e.g., visual, auditory, linguistic) to generate novel ideas and solutions to complex problems.",
+    "capability_being_measured": "interdisciplinary knowledge integration, abstract reasoning, creative problem-solving, and understanding of cognitive science and AI",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "gourmet_recipe_generation",
+    "description_of_task": "Generate a detailed recipe for a gourmet dish based on given criteria, ensuring the recipe is both creative and practically feasible.",
+    "capability_being_measured": "creativity, comprehension, instruction-following",
+    "estimated_human_difficulty": "4"
+}

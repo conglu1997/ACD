@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_interpretation",
+    "description_of_task": "Generate a visual description of a given concept and interpret a visual description to generate a matching visual representation.",
+    "capability_being_measured": "visualization, interpretation, creativity",
+    "estimated_human_difficulty": "4"
+}

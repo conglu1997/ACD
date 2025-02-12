@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_manipulation",
+    "description_of_task": "Interpret given legal clauses and draft new legal clauses based on specified criteria.",
+    "capability_being_measured": "legal comprehension, detail orientation, language manipulation",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_deduction_and_inference",
+    "description_of_task": "Analyze a set of premises and deduce logical conclusions.",
+    "capability_being_measured": "logical reasoning, inference, problem-solving",
+    "estimated_human_difficulty": "3"
+}

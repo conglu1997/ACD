@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constraint_satisfaction_problems",
+    "description_of_task": "Solve problems that require satisfying a given set of constraints.",
+    "capability_being_measured": "logical reasoning, problem-solving, application of knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "urban_neighborhood_design",
+    "description_of_task": "Design a small neighborhood layout based on given criteria, including locations for residential, commercial, and recreational areas.",
+    "capability_being_measured": "spatial reasoning, creativity, constraint adherence",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_reasoning_and_planning",
+    "description_of_task": "Create and evaluate plans or schedules based on given time constraints and sequences of events.",
+    "capability_being_measured": "temporal reasoning, planning, scheduling",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_interpretation_and_generation",
+    "description_of_task": "Interpret a visual scene based on a detailed description and generate a description of a visual scene based on specified elements.",
+    "capability_being_measured": "spatial reasoning, creativity, descriptive language",
+    "estimated_human_difficulty": "4"
+}

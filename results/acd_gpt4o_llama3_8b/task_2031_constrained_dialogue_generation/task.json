@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_dialogue_generation",
+    "description_of_task": "Generate a coherent and contextually appropriate dialogue based on given constraints.",
+    "capability_being_measured": "conversational coherence, contextual understanding, language generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_creation_and_solving",
+    "description_of_task": "Create engaging and solvable puzzles based on a given theme and solve provided puzzles by identifying the correct solution.",
+    "capability_being_measured": "logical reasoning, creativity, problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sudoku_puzzle",
+    "description_of_task": "Create a valid Sudoku puzzle and then solve a given Sudoku puzzle.",
+    "capability_being_measured": "logical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "propose_experiment",
+    "description_of_task": "Propose a scientific experiment based on a given hypothesis.",
+    "capability_being_measured": "scientific reasoning, creativity, problem-solving",
+    "estimated_human_difficulty": "4"
+}

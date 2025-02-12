@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_dilemma_decision",
+    "description_of_task": "Provide a reasoned decision for a given ethical dilemma.",
+    "capability_being_measured": "social reasoning, ethical decision-making",
+    "estimated_human_difficulty": "4"
+}

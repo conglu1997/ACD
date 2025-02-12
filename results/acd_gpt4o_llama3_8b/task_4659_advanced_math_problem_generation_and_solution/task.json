@@ -1,0 +1,6 @@
+{
+    "name_of_task": "advanced_math_problem_generation_and_solution",
+    "description_of_task": "Generate a complex mathematical problem and provide a detailed solution to it. The problem should be appropriate for an advanced mathematics level, such as calculus, linear algebra, or abstract algebra.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, procedural generation",
+    "estimated_human_difficulty": "5"
+}

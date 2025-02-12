@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_story_generation",
+    "description_of_task": "Generate a coherent story based on a given series of time-based prompts.",
+    "capability_being_measured": "logical reasoning, temporal understanding, narrative skills",
+    "estimated_human_difficulty": "3"
+}

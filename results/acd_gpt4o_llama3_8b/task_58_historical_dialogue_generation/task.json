@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_dialogue_generation",
+    "description_of_task": "Generate a fictional dialogue between historical figures from different eras, ensuring the conversation is contextually appropriate and reflects their unique perspectives.",
+    "capability_being_measured": "historical knowledge, creativity, language understanding",
+    "estimated_human_difficulty": "4"
+}

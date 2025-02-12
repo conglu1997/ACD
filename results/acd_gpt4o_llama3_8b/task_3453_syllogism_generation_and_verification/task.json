@@ -1,0 +1,6 @@
+{
+    "name_of_task": "syllogism_generation_and_verification",
+    "description_of_task": "Generate syllogisms and verify their validity.",
+    "capability_being_measured": "logical reasoning",
+    "estimated_human_difficulty": "4"
+}

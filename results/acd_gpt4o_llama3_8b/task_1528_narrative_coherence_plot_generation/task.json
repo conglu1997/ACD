@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_coherence_plot_generation",
+    "description_of_task": "Generate a coherent and engaging narrative based on a given prompt, ensuring logical consistency and plot development.",
+    "capability_being_measured": "narrative skills, creativity, logical consistency",
+    "estimated_human_difficulty": "4"
+}

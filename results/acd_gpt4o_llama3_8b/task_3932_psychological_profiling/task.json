@@ -1,0 +1,6 @@
+{
+    "name_of_task": "psychological_profiling",
+    "description_of_task": "Analyze textual data to infer personality traits based on established psychological theories.",
+    "capability_being_measured": "sentiment analysis, psychological understanding, text comprehension",
+    "estimated_human_difficulty": "4"
+}

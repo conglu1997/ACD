@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_commenting",
+    "description_of_task": "Generate meaningful comments for given code snippets and interpret code functionality based on existing comments.",
+    "capability_being_measured": "code understanding, documentation skills, interpretation",
+    "estimated_human_difficulty": "4"
+}

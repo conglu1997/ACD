@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_creation",
+    "description_of_task": "Create a riddle and provide its solution based on given themes or prompts.",
+    "capability_being_measured": "creativity, logical reasoning, language generation",
+    "estimated_human_difficulty": "4"
+}

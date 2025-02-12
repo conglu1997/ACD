@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tangram_puzzle_solving",
+    "description_of_task": "Solve given tangram puzzles by arranging the provided shapes to form a specific figure.",
+    "capability_being_measured": "spatial reasoning and problem-solving",
+    "estimated_human_difficulty": "3"
+}

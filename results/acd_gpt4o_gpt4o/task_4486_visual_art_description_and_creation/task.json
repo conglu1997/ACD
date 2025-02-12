@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_description_and_creation",
+    "description_of_task": "Interpret a given visual art piece and generate a new visual art concept based on specific criteria.",
+    "capability_being_measured": "visual imagination, descriptive ability, creativity",
+    "estimated_human_difficulty": "4"
+}

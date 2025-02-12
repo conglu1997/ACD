@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_composition_and_analysis",
+    "description_of_task": "Compose a poem based on a given prompt and analyze the thematic elements of a provided poem.",
+    "capability_being_measured": "creativity, linguistic skills, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proof_interpretation_generation",
+    "description_of_task": "Interpret given mathematical proofs and generate new proofs based on specified criteria.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, problem-solving",
+    "estimated_human_difficulty": "5"
+}

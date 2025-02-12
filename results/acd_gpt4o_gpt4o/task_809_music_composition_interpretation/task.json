@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_composition_interpretation",
+    "description_of_task": "Interpret a given music piece and compose a new piece based on provided parameters.",
+    "capability_being_measured": "musical understanding, creativity, interpretation",
+    "estimated_human_difficulty": "4"
+}

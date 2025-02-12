@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_art_ai",
+    "description_of_task": "Design an AI system capable of analyzing and generating multimodal art pieces, incorporating visual, auditory, and textual elements, then use it to create and analyze a piece inspired by a specific historical art movement.",
+    "capability_being_measured": "multimodal processing, creativity, art history knowledge, cross-modal translation, and cultural understanding",
+    "estimated_human_difficulty": "5"
+}

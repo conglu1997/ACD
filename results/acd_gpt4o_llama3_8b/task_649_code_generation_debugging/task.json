@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_debugging",
+    "description_of_task": "Write and debug computer code snippets based on given problem descriptions and requirements.",
+    "capability_being_measured": "programming knowledge, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

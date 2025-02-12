@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_story_generation",
+    "description_of_task": "Generate a coherent and engaging story that incorporates a given set of characters, settings, and plot points while adhering to specific constraints.",
+    "capability_being_measured": "creativity, narrative coherence, constraint adherence",
+    "estimated_human_difficulty": "4"
+}

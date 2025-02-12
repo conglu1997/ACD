@@ -1,0 +1,6 @@
+{
+    "name_of_task": "solve_math_problems",
+    "description_of_task": "Solve mathematical problems based on given prompts and provide detailed solutions.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, logical thinking",
+    "estimated_human_difficulty": "4"
+}

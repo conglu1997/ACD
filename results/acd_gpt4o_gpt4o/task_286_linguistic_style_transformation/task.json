@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_style_transformation",
+    "description_of_task": "Transform a given text from one linguistic style to another while preserving its meaning.",
+    "capability_being_measured": "linguistic ability, context understanding, stylistic consistency",
+    "estimated_human_difficulty": "3"
+}

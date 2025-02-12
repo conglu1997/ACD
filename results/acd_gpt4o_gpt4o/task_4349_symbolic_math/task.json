@@ -1,0 +1,6 @@
+{
+    "name_of_task": "symbolic_math",
+    "description_of_task": "Solve symbolic algebra and calculus problems based on given requirements and interpret the solutions.",
+    "capability_being_measured": "mathematical reasoning, symbolic manipulation, calculus understanding",
+    "estimated_human_difficulty": "4"
+}

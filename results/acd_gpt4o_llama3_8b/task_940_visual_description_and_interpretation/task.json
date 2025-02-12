@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_and_interpretation",
+    "description_of_task": "Describe a given visual scene in detail and interpret key visual elements.",
+    "capability_being_measured": "visual reasoning, description, interpretation",
+    "estimated_human_difficulty": "4"
+}

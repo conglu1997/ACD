@@ -1,0 +1,6 @@
+{
+    "name_of_task": "create_math_puzzles",
+    "description_of_task": "Generate mathematical puzzles based on given criteria.",
+    "capability_being_measured": "mathematical understanding, creativity, problem-solving",
+    "estimated_human_difficulty": "4"
+}

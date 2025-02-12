@@ -1,0 +1,6 @@
+{
+    "name_of_task": "relationship_advice_simulation",
+    "description_of_task": "Provide advice on interpersonal issues based on given scenarios, demonstrating empathy, understanding, and practical solutions.",
+    "capability_being_measured": "empathy, understanding of human behavior, practical problem-solving",
+    "estimated_human_difficulty": "4"
+}

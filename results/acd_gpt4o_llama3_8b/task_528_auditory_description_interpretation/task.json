@@ -1,0 +1,6 @@
+{
+    "name_of_task": "auditory_description_interpretation",
+    "description_of_task": "Interpret a detailed auditory description of a scene or event and generate a coherent narrative or explanation based on the description.",
+    "capability_being_measured": "auditory processing, descriptive language, creativity",
+    "estimated_human_difficulty": "4"
+}

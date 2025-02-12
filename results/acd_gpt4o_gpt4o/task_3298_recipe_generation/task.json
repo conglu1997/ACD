@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation",
+    "description_of_task": "Generate a detailed step-by-step recipe for a given dish, including ingredients, preparation steps, cooking instructions, estimated cooking time, and serving size.",
+    "capability_being_measured": "procedural knowledge, synthesis, clarity",
+    "estimated_human_difficulty": "3"
+}

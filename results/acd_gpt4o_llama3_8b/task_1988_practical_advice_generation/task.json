@@ -1,0 +1,6 @@
+{
+    "name_of_task": "practical_advice_generation",
+    "description_of_task": "Generate practical advice based on given real-life scenarios.",
+    "capability_being_measured": "problem-solving, practical reasoning, empathy",
+    "estimated_human_difficulty": "3"
+}

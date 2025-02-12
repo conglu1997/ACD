@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_sequence_prediction",
+    "description_of_task": "Predict the next event or sequence in a given temporal pattern based on historical data or specified rules.",
+    "capability_being_measured": "temporal reasoning, logical inference, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

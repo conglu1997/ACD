@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_description_interpretation",
+    "description_of_task": "Generate a detailed description of a piece of visual art based on a prompt and interpret the meaning of a provided art description.",
+    "capability_being_measured": "creativity, visual-spatial intelligence, language comprehension",
+    "estimated_human_difficulty": "4"
+}

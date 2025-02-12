@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation",
+    "description_of_task": "Generate persuasive legal arguments for and against a given legal issue.",
+    "capability_being_measured": "legal reasoning, argumentation skills, knowledge of legal principles",
+    "estimated_human_difficulty": "4"
+}

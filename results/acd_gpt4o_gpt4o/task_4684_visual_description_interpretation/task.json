@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_interpretation",
+    "description_of_task": "Interpret a detailed textual description of a visual scene and summarize the key elements of the scene.",
+    "capability_being_measured": "complex reasoning, visual interpretation from text, summarization",
+    "estimated_human_difficulty": "4"
+}

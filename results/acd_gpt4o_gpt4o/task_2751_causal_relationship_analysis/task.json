@@ -1,0 +1,6 @@
+{
+    "name_of_task": "causal_relationship_analysis",
+    "description_of_task": "Identify and explain causal relationships from given data and generate hypotheses about potential causal effects from scenarios.",
+    "capability_being_measured": "causal reasoning, data interpretation, hypothesis generation",
+    "estimated_human_difficulty": "4"
+}

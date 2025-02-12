@@ -1,0 +1,6 @@
+{
+    "name_of_task": "genre_specific_story_generation",
+    "description_of_task": "Generate a short story based on a given genre and evaluate its adherence to genre conventions.",
+    "capability_being_measured": "creativity, genre knowledge, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

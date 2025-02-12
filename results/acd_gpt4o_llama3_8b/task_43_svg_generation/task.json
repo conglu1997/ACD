@@ -1,0 +1,6 @@
+{
+    "name_of_task": "svg_generation",
+    "description_of_task": "Generate SVG code based on a given description.",
+    "capability_being_measured": "technical understanding and descriptive language interpretation",
+    "estimated_human_difficulty": "4"
+}

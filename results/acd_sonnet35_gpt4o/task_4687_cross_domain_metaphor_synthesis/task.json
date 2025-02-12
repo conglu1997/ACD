@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_metaphor_synthesis",
+    "description_of_task": "Design and implement an AI system that generates and analyzes cross-domain metaphors, then apply it to create metaphors bridging abstract scientific concepts with everyday experiences across different cultures.",
+    "capability_being_measured": "understanding of cognitive linguistics, creative metaphor generation, cross-cultural communication, and interdisciplinary knowledge synthesis",
+    "estimated_human_difficulty": "5"
+}

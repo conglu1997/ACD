@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logic_puzzle_knights_knaves",
+    "description_of_task": "Solve logic puzzles involving knights (who always tell the truth) and knaves (who always lie).",
+    "capability_being_measured": "logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

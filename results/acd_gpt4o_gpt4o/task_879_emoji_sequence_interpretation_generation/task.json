@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emoji_sequence_interpretation_generation",
+    "description_of_task": "Interpret a given sequence of emojis and generate a sequence of emojis based on a given theme or scenario.",
+    "capability_being_measured": "non-verbal communication, contextual understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

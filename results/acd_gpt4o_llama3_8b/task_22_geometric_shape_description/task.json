@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_shape_description",
+    "description_of_task": "Generate a detailed textual description of a geometric shape based on given specifications.",
+    "capability_being_measured": "spatial reasoning and descriptive language",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "topological_transformation_reasoning",
+    "description_of_task": "Reason about topological transformations of objects and apply these concepts to solve real-world problems",
+    "capability_being_measured": "abstract mathematical reasoning, spatial cognition, and application of topological concepts to practical scenarios",
+    "estimated_human_difficulty": "5"
+}

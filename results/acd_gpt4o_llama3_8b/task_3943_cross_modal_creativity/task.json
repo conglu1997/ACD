@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_creativity",
+    "description_of_task": "Create a narrative based on a given visual prompt and generate a visual description based on a given narrative.",
+    "capability_being_measured": "creativity, visual interpretation, narrative generation",
+    "estimated_human_difficulty": "3"
+}

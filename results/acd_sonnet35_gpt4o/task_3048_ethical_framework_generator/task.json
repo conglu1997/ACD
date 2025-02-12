@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_framework_generator",
+    "description_of_task": "Design an AI system capable of analyzing existing ethical frameworks and generating novel, coherent ethical systems based on given parameters.",
+    "capability_being_measured": "abstract reasoning, philosophical understanding, ethical analysis, creative problem-solving, and meta-cognitive abilities",
+    "estimated_human_difficulty": "5"
+}

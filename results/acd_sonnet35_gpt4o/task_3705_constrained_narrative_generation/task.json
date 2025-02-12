@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_narrative_generation",
+    "description_of_task": "Generate a short story that adheres to specific linguistic and narrative constraints, then provide a critical analysis of the generated text.",
+    "capability_being_measured": "creative writing, language manipulation, rule adherence, and analytical reasoning",
+    "estimated_human_difficulty": "4"
+}

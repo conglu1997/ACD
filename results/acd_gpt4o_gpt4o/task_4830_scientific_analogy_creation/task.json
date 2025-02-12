@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_analogy_creation",
+    "description_of_task": "Create analogies to explain scientific concepts and provide clear explanations of how the analogies relate to the concepts.",
+    "capability_being_measured": "scientific knowledge, creativity, comprehension, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

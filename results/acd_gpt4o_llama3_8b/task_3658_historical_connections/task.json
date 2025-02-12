@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_connections",
+    "description_of_task": "Identify and explain connections between given historical events based on their descriptions.",
+    "capability_being_measured": "knowledge, reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

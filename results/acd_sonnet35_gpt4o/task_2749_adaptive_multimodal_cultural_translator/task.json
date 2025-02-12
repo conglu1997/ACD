@@ -1,0 +1,6 @@
+{
+    "name_of_task": "adaptive_multimodal_cultural_translator",
+    "description_of_task": "Design an AI system that can translate and adapt multimodal communication (text, speech, gestures, facial expressions) across different cultures, then use it to analyze and generate culturally appropriate communication in various contexts.",
+    "capability_being_measured": "cross-modal reasoning, cultural intelligence, adaptive AI system design, and creative problem-solving in communication challenges",
+    "estimated_human_difficulty": "5"
+}

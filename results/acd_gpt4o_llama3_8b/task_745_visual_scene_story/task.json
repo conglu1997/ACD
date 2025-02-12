@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_story",
+    "description_of_task": "Generate a detailed and coherent story based on a given visual scene description.",
+    "capability_being_measured": "visual interpretation, creativity, narrative generation",
+    "estimated_human_difficulty": "4"
+}

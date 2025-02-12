@@ -1,0 +1,6 @@
+{
+    "name_of_task": "traffic_flow_management",
+    "description_of_task": "Optimize traffic light signals in an urban environment to minimize congestion.",
+    "capability_being_measured": "spatial-temporal reasoning, problem-solving, dynamic decision-making",
+    "estimated_human_difficulty": "4"
+}

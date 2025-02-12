@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_contextualization",
+    "description_of_task": "Write content in a specific historical context, ensuring factual accuracy and contextual appropriateness.",
+    "capability_being_measured": "knowledge, historical understanding, creativity, contextual integration",
+    "estimated_human_difficulty": "4"
+}

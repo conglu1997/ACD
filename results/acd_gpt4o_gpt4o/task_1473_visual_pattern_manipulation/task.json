@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_manipulation",
+    "description_of_task": "Interpret and generate visual patterns based on given instructions.",
+    "capability_being_measured": "visual-spatial reasoning, pattern recognition, structured language comprehension",
+    "estimated_human_difficulty": "4"
+}

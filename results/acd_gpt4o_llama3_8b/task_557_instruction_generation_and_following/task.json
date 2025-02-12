@@ -1,0 +1,6 @@
+{
+    "name_of_task": "instruction_generation_and_following",
+    "description_of_task": "Generate a clear and detailed set of step-by-step instructions for a given task and follow a provided set of instructions to complete a task.",
+    "capability_being_measured": "procedural understanding, clarity in communication, logical sequencing",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_jargon_simplification",
+    "description_of_task": "Simplify complex legal language into layman's terms.",
+    "capability_being_measured": "comprehension, summarization, communication",
+    "estimated_human_difficulty": "3"
+}

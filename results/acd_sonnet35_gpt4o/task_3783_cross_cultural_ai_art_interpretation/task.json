@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_cultural_ai_art_interpretation",
+    "description_of_task": "Design an AI system that can interpret and generate visual art based on cultural contexts, then use it to analyze and create artworks that bridge multiple cultures.",
+    "capability_being_measured": "visual art understanding, cultural knowledge integration, creative synthesis, and AI-based image generation",
+    "estimated_human_difficulty": "5"
+}

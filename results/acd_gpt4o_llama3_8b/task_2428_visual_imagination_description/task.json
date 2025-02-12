@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_imagination_description",
+    "description_of_task": "Generate a detailed and vivid description of an imaginary scene or object based on a given visual prompt.",
+    "capability_being_measured": "creativity, visual imagination, descriptive writing",
+    "estimated_human_difficulty": "3"
+}

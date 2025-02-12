@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems",
+    "description_of_task": "Solve mathematical word problems and explain the solution process step-by-step.",
+    "capability_being_measured": "reading comprehension, mathematical reasoning, problem-solving",
+    "estimated_human_difficulty": "3"
+}

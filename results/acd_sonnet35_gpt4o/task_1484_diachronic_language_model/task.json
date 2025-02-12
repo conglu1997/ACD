@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diachronic_language_model",
+    "description_of_task": "Design and implement a diachronic language model that can generate text in different historical stages of a language, then use it to analyze language evolution.",
+    "capability_being_measured": "understanding of computational linguistics, historical linguistics, and machine learning; ability to design complex NLP systems; analytical skills in language evolution",
+    "estimated_human_difficulty": "5"
+}

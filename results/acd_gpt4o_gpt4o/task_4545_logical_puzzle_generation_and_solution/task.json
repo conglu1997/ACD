@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzle_generation_and_solution",
+    "description_of_task": "Generate a logical puzzle based on given constraints and provide a step-by-step solution to solve it.",
+    "capability_being_measured": "logical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

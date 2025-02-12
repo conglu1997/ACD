@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_story_generation",
+    "description_of_task": "Generate a fictional story based on a given theme or setting.",
+    "capability_being_measured": "creativity, narrative coherence, imaginative writing",
+    "estimated_human_difficulty": "4"
+}

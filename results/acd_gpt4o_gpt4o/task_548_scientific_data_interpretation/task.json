@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_data_interpretation",
+    "description_of_task": "Interpret given scientific data and generate a hypothesis based on the observations.",
+    "capability_being_measured": "scientific literacy, critical thinking, data interpretation",
+    "estimated_human_difficulty": "4"
+}

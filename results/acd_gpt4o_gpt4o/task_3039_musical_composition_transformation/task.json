@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_transformation",
+    "description_of_task": "Transform a given musical composition based on specific constraints while maintaining the core melody and harmony.",
+    "capability_being_measured": "creativity, music theory knowledge, adaptability",
+    "estimated_human_difficulty": "4"
+}

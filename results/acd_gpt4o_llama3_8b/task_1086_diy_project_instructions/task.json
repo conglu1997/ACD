@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diy_project_instructions",
+    "description_of_task": "Generate detailed step-by-step instructions for completing a specified DIY project.",
+    "capability_being_measured": "procedural knowledge, language generation, logical sequencing",
+    "estimated_human_difficulty": "4"
+}

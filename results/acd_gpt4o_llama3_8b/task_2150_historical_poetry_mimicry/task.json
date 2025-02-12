@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_poetry_mimicry",
+    "description_of_task": "Generate a poem in a specified poetic style from a given historical period, ensuring it adheres to the tone, language, and structure typical of that period.",
+    "capability_being_measured": "creativity, language understanding, literary knowledge",
+    "estimated_human_difficulty": "4"
+}

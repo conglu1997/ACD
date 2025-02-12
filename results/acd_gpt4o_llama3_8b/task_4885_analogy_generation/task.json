@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation",
+    "description_of_task": "Generate analogies that demonstrate an understanding of relationships between concepts in various domains.",
+    "capability_being_measured": "reasoning, creativity, linguistic skills",
+    "estimated_human_difficulty": "3"
+}

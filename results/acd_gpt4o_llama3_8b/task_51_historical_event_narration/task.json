@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_narration",
+    "description_of_task": "Generate a detailed narrative based on a given historical event.",
+    "capability_being_measured": "historical knowledge, synthesis, and narrative generation",
+    "estimated_human_difficulty": "4"
+}

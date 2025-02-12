@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_paradox_narrative_generator",
+    "description_of_task": "Design an AI system capable of generating and analyzing narratives involving temporal paradoxes, then use it to explore the logical and creative implications of time travel in storytelling.",
+    "capability_being_measured": "Temporal reasoning, causal inference, narrative generation, logical problem-solving, and creative thinking",
+    "estimated_human_difficulty": "5"
+}

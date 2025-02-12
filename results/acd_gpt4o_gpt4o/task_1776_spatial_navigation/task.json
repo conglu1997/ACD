@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation",
+    "description_of_task": "Interpret a given map and provide directions or determine the shortest path between two points.",
+    "capability_being_measured": "spatial reasoning, navigation, comprehension",
+    "estimated_human_difficulty": "4"
+}

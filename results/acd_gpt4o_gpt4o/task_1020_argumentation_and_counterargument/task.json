@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argumentation_and_counterargument",
+    "description_of_task": "Construct well-reasoned arguments on a given topic and then generate coherent counterarguments.",
+    "capability_being_measured": "logical reasoning, critical thinking, argumentative skills",
+    "estimated_human_difficulty": "4"
+}

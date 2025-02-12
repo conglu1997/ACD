@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_interpretation",
+    "description_of_task": "Interpret visual art pieces and generate creative descriptions or narratives based on them.",
+    "capability_being_measured": "multimodal understanding, creativity, descriptive writing",
+    "estimated_human_difficulty": "4"
+}

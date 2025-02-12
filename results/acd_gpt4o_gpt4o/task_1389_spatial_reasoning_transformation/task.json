@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_transformation",
+    "description_of_task": "Understand spatial relationships and predict changes based on specified transformations.",
+    "capability_being_measured": "spatial reasoning, visualization, transformation",
+    "estimated_human_difficulty": "4"
+}

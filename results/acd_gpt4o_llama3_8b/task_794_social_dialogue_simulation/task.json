@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_dialogue_simulation",
+    "description_of_task": "Simulate a dialogue between characters based on a given social scenario.",
+    "capability_being_measured": "conversational understanding, context awareness, social intelligence",
+    "estimated_human_difficulty": "3"
+}

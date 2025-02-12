@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dietary_restriction_recipes",
+    "description_of_task": "Generate and modify recipes based on specific dietary restrictions or preferences.",
+    "capability_being_measured": "creativity, domain-specific knowledge, constraint adherence",
+    "estimated_human_difficulty": "4"
+}

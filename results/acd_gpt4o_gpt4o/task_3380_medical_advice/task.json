@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_advice",
+    "description_of_task": "Provide medical advice based on given symptoms or conditions while adhering to ethical guidelines.",
+    "capability_being_measured": "medical knowledge, ethical understanding, communication",
+    "estimated_human_difficulty": "5"
+}

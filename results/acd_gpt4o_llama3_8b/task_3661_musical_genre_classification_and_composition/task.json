@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_genre_classification_and_composition",
+    "description_of_task": "Classify a given description of a musical piece into a genre and compose a short piece of music in a specified genre.",
+    "capability_being_measured": "knowledge of music genres, creativity, language understanding",
+    "estimated_human_difficulty": "4"
+}

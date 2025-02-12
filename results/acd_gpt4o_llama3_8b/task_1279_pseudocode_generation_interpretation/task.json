@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pseudocode_generation_interpretation",
+    "description_of_task": "Generate pseudocode from a problem description and interpret pseudocode to describe its functionality.",
+    "capability_being_measured": "logical reasoning, programming comprehension, translation between natural language and pseudocode",
+    "estimated_human_difficulty": "3"
+}

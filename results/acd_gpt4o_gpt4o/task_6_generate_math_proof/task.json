@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_math_proof",
+    "description_of_task": "Generate a formal mathematical proof for a given statement.",
+    "capability_being_measured": "logical reasoning, mathematical understanding, articulation",
+    "estimated_human_difficulty": "5"
+}

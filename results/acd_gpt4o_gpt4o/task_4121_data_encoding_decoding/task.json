@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_encoding_decoding",
+    "description_of_task": "Encode and decode data between different formats (e.g., base64, hexadecimal, binary).",
+    "capability_being_measured": "data manipulation, understanding of data representations",
+    "estimated_human_difficulty": "3"
+}

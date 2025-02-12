@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_analysis_and_creation",
+    "description_of_task": "Analyze given poems for themes, literary devices, and emotional impact, and create original poems based on specified themes or forms.",
+    "capability_being_measured": "creativity, language understanding, literary analysis",
+    "estimated_human_difficulty": "4"
+}

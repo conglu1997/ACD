@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_article_summarization",
+    "description_of_task": "Summarize a given scientific article, highlighting the main findings, methodology, and conclusions.",
+    "capability_being_measured": "reading comprehension, summarization, scientific literacy",
+    "estimated_human_difficulty": "4"
+}

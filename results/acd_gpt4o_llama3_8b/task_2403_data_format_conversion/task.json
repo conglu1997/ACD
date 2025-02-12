@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_format_conversion",
+    "description_of_task": "Convert data between different formats such as JSON and CSV.",
+    "capability_being_measured": "data manipulation, precision, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

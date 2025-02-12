@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diy_project_instructions",
+    "description_of_task": "Generate detailed, step-by-step instructions for a specified DIY project and explain the rationale behind each step.",
+    "capability_being_measured": "practical knowledge, instructional skills, problem-solving",
+    "estimated_human_difficulty": "3"
+}

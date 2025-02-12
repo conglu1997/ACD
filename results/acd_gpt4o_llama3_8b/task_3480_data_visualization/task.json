@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_visualization",
+    "description_of_task": "Interpret or generate data visualizations based on given data or descriptions.",
+    "capability_being_measured": "data interpretation, visual communication, analytical reasoning",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debugging_and_explanation",
+    "description_of_task": "Identify and fix bugs in provided code snippets and explain the corrections.",
+    "capability_being_measured": "programming knowledge, logical reasoning, technical communication",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_understanding_and_generation",
+    "description_of_task": "Understand and explain the functionality of a given piece of code and write functional code based on specific requirements.",
+    "capability_being_measured": "programming skills, comprehension, code generation",
+    "estimated_human_difficulty": "3"
+}

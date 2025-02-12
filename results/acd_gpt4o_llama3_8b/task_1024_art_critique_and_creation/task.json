@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_critique_and_creation",
+    "description_of_task": "Generate a description of an artwork based on given criteria and critique an existing piece of art.",
+    "capability_being_measured": "creativity, knowledge of art theory, critical thinking",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proof_and_explanation",
+    "description_of_task": "Generate mathematical proofs for given statements and explain mathematical concepts in simple terms.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, explanatory skills",
+    "estimated_human_difficulty": "5"
+}

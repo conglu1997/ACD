@@ -1,0 +1,6 @@
+{
+    "name_of_task": "travel_itinerary_optimization",
+    "description_of_task": "Optimize a travel itinerary based on given constraints such as budget, time, and preferences.",
+    "capability_being_measured": "complex problem-solving, optimization, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

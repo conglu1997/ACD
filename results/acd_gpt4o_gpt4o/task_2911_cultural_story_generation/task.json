@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_story_generation",
+    "description_of_task": "Generate a culturally appropriate short story based on given cultural elements and historical context.",
+    "capability_being_measured": "cultural knowledge, creativity, historical understanding",
+    "estimated_human_difficulty": "4"
+}

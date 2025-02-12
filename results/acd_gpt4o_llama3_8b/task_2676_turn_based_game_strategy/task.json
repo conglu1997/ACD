@@ -1,0 +1,6 @@
+{
+    "name_of_task": "turn_based_game_strategy",
+    "description_of_task": "Devise a strategy for a turn-based board game and explain the reasoning behind the chosen moves.",
+    "capability_being_measured": "strategic planning, multi-step reasoning, game theory",
+    "estimated_human_difficulty": "4"
+}

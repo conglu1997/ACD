@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_writing",
+    "description_of_task": "Generate a creative story based on a given prompt and evaluate the quality of another story based on specified criteria.",
+    "capability_being_measured": "creativity, narrative coherence, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

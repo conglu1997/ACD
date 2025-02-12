@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chemical_equation_generation_and_interpretation",
+    "description_of_task": "Generate balanced chemical equations based on given descriptions and interpret provided chemical reactions to answer specific questions.",
+    "capability_being_measured": "specialized knowledge, logical reasoning, scientific comprehension",
+    "estimated_human_difficulty": "5"
+}

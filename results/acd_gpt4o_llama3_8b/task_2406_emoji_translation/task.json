@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emoji_translation",
+    "description_of_task": "Translate a sentence written in emojis back to plain text.",
+    "capability_being_measured": "symbolic communication, cultural knowledge, language comprehension",
+    "estimated_human_difficulty": "3"
+}

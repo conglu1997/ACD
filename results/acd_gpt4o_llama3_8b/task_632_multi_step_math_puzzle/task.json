@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_step_math_puzzle",
+    "description_of_task": "Solve a complex mathematical puzzle that requires multiple steps and logical reasoning.",
+    "capability_being_measured": "logical reasoning, numerical skills, problem-solving",
+    "estimated_human_difficulty": "4"
+}

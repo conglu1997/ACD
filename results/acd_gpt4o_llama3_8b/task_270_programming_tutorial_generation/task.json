@@ -1,0 +1,6 @@
+{
+    "name_of_task": "programming_tutorial_generation",
+    "description_of_task": "Generate a step-by-step tutorial for a given programming task.",
+    "capability_being_measured": "technical knowledge, language understanding, instructional design",
+    "estimated_human_difficulty": "4"
+}

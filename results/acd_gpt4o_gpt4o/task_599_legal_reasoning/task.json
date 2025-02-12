@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning",
+    "description_of_task": "Interpret given case law or statutes and generate legal arguments based on provided scenarios.",
+    "capability_being_measured": "legal reasoning, comprehension, argumentation",
+    "estimated_human_difficulty": "4"
+}

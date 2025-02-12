@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conlang_logic_puzzle",
+    "description_of_task": "Create a constructed language (conlang) based on a given fictional culture, then use it to encode and solve a logic puzzle.",
+    "capability_being_measured": "linguistic creativity, cultural understanding, logical reasoning, and problem-solving",
+    "estimated_human_difficulty": "5"
+}

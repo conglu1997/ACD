@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_forensics",
+    "description_of_task": "Identify the cultural origin of artifacts, traditions, or practices based on given descriptions.",
+    "capability_being_measured": "cultural knowledge, pattern recognition, reasoning",
+    "estimated_human_difficulty": "4"
+}

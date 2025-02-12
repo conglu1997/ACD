@@ -1,0 +1,6 @@
+{
+    "name_of_task": "crisis_management_scenario",
+    "description_of_task": "Generate a detailed crisis management plan for a given scenario, considering various stakeholders and potential outcomes.",
+    "capability_being_measured": "planning, problem-solving, social reasoning",
+    "estimated_human_difficulty": "4"
+}

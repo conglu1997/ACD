@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_comprehension_generation",
+    "description_of_task": "Design an AI system that can comprehend and generate novel metaphors across diverse domains, then use it to solve abstract problems and create innovative explanations for complex concepts.",
+    "capability_being_measured": "cross-domain analogical reasoning, linguistic creativity, abstract problem-solving, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_step_math_reasoning",
+    "description_of_task": "Solve complex multi-step mathematical problems based on given scenarios.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, problem-solving",
+    "estimated_human_difficulty": "4"
+}

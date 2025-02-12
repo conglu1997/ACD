@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_synthesis",
+    "description_of_task": "Create a coherent and plausible narrative based on a set of historical events, demonstrating understanding of historical context, causality, and creative storytelling.",
+    "capability_being_measured": "historical knowledge, causality understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

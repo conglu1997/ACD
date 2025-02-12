@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_pattern_completion",
+    "description_of_task": "Identify the underlying pattern in a sequence of geometric shapes and predict the next shape in the sequence.",
+    "capability_being_measured": "pattern recognition, spatial reasoning, logical reasoning",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experiment_design_and_data_analysis",
+    "description_of_task": "Design a simple scientific experiment based on a given research question and analyze a given dataset to draw conclusions.",
+    "capability_being_measured": "scientific reasoning, experimental design, data analysis",
+    "estimated_human_difficulty": "3"
+}

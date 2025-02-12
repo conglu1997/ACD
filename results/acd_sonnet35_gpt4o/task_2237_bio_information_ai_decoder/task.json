@@ -1,0 +1,6 @@
+{
+    "name_of_task": "bio_information_ai_decoder",
+    "description_of_task": "Design an AI system that can decode and manipulate biological information systems, focusing on DNA sequencing and protein folding prediction, then use it to solve a complex biological problem.",
+    "capability_being_measured": "interdisciplinary knowledge integration, scientific reasoning, creative problem-solving, and understanding of biology, information theory, and artificial intelligence",
+    "estimated_human_difficulty": "5"
+}

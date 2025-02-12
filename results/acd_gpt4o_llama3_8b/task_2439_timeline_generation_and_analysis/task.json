@@ -1,0 +1,6 @@
+{
+    "name_of_task": "timeline_generation_and_analysis",
+    "description_of_task": "Generate timelines based on provided events and analyze given timelines for accuracy and coherence.",
+    "capability_being_measured": "logical reasoning, temporal understanding, narrative generation",
+    "estimated_human_difficulty": "4"
+}

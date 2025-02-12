@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_transformations",
+    "description_of_task": "Perform specified geometric transformations (rotation, reflection, translation) on given shapes described in text.",
+    "capability_being_measured": "spatial reasoning, geometric understanding",
+    "estimated_human_difficulty": "3"
+}

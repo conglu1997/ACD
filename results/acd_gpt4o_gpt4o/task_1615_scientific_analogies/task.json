@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_analogies",
+    "description_of_task": "Generate analogies to explain scientific concepts and interpret the meaning of given scientific analogies.",
+    "capability_being_measured": "scientific understanding, creativity, abstract thinking",
+    "estimated_human_difficulty": "4"
+}

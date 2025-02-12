@@ -1,0 +1,6 @@
+{
+    "name_of_task": "advertising_slogan_generation_and_analysis",
+    "description_of_task": "Generate a catchy advertising slogan for a given product and analyze the effectiveness of an existing slogan.",
+    "capability_being_measured": "creativity, language skills, marketing knowledge",
+    "estimated_human_difficulty": "3"
+}

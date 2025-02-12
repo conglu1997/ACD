@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_data_generation",
+    "description_of_task": "Generate structured data in JSON format based on given criteria, and interpret provided JSON structures.",
+    "capability_being_measured": "data representation, syntax accuracy, semantic understanding",
+    "estimated_human_difficulty": "4"
+}

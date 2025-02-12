@@ -1,0 +1,6 @@
+{
+    "name_of_task": "3d_object_description_and_transformation",
+    "description_of_task": "Describe a given imaginary 3D object and its transformations, then generate a new 3D object based on specific criteria.",
+    "capability_being_measured": "spatial reasoning, descriptive skills, creativity",
+    "estimated_human_difficulty": "4"
+}

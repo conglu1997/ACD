@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_image_description",
+    "description_of_task": "Generate a detailed and vivid description of an abstract visual scene based on given visual elements and concepts.",
+    "capability_being_measured": "visual understanding, descriptive language, creativity",
+    "estimated_human_difficulty": "4"
+}

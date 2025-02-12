@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_contextualization",
+    "description_of_task": "Provide context, significance, and detailed explanations of historical events based on given prompts.",
+    "capability_being_measured": "historical knowledge, contextual understanding, explanatory skills",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argument_evaluation",
+    "description_of_task": "Evaluate the validity and soundness of given arguments, identifying logical fallacies and providing justifications.",
+    "capability_being_measured": "logical reasoning, critical thinking, understanding of logical fallacies",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_spatial_description",
+    "description_of_task": "Interpret complex visual or spatial arrangements from text descriptions and generate detailed descriptions of visual scenes.",
+    "capability_being_measured": "spatial reasoning, descriptive ability, logical structuring",
+    "estimated_human_difficulty": "4"
+}

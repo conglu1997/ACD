@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_scenario_navigation",
+    "description_of_task": "Navigate a simulated environment by interpreting and executing a series of natural language commands to achieve specific goals.",
+    "capability_being_measured": "language understanding, multi-turn interaction, contextual adaptability",
+    "estimated_human_difficulty": "4"
+}

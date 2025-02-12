@@ -1,0 +1,6 @@
+{
+    "name_of_task": "solve_sudoku",
+    "description_of_task": "Solve a given Sudoku puzzle and provide the completed grid.",
+    "capability_being_measured": "logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

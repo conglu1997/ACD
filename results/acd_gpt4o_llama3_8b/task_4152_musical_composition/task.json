@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Interpret musical notations and generate new musical compositions based on given constraints.",
+    "capability_being_measured": "creativity, domain-specific knowledge, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

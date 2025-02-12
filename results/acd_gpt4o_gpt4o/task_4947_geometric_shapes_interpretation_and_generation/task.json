@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_shapes_interpretation_and_generation",
+    "description_of_task": "Interpret descriptions of geometric shapes and generate new shapes based on given criteria.",
+    "capability_being_measured": "visual-spatial reasoning, geometric understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

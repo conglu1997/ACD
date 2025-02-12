@@ -1,0 +1,6 @@
+{
+    "name_of_task": "language_humor_generation",
+    "description_of_task": "Generate puns based on given words or phrases and explain the humor behind them.",
+    "capability_being_measured": "linguistic creativity, metalinguistic awareness, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

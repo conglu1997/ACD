@@ -1,0 +1,6 @@
+{
+    "name_of_task": "auditory_description",
+    "description_of_task": "Describe and interpret a given auditory experience based on provided details.",
+    "capability_being_measured": "creativity, descriptive language, sensory understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems",
+    "description_of_task": "Create and solve mathematical word problems based on given constraints and prompts.",
+    "capability_being_measured": "mathematical reasoning, language comprehension, creativity",
+    "estimated_human_difficulty": "3"
+}

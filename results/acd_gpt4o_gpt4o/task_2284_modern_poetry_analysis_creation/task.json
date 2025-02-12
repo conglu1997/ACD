@@ -1,0 +1,6 @@
+{
+    "name_of_task": "modern_poetry_analysis_creation",
+    "description_of_task": "Analyze a given modern poem and create an original poem based on a given theme or prompt.",
+    "capability_being_measured": "literary analysis, creativity, emotional expression",
+    "estimated_human_difficulty": "4"
+}

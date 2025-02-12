@@ -1,0 +1,6 @@
+{
+    "name_of_task": "laboratory_protocol_creation_and_interpretation",
+    "description_of_task": "Generate detailed laboratory protocols based on given experimental goals and interpret provided laboratory protocols.",
+    "capability_being_measured": "procedural knowledge, comprehension, attention to detail",
+    "estimated_human_difficulty": "4"
+}

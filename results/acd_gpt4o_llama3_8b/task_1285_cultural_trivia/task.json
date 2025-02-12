@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_trivia",
+    "description_of_task": "Answer trivia questions related to global cultures, their customs, history, and significant contributions.",
+    "capability_being_measured": "knowledge, cultural understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argumentation",
+    "description_of_task": "Analyze a given persuasive statement and generate a new, compelling argument on a specified topic.",
+    "capability_being_measured": "logical reasoning, rhetorical skills, creativity",
+    "estimated_human_difficulty": "4"
+}

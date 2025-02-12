@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_event_sequencing",
+    "description_of_task": "Generate a coherent sequence of events given specific temporal constraints.",
+    "capability_being_measured": "temporal reasoning, logical sequencing, creativity",
+    "estimated_human_difficulty": "3"
+}

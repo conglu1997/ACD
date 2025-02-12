@@ -1,0 +1,6 @@
+{
+    "name_of_task": "map_navigation",
+    "description_of_task": "Interpret a given map and generate step-by-step navigation directions from a starting point to a destination, avoiding obstacles.",
+    "capability_being_measured": "spatial reasoning, navigation, coherence in instruction generation",
+    "estimated_human_difficulty": "4"
+}

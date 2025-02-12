@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_and_interpretation",
+    "description_of_task": "Generate scientific explanations for given phenomena and interpret provided scientific data.",
+    "capability_being_measured": "scientific understanding, precision, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptic_crossword_clues",
+    "description_of_task": "Generate and solve cryptic crossword clues based on given words and definitions.",
+    "capability_being_measured": "linguistic manipulation, creativity, logical reasoning",
+    "estimated_human_difficulty": "5"
+}

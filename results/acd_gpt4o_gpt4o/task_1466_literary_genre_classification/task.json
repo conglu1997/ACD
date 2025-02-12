@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_genre_classification",
+    "description_of_task": "Classify a given text excerpt into its correct literary genre.",
+    "capability_being_measured": "literary knowledge, textual analysis, reasoning",
+    "estimated_human_difficulty": "3"
+}

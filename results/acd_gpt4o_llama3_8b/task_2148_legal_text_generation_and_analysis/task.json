@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_generation_and_analysis",
+    "description_of_task": "Generate legal clauses based on given scenarios and identify inconsistencies in provided legal text.",
+    "capability_being_measured": "legal reasoning, text generation, comprehension",
+    "estimated_human_difficulty": "4"
+}

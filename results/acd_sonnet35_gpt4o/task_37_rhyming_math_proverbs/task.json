@@ -1,0 +1,6 @@
+{
+    "name_of_task": "rhyming_math_proverbs",
+    "description_of_task": "Create and solve mathematical equations based on partial proverbs, then complete the proverbs with rhyming words using the equation solutions.",
+    "capability_being_measured": "mathematical reasoning, linguistic creativity, cultural knowledge, and problem-solving",
+    "estimated_human_difficulty": "5"
+}

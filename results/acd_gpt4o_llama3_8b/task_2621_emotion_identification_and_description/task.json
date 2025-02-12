@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_identification_and_description",
+    "description_of_task": "Identify and describe the emotions conveyed in a given textual description.",
+    "capability_being_measured": "emotional intelligence, language comprehension, empathy",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering_text",
+    "description_of_task": "Given a final output, deduce the original sequence of transformations or steps that led to this output.",
+    "capability_being_measured": "logical reasoning, comprehension, deductive skills",
+    "estimated_human_difficulty": "4"
+}

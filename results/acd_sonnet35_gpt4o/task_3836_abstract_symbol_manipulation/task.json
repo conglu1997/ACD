@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_symbol_manipulation",
+    "description_of_task": "Analyze a novel abstract symbolic system, infer its rules, and use it to solve problems or create new expressions.",
+    "capability_being_measured": "pattern recognition, logical reasoning, and creative problem-solving with abstract systems",
+    "estimated_human_difficulty": "4"
+}

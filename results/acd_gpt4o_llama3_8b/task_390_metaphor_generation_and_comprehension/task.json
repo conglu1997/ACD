@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation_and_comprehension",
+    "description_of_task": "Generate creative metaphors based on given prompts and interpret the meaning of provided metaphors.",
+    "capability_being_measured": "creativity, language understanding, abstract reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "explain_scientific_concept",
+    "description_of_task": "Explain a given scientific concept or phenomenon in detail.",
+    "capability_being_measured": "scientific reasoning, explanatory skills",
+    "estimated_human_difficulty": "3"
+}

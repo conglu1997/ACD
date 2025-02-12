@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_interpretation",
+    "description_of_task": "Interpret detailed descriptions of visual scenes and generate narratives or explanations based on them.",
+    "capability_being_measured": "visual understanding, descriptive skills, narrative construction",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_argument_analysis",
+    "description_of_task": "Identify logical fallacies in given arguments and construct logically sound arguments.",
+    "capability_being_measured": "logical reasoning, critical thinking, argumentation skills",
+    "estimated_human_difficulty": "4"
+}

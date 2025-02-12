@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_schedule_planning",
+    "description_of_task": "Create a detailed schedule for a multi-day event based on given constraints and requirements.",
+    "capability_being_measured": "planning, time management, logical sequencing",
+    "estimated_human_difficulty": "3"
+}

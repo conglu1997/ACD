@@ -1,0 +1,6 @@
+{
+    "name_of_task": "unit_test_generation",
+    "description_of_task": "Generate unit tests for given Python functions.",
+    "capability_being_measured": "programming comprehension, code generation, logical reasoning",
+    "estimated_human_difficulty": "3"
+}

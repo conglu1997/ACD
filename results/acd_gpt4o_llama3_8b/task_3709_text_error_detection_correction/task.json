@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_error_detection_correction",
+    "description_of_task": "Identify and correct errors in given paragraphs, including grammatical, syntactical, and stylistic issues.",
+    "capability_being_measured": "attention to detail, grammatical understanding, editing and proofreading skills",
+    "estimated_human_difficulty": "3"
+}

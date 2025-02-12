@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_textual_story_synthesis",
+    "description_of_task": "Create a coherent story that integrates a series of images with textual prompts, demonstrating cross-modal reasoning and narrative skills.",
+    "capability_being_measured": "cross-modal reasoning, visual understanding, creative writing, and narrative synthesis",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_description",
+    "description_of_task": "Generate detailed descriptions of historical events based on given prompts, including key figures, dates, and outcomes.",
+    "capability_being_measured": "knowledge, temporal reasoning, narrative synthesis",
+    "estimated_human_difficulty": "3"
+}

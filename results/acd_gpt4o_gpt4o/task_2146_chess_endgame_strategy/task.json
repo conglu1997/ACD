@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chess_endgame_strategy",
+    "description_of_task": "Formulate a winning strategy in given chess endgame scenarios.",
+    "capability_being_measured": "strategic thinking, problem-solving, pattern recognition",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "formal_logic_proof_generation",
+    "description_of_task": "Generate a formal logic proof based on given premises and a conclusion.",
+    "capability_being_measured": "logical reasoning and formal logic proof generation",
+    "estimated_human_difficulty": "5"
+}

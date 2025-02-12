@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis",
+    "description_of_task": "Analyze a historical event and construct a coherent argument based on the given prompt.",
+    "capability_being_measured": "historical knowledge, critical thinking, argumentation",
+    "estimated_human_difficulty": "4"
+}

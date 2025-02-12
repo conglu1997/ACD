@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_generation",
+    "description_of_task": "Generate and complete dialogues based on given scenarios, ensuring coherence, context relevance, and natural conversational flow.",
+    "capability_being_measured": "language generation, contextual understanding, coherence",
+    "estimated_human_difficulty": "4"
+}

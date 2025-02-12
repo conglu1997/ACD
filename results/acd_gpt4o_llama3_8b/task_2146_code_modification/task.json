@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_modification",
+    "description_of_task": "Modify existing code to achieve a specified objective.",
+    "capability_being_measured": "programming, logical reasoning, code comprehension",
+    "estimated_human_difficulty": "4"
+}

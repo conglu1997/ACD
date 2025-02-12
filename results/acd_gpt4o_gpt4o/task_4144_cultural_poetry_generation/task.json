@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_poetry_generation",
+    "description_of_task": "Generate poems based on given themes and cultural contexts, testing the model's linguistic creativity and cultural knowledge.",
+    "capability_being_measured": "creativity, cultural knowledge, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

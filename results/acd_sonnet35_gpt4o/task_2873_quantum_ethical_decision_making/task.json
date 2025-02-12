@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_ethical_decision_making",
+    "description_of_task": "Design a quantum computing system that models ethical decision-making processes, then analyze its implications for AI governance and human-AI collaboration in complex moral dilemmas.",
+    "capability_being_measured": "understanding of quantum computing principles, ethical reasoning, decision theory, and the ability to integrate these fields in a novel AI system design",
+    "estimated_human_difficulty": "5"
+}

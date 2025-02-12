@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_metacognition_bias_analysis",
+    "description_of_task": "Design and implement a series of metacognitive tasks that require the AI to analyze its own reasoning processes, identify potential biases, and propose methods to mitigate these biases.",
+    "capability_being_measured": "self-reflection, abstract reasoning, bias identification, and creative problem-solving in the context of AI cognition",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_composition",
+    "description_of_task": "Compose a short musical piece based on given music theory constraints.",
+    "capability_being_measured": "creativity, knowledge of music theory, structured composition",
+    "estimated_human_difficulty": "4"
+}

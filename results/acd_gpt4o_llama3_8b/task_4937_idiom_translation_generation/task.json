@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_translation_generation",
+    "description_of_task": "Translate idiomatic expressions from one language to another and generate equivalent idioms.",
+    "capability_being_measured": "cultural knowledge, linguistic understanding, translation skills",
+    "estimated_human_difficulty": "4"
+}

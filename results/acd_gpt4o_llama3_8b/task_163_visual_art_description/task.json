@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_description",
+    "description_of_task": "Generate a detailed description based on an abstract visual art piece and interpret a description to identify key elements of the art.",
+    "capability_being_measured": "creativity, visual and descriptive language understanding",
+    "estimated_human_difficulty": "4"
+}

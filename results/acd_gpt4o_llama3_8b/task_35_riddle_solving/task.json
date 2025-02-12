@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_solving",
+    "description_of_task": "Solve given riddles by providing the correct answers based on the clues.",
+    "capability_being_measured": "logical reasoning and deduction",
+    "estimated_human_difficulty": "3"
+}

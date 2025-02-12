@@ -1,0 +1,6 @@
+{
+    "name_of_task": "map_interpretation_and_generation",
+    "description_of_task": "Interpret maps to answer questions and generate maps based on textual descriptions.",
+    "capability_being_measured": "multimodal reasoning, spatial understanding, geographical knowledge",
+    "estimated_human_difficulty": "4"
+}

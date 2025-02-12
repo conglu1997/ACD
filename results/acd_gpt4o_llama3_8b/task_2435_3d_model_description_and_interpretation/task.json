@@ -1,0 +1,6 @@
+{
+    "name_of_task": "3d_model_description_and_interpretation",
+    "description_of_task": "Generate descriptions for 3D models based on given criteria and interpret textual descriptions to visualize 3D models.",
+    "capability_being_measured": "spatial reasoning, visualization, descriptive language",
+    "estimated_human_difficulty": "4"
+}

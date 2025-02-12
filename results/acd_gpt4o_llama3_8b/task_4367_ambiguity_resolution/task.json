@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ambiguity_resolution",
+    "description_of_task": "Interpret and make decisions based on ambiguous or incomplete information.",
+    "capability_being_measured": "contextual understanding, creativity, decision-making",
+    "estimated_human_difficulty": "4"
+}

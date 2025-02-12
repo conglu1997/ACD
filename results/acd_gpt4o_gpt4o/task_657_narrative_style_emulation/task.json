@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_style_emulation",
+    "description_of_task": "Write a narrative passage in a specific style based on a given prompt.",
+    "capability_being_measured": "creativity, language understanding, stylistic emulation",
+    "estimated_human_difficulty": "4"
+}

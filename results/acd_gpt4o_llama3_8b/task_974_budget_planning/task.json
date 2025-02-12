@@ -1,0 +1,6 @@
+{
+    "name_of_task": "budget_planning",
+    "description_of_task": "Plan a budget based on given financial constraints and priorities.",
+    "capability_being_measured": "financial reasoning, arithmetic skills, decision making",
+    "estimated_human_difficulty": "3"
+}

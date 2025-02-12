@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_language_translation",
+    "description_of_task": "Translate texts between modern English and historical forms of English or other languages.",
+    "capability_being_measured": "language translation, historical and cultural understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_insight_generation",
+    "description_of_task": "Analyze a given dataset and generate meaningful insights and summaries from it.",
+    "capability_being_measured": "data analysis, analytical reasoning, communication",
+    "estimated_human_difficulty": "4"
+}

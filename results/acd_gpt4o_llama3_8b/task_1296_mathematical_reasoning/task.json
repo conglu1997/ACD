@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_reasoning",
+    "description_of_task": "Solve complex word problems and generate detailed mathematical proofs based on given prompts.",
+    "capability_being_measured": "mathematical understanding, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation",
+    "description_of_task": "Generate and interpret detailed technical documentation based on product descriptions.",
+    "capability_being_measured": "technical writing, comprehension, specialized knowledge",
+    "estimated_human_difficulty": "4"
+}

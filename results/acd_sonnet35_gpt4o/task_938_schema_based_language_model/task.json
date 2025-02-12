@@ -1,0 +1,6 @@
+{
+    "name_of_task": "schema_based_language_model",
+    "description_of_task": "Design a language model architecture that incorporates cognitive schemas, implement it for a specific domain, and analyze its performance on schema-related tasks.",
+    "capability_being_measured": "understanding of cognitive science principles, AI architecture design, abstract reasoning, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

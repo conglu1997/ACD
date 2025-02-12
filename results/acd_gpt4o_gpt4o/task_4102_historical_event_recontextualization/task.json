@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_recontextualization",
+    "description_of_task": "Recontextualize given historical events into different genres or contexts while maintaining the core facts.",
+    "capability_being_measured": "creativity, historical knowledge, narrative adaptation",
+    "estimated_human_difficulty": "4"
+}

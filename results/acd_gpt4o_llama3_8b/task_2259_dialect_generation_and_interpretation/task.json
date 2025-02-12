@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialect_generation_and_interpretation",
+    "description_of_task": "Generate dialogue in a specific English dialect and interpret the same dialogue written in another dialect.",
+    "capability_being_measured": "linguistic flexibility, cultural knowledge, language understanding",
+    "estimated_human_difficulty": "4"
+}

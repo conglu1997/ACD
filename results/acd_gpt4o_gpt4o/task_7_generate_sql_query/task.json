@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_sql_query",
+    "description_of_task": "Translate natural language descriptions into SQL queries.",
+    "capability_being_measured": "language-to-code translation, query understanding",
+    "estimated_human_difficulty": "4"
+}

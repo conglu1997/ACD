@@ -1,0 +1,6 @@
+{
+    "name_of_task": "grid_logic_puzzles",
+    "description_of_task": "Solve grid-based logic puzzles by deducing the correct placement of elements based on given clues.",
+    "capability_being_measured": "logical reasoning, problem-solving, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

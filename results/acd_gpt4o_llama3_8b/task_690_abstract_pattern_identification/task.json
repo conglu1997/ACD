@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_pattern_identification",
+    "description_of_task": "Identify and explain patterns or sequences in a set of given data.",
+    "capability_being_measured": "abstract reasoning and pattern recognition",
+    "estimated_human_difficulty": "4"
+}

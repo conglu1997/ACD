@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_adaptation",
+    "description_of_task": "Adapt a given historical event to a different cultural or technological context, maintaining the core elements while making it plausible in the new setting.",
+    "capability_being_measured": "cross-domain reasoning, historical knowledge, cultural understanding, creative adaptation",
+    "estimated_human_difficulty": "4"
+}

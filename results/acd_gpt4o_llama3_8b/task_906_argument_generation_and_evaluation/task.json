@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argument_generation_and_evaluation",
+    "description_of_task": "Generate persuasive arguments for a given topic and evaluate the strength of provided arguments.",
+    "capability_being_measured": "persuasion skills, logical reasoning, critical thinking",
+    "estimated_human_difficulty": "4"
+}

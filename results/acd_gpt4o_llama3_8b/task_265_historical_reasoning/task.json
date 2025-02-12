@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_reasoning",
+    "description_of_task": "Analyze historical scenarios and explain the potential outcomes or significance of these events.",
+    "capability_being_measured": "historical knowledge, reasoning, and explanatory skills",
+    "estimated_human_difficulty": "4"
+}

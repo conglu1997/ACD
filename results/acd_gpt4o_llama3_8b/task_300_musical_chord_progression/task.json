@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_chord_progression",
+    "description_of_task": "Generate a musical chord progression based on a given key and style.",
+    "capability_being_measured": "music theory knowledge, creativity, structural coherence",
+    "estimated_human_difficulty": "4"
+}

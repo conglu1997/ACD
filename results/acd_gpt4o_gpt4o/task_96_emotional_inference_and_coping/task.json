@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_inference_and_coping",
+    "description_of_task": "Interpret given emotional scenarios and suggest appropriate coping strategies.",
+    "capability_being_measured": "empathy, emotional intelligence, practical advice generation",
+    "estimated_human_difficulty": "4"
+}

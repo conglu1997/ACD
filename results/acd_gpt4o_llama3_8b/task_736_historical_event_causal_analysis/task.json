@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_causal_analysis",
+    "description_of_task": "Analyze historical events and identify the causal relationships between them.",
+    "capability_being_measured": "historical knowledge, reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

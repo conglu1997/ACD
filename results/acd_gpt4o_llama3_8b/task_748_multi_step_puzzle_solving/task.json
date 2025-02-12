@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_step_puzzle_solving",
+    "description_of_task": "Solve a multi-step logical puzzle based on given descriptions and constraints.",
+    "capability_being_measured": "logical reasoning, problem-solving, state maintenance",
+    "estimated_human_difficulty": "4"
+}

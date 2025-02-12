@@ -1,0 +1,6 @@
+{
+    "name_of_task": "haskell_code_generation",
+    "description_of_task": "Generate Haskell code to solve a given problem and provide an explanation of the code.",
+    "capability_being_measured": "programming knowledge, problem-solving, code generation",
+    "estimated_human_difficulty": "5"
+}

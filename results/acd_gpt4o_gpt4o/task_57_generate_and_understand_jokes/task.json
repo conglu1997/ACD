@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_understand_jokes",
+    "description_of_task": "Generate a joke based on a given prompt and explain the humor behind a provided joke.",
+    "capability_being_measured": "creativity, linguistic understanding, cultural awareness",
+    "estimated_human_difficulty": "4"
+}

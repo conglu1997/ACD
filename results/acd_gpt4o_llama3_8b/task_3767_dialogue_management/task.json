@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_management",
+    "description_of_task": "Simulate and manage a conversation based on given scenarios, ensuring coherent dialogue flow and appropriate responses.",
+    "capability_being_measured": "dialogue management, social interaction, conversational coherence",
+    "estimated_human_difficulty": "3"
+}

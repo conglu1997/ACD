@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_recipe_generation",
+    "description_of_task": "Generate and modify complex recipes based on given culinary constraints and themes.",
+    "capability_being_measured": "procedural understanding, creativity, practical knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_data_manipulation",
+    "description_of_task": "Generate and interpret structured data formats (JSON, XML) based on given specifications or queries.",
+    "capability_being_measured": "data manipulation, format understanding, information extraction",
+    "estimated_human_difficulty": "3"
+}

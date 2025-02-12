@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_with_constraints",
+    "description_of_task": "Generate recipes based on specific dietary restrictions or preferences.",
+    "capability_being_measured": "creativity, practical knowledge, constraint satisfaction",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "experimental_outcome_prediction",
+    "description_of_task": "Predict the outcome of an experiment based on given initial conditions and understand the underlying principles of the system.",
+    "capability_being_measured": "scientific reasoning, prediction, understanding of complex systems",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_continuation",
+    "description_of_task": "Continue a given story with a coherent and engaging narrative.",
+    "capability_being_measured": "storytelling, creativity, coherence, narrative structure",
+    "estimated_human_difficulty": "4"
+}

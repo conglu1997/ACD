@@ -1,0 +1,6 @@
+{
+  "name_of_task": "hello_world",
+  "description_of_task": "Return a greeting string.",
+  "capability_being_measured": "basic string manipulation",
+  "estimated_human_difficulty": "1"
+}

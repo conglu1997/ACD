@@ -1,0 +1,6 @@
+{
+    "name_of_task": "phonetic_transcription",
+    "description_of_task": "Convert given words or sentences into their phonetic transcription using the International Phonetic Alphabet (IPA).",
+    "capability_being_measured": "phonetic understanding, linguistic knowledge",
+    "estimated_human_difficulty": "4"
+}

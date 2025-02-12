@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_interpretation_and_generation",
+    "description_of_task": "Interpret given ASCII art and generate new ASCII art based on specific instructions.",
+    "capability_being_measured": "visual reasoning, creativity, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

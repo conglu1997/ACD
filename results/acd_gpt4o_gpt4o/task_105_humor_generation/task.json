@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation",
+    "description_of_task": "Generate jokes, puns, or humorous short stories based on given prompts.",
+    "capability_being_measured": "creativity, cultural knowledge, language subtleties",
+    "estimated_human_difficulty": "4"
+}

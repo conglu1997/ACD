@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argument_generation",
+    "description_of_task": "Generate persuasive arguments for and against a given topic and evaluate their effectiveness.",
+    "capability_being_measured": "persuasive writing, critical thinking, argumentation",
+    "estimated_human_difficulty": "4"
+}

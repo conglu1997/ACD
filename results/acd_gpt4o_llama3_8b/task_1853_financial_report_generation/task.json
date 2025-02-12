@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_report_generation",
+    "description_of_task": "Generate a financial report based on given financial data and business context.",
+    "capability_being_measured": "financial knowledge, data interpretation, structured writing",
+    "estimated_human_difficulty": "4"
+}

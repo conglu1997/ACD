@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_form_interpretation_and_generation",
+    "description_of_task": "Interpret specific forms of poetry and generate poems in those forms based on given prompts.",
+    "capability_being_measured": "linguistic creativity, comprehension of poetic structures, stylistic appropriateness",
+    "estimated_human_difficulty": "4"
+}

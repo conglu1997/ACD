@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_code_generation",
+    "description_of_task": "Generate Python code snippets based on given specifications and constraints.",
+    "capability_being_measured": "programming knowledge, problem-solving, precision in following instructions",
+    "estimated_human_difficulty": "4"
+}

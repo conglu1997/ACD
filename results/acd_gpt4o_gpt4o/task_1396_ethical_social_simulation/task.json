@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_social_simulation",
+    "description_of_task": "Simulate a coherent and contextually appropriate dialogue based on a given ethical social scenario.",
+    "capability_being_measured": "ethical reasoning, social reasoning, contextual language usage",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fantastical_story_generation",
+    "description_of_task": "Generate a short story based on given fantastical or unusual prompts, ensuring narrative coherence and creativity.",
+    "capability_being_measured": "creativity, narrative construction, linguistic proficiency",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "regex_generation_and_interpretation",
+    "description_of_task": "Generate regular expressions based on given criteria and interpret the meaning of provided regular expressions.",
+    "capability_being_measured": "logical reasoning, computational thinking, language comprehension",
+    "estimated_human_difficulty": "4"
+}

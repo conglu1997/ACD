@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_translation",
+    "description_of_task": "Translate a given passage into a different language while adapting the content to fit the cultural context of the target language.",
+    "capability_being_measured": "language translation, cultural adaptation, and creativity",
+    "estimated_human_difficulty": "4"
+}

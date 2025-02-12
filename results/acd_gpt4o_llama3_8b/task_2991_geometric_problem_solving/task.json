@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_problem_solving",
+    "description_of_task": "Generate and solve geometric problems based on given criteria, including shapes, measurements, and properties.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, geometric understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_explanation_and_problem_solving",
+    "description_of_task": "Explain physical phenomena and solve related physics problems based on given prompts.",
+    "capability_being_measured": "scientific understanding, problem-solving, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_game_strategy",
+    "description_of_task": "Generate a strategic game plan for a given scenario in a popular strategy game.",
+    "capability_being_measured": "strategic thinking, reasoning, game mechanics understanding",
+    "estimated_human_difficulty": "4"
+}

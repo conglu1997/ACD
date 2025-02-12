@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_dilemma_resolver",
+    "description_of_task": "Design an AI system capable of analyzing complex ethical dilemmas, applying various philosophical frameworks, and providing justified ethical decisions.",
+    "capability_being_measured": "moral reasoning, ethical decision-making, philosophical understanding, and justification of choices",
+    "estimated_human_difficulty": "5"
+}

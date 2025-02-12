@@ -1,0 +1,6 @@
+{
+    "name_of_task": "compose_and_analyze_music",
+    "description_of_task": "Compose a short musical piece based on a given theme and analyze a provided musical composition.",
+    "capability_being_measured": "creativity, musical knowledge, analytical skills",
+    "estimated_human_difficulty": "4"
+}

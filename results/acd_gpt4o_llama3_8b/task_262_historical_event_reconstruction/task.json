@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reconstruction",
+    "description_of_task": "Generate a detailed and plausible narrative of a fictional historical event based on provided prompts.",
+    "capability_being_measured": "creativity, historical knowledge, narrative skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_analysis",
+    "description_of_task": "Analyze legal documents and apply legal principles to hypothetical scenarios.",
+    "capability_being_measured": "legal reasoning, language understanding, application of knowledge",
+    "estimated_human_difficulty": "4"
+}

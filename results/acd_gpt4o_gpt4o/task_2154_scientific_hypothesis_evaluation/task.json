@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_evaluation",
+    "description_of_task": "Generate a scientific hypothesis based on a given scenario and evaluate its validity using provided data.",
+    "capability_being_measured": "scientific reasoning, hypothesis generation, data interpretation",
+    "estimated_human_difficulty": "4"
+}

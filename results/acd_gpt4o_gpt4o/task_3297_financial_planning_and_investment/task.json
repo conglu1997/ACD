@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_planning_and_investment",
+    "description_of_task": "Create a financial plan based on given parameters and evaluate an existing investment strategy.",
+    "capability_being_measured": "financial literacy, decision-making, risk assessment",
+    "estimated_human_difficulty": "4"
+}

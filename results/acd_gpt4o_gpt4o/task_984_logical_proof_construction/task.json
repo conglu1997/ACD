@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_proof_construction",
+    "description_of_task": "Construct a logical proof based on given premises and conclusion.",
+    "capability_being_measured": "logical reasoning, formal logic understanding, argumentation",
+    "estimated_human_difficulty": "5"
+}

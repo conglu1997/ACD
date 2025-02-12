@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_advice_generation",
+    "description_of_task": "Provide sound financial advice based on given scenarios, including budgeting, investment, and savings strategies.",
+    "capability_being_measured": "financial literacy, practical reasoning, application of knowledge",
+    "estimated_human_difficulty": "4"
+}

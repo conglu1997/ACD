@@ -1,0 +1,6 @@
+{
+    "name_of_task": "psychological_advice_generation",
+    "description_of_task": "Generate appropriate psychological advice based on given emotional scenarios.",
+    "capability_being_measured": "empathy, emotional understanding, advisory skills",
+    "estimated_human_difficulty": "4"
+}

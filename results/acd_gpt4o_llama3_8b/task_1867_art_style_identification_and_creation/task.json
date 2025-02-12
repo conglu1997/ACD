@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_style_identification_and_creation",
+    "description_of_task": "Identify the style and characteristics of a given piece of art and create a description of a new piece of art in the same style.",
+    "capability_being_measured": "visual pattern recognition, creativity, knowledge of art history",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "table_generation_and_interpretation",
+    "description_of_task": "Generate a table based on given textual data and interpret a provided table to answer questions.",
+    "capability_being_measured": "data organization, comprehension, information synthesis",
+    "estimated_human_difficulty": "3"
+}

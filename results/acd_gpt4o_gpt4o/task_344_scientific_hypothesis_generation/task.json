@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_generation",
+    "description_of_task": "Generate plausible scientific hypotheses based on given observations or data.",
+    "capability_being_measured": "scientific reasoning, creativity, understanding of scientific principles",
+    "estimated_human_difficulty": "4"
+}

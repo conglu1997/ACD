@@ -1,0 +1,6 @@
+{
+    "name_of_task": "expand_musical_motif",
+    "description_of_task": "Expand a given musical motif into a longer piece of music while maintaining musical coherence and structure.",
+    "capability_being_measured": "musical theory understanding, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

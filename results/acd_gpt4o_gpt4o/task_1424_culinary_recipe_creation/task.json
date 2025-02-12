@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_recipe_creation",
+    "description_of_task": "Generate a cooking recipe based on given ingredients and constraints, and interpret the recipe's steps.",
+    "capability_being_measured": "creativity, practical reasoning, domain-specific knowledge",
+    "estimated_human_difficulty": "3"
+}

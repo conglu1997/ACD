@@ -1,0 +1,6 @@
+{
+    "name_of_task": "combinatorial_puzzle_creation_and_solution",
+    "description_of_task": "Create a combinatorial puzzle based on given constraints and solve a provided combinatorial puzzle.",
+    "capability_being_measured": "combinatorial reasoning, logical pattern recognition, creativity",
+    "estimated_human_difficulty": "5"
+}

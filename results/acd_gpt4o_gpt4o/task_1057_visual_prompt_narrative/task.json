@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_prompt_narrative",
+    "description_of_task": "Generate creative narratives or descriptions based on given visual prompts described in text.",
+    "capability_being_measured": "creativity, visual imagination, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

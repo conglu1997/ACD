@@ -1,0 +1,6 @@
+{
+    "name_of_task": "map_interpretation",
+    "description_of_task": "Interpret a given map and provide directions or identify landmarks.",
+    "capability_being_measured": "spatial reasoning, geographical knowledge, attention to detail",
+    "estimated_human_difficulty": "3"
+}

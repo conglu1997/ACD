@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_clause_generation_and_interpretation",
+    "description_of_task": "Generate specific legal clauses based on given criteria and interpret provided legal text to answer specific questions.",
+    "capability_being_measured": "specialized knowledge, logical reasoning, language comprehension",
+    "estimated_human_difficulty": "5"
+}

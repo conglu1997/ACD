@@ -1,0 +1,6 @@
+{
+    "name_of_task": "alibi_generation",
+    "description_of_task": "Generate plausible alibis for fictional characters based on given scenarios and constraints.",
+    "capability_being_measured": "logical reasoning, narrative generation, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

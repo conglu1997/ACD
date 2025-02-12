@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_and_analysis",
+    "description_of_task": "Generate analogies based on given pairs of concepts and analyze analogies to determine the relationships they convey.",
+    "capability_being_measured": "conceptual understanding, reasoning, analogical thinking",
+    "estimated_human_difficulty": "4"
+}

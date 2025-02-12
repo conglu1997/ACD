@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_significance_evaluation",
+    "description_of_task": "Evaluate the significance of given historical events and provide a reasoned explanation for your evaluation.",
+    "capability_being_measured": "historical knowledge, reasoning, critical thinking",
+    "estimated_human_difficulty": "4"
+}

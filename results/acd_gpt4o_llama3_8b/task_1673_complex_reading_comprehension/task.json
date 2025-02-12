@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_reading_comprehension",
+    "description_of_task": "Answer multiple-choice questions based on complex reading passages and provide explanations for your choices.",
+    "capability_being_measured": "reading comprehension, logical reasoning, inference",
+    "estimated_human_difficulty": "4"
+}

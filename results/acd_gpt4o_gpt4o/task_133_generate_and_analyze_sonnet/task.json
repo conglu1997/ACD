@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_analyze_sonnet",
+    "description_of_task": "Generate a Shakespearean sonnet based on a given theme and analyze an existing sonnet.",
+    "capability_being_measured": "creativity, linguistic skills, structural understanding",
+    "estimated_human_difficulty": "4"
+}

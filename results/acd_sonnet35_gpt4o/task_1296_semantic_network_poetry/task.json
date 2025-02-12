@@ -1,0 +1,6 @@
+{
+    "name_of_task": "semantic_network_poetry",
+    "description_of_task": "Analyze a given text to create a semantic network, then use this network to generate a poem that captures the essence of the original text",
+    "capability_being_measured": "natural language processing, semantic analysis, creative writing, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_interpretation_creation",
+    "description_of_task": "Interpret a given poem and create a new poem based on provided themes and constraints.",
+    "capability_being_measured": "creativity, linguistic skill, literary analysis",
+    "estimated_human_difficulty": "4"
+}

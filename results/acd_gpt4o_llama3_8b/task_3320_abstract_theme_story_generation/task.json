@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_theme_story_generation",
+    "description_of_task": "Generate a coherent and engaging short story based on a given abstract theme. The story should capture the essence of the theme and be creatively written.",
+    "capability_being_measured": "creativity, narrative generation, abstract reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_narrative_generation",
+    "description_of_task": "Generate detailed and contextually accurate narratives based on specific historical events or cultural settings.",
+    "capability_being_measured": "historical knowledge, cultural understanding, creative writing",
+    "estimated_human_difficulty": "4"
+}

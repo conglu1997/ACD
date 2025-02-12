@@ -1,0 +1,6 @@
+{
+    "name_of_task": "game_rule_explanation_and_strategy",
+    "description_of_task": "Understand and explain the rules of a given game, then make a strategic move based on the current state of the game.",
+    "capability_being_measured": "comprehension, strategic thinking, rule-based reasoning",
+    "estimated_human_difficulty": "4"
+}

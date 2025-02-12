@@ -1,0 +1,6 @@
+{
+    "name_of_task": "empathetic_responses",
+    "description_of_task": "Generate empathetic responses to given social scenarios, testing the model's understanding and expression of human emotions.",
+    "capability_being_measured": "emotional intelligence, social reasoning, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

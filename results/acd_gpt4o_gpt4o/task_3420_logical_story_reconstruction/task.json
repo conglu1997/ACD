@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_story_reconstruction",
+    "description_of_task": "Reconstruct a coherent story from a set of disjointed sentences or events.",
+    "capability_being_measured": "logical reasoning, narrative comprehension, linguistic creativity",
+    "estimated_human_difficulty": "3"
+}

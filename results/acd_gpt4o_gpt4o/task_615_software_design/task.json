@@ -1,0 +1,6 @@
+{
+    "name_of_task": "software_design",
+    "description_of_task": "Design and explain a software system based on given requirements.",
+    "capability_being_measured": "software design, architectural understanding, technical explanation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "describe_emoji_pattern",
+    "description_of_task": "Interpret and describe visual patterns presented as emoji sequences.",
+    "capability_being_measured": "visual pattern recognition, descriptive ability, symbolic reasoning",
+    "estimated_human_difficulty": "3"
+}

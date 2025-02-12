@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_to_equation",
+    "description_of_task": "Translate idiomatic expressions into mathematical equations and solve them.",
+    "capability_being_measured": "linguistic understanding, cultural knowledge, mathematical reasoning, and creative problem-solving",
+    "estimated_human_difficulty": "4"
+}

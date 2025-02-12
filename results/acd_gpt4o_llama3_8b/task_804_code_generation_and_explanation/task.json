@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_explanation",
+    "description_of_task": "Generate code to solve a specific problem and explain how the code works.",
+    "capability_being_measured": "programming skills, comprehension, communication",
+    "estimated_human_difficulty": "4"
+}

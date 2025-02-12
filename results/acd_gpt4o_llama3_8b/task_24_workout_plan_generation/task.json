@@ -1,0 +1,6 @@
+{
+    "name_of_task": "workout_plan_generation",
+    "description_of_task": "Generate a detailed workout plan based on given fitness goals and constraints.",
+    "capability_being_measured": "knowledge, logical sequencing, and creativity",
+    "estimated_human_difficulty": "4"
+}

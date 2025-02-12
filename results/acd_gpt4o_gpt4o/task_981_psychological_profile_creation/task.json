@@ -1,0 +1,6 @@
+{
+    "name_of_task": "psychological_profile_creation",
+    "description_of_task": "Create a detailed psychological profile for a fictional character based on given traits.",
+    "capability_being_measured": "psychological understanding, empathy, creativity",
+    "estimated_human_difficulty": "4"
+}

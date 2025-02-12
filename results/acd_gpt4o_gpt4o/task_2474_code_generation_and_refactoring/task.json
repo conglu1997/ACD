@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_refactoring",
+    "description_of_task": "Generate code snippets based on given constraints and refactor existing code to improve efficiency or readability.",
+    "capability_being_measured": "programming knowledge, syntax understanding, code generation, refactoring",
+    "estimated_human_difficulty": "4"
+}

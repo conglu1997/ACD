@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_creation_and_explanation",
+    "description_of_task": "Create a pun based on a given prompt and explain the humor behind it.",
+    "capability_being_measured": "linguistic creativity, understanding of wordplay, cultural awareness",
+    "estimated_human_difficulty": "4"
+}

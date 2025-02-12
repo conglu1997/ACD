@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_concept_translation",
+    "description_of_task": "Translate abstract concepts across different modalities of human expression (e.g., verbal, visual, auditory, kinesthetic) and analyze the cognitive implications of these translations.",
+    "capability_being_measured": "multimodal reasoning, abstract concept manipulation, interdisciplinary synthesis, and creative problem-solving",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation",
+    "description_of_task": "Create a detailed recipe based on given constraints, including specified ingredients, cuisine type, and dietary requirements.",
+    "capability_being_measured": "creativity, procedural knowledge, language fluency, attention to detail",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "adaptive_narrative_intelligence",
+    "description_of_task": "Design and implement an AI system that generates and analyzes adaptive narratives based on reader emotions and cultural contexts, then use the system to create a story that evolves as it's being told.",
+    "capability_being_measured": "creative writing, emotional intelligence, cultural awareness, and adaptive storytelling",
+    "estimated_human_difficulty": "5"
+}

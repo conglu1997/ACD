@@ -1,0 +1,6 @@
+{
+    "name_of_task": "microfiction_creation",
+    "description_of_task": "Generate a microfiction story based on a given theme and constraint.",
+    "capability_being_measured": "creativity, narrative understanding, language generation",
+    "estimated_human_difficulty": "3"
+}

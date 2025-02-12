@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_music",
+    "description_of_task": "Generate musical notation based on given descriptions or constraints.",
+    "capability_being_measured": "symbolic reasoning, creativity, auditory understanding",
+    "estimated_human_difficulty": "4"
+}

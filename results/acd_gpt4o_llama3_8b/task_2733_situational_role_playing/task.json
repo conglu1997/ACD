@@ -1,0 +1,6 @@
+{
+    "name_of_task": "situational_role_playing",
+    "description_of_task": "Generate contextually appropriate and detailed responses based on given roles and scenarios.",
+    "capability_being_measured": "empathy, social understanding, creativity, character consistency",
+    "estimated_human_difficulty": "4"
+}

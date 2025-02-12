@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_contract_generation",
+    "description_of_task": "Generate a legal contract based on given requirements and constraints.",
+    "capability_being_measured": "legal language generation, comprehension, precision",
+    "estimated_human_difficulty": "5"
+}

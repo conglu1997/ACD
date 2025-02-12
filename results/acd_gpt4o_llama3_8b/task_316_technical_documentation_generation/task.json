@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation_generation",
+    "description_of_task": "Generate technical documentation based on a given code snippet or software feature description.",
+    "capability_being_measured": "technical comprehension, clarity, structured content generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proof_verification",
+    "description_of_task": "Verify the correctness of a given mathematical proof by identifying any logical errors or confirming its validity.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, attention to detail",
+    "estimated_human_difficulty": "4"
+}

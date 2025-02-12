@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiomatic_translation",
+    "description_of_task": "Translate idiomatic expressions from one language to another, ensuring the meaning and cultural context are preserved.",
+    "capability_being_measured": "linguistic understanding, translation skills, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

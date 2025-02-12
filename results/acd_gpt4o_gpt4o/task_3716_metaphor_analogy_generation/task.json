@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_analogy_generation",
+    "description_of_task": "Generate appropriate metaphors or analogies based on given concepts and contexts.",
+    "capability_being_measured": "abstract thinking, creativity, linguistic expression",
+    "estimated_human_difficulty": "3"
+}

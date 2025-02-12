@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_interpretation",
+    "description_of_task": "Interpret and generate descriptions of musical notations, including notes, rhythms, and dynamics.",
+    "capability_being_measured": "symbolic reasoning, domain-specific knowledge, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

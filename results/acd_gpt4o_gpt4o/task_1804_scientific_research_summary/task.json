@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_research_summary",
+    "description_of_task": "Read and summarize scientific research articles.",
+    "capability_being_measured": "comprehension, summarization, scientific understanding",
+    "estimated_human_difficulty": "4"
+}

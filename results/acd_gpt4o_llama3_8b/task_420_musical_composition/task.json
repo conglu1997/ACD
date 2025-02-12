@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Generate a musical composition based on given themes and constraints.",
+    "capability_being_measured": "creativity, knowledge of musical theory, structured text generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_argumentation",
+    "description_of_task": "Generate a coherent scientific argument based on given data and critique an argument provided.",
+    "capability_being_measured": "scientific reasoning, critical thinking, argumentation",
+    "estimated_human_difficulty": "4"
+}

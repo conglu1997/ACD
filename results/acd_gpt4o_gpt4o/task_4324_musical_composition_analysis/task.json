@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_analysis",
+    "description_of_task": "Analyze a given musical composition, identifying key elements and providing a critical evaluation of the piece.",
+    "capability_being_measured": "music theory understanding, creative analysis, linguistic articulation",
+    "estimated_human_difficulty": "4"
+}

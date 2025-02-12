@@ -1,0 +1,6 @@
+{
+    "name_of_task": "formal_logic_proofs",
+    "description_of_task": "Generate a formal proof for a given logical statement and verify the validity of a provided proof.",
+    "capability_being_measured": "logical reasoning, knowledge of formal logic structures, attention to detail",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_snippet_completion",
+    "description_of_task": "Complete given code snippets to achieve specified functionality based on descriptions.",
+    "capability_being_measured": "technical knowledge, logical structuring, practical application",
+    "estimated_human_difficulty": "4"
+}

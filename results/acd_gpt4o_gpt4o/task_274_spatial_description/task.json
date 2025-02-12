@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_description",
+    "description_of_task": "Describe a given spatial layout or scene and predict changes based on specified actions.",
+    "capability_being_measured": "spatial reasoning, descriptive ability, understanding of spatial relationships",
+    "estimated_human_difficulty": "3"
+}

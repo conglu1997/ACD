@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_scientific_theory_generation",
+    "description_of_task": "Generate and analyze fictional scientific theories using specific linguistic constraints, then evaluate their plausibility and potential implications.",
+    "capability_being_measured": "scientific reasoning, linguistic creativity, analytical thinking, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

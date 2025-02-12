@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proofs",
+    "description_of_task": "Generate or complete a mathematical proof for a given theorem or problem.",
+    "capability_being_measured": "logical reasoning, formal language comprehension, structured thinking",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pattern_extension",
+    "description_of_task": "Extend a given sequence of numbers or characters by identifying the underlying pattern.",
+    "capability_being_measured": "logical reasoning and pattern recognition",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphorical_translation",
+    "description_of_task": "Translate given metaphorical or symbolic language into literal descriptions or explanations.",
+    "capability_being_measured": "abstract thinking, language comprehension, creative interpretation",
+    "estimated_human_difficulty": "3"
+}

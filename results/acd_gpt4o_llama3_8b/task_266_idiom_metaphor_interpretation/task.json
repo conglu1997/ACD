@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_metaphor_interpretation",
+    "description_of_task": "Interpret the given idioms and metaphors, explaining their meanings in a clear and concise manner.",
+    "capability_being_measured": "language comprehension, contextual reasoning",
+    "estimated_human_difficulty": "3"
+}

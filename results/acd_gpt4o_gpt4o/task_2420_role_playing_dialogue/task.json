@@ -1,0 +1,6 @@
+{
+    "name_of_task": "role_playing_dialogue",
+    "description_of_task": "Engage in a multi-turn dialogue while maintaining a specific persona or role.",
+    "capability_being_measured": "conversational skills, context management, coherence, creativity, social understanding",
+    "estimated_human_difficulty": "4"
+}

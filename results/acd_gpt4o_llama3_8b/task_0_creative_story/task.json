@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_story",
+    "description_of_task": "Generate a short creative story based on a given prompt.",
+    "capability_being_measured": "creativity",
+    "estimated_human_difficulty": "3"
+}

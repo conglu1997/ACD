@@ -1,0 +1,6 @@
+{
+    "name_of_task": "joke_generation_and_comprehension",
+    "description_of_task": "Generate jokes based on given prompts and identify the punchline in a provided joke.",
+    "capability_being_measured": "creative language skills, understanding of wordplay, humor comprehension",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_bias_identification_and_generation",
+    "description_of_task": "Identify cognitive biases in provided scenarios and generate examples of specific cognitive biases.",
+    "capability_being_measured": "knowledge, logical reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

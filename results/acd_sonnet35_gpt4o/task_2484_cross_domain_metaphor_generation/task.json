@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_metaphor_generation",
+    "description_of_task": "Generate and analyze metaphors that bridge concepts from different scientific domains, exploring the AI's ability to understand and creatively connect diverse areas of knowledge.",
+    "capability_being_measured": "interdisciplinary knowledge integration, creative thinking, linguistic understanding, and abstract reasoning",
+    "estimated_human_difficulty": "5"
+}

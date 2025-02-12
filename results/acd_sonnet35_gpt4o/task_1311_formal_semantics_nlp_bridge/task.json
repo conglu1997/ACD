@@ -1,0 +1,6 @@
+{
+    "name_of_task": "formal_semantics_nlp_bridge",
+    "description_of_task": "Design and implement a system that bridges formal semantics theory with practical natural language processing applications, focusing on compositional semantics and inference",
+    "capability_being_measured": "understanding of formal semantics, logical reasoning, computational linguistics, and practical NLP application",
+    "estimated_human_difficulty": "5"
+}

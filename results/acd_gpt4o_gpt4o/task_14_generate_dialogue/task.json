@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_dialogue",
+    "description_of_task": "Generate a coherent and engaging dialogue based on a given scenario and characters.",
+    "capability_being_measured": "creativity, context understanding, dialogue generation",
+    "estimated_human_difficulty": "4"
+}

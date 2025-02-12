@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_source_synthesis",
+    "description_of_task": "Read multiple source articles on a given topic and write a comprehensive summary that captures the key points from each source.",
+    "capability_being_measured": "information synthesis, summarization, comprehension",
+    "estimated_human_difficulty": "4"
+}

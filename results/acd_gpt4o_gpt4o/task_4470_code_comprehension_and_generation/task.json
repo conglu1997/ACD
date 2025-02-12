@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_comprehension_and_generation",
+    "description_of_task": "Understand, debug, and generate functional code based on given specifications.",
+    "capability_being_measured": "programming knowledge, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

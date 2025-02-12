@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_summary_extraction",
+    "description_of_task": "Extract key points from a given text and provide a concise summary.",
+    "capability_being_measured": "comprehension, summarization, information extraction",
+    "estimated_human_difficulty": "3"
+}

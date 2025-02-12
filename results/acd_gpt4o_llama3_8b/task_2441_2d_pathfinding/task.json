@@ -1,0 +1,6 @@
+{
+    "name_of_task": "2d_pathfinding",
+    "description_of_task": "Find the shortest path from a start point to an endpoint on a 2D grid with obstacles.",
+    "capability_being_measured": "spatial reasoning and pathfinding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_interpretation",
+    "description_of_task": "Describe and interpret a given artwork based on provided visual details.",
+    "capability_being_measured": "creativity, cultural knowledge, descriptive language",
+    "estimated_human_difficulty": "4"
+}

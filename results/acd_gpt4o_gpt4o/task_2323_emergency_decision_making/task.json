@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emergency_decision_making",
+    "description_of_task": "Make optimal decisions in a simulated emergency situation, considering multiple constraints and priorities.",
+    "capability_being_measured": "dynamic problem-solving, prioritization, constraint satisfaction",
+    "estimated_human_difficulty": "4"
+}

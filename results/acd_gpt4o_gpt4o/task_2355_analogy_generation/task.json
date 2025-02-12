@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation",
+    "description_of_task": "Generate analogies based on given criteria, showcasing understanding of relationships between different concepts.",
+    "capability_being_measured": "creativity, linguistic skills, conceptual understanding",
+    "estimated_human_difficulty": "3"
+}

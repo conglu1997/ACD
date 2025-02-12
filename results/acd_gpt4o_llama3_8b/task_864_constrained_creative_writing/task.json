@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_creative_writing",
+    "description_of_task": "Generate a short story based on given constraints and in a specified style.",
+    "capability_being_measured": "creativity, linguistic flexibility, understanding of writing styles",
+    "estimated_human_difficulty": "4"
+}

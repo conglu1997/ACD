@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_critique_and_interpretation",
+    "description_of_task": "Generate a critique of a given artwork and interpret the style and meaning of a provided art description.",
+    "capability_being_measured": "artistic understanding, cultural knowledge, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiomatic_interpretation_generation",
+    "description_of_task": "Interpret given idiomatic expressions in context and generate new idioms based on provided scenarios.",
+    "capability_being_measured": "linguistic adaptability, cultural understanding, creative language generation",
+    "estimated_human_difficulty": "4"
+}

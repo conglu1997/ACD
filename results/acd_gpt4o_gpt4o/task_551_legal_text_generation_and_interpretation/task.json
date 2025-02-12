@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_generation_and_interpretation",
+    "description_of_task": "Draft a legal contract based on given requirements and interpret a legal scenario to provide appropriate legal advice.",
+    "capability_being_measured": "legal knowledge, text generation, comprehension, problem-solving",
+    "estimated_human_difficulty": "5"
+}

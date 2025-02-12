@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_dialogue_generation",
+    "description_of_task": "Generate dialogues that appropriately express and respond to given emotional scenarios.",
+    "capability_being_measured": "emotional intelligence, empathy, narrative skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "classical_cipher_operations",
+    "description_of_task": "Encode or decode a message using classical ciphers, ensuring the steps are clear, logical, and follow the specified cipher method.",
+    "capability_being_measured": "cryptography, logical reasoning, attention to detail",
+    "estimated_human_difficulty": "4"
+}

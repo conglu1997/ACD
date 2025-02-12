@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_metaphor_generation",
+    "description_of_task": "Generate complex metaphors that illustrate connections between abstract concepts and provide detailed explanations for the metaphors.",
+    "capability_being_measured": "creativity, language understanding, abstract thinking",
+    "estimated_human_difficulty": "4"
+}

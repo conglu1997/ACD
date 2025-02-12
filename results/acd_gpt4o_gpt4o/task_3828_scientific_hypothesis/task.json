@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis",
+    "description_of_task": "Interpret scientific data, generate hypotheses, and design experiments to test the hypotheses.",
+    "capability_being_measured": "scientific reasoning, data interpretation, experimental design",
+    "estimated_human_difficulty": "4"
+}

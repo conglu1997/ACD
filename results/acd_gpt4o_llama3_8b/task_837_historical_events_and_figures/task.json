@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_events_and_figures",
+    "description_of_task": "Analyze a given historical event and create a hypothetical scenario involving historical figures.",
+    "capability_being_measured": "historical knowledge, creativity, analytical thinking",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_interpretation_and_simplification",
+    "description_of_task": "Interpret complex legal documents and generate simplified summaries to assess understanding of legal language, concepts, and ability to communicate clearly.",
+    "capability_being_measured": "legal understanding, language simplification, communication",
+    "estimated_human_difficulty": "4"
+}

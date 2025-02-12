@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Interpret given musical pieces and generate new compositions based on specified themes and structures.",
+    "capability_being_measured": "musical understanding, creativity, adherence to musical theory",
+    "estimated_human_difficulty": "5"
+}

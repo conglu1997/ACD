@@ -1,0 +1,6 @@
+{
+    "name_of_task": "optimization_problems",
+    "description_of_task": "Solve given optimization problems by finding the optimal solution based on the constraints and objective function provided.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, logical thinking",
+    "estimated_human_difficulty": "5"
+}

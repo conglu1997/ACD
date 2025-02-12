@@ -1,0 +1,6 @@
+{
+    "name_of_task": "future_event_prediction",
+    "description_of_task": "Predict plausible future events based on current trends and provide a coherent narrative or explanation of how these events might unfold.",
+    "capability_being_measured": "understanding of current events, logical reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

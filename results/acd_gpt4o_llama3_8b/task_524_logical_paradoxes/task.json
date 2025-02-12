@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_paradoxes",
+    "description_of_task": "Analyze and generate logical paradoxes based on given prompts.",
+    "capability_being_measured": "logical reasoning, creativity, consistency",
+    "estimated_human_difficulty": "5"
+}

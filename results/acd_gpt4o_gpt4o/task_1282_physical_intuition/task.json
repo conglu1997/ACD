@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_intuition",
+    "description_of_task": "Predict the outcomes of simple physical experiments or explain physical phenomena based on given scenarios.",
+    "capability_being_measured": "physical reasoning, spatial understanding, logical reasoning",
+    "estimated_human_difficulty": "3"
+}

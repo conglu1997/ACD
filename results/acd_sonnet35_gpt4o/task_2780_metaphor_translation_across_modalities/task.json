@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_translation_across_modalities",
+    "description_of_task": "Design and implement an AI system that can understand metaphors in one sensory modality and translate them into equivalent metaphors in another modality.",
+    "capability_being_measured": "cross-modal reasoning, metaphor comprehension, and creative language generation",
+    "estimated_human_difficulty": "5"
+}

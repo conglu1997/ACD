@@ -1,0 +1,6 @@
+{
+    "name_of_task": "language_style_transformation",
+    "description_of_task": "Convert text from one writing style to another based on given specifications.",
+    "capability_being_measured": "linguistic skills, attention to detail, context understanding",
+    "estimated_human_difficulty": "4"
+}

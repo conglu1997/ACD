@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_and_theory",
+    "description_of_task": "Interpret given musical notations and generate new musical notations based on specific criteria.",
+    "capability_being_measured": "music theory understanding, creativity, structured data interpretation",
+    "estimated_human_difficulty": "4"
+}

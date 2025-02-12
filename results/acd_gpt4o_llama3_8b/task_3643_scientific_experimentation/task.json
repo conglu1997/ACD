@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experimentation",
+    "description_of_task": "Provide detailed explanations and step-by-step procedures for conducting scientific experiments based on given prompts.",
+    "capability_being_measured": "scientific knowledge, procedural reasoning, clear communication",
+    "estimated_human_difficulty": "4"
+}

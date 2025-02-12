@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_analysis",
+    "description_of_task": "Generate a musical composition based on given criteria and analyze an existing musical piece.",
+    "capability_being_measured": "creativity, pattern recognition, musical theory knowledge",
+    "estimated_human_difficulty": "4"
+}

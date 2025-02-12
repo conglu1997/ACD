@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_translation",
+    "description_of_task": "Translate code between different programming languages while preserving functionality and correctness.",
+    "capability_being_measured": "programming knowledge, code translation, syntax understanding",
+    "estimated_human_difficulty": "4"
+}

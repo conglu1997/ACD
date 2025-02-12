@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning_interpretation",
+    "description_of_task": "Interpret legal texts and apply legal principles to hypothetical scenarios.",
+    "capability_being_measured": "logical reasoning, language understanding, specialized knowledge (legal)",
+    "estimated_human_difficulty": "5"
+}

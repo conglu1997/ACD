@@ -1,0 +1,6 @@
+{
+    "name_of_task": "climate_data_visualization_prediction",
+    "description_of_task": "Design and implement a data visualization and predictive modeling system for complex climate phenomena, incorporating multiple data sources and uncertainty quantification.",
+    "capability_being_measured": "data analysis, scientific visualization, predictive modeling, and interdisciplinary knowledge integration",
+    "estimated_human_difficulty": "5"
+}

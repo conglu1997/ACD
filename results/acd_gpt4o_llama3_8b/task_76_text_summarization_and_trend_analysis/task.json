@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_summarization_and_trend_analysis",
+    "description_of_task": "Summarize large text data and identify key trends or patterns within the provided text.",
+    "capability_being_measured": "comprehension, synthesis, and analytical skills",
+    "estimated_human_difficulty": "4"
+}

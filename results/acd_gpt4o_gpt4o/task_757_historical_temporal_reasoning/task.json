@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_temporal_reasoning",
+    "description_of_task": "Determine the chronological order of historical events and provide a brief explanation of their significance.",
+    "capability_being_measured": "temporal reasoning, historical knowledge, logical coherence",
+    "estimated_human_difficulty": "4"
+}

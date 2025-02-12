@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_process_explanation",
+    "description_of_task": "Describe the steps to complete or troubleshoot a given technical process.",
+    "capability_being_measured": "procedural knowledge, instructional clarity",
+    "estimated_human_difficulty": "3"
+}

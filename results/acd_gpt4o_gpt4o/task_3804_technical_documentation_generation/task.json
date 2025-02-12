@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation_generation",
+    "description_of_task": "Generate and interpret technical documentation in a specified domain, ensuring clarity, accuracy, and adherence to domain-specific conventions.",
+    "capability_being_measured": "domain-specific knowledge, technical writing, comprehension",
+    "estimated_human_difficulty": "4"
+}

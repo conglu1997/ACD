@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_documentation",
+    "description_of_task": "Generate detailed technical documentation for a hypothetical scientific experiment, including methodology, data analysis, and conclusions.",
+    "capability_being_measured": "technical writing, scientific reasoning, structured information generation",
+    "estimated_human_difficulty": "4"
+}

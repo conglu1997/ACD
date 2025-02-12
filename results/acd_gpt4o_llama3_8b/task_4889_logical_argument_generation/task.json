@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_argument_generation",
+    "description_of_task": "Generate logical arguments based on provided premises.",
+    "capability_being_measured": "logical reasoning, coherence, argumentation",
+    "estimated_human_difficulty": "4"
+}

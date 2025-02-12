@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_transformation_analysis",
+    "description_of_task": "Perform specified transformations and analyses on a given dataset.",
+    "capability_being_measured": "data comprehension, logical reasoning, and data manipulation",
+    "estimated_human_difficulty": "4"
+}

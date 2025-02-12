@@ -1,0 +1,6 @@
+{
+    "name_of_task": "proverb_cultural_origin",
+    "description_of_task": "Identify the country or culture of origin for a given proverb and explain its meaning.",
+    "capability_being_measured": "cross-cultural knowledge, language understanding",
+    "estimated_human_difficulty": "3"
+}

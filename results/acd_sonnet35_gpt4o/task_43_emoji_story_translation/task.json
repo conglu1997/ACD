@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emoji_story_translation",
+    "description_of_task": "Interpret an emoji-based story and translate it into a written narrative, then create a new emoji story based on a given theme.",
+    "capability_being_measured": "visual language interpretation, cultural knowledge, creative storytelling, and cross-modal translation",
+    "estimated_human_difficulty": "4"
+}

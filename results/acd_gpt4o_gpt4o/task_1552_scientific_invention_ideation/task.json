@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_invention_ideation",
+    "description_of_task": "Generate innovative and feasible ideas for scientific inventions based on given parameters.",
+    "capability_being_measured": "creativity, scientific knowledge, practical application",
+    "estimated_human_difficulty": "4"
+}

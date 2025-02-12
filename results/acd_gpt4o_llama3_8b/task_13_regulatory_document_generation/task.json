@@ -1,0 +1,6 @@
+{
+    "name_of_task": "regulatory_document_generation",
+    "description_of_task": "Generate regulatory or legal documents based on given requirements.",
+    "capability_being_measured": "complex rule comprehension and application",
+    "estimated_human_difficulty": "5"
+}

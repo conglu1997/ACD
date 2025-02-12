@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_exercise_instructions",
+    "description_of_task": "Generate detailed instructions for performing a given physical exercise.",
+    "capability_being_measured": "real-world knowledge, descriptive ability",
+    "estimated_human_difficulty": "3"
+}

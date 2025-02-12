@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation",
+    "description_of_task": "Generate creative metaphors based on given concepts.",
+    "capability_being_measured": "creativity, language understanding, abstract thinking",
+    "estimated_human_difficulty": "4"
+}

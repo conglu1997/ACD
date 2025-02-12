@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_analysis_and_generation",
+    "description_of_task": "Analyze legal documents to extract key provisions and generate simple legal agreements based on given requirements.",
+    "capability_being_measured": "comprehension, attention to detail, formal writing",
+    "estimated_human_difficulty": "4"
+}

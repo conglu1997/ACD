@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_music_cipher",
+    "description_of_task": "Create a musical cipher based on mathematical principles, then use it to encode and decode messages.",
+    "capability_being_measured": "pattern recognition, abstract reasoning, and cross-domain knowledge application in music theory, mathematics, and cryptography",
+    "estimated_human_difficulty": "5"
+}

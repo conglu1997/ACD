@@ -1,0 +1,6 @@
+{
+    "name_of_task": "identify_security_vulnerabilities",
+    "description_of_task": "Identify and explain security vulnerabilities in a given piece of code.",
+    "capability_being_measured": "technical knowledge, critical thinking, cybersecurity awareness",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_information_processing",
+    "description_of_task": "Interpret and generate medical information accurately based on provided context.",
+    "capability_being_measured": "natural language understanding, domain-specific knowledge, accuracy",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "optical_illusion_generation_recognition",
+    "description_of_task": "Generate descriptions of optical illusions and recognize the visual phenomena from given descriptions.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive language, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

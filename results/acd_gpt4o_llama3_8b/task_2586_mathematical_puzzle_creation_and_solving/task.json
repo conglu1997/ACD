@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_puzzle_creation_and_solving",
+    "description_of_task": "Create a mathematical puzzle based on given rules and then solve a different puzzle created by another agent.",
+    "capability_being_measured": "creativity, logical reasoning, mathematical understanding",
+    "estimated_human_difficulty": "5"
+}

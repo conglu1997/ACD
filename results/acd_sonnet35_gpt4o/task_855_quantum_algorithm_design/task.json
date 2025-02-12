@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_algorithm_design",
+    "description_of_task": "Design a novel quantum algorithm to solve a specific computational problem, analyze its complexity, and compare it to classical algorithms.",
+    "capability_being_measured": "understanding of quantum computing principles, algorithm design skills, complexity analysis, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

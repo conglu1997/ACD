@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_idiom_translation",
+    "description_of_task": "Translate given idiomatic expressions from one culture to another while retaining their intended meaning and contextual appropriateness.",
+    "capability_being_measured": "semantic understanding, contextual adaptation, cross-cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

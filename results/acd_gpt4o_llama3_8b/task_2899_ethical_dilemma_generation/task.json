@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_dilemma_generation",
+    "description_of_task": "Generate a coherent and plausible scenario for a given ethical dilemma, including the perspectives of different stakeholders.",
+    "capability_being_measured": "moral reasoning, empathy, narrative construction",
+    "estimated_human_difficulty": "4"
+}

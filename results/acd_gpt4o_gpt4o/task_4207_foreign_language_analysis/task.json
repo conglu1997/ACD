@@ -1,0 +1,6 @@
+{
+    "name_of_task": "foreign_language_analysis",
+    "description_of_task": "Perform linguistic analysis and manipulation tasks in a specified foreign language.",
+    "capability_being_measured": "multilingual proficiency, linguistic analysis, text manipulation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "murder_mystery_analysis",
+    "description_of_task": "Analyze a murder mystery scenario, identify the culprit, and explain the reasoning behind the conclusion.",
+    "capability_being_measured": "logical reasoning, scenario analysis, context comprehension",
+    "estimated_human_difficulty": "4"
+}

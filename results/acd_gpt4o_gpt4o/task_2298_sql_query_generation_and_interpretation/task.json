@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sql_query_generation_and_interpretation",
+    "description_of_task": "Generate SQL queries based on given requirements and interpret the output of provided SQL queries.",
+    "capability_being_measured": "technical skills, logical reasoning, database knowledge",
+    "estimated_human_difficulty": "4"
+}

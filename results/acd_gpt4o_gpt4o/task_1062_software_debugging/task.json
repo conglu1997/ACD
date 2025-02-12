@@ -1,0 +1,6 @@
+{
+    "name_of_task": "software_debugging",
+    "description_of_task": "Identify and correct errors in given pieces of code.",
+    "capability_being_measured": "comprehension, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

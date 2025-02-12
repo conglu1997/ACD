@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_generation",
+    "description_of_task": "Generate a short musical composition based on given criteria and recognize musical patterns in a provided composition.",
+    "capability_being_measured": "creativity, pattern recognition, knowledge of music theory",
+    "estimated_human_difficulty": "4"
+}

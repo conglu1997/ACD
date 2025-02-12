@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_scenario_analysis",
+    "description_of_task": "Analyze a historical event and provide a detailed alternative scenario based on a specified change to the original event.",
+    "capability_being_measured": "historical knowledge, creative thinking, complex reasoning",
+    "estimated_human_difficulty": "4"
+}

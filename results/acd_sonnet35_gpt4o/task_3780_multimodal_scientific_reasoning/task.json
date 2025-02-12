@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_scientific_reasoning",
+    "description_of_task": "Design an AI system capable of analyzing and interpreting multimodal scientific data to solve complex interdisciplinary problems, then apply it to a specific scenario.",
+    "capability_being_measured": "multimodal information integration, scientific reasoning, problem-solving, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

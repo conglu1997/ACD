@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_recognition_and_generation",
+    "description_of_task": "Recognize the punchline of a joke and generate a joke based on given criteria.",
+    "capability_being_measured": "humor, creativity, cultural knowledge, linguistic understanding",
+    "estimated_human_difficulty": "3"
+}

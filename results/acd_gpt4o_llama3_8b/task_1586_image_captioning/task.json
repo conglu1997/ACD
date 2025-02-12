@@ -1,0 +1,6 @@
+{
+    "name_of_task": "image_captioning",
+    "description_of_task": "Generate an appropriate caption for a described image, ensuring the caption is coherent with the image description and captures the essence of the scene.",
+    "capability_being_measured": "multimodal understanding, creativity, language generation",
+    "estimated_human_difficulty": "3"
+}

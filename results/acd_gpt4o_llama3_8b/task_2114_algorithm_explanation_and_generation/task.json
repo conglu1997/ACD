@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algorithm_explanation_and_generation",
+    "description_of_task": "Generate and explain basic programming algorithms based on given prompts.",
+    "capability_being_measured": "technical knowledge, logical reasoning, coherent text generation",
+    "estimated_human_difficulty": "4"
+}

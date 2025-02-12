@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_creation",
+    "description_of_task": "Generate descriptive step-by-step instructions for drawing scenes or objects.",
+    "capability_being_measured": "creativity, spatial reasoning, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

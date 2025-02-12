@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_puzzle_solving",
+    "description_of_task": "Solve a given geometric puzzle by determining the missing shape or completing the pattern.",
+    "capability_being_measured": "spatial reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

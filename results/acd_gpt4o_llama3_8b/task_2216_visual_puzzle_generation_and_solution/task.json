@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_puzzle_generation_and_solution",
+    "description_of_task": "Generate a visual puzzle based on given criteria and solve a provided visual puzzle, demonstrating spatial reasoning and pattern recognition.",
+    "capability_being_measured": "spatial reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

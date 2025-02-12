@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_statement_generation",
+    "description_of_task": "Generate financial statements based on given financial data and interpret provided financial statements to answer specific questions.",
+    "capability_being_measured": "numerical reasoning, linguistic comprehension, structured data handling",
+    "estimated_human_difficulty": "4"
+}

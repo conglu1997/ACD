@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_chemistry_drug_design",
+    "description_of_task": "Design a quantum chemistry-based AI system for rational drug design, focusing on targeting a specific protein implicated in a given disease.",
+    "capability_being_measured": "interdisciplinary knowledge integration, scientific reasoning, creative problem-solving, and understanding of quantum chemistry, computational biology, and AI system design",
+    "estimated_human_difficulty": "5"
+}

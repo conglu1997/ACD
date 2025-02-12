@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logic_puzzle_challenge",
+    "description_of_task": "Solve a given logic puzzle and generate a new logic puzzle with a solution.",
+    "capability_being_measured": "logical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_fiction_dialogue",
+    "description_of_task": "Generate a fictional dialogue between two historical figures who never met in real life.",
+    "capability_being_measured": "creativity, historical knowledge, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

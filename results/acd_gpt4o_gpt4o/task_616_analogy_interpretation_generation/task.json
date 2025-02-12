@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_interpretation_generation",
+    "description_of_task": "Interpret the meaning of a given analogy and create a new analogy with an explanation.",
+    "capability_being_measured": "linguistic creativity, understanding of abstract relationships, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

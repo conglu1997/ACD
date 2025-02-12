@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation_translation",
+    "description_of_task": "Translate musical notation into descriptive text and generate musical notation from descriptive text.",
+    "capability_being_measured": "multi-modal understanding, descriptive ability, musical knowledge",
+    "estimated_human_difficulty": "4"
+}

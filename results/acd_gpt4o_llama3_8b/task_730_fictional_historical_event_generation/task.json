@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_historical_event_generation",
+    "description_of_task": "Create a detailed fictional historical event and describe its impact on society.",
+    "capability_being_measured": "creativity, historical knowledge, narrative generation",
+    "estimated_human_difficulty": "4"
+}

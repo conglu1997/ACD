@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sensory_description",
+    "description_of_task": "Generate vivid and detailed descriptions of taste and smell experiences based on given scenarios.",
+    "capability_being_measured": "creativity, descriptive ability, sensory comprehension",
+    "estimated_human_difficulty": "4"
+}

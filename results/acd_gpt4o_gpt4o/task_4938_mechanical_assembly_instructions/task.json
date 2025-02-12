@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mechanical_assembly_instructions",
+    "description_of_task": "Describe step-by-step instructions to assemble a simple mechanical object from a given set of parts.",
+    "capability_being_measured": "spatial reasoning, descriptive skills, sequential thinking",
+    "estimated_human_difficulty": "4"
+}

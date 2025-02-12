@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_generation_and_solution",
+    "description_of_task": "Generate a solvable puzzle based on given criteria and solve a provided puzzle, demonstrating logical reasoning and creativity.",
+    "capability_being_measured": "creativity, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

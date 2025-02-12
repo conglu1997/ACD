@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_translation",
+    "description_of_task": "Translate sentences between different languages while maintaining contextual accuracy and grammatical correctness.",
+    "capability_being_measured": "multilingual comprehension, translation, contextual understanding, grammatical correctness",
+    "estimated_human_difficulty": "2"
+}

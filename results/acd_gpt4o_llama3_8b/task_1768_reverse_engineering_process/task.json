@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering_process",
+    "description_of_task": "Analyze a final product and deduce the steps or components that led to its creation.",
+    "capability_being_measured": "analytical reasoning, comprehension, logical thinking",
+    "estimated_human_difficulty": "4"
+}

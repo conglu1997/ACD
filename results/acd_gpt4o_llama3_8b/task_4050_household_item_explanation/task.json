@@ -1,0 +1,6 @@
+{
+    "name_of_task": "household_item_explanation",
+    "description_of_task": "Explain how common household items work in a clear and accurate manner.",
+    "capability_being_measured": "practical knowledge, technical explanation, clarity of expression",
+    "estimated_human_difficulty": "3"
+}

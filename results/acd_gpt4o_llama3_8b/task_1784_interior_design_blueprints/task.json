@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interior_design_blueprints",
+    "description_of_task": "Create interior design blueprints for given spaces based on specified requirements and constraints, and explain the design choices made.",
+    "capability_being_measured": "creativity, spatial reasoning, practical knowledge, articulation of design choices",
+    "estimated_human_difficulty": "4"
+}

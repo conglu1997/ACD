@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_generation",
+    "description_of_task": "Generate and interpret simple musical notations based on given constraints.",
+    "capability_being_measured": "symbolic representation, pattern recognition, creativity, music theory understanding",
+    "estimated_human_difficulty": "3"
+}

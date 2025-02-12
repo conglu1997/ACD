@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_structuring",
+    "description_of_task": "Convert a detailed recipe text into a structured format and generate a detailed recipe text from a given structured format.",
+    "capability_being_measured": "procedural understanding, information extraction, language generation",
+    "estimated_human_difficulty": "3"
+}

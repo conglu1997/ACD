@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_art_creation",
+    "description_of_task": "Generate descriptions of how to create specific geometric shapes and patterns based on given constraints.",
+    "capability_being_measured": "creativity, spatial reasoning, geometric understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation_interpretation",
+    "description_of_task": "Interpret and generate simple music notation from/to textual descriptions of melody and rhythm.",
+    "capability_being_measured": "structured data understanding, creativity, cross-modal translation",
+    "estimated_human_difficulty": "4"
+}

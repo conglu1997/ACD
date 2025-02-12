@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scenario_to_json",
+    "description_of_task": "Convert a given scenario description into a structured JSON object according to specified requirements.",
+    "capability_being_measured": "data structuring, semantic understanding, attention to detail",
+    "estimated_human_difficulty": "3"
+}

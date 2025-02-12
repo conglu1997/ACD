@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_interpretation",
+    "description_of_task": "Generate analogies based on given pairs of concepts and interpret given analogies.",
+    "capability_being_measured": "reasoning, creativity, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

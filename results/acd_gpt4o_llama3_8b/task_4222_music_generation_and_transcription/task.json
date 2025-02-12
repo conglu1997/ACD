@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_generation_and_transcription",
+    "description_of_task": "Generate a short piece of music based on given criteria and transcribe a provided piece of music into musical notation.",
+    "capability_being_measured": "pattern recognition, creativity, understanding of musical theory",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "probabilistic_problem_solving",
+    "description_of_task": "Solve logical puzzles that involve uncertainty and probabilistic reasoning.",
+    "capability_being_measured": "logical reasoning, probabilistic reasoning, decision making under uncertainty",
+    "estimated_human_difficulty": "4"
+}

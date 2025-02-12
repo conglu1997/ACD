@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimedia_metadata_generation",
+    "description_of_task": "Generate relevant metadata for given multimedia content such as images, videos, or audio clips.",
+    "capability_being_measured": "comprehension, creativity, structured information generation",
+    "estimated_human_difficulty": "4"
+}

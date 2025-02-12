@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_puzzle_solving",
+    "description_of_task": "Solve puzzles involving spatial manipulation, such as rotating shapes to fit into a specific pattern or identifying the correct piece to complete a visual sequence.",
+    "capability_being_measured": "spatial reasoning, problem-solving, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

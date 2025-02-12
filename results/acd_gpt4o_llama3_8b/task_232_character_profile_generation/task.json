@@ -1,0 +1,6 @@
+{
+    "name_of_task": "character_profile_generation",
+    "description_of_task": "Generate a detailed character profile for use in fictional narratives based on given criteria.",
+    "capability_being_measured": "creativity, language understanding, structured information generation",
+    "estimated_human_difficulty": "4"
+}

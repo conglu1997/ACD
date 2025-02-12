@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_embedded_story_generation",
+    "description_of_task": "Generate a short story that includes embedded puzzles. The story should be engaging and the puzzles should be logically solvable within the narrative context.",
+    "capability_being_measured": "creativity, narrative construction, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

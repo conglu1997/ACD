@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_interpretation_and_narration",
+    "description_of_task": "Interpret a given description of a visual artwork and create a coherent narrative that aligns with the visual elements described.",
+    "capability_being_measured": "creativity, visual understanding, narrative generation",
+    "estimated_human_difficulty": "4"
+}

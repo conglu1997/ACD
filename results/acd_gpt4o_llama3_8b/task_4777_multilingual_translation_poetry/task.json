@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_translation_poetry",
+    "description_of_task": "Translate a given text between multiple languages and create a poem based on the translated text.",
+    "capability_being_measured": "multilingual translation, creativity, language understanding",
+    "estimated_human_difficulty": "5"
+}

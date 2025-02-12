@@ -1,0 +1,6 @@
+{
+    "name_of_task": "nested_instruction_following",
+    "description_of_task": "Follow a series of complex, nested instructions to complete a multi-step logical task.",
+    "capability_being_measured": "procedural thinking, attention to detail, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

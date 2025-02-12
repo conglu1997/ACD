@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Create a melody based on given constraints and interpret a given melody's emotional tone.",
+    "capability_being_measured": "musical creativity, pattern recognition, emotional interpretation",
+    "estimated_human_difficulty": "4"
+}

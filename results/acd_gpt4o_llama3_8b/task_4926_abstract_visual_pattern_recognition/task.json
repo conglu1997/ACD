@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_visual_pattern_recognition",
+    "description_of_task": "Identify or generate visual patterns based on a given set of abstract rules.",
+    "capability_being_measured": "abstract reasoning, pattern recognition, spatial reasoning",
+    "estimated_human_difficulty": "5"
+}

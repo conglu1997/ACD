@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_speech_generation",
+    "description_of_task": "Generate speeches emulating significant historical figures based on given contexts and events.",
+    "capability_being_measured": "historical knowledge, contextual understanding, language generation",
+    "estimated_human_difficulty": "4"
+}

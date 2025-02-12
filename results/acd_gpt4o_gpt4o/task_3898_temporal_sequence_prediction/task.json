@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_sequence_prediction",
+    "description_of_task": "Predict the next elements in a given temporal sequence based on observed patterns.",
+    "capability_being_measured": "temporal reasoning, pattern recognition, prediction",
+    "estimated_human_difficulty": "4"
+}

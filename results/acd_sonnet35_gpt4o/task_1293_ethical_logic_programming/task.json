@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_logic_programming",
+    "description_of_task": "Design a formal logical system for ethical reasoning based on a given philosophical framework, then implement it as a simple programming language or extension of an existing language.",
+    "capability_being_measured": "abstract reasoning, ethical understanding, formal logic skills, and programming ability",
+    "estimated_human_difficulty": "5"
+}

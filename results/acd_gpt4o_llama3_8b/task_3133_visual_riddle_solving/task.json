@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_riddle_solving",
+    "description_of_task": "Solve visual riddles based on textual descriptions of spatial and pattern-based problems.",
+    "capability_being_measured": "spatial reasoning, pattern recognition, logical deduction",
+    "estimated_human_difficulty": "4"
+}

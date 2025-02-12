@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_reasoning",
+    "description_of_task": "Interpret and reason about historical events and their implications.",
+    "capability_being_measured": "historical knowledge, reasoning, inference",
+    "estimated_human_difficulty": "3"
+}

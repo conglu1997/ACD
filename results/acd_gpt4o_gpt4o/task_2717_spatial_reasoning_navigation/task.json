@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_navigation",
+    "description_of_task": "Generate and interpret textual descriptions of spatial environments, routes, and positional relationships.",
+    "capability_being_measured": "spatial reasoning, comprehension, descriptive writing",
+    "estimated_human_difficulty": "4"
+}

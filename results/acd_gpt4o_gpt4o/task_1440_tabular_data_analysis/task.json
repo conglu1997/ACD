@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tabular_data_analysis",
+    "description_of_task": "Analyze and manipulate tabular data to generate insights or perform specified transformations.",
+    "capability_being_measured": "data interpretation, arithmetic operations, logical reasoning",
+    "estimated_human_difficulty": "3"
+}

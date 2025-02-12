@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_commenting",
+    "description_of_task": "Generate meaningful comments for given code snippets or generate code snippets based on provided comments.",
+    "capability_being_measured": "programming knowledge, natural language generation, comprehension",
+    "estimated_human_difficulty": "3"
+}

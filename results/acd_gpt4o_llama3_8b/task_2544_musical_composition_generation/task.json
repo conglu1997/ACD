@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_generation",
+    "description_of_task": "Generate a short musical composition based on given parameters and explain the choices behind the composition.",
+    "capability_being_measured": "creativity, pattern recognition, cultural knowledge",
+    "estimated_human_difficulty": "5"
+}

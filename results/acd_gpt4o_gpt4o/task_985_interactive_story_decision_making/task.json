@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_story_decision_making",
+    "description_of_task": "Engage in an interactive story where the agent must make decisions that influence the outcome, ensuring coherence and logical progression.",
+    "capability_being_measured": "decision-making, narrative coherence, adaptability",
+    "estimated_human_difficulty": "4"
+}

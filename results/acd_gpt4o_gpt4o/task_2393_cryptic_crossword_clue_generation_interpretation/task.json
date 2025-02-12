@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptic_crossword_clue_generation_interpretation",
+    "description_of_task": "Generate cryptic crossword clues based on given words and interpret given cryptic clues to find the correct answers.",
+    "capability_being_measured": "logical reasoning, language understanding, creativity",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_narrative_generation",
+    "description_of_task": "Generate a coherent and engaging long-form narrative based on given plot points and character descriptions.",
+    "capability_being_measured": "narrative coherence, creativity, long-form text generation",
+    "estimated_human_difficulty": "5"
+}

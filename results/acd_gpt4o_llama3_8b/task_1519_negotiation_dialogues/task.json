@@ -1,0 +1,6 @@
+{
+    "name_of_task": "negotiation_dialogues",
+    "description_of_task": "Generate a negotiation dialogue between two parties based on a given scenario.",
+    "capability_being_measured": "conversational skills, strategic thinking, empathy",
+    "estimated_human_difficulty": "4"
+}

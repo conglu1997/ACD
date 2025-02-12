@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_scene_description",
+    "description_of_task": "Describe and manipulate visual scenes based on given spatial relationships and constraints.",
+    "capability_being_measured": "spatial reasoning, visual imagination, logical thinking",
+    "estimated_human_difficulty": "4"
+}

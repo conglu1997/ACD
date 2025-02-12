@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_story_generation",
+    "description_of_task": "Generate an interactive story where the reader can make choices that affect the outcome.",
+    "capability_being_measured": "creativity, narrative consistency, branching logic",
+    "estimated_human_difficulty": "4"
+}

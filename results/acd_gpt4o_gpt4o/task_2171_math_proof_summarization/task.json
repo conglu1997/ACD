@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_proof_summarization",
+    "description_of_task": "Summarize complex mathematical proofs while maintaining the core logic and reasoning.",
+    "capability_being_measured": "mathematical knowledge, comprehension, summarization",
+    "estimated_human_difficulty": "5"
+}

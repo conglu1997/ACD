@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_recognition",
+    "description_of_task": "Generate jokes based on given setups and identify punchlines from provided joke setups.",
+    "capability_being_measured": "creativity, language understanding, contextual reasoning",
+    "estimated_human_difficulty": "4"
+}

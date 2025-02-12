@@ -1,0 +1,6 @@
+{
+    "name_of_task": "therapeutic_metaphor_generation",
+    "description_of_task": "Design an AI system that analyzes psychological states and generates therapeutic metaphors, then use the system to create metaphors for specific scenarios.",
+    "capability_being_measured": "understanding of psycholinguistics, creative language generation, emotional intelligence, and interdisciplinary problem-solving",
+    "estimated_human_difficulty": "5"
+}

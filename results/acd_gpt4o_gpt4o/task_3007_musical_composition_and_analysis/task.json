@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_analysis",
+    "description_of_task": "Analyze a given musical piece and compose a new piece based on specific instructions.",
+    "capability_being_measured": "musical understanding, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

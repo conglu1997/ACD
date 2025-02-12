@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_synesthesia_translation",
+    "description_of_task": "Translate between natural language and a hypothetical synesthetic language where words have inherent sensory properties, then use this system to describe complex concepts.",
+    "capability_being_measured": "abstract reasoning, creative language use, cross-modal thinking, and understanding of sensory-linguistic connections",
+    "estimated_human_difficulty": "5"
+}

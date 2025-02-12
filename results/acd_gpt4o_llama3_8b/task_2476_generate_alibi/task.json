@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_alibi",
+    "description_of_task": "Create a detailed alibi for a fictional character based on given scenarios and constraints.",
+    "capability_being_measured": "logical reasoning, narrative generation, attention to detail",
+    "estimated_human_difficulty": "4"
+}

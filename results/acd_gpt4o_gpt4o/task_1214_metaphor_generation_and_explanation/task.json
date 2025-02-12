@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation_and_explanation",
+    "description_of_task": "Generate a metaphor for a given concept and explain the metaphor's meaning and relevance.",
+    "capability_being_measured": "abstract reasoning, creativity, cultural knowledge, linguistic understanding",
+    "estimated_human_difficulty": "4"
+}

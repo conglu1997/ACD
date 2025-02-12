@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_feature_cipher",
+    "description_of_task": "Create and decode messages using a cipher based on linguistic features such as parts of speech, syllable count, and stress patterns.",
+    "capability_being_measured": "linguistic analysis, pattern recognition, and creative problem-solving",
+    "estimated_human_difficulty": "4"
+}

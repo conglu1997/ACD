@@ -1,0 +1,6 @@
+{
+    "name_of_task": "table_data_analysis",
+    "description_of_task": "Interpret and analyze data from a table, and draw conclusions or make predictions based on that data.",
+    "capability_being_measured": "data comprehension, analytical reasoning, prediction",
+    "estimated_human_difficulty": "4"
+}

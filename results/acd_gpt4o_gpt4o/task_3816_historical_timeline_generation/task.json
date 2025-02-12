@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_timeline_generation",
+    "description_of_task": "Generate a coherent and accurate timeline based on a set of historical events. The timeline should include dates, event descriptions, and any relevant contextual information.",
+    "capability_being_measured": "temporal reasoning, knowledge synthesis, historical understanding",
+    "estimated_human_difficulty": "4"
+}

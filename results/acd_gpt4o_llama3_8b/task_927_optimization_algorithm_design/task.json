@@ -1,0 +1,6 @@
+{
+    "name_of_task": "optimization_algorithm_design",
+    "description_of_task": "Design an algorithm to solve a specific optimization problem and explain the reasoning behind the chosen approach.",
+    "capability_being_measured": "mathematical reasoning, algorithm design, problem-solving",
+    "estimated_human_difficulty": "4"
+}

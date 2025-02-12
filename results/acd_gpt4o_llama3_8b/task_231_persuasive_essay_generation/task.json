@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_essay_generation",
+    "description_of_task": "Generate a persuasive essay based on a given topic.",
+    "capability_being_measured": "creativity, language fluency, persuasive writing",
+    "estimated_human_difficulty": "4"
+}

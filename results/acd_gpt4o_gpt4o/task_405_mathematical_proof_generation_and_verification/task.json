@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proof_generation_and_verification",
+    "description_of_task": "Generate a proof for a given mathematical theorem and verify the correctness of a provided proof.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, formal language understanding",
+    "estimated_human_difficulty": "5"
+}

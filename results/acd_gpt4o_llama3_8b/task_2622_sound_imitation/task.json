@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sound_imitation",
+    "description_of_task": "Generate descriptive representations of sounds based on given scenarios.",
+    "capability_being_measured": "creativity, sensory description, aural imagination",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "palindrome_generation_interpretation",
+    "description_of_task": "Create and interpret palindromic sequences, ensuring they read the same backward and forward.",
+    "capability_being_measured": "creativity, language understanding, attention to detail",
+    "estimated_human_difficulty": "4"
+}

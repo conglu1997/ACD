@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_diagnosis_generation",
+    "description_of_task": "Generate a plausible medical diagnosis based on given symptoms.",
+    "capability_being_measured": "medical knowledge, reasoning, language generation",
+    "estimated_human_difficulty": "5"
+}

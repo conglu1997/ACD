@@ -1,0 +1,6 @@
+{
+    "name_of_task": "soundscape_description",
+    "description_of_task": "Describe soundscapes based on given scenarios, detailing the types of sounds, their sources, and the overall atmosphere.",
+    "capability_being_measured": "auditory imagination, descriptive skills, context understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "painting_description",
+    "description_of_task": "Describe famous paintings in detail and generate descriptions of imaginary paintings based on given criteria.",
+    "capability_being_measured": "knowledge, creativity, descriptive language",
+    "estimated_human_difficulty": "3"
+}

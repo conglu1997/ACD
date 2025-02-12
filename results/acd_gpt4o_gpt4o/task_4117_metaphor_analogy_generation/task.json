@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_analogy_generation",
+    "description_of_task": "Generate metaphors and analogies based on given prompts and explain the reasoning behind them.",
+    "capability_being_measured": "abstract reasoning, creativity, language understanding",
+    "estimated_human_difficulty": "4"
+}

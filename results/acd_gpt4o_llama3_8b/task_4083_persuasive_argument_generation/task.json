@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argument_generation",
+    "description_of_task": "Generate persuasive arguments on given topics, incorporating rhetorical elements such as ethos, pathos, and logos.",
+    "capability_being_measured": "persuasive writing, rhetorical skills, creativity",
+    "estimated_human_difficulty": "4"
+}

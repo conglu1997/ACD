@@ -1,0 +1,6 @@
+{
+    "name_of_task": "jigsaw_puzzle_solver",
+    "description_of_task": "Solve a jigsaw puzzle by providing the correct sequence of moves to assemble the pieces.",
+    "capability_being_measured": "spatial reasoning, pattern recognition, planning",
+    "estimated_human_difficulty": "3"
+}

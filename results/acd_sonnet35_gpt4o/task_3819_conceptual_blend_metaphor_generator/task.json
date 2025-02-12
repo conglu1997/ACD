@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conceptual_blend_metaphor_generator",
+    "description_of_task": "Design and implement a system that generates novel conceptual blends and metaphors based on given input domains, then analyze the cognitive and linguistic implications of the generated outputs.",
+    "capability_being_measured": "abstract reasoning, linguistic creativity, interdisciplinary knowledge integration, and analytical thinking in the context of cognitive linguistics and artificial intelligence",
+    "estimated_human_difficulty": "4"
+}

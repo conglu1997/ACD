@@ -1,0 +1,6 @@
+{
+    "name_of_task": "phonetic_transformation",
+    "description_of_task": "Convert written text into phonetic transcriptions and vice versa.",
+    "capability_being_measured": "linguistic understanding, phonetic knowledge, text manipulation",
+    "estimated_human_difficulty": "3"
+}

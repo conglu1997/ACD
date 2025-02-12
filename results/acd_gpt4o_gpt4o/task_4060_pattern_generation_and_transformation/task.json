@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pattern_generation_and_transformation",
+    "description_of_task": "Generate abstract patterns based on given rules and transform existing patterns according to specified changes.",
+    "capability_being_measured": "cognitive flexibility, logical reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

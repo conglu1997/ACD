@@ -1,0 +1,6 @@
+{
+    "name_of_task": "detailed_instruction_generation",
+    "description_of_task": "Generate detailed step-by-step instructions for assembling or disassembling a specific piece of equipment.",
+    "capability_being_measured": "procedural knowledge, systematic thinking, technical writing",
+    "estimated_human_difficulty": "4"
+}

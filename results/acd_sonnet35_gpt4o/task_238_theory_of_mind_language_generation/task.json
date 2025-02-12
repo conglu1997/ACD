@@ -1,0 +1,6 @@
+{
+    "name_of_task": "theory_of_mind_language_generation",
+    "description_of_task": "Generate and analyze language samples demonstrating different levels of theory of mind, and create an AI system to classify these levels.",
+    "capability_being_measured": "understanding of human cognition, linguistic nuance, psychological reasoning, and AI system design",
+    "estimated_human_difficulty": "5"
+}

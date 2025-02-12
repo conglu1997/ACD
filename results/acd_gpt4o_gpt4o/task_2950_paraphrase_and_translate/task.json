@@ -1,0 +1,6 @@
+{
+    "name_of_task": "paraphrase_and_translate",
+    "description_of_task": "Paraphrase a given text to convey the same meaning in different words and translate a given text into another language while preserving the original meaning.",
+    "capability_being_measured": "linguistic flexibility, semantic understanding, multilingual proficiency",
+    "estimated_human_difficulty": "3"
+}

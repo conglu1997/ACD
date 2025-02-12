@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cooking_recipe_modification",
+    "description_of_task": "Interpret a provided cooking recipe and modify it to meet specified dietary restrictions or preferences.",
+    "capability_being_measured": "procedural understanding, creativity, practical knowledge",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conversational_humor_generation",
+    "description_of_task": "Generate humorous responses in a given conversational context.",
+    "capability_being_measured": "humor understanding, contextual response generation, creativity",
+    "estimated_human_difficulty": "4"
+}

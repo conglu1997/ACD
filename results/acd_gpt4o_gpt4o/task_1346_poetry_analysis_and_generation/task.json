@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_analysis_and_generation",
+    "description_of_task": "Analyze a given poem and generate a new poem following a specific format.",
+    "capability_being_measured": "creativity, linguistic manipulation, adherence to structure",
+    "estimated_human_difficulty": "3"
+}

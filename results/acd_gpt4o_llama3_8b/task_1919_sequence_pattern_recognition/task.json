@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sequence_pattern_recognition",
+    "description_of_task": "Identify the next element in a given sequence based on the identified pattern.",
+    "capability_being_measured": "logical reasoning, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

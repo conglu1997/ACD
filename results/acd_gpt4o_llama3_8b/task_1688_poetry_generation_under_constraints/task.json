@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_under_constraints",
+    "description_of_task": "Generate a poem based on specified constraints such as rhyme scheme, meter, and theme.",
+    "capability_being_measured": "creativity, language understanding, adherence to constraints",
+    "estimated_human_difficulty": "4"
+}

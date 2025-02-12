@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_and_drawing_instructions",
+    "description_of_task": "Provide detailed descriptions of images and generate step-by-step drawing instructions based on a given description.",
+    "capability_being_measured": "spatial reasoning, descriptive abilities, understanding of visual elements",
+    "estimated_human_difficulty": "4"
+}

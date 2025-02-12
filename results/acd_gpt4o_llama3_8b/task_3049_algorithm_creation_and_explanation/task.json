@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algorithm_creation_and_explanation",
+    "description_of_task": "Create and explain algorithms based on given problem descriptions.",
+    "capability_being_measured": "computational thinking, logical reasoning, problem-solving, code generation",
+    "estimated_human_difficulty": "4"
+}

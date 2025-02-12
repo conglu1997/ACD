@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_linguistic_manipulation",
+    "description_of_task": "Create palindromes, anagrams, or spoonerisms based on given words or phrases.",
+    "capability_being_measured": "linguistic creativity, language manipulation, understanding of semantics and syntax",
+    "estimated_human_difficulty": "4"
+}

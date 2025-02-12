@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_knowledge_and_composition",
+    "description_of_task": "Identify musical genres based on descriptions and compose short pieces of music based on given themes.",
+    "capability_being_measured": "musical knowledge, creativity, language generation",
+    "estimated_human_difficulty": "4"
+}

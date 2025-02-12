@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_art_interpretation",
+    "description_of_task": "Interpret given abstract art pieces and generate coherent descriptions or create abstract art descriptions based on given prompts.",
+    "capability_being_measured": "visual-spatial reasoning, creativity, natural language comprehension and generation",
+    "estimated_human_difficulty": "4"
+}

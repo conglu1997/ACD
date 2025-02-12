@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_story_writing",
+    "description_of_task": "Write a short story that incorporates specific elements and adheres to given constraints.",
+    "capability_being_measured": "creativity, narrative coherence, adherence to constraints",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "nonogram_puzzle_solving",
+    "description_of_task": "Solve given nonogram puzzles by interpreting row and column clues to fill in the grid correctly.",
+    "capability_being_measured": "logical reasoning and pattern recognition",
+    "estimated_human_difficulty": "4"
+}

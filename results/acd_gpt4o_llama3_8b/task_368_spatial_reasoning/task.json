@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Perform spatial reasoning tasks involving geometric transformations and visualizations.",
+    "capability_being_measured": "spatial reasoning and visualization",
+    "estimated_human_difficulty": "4"
+}

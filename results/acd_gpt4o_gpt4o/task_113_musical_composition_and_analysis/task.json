@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_analysis",
+    "description_of_task": "Generate a short piece of music based on given constraints and analyze a provided musical piece to identify its key, time signature, and structure.",
+    "capability_being_measured": "creativity, music theory knowledge, analytical skills",
+    "estimated_human_difficulty": "4"
+}

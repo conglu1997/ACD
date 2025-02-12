@@ -1,0 +1,6 @@
+{
+    "name_of_task": "storytelling_narrative_analysis",
+    "description_of_task": "Analyze the structure of a given story and create a new story based on provided themes and characters.",
+    "capability_being_measured": "narrative understanding, creativity, coherence",
+    "estimated_human_difficulty": "4"
+}

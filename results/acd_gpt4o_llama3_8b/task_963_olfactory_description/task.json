@@ -1,0 +1,6 @@
+{
+    "name_of_task": "olfactory_description",
+    "description_of_task": "Generate detailed descriptions based on given olfactory (sense of smell) cues.",
+    "capability_being_measured": "sensory reasoning, descriptive language",
+    "estimated_human_difficulty": "3"
+}

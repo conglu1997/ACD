@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_and_composition",
+    "description_of_task": "Interpret a given piece of musical notation and generate a short musical composition based on a given theme.",
+    "capability_being_measured": "musical understanding, creativity, symbolic interpretation",
+    "estimated_human_difficulty": "4"
+}

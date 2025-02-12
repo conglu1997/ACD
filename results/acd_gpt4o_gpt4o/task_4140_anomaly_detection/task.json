@@ -1,0 +1,6 @@
+{
+    "name_of_task": "anomaly_detection",
+    "description_of_task": "Identify the incorrect element in a sequence based on a given pattern and provide a logical explanation for the choice.",
+    "capability_being_measured": "logical reasoning, pattern recognition, analytical skills",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simultaneous_translation",
+    "description_of_task": "Translate a given paragraph from one language to another while maintaining the original meaning, tone, context, and idiomatic expressions.",
+    "capability_being_measured": "language understanding, translation skills, context retention",
+    "estimated_human_difficulty": "4"
+}

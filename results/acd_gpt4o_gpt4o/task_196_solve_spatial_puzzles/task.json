@@ -1,0 +1,6 @@
+{
+    "name_of_task": "solve_spatial_puzzles",
+    "description_of_task": "Solve spatial puzzles that require logical sequencing and spatial reasoning.",
+    "capability_being_measured": "spatial reasoning, logical sequencing",
+    "estimated_human_difficulty": "3"
+}

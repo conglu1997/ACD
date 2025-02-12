@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_sequencing",
+    "description_of_task": "Generate a logical sequence of events based on a given initial event.",
+    "capability_being_measured": "temporal reasoning and event sequencing",
+    "estimated_human_difficulty": "3"
+}

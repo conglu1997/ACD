@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_cryptography_challenge",
+    "description_of_task": "Design and analyze a quantum cryptography protocol for secure communication, then evaluate its resilience against both classical and quantum attacks.",
+    "capability_being_measured": "understanding of quantum physics, cryptography, cybersecurity, and ability to integrate complex interdisciplinary concepts",
+    "estimated_human_difficulty": "5"
+}

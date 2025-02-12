@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_interpretation",
+    "description_of_task": "Interpret a given description to identify key elements of a musical composition and generate a detailed description based on a given musical composition.",
+    "capability_being_measured": "musical theory understanding, descriptive language, auditory analysis",
+    "estimated_human_difficulty": "4"
+}

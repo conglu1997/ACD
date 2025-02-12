@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_interpret_story",
+    "description_of_task": "Generate a short story based on a given prompt and interpret the meaning and elements of an existing story.",
+    "capability_being_measured": "creativity, narrative understanding, storytelling",
+    "estimated_human_difficulty": "4"
+}

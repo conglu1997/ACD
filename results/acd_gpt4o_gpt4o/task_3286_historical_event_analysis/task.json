@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis",
+    "description_of_task": "Analyze a given historical event, discuss its significance, and connect it to another related historical event.",
+    "capability_being_measured": "knowledge, reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

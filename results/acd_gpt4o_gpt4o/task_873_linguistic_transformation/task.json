@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_transformation",
+    "description_of_task": "Transform sentences between different linguistic forms, such as converting active voice to passive voice, direct speech to reported speech, and vice versa.",
+    "capability_being_measured": "syntactic understanding, linguistic manipulation",
+    "estimated_human_difficulty": "3"
+}

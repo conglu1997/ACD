@@ -1,0 +1,6 @@
+{
+    "name_of_task": "embodied_spatial_metaphor_generation",
+    "description_of_task": "Design an AI system that generates and interprets spatial metaphors based on principles of embodied cognition, then apply it to explain abstract concepts across various domains.",
+    "capability_being_measured": "understanding of embodied cognition, spatial reasoning, metaphor generation, cross-domain knowledge application, and creative problem-solving",
+    "estimated_human_difficulty": "5"
+}

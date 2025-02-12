@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_word_problems",
+    "description_of_task": "Solve complex word problems that require extracting and processing mathematical information from textual descriptions.",
+    "capability_being_measured": "linguistic comprehension, mathematical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

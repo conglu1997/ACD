@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_diagram",
+    "description_of_task": "Create diagrams based on textual descriptions, ensuring accurate representation of spatial relationships and elements.",
+    "capability_being_measured": "spatial reasoning, comprehension, visual representation",
+    "estimated_human_difficulty": "4"
+}

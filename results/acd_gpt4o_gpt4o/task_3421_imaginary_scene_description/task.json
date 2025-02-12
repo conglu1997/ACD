@@ -1,0 +1,6 @@
+{
+    "name_of_task": "imaginary_scene_description",
+    "description_of_task": "Describe an imaginary scene in detail based on given prompts, assessing creativity, descriptive ability, and linguistic capability.",
+    "capability_being_measured": "creativity, linguistic capability, descriptive ability",
+    "estimated_human_difficulty": "3"
+}

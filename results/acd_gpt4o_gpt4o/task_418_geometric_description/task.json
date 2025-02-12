@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_description",
+    "description_of_task": "Interpret and generate descriptions of geometric shapes and patterns.",
+    "capability_being_measured": "spatial reasoning, descriptive language, geometric knowledge",
+    "estimated_human_difficulty": "3"
+}

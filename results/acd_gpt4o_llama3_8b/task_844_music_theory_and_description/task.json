@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_and_description",
+    "description_of_task": "Interpret musical concepts and generate descriptions based on given music theory prompts.",
+    "capability_being_measured": "music theory understanding, creativity, descriptive language",
+    "estimated_human_difficulty": "4"
+}

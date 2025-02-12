@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_completion",
+    "description_of_task": "Predict the next pattern in a sequence of visual patterns represented in ASCII art.",
+    "capability_being_measured": "pattern recognition, mathematical reasoning, creative problem-solving",
+    "estimated_human_difficulty": "4"
+}

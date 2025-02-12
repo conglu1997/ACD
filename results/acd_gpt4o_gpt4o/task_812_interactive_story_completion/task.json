@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_story_completion",
+    "description_of_task": "Continue a story interactively based on a given prompt and subsequent user inputs, ensuring the narrative remains coherent and engaging.",
+    "capability_being_measured": "creativity, coherence, adaptability",
+    "estimated_human_difficulty": "4"
+}

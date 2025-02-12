@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_data_generation",
+    "description_of_task": "Generate structured tabular data based on given descriptions and requirements.",
+    "capability_being_measured": "data organization, pattern recognition, structured information generation",
+    "estimated_human_difficulty": "4"
+}

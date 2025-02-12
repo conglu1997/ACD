@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_resistant_cryptography",
+    "description_of_task": "Design and analyze quantum-resistant cryptographic algorithms for specific cybersecurity scenarios, including mathematical proofs",
+    "capability_being_measured": "understanding of quantum computing principles, cryptography, creative problem-solving in cybersecurity, and mathematical reasoning",
+    "estimated_human_difficulty": "5"
+}

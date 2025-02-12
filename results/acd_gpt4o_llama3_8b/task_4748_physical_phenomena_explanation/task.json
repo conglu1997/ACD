@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_phenomena_explanation",
+    "description_of_task": "Explain physical phenomena or laws in simple terms that a layperson can understand.",
+    "capability_being_measured": "comprehension, explanation, simplification of complex concepts",
+    "estimated_human_difficulty": "3"
+}

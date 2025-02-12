@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mechanical_comprehension",
+    "description_of_task": "Interpret mechanical diagrams and solve related problems, testing spatial reasoning and understanding of mechanical principles.",
+    "capability_being_measured": "spatial reasoning, mechanical comprehension",
+    "estimated_human_difficulty": "4"
+}

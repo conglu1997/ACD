@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_interpretation",
+    "description_of_task": "Generate a code snippet based on given requirements and interpret a provided code snippet to explain its functionality.",
+    "capability_being_measured": "programming knowledge, comprehension, translation between natural language and code",
+    "estimated_human_difficulty": "4"
+}

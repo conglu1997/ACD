@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis",
+    "description_of_task": "Analyze a given historical event, explaining its causes, consequences, and significance.",
+    "capability_being_measured": "historical knowledge and analytical reasoning",
+    "estimated_human_difficulty": "4"
+}

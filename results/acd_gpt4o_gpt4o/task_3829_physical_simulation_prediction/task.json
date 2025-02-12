@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_simulation_prediction",
+    "description_of_task": "Predict the behavior of physical systems based on given initial conditions and physical laws.",
+    "capability_being_measured": "knowledge of physics, reasoning, prediction",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_interpretation_synthesis",
+    "description_of_task": "Interpret visual information and synthesize it with textual information to provide coherent and accurate descriptions or stories.",
+    "capability_being_measured": "multimodal understanding, visual interpretation, narrative skills",
+    "estimated_human_difficulty": "4"
+}

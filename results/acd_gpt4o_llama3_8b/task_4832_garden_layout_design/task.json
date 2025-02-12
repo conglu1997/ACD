@@ -1,0 +1,6 @@
+{
+    "name_of_task": "garden_layout_design",
+    "description_of_task": "Design an efficient layout for a community garden based on specified constraints such as plant types, sunlight needs, and space availability.",
+    "capability_being_measured": "spatial reasoning, planning, practical problem-solving",
+    "estimated_human_difficulty": "3"
+}

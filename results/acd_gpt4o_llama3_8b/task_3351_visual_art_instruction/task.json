@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_instruction",
+    "description_of_task": "Generate detailed and coherent instructions for creating visual art pieces based on given themes and constraints.",
+    "capability_being_measured": "visual-spatial reasoning, creativity, detailed language generation",
+    "estimated_human_difficulty": "4"
+}

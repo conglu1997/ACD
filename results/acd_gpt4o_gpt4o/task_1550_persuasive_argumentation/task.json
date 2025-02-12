@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argumentation",
+    "description_of_task": "Generate persuasive arguments for given scenarios and critically evaluate the arguments provided.",
+    "capability_being_measured": "reasoning, language manipulation, rhetorical skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_fallacy_detection",
+    "description_of_task": "Identify and correct logical fallacies in given arguments.",
+    "capability_being_measured": "logical reasoning and critical thinking",
+    "estimated_human_difficulty": "4"
+}

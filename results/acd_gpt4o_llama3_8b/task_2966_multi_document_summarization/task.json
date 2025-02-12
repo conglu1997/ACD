@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_document_summarization",
+    "description_of_task": "Generate a coherent and informative summary based on multiple provided documents.",
+    "capability_being_measured": "summarization, comprehension, critical thinking",
+    "estimated_human_difficulty": "4"
+}

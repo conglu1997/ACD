@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogies_interpretation_and_generation",
+    "description_of_task": "Interpret given analogies and generate new ones based on provided pairs of words.",
+    "capability_being_measured": "abstract thinking, pattern recognition, linguistic creativity",
+    "estimated_human_difficulty": "4"
+}

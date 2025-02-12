@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reconstruction",
+    "description_of_task": "Reconstruct significant historical events based on provided fragments or descriptions.",
+    "capability_being_measured": "historical knowledge, synthesis, narrative construction",
+    "estimated_human_difficulty": "4"
+}

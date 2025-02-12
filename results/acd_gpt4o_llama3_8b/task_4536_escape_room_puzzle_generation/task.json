@@ -1,0 +1,6 @@
+{
+    "name_of_task": "escape_room_puzzle_generation",
+    "description_of_task": "Create a sequence of logically connected escape room puzzles based on given constraints.",
+    "capability_being_measured": "creativity, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

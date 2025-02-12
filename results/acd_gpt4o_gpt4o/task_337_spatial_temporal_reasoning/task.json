@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_temporal_reasoning",
+    "description_of_task": "Interpret and reason about sequences of events, identifying both spatial and temporal relationships.",
+    "capability_being_measured": "spatial-temporal reasoning, comprehension, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

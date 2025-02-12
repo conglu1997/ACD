@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_dialogue_generation",
+    "description_of_task": "Generate a fictional dialogue between characters based on given profiles and scenarios.",
+    "capability_being_measured": "creative writing, character consistency, dialogue coherence",
+    "estimated_human_difficulty": "4"
+}

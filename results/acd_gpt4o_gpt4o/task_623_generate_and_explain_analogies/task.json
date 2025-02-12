@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_explain_analogies",
+    "description_of_task": "Generate an analogy based on given concepts and explain the relationship between the concepts in detail.",
+    "capability_being_measured": "creativity, linguistic understanding, abstract reasoning",
+    "estimated_human_difficulty": "4"
+}

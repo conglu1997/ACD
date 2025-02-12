@@ -1,0 +1,14 @@
+# LLM APIs
+anthropic[bedrock]
+openai
+tiktoken
+# Utils
+scikit-learn
+pandas
+numpy
+backoff
+tqdm
+sklearn
+# Plotting
+plotly
+matplotlib

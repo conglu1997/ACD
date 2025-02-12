@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debugging_and_fixing",
+    "description_of_task": "Identify and fix bugs in a given piece of code to ensure it performs the intended function correctly.",
+    "capability_being_measured": "code comprehension, problem-solving, debugging",
+    "estimated_human_difficulty": "4"
+}

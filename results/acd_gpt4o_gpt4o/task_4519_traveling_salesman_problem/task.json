@@ -1,0 +1,6 @@
+{
+    "name_of_task": "traveling_salesman_problem",
+    "description_of_task": "Solve the Traveling Salesman Problem (TSP) for given sets of cities and distances, aiming to find the shortest possible route that visits each city exactly once and returns to the starting city.",
+    "capability_being_measured": "logical reasoning, mathematical problem-solving, strategy",
+    "estimated_human_difficulty": "4"
+}

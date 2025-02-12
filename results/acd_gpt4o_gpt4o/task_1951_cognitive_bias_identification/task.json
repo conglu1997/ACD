@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_bias_identification",
+    "description_of_task": "Identify cognitive biases in given scenarios and explain why they represent biases.",
+    "capability_being_measured": "psychological knowledge, critical thinking, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

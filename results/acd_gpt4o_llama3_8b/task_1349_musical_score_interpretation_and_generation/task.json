@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_score_interpretation_and_generation",
+    "description_of_task": "Interpret given musical scores and generate new compositions based on specified criteria.",
+    "capability_being_measured": "musical knowledge, creativity, pattern recognition",
+    "estimated_human_difficulty": "5"
+}

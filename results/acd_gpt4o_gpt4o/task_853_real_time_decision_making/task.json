@@ -1,0 +1,6 @@
+{
+    "name_of_task": "real_time_decision_making",
+    "description_of_task": "Simulate managing a restaurant during peak hours, making quick decisions based on dynamic scenarios.",
+    "capability_being_measured": "real-time decision-making, adaptability, prioritization",
+    "estimated_human_difficulty": "4"
+}

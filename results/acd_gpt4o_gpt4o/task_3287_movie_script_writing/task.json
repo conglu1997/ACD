@@ -1,0 +1,6 @@
+{
+    "name_of_task": "movie_script_writing",
+    "description_of_task": "Write a brief movie script based on given prompts, including scenes, dialogues, and actions.",
+    "capability_being_measured": "creativity, narrative skills, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

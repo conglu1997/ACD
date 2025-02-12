@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_identification",
+    "description_of_task": "Identify the pattern in a given set of visual instructions and describe it.",
+    "capability_being_measured": "visual-spatial reasoning, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

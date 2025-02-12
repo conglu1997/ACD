@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_story_generation",
+    "description_of_task": "Generate engaging mathematical word problems based on given mathematical concepts or operations.",
+    "capability_being_measured": "mathematical reasoning, creativity, language generation",
+    "estimated_human_difficulty": "3"
+}

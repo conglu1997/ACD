@@ -1,0 +1,6 @@
+{
+    "name_of_task": "science_fiction_story",
+    "description_of_task": "Generate a short science fiction story based on a given prompt.",
+    "capability_being_measured": "creativity, language generation, genre-specific writing",
+    "estimated_human_difficulty": "4"
+}

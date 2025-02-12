@@ -1,0 +1,6 @@
+{
+    "name_of_task": "location_description",
+    "description_of_task": "Generate a detailed description of a specific location based on provided coordinates.",
+    "capability_being_measured": "geographical knowledge, spatial reasoning, descriptive ability",
+    "estimated_human_difficulty": "3"
+}

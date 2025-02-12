@@ -1,0 +1,6 @@
+{
+    "name_of_task": "software_program_generation",
+    "description_of_task": "Generate a specific type of software program based on given requirements.",
+    "capability_being_measured": "programming skills, understanding of coding principles",
+    "estimated_human_difficulty": "4"
+}

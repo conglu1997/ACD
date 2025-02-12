@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sentence_clarity_conciseness",
+    "description_of_task": "Analyze and improve given sentences for clarity and conciseness while preserving their original meaning.",
+    "capability_being_measured": "linguistic structure analysis, clarity, and style enhancement",
+    "estimated_human_difficulty": "3"
+}

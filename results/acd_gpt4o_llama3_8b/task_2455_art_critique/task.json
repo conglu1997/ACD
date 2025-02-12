@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_critique",
+    "description_of_task": "Analyze and critique a piece of art based on provided visual descriptions and criteria.",
+    "capability_being_measured": "artistic knowledge, analytical skills, descriptive language, critical thinking",
+    "estimated_human_difficulty": "4"
+}

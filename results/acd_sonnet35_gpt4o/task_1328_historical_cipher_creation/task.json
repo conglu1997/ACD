@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_cipher_creation",
+    "description_of_task": "Create a historical cipher based on a given time period and culture, then use it to encode a message and analyze its security",
+    "capability_being_measured": "interdisciplinary knowledge application, creative problem-solving, historical understanding, and cryptographic analysis",
+    "estimated_human_difficulty": "5"
+}

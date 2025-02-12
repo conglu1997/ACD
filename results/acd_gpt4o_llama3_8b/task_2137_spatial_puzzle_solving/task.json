@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_puzzle_solving",
+    "description_of_task": "Solve visual puzzles that require identifying patterns, completing sequences, or matching shapes.",
+    "capability_being_measured": "spatial reasoning, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

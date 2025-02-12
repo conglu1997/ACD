@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diachronic_linguistic_entropy_analysis",
+    "description_of_task": "Design a machine learning system that analyzes the entropy of language evolution over time, then use it to predict future linguistic changes and reconstruct ancient languages.",
+    "capability_being_measured": "understanding of linguistics, information theory, machine learning, historical analysis, and predictive modeling",
+    "estimated_human_difficulty": "5"
+}

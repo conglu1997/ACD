@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_analysis",
+    "description_of_task": "Generate humorous content based on given prompts and analyze existing jokes for their humor elements.",
+    "capability_being_measured": "creativity, linguistic skills, cultural understanding, social intelligence",
+    "estimated_human_difficulty": "4"
+}

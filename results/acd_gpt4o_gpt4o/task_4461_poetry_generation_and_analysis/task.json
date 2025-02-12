@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_analysis",
+    "description_of_task": "Generate poems in specific forms and styles, and analyze the poems for adherence to the given form and style.",
+    "capability_being_measured": "creativity, linguistic knowledge, literary understanding",
+    "estimated_human_difficulty": "4"
+}

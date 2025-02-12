@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_scientific_paper_creation_and_interpretation",
+    "description_of_task": "Create a fictional scientific research paper based on a given topic and interpret a provided fictional scientific abstract.",
+    "capability_being_measured": "technical knowledge, creativity, scientific writing, comprehension",
+    "estimated_human_difficulty": "4"
+}

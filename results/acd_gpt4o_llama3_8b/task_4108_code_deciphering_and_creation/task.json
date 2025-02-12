@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_deciphering_and_creation",
+    "description_of_task": "Decipher a given secret code and create a secret code based on a given message.",
+    "capability_being_measured": "cryptographic understanding, logical reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

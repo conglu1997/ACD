@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_svg",
+    "description_of_task": "Generate SVG code for a given artistic description of a scene or object.",
+    "capability_being_measured": "creativity, technical skills, attention to detail",
+    "estimated_human_difficulty": "4"
+}

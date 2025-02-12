@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_story_generation",
+    "description_of_task": "Generate a historical story based on a given context, incorporating accurate historical facts and creative narrative elements.",
+    "capability_being_measured": "historical knowledge, creativity, narrative skills",
+    "estimated_human_difficulty": "4"
+}

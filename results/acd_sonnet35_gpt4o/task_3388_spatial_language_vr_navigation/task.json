@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_language_vr_navigation",
+    "description_of_task": "Design a system that translates natural language spatial descriptions into navigable 3D virtual environments, and then guides a user through the environment using generated linguistic instructions.",
+    "capability_being_measured": "spatial cognition, natural language processing, 3D environment generation, and linguistic creativity in describing complex spatial relationships",
+    "estimated_human_difficulty": "5"
+}

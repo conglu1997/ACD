@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_generation_explanation",
+    "description_of_task": "Generate idiomatic expressions based on given contexts and explain their meanings.",
+    "capability_being_measured": "linguistic and cultural understanding, creativity, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

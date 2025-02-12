@@ -1,0 +1,6 @@
+{
+    "name_of_task": "map_navigation_and_route_planning",
+    "description_of_task": "Generate a detailed route plan based on given map constraints and explain the rationale behind the chosen route.",
+    "capability_being_measured": "spatial reasoning, problem-solving, comprehension",
+    "estimated_human_difficulty": "4"
+}

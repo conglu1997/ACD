@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_rewrite_and_debugging",
+    "description_of_task": "Rewrite or debug a given piece of code to satisfy new constraints or fix errors while meeting functional requirements.",
+    "capability_being_measured": "programming skills, problem-solving, adaptability",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mechanical_reasoning",
+    "description_of_task": "Predict the behavior of a mechanical system based on a given setup and provide a detailed explanation of the reasoning.",
+    "capability_being_measured": "physical world understanding, spatial reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

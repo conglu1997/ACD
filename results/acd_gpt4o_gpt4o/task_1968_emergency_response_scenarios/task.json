@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emergency_response_scenarios",
+    "description_of_task": "Generate appropriate responses to emergency situations based on evolving scenarios to demonstrate understanding of emergency protocols, prioritization, and decision-making under pressure.",
+    "capability_being_measured": "real-time decision-making, contextual reasoning, crisis management",
+    "estimated_human_difficulty": "4"
+}

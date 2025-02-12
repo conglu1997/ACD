@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logic_puzzles",
+    "description_of_task": "Solve a given logic puzzle and create a new logic puzzle based on given constraints.",
+    "capability_being_measured": "logical reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

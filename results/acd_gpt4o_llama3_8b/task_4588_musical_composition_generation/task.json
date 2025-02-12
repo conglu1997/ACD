@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_generation",
+    "description_of_task": "Generate and interpret musical compositions based on given themes and constraints.",
+    "capability_being_measured": "creativity, pattern recognition, understanding of music theory",
+    "estimated_human_difficulty": "5"
+}

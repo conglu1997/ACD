@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_mechanical_reasoning",
+    "description_of_task": "Solve problems that involve understanding and manipulating three-dimensional objects, predicting outcomes of movements, and fitting parts together.",
+    "capability_being_measured": "spatial reasoning, mechanical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

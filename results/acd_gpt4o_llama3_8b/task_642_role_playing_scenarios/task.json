@@ -1,0 +1,6 @@
+{
+    "name_of_task": "role_playing_scenarios",
+    "description_of_task": "Simulate a role-playing scenario where the model must convincingly play a character and respond to prompts based on the given context.",
+    "capability_being_measured": "conversational skills, empathy, context awareness, narrative skills",
+    "estimated_human_difficulty": "4"
+}

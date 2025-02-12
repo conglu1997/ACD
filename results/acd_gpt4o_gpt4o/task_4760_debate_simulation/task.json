@@ -1,0 +1,6 @@
+{
+    "name_of_task": "debate_simulation",
+    "description_of_task": "Simulate a debate on a controversial topic, presenting arguments for and against the topic.",
+    "capability_being_measured": "argumentation, critical thinking, discourse management",
+    "estimated_human_difficulty": "4"
+}

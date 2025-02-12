@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_character_dialogue",
+    "description_of_task": "Generate a coherent and logical dialogue between multiple characters based on a provided scenario.",
+    "capability_being_measured": "dialogue generation, character consistency, logical progression",
+    "estimated_human_difficulty": "4"
+}

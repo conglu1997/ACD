@@ -1,0 +1,6 @@
+{
+    "name_of_task": "synesthesia_translation_network",
+    "description_of_task": "Design a neural network model capable of translating between different forms of synesthesia, focusing on lexical-gustatory and grapheme-color synesthesia, then use it to analyze a piece of text.",
+    "capability_being_measured": "interdisciplinary knowledge integration, creative system design, understanding of neuroscience, linguistics, and artificial intelligence",
+    "estimated_human_difficulty": "5"
+}

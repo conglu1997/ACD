@@ -1,0 +1,6 @@
+{
+    "name_of_task": "robotics_scenario_planning",
+    "description_of_task": "Plan and describe a series of robotic actions to accomplish a specified task.",
+    "capability_being_measured": "robotics knowledge, sequential planning, technical description",
+    "estimated_human_difficulty": "4"
+}

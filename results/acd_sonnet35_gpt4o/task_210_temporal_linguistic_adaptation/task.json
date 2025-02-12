@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_linguistic_adaptation",
+    "description_of_task": "Explain modern concepts using only the vocabulary and knowledge available in specified historical periods, adapting explanations for different cultures and time periods.",
+    "capability_being_measured": "historical linguistic knowledge, cultural understanding, creative problem-solving, and adaptive communication",
+    "estimated_human_difficulty": "5"
+}

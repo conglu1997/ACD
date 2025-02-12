@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_research_summarization_and_generation",
+    "description_of_task": "Summarize given scientific research abstracts and generate new research abstracts based on specified titles and keywords.",
+    "capability_being_measured": "comprehension, summarization, scientific knowledge, creativity",
+    "estimated_human_difficulty": "4"
+}

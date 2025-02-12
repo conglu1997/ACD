@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_explanation",
+    "description_of_task": "Generate a short musical composition based on given constraints and provide a detailed explanation of the choices made in the composition.",
+    "capability_being_measured": "creativity, pattern recognition, structured information generation",
+    "estimated_human_difficulty": "4"
+}

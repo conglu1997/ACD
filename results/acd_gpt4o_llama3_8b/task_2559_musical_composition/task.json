@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Interpret a given musical notation and create a new musical composition with a specified style and structure.",
+    "capability_being_measured": "creativity, pattern recognition, adherence to musical theory",
+    "estimated_human_difficulty": "4"
+}

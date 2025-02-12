@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_metaphor_analysis",
+    "description_of_task": "Analyze existing scientific metaphors and generate novel ones to explain complex scientific concepts",
+    "capability_being_measured": "Interdisciplinary knowledge application, metaphor comprehension and generation, creative problem-solving, and science communication",
+    "estimated_human_difficulty": "4"
+}

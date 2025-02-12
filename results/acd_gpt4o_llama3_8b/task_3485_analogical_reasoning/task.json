@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogical_reasoning",
+    "description_of_task": "Identify relationships between pairs of concepts and apply the same relationship to a new pair.",
+    "capability_being_measured": "abstract reasoning, pattern recognition, analogical thinking",
+    "estimated_human_difficulty": "4"
+}

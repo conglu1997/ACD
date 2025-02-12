@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_invention",
+    "description_of_task": "Invent a new recipe based on given constraints and ingredients.",
+    "capability_being_measured": "creativity, practical reasoning, culinary knowledge",
+    "estimated_human_difficulty": "3"
+}

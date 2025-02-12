@@ -1,0 +1,6 @@
+{
+    "name_of_task": "faq_generation",
+    "description_of_task": "Generate a structured FAQ document based on a given topic.",
+    "capability_being_measured": "comprehension, synthesis, and structured information generation",
+    "estimated_human_difficulty": "3"
+}

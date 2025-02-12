@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_interpretation",
+    "description_of_task": "Interpret musical notation from sheet music and provide detailed descriptions of the musical piece, including aspects like rhythm, tempo, and mood.",
+    "capability_being_measured": "music theory knowledge, interpretive skills, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

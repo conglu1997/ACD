@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_art_interpretation",
+    "description_of_task": "Interpret abstract visual art, translate the interpretation into a different artistic medium, and explain the conceptual links between the original and translated works.",
+    "capability_being_measured": "multi-modal reasoning, creative interpretation, cross-domain knowledge transfer, and abstract conceptualization",
+    "estimated_human_difficulty": "4"
+}

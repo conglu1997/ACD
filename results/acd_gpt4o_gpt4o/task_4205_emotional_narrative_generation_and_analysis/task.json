@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_narrative_generation_and_analysis",
+    "description_of_task": "Generate a narrative based on a given emotional prompt and analyze the emotional content of a provided narrative.",
+    "capability_being_measured": "creativity, emotional intelligence, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_reasoning",
+    "description_of_task": "Solve mathematical problems and provide detailed reasoning for the solutions.",
+    "capability_being_measured": "mathematical problem-solving, logical reasoning, coherence",
+    "estimated_human_difficulty": "4"
+}

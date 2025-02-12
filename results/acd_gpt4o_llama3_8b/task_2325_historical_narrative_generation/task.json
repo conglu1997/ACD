@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_narrative_generation",
+    "description_of_task": "Generate a detailed narrative about a specific historical event or period, incorporating given elements or perspectives.",
+    "capability_being_measured": "historical knowledge, narrative generation, creativity",
+    "estimated_human_difficulty": "4"
+}

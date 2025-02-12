@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_reformatting",
+    "description_of_task": "Translate a given text from one language to another and reformat it according to specific guidelines.",
+    "capability_being_measured": "multilingual understanding, translation accuracy, text reformatting",
+    "estimated_human_difficulty": "4"
+}

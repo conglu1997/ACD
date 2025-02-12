@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_interaction_prediction",
+    "description_of_task": "Predict the outcomes of hypothetical physical interactions based on given scenarios.",
+    "capability_being_measured": "physical reasoning, logical inference, scientific understanding",
+    "estimated_human_difficulty": "4"
+}

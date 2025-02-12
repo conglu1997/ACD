@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chronological_ordering",
+    "description_of_task": "Arrange a given list of events or steps in the correct chronological order.",
+    "capability_being_measured": "temporal reasoning, historical knowledge",
+    "estimated_human_difficulty": "3"
+}

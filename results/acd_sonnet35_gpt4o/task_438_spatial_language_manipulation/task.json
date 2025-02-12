@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_language_manipulation",
+    "description_of_task": "Interpret and manipulate spatial relationships described in natural language, then translate the results back into language.",
+    "capability_being_measured": "spatial reasoning, language comprehension, and mental object manipulation",
+    "estimated_human_difficulty": "4"
+}

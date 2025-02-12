@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_creative_storytelling",
+    "description_of_task": "Generate a short story based on a given opening sentence, adhering to specified constraints on the plot or characters.",
+    "capability_being_measured": "creativity, coherence, instruction following, narrative skills",
+    "estimated_human_difficulty": "3"
+}

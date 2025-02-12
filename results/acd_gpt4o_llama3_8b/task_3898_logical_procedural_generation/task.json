@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_procedural_generation",
+    "description_of_task": "Generate a sequence of steps to solve a problem while adhering to specific logical constraints.",
+    "capability_being_measured": "planning, logical reasoning, procedural generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_analysis_and_strategy",
+    "description_of_task": "Analyze financial data and propose investment strategies based on given criteria.",
+    "capability_being_measured": "numerical reasoning, financial knowledge, strategic thinking",
+    "estimated_human_difficulty": "4"
+}

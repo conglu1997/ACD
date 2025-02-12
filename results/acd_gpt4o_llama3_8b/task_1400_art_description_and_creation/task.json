@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_description_and_creation",
+    "description_of_task": "Interpret a detailed description of a piece of visual art and generate a new description for a different specified theme.",
+    "capability_being_measured": "creativity, descriptive language, understanding of visual art",
+    "estimated_human_difficulty": "4"
+}

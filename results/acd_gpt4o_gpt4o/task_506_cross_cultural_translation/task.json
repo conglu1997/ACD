@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_cultural_translation",
+    "description_of_task": "Translate a given text into another language and adapt it to fit the cultural context of the target audience.",
+    "capability_being_measured": "cultural knowledge, linguistic skills, translation",
+    "estimated_human_difficulty": "4"
+}

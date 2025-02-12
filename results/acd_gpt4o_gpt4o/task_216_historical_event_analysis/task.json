@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis",
+    "description_of_task": "Analyze a historical event and predict alternative outcomes based on different initial conditions.",
+    "capability_being_measured": "historical knowledge, causal reasoning, predictive modeling",
+    "estimated_human_difficulty": "4"
+}

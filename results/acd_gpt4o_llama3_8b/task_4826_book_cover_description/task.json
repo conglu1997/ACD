@@ -1,0 +1,6 @@
+{
+    "name_of_task": "book_cover_description",
+    "description_of_task": "Interpret and generate detailed descriptions for fictional book covers.",
+    "capability_being_measured": "descriptive language, creativity, visual interpretation",
+    "estimated_human_difficulty": "4"
+}

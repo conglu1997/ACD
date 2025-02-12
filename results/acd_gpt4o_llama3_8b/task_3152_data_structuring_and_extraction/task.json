@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_structuring_and_extraction",
+    "description_of_task": "Generate structured data from natural language descriptions and extract specific information from structured data.",
+    "capability_being_measured": "data comprehension, attention to detail, information synthesis",
+    "estimated_human_difficulty": "3"
+}

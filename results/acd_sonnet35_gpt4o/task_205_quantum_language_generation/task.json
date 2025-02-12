@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_language_generation",
+    "description_of_task": "Generate text that follows quantum mechanics-inspired linguistic rules",
+    "capability_being_measured": "understanding of quantum mechanics concepts, creative application of scientific principles to language, and constrained text generation",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "origami_instructions_generation",
+    "description_of_task": "Generate and interpret step-by-step origami instructions to create specific origami models.",
+    "capability_being_measured": "procedural generation, spatial reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

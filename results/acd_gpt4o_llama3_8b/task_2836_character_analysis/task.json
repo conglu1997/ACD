@@ -1,0 +1,6 @@
+{
+    "name_of_task": "character_analysis",
+    "description_of_task": "Analyze a fictional character's development based on given textual descriptions, dialogues, and background information.",
+    "capability_being_measured": "synthesis, comprehension, literary analysis",
+    "estimated_human_difficulty": "3"
+}

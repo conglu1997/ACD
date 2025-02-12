@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_analysis",
+    "description_of_task": "Analyze a legal scenario and provide a reasoned legal opinion based on given laws or precedents.",
+    "capability_being_measured": "legal reasoning, comprehension, logical reasoning",
+    "estimated_human_difficulty": "5"
+}

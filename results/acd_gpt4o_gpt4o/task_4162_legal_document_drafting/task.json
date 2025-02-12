@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_drafting",
+    "description_of_task": "Draft a legal document based on a given legal scenario, demonstrating understanding of legal principles, document structure, and appropriate language.",
+    "capability_being_measured": "legal knowledge, comprehension, document generation",
+    "estimated_human_difficulty": "5"
+}

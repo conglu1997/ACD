@@ -1,0 +1,6 @@
+{
+    "name_of_task": "3d_object_manipulation",
+    "description_of_task": "Describe and manipulate 3D objects based on given descriptions or instructions.",
+    "capability_being_measured": "spatial reasoning, comprehension, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

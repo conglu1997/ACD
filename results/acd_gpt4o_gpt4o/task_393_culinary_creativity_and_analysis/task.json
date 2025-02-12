@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_creativity_and_analysis",
+    "description_of_task": "Create a recipe based on given ingredients and analyze an existing recipe for improvements.",
+    "capability_being_measured": "creativity, domain-specific knowledge, analytical skills",
+    "estimated_human_difficulty": "4"
+}

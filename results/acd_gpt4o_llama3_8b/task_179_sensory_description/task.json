@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sensory_description",
+    "description_of_task": "Generate a detailed description of a sensory experience based on given prompts.",
+    "capability_being_measured": "descriptive language, creativity, sensory understanding",
+    "estimated_human_difficulty": "3"
+}

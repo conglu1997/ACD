@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_interpretation_creation",
+    "description_of_task": "Interpret given jokes and create new jokes based on specified themes or scenarios.",
+    "capability_being_measured": "creativity, linguistic skills, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

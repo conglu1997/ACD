@@ -1,0 +1,6 @@
+{
+    "name_of_task": "python_algorithm_generation",
+    "description_of_task": "Generate Python code to solve a given algorithmic problem.",
+    "capability_being_measured": "programming knowledge and logical reasoning",
+    "estimated_human_difficulty": "4"
+}

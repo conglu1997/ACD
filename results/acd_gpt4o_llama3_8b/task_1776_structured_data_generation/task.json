@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_data_generation",
+    "description_of_task": "Generate structured data (e.g., tables, bullet points) from provided unstructured text.",
+    "capability_being_measured": "data organization, comprehension, structured writing",
+    "estimated_human_difficulty": "4"
+}

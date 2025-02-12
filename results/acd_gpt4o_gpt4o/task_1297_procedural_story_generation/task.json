@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_story_generation",
+    "description_of_task": "Generate procedural story elements based on given parameters, assessing the model's ability to create coherent narratives and unique characters.",
+    "capability_being_measured": "creative problem-solving, narrative coherence, character creation",
+    "estimated_human_difficulty": "3"
+}

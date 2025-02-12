@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simplify_legal_principles",
+    "description_of_task": "Explain complex legal principles in simple terms and create hypothetical scenarios that illustrate these principles.",
+    "capability_being_measured": "comprehension, simplification, application",
+    "estimated_human_difficulty": "4"
+}

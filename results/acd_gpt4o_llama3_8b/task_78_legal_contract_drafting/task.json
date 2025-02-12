@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_contract_drafting",
+    "description_of_task": "Draft a legal contract based on specified requirements.",
+    "capability_being_measured": "legal knowledge, precision in language, and comprehension",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_algebra_cryptography",
+    "description_of_task": "Apply concepts from abstract algebra to design and analyze a novel cryptographic system, then use it to encode and decode messages.",
+    "capability_being_measured": "advanced mathematical reasoning, creative problem-solving, interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

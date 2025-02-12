@@ -1,0 +1,6 @@
+{
+    "name_of_task": "post_quantum_crypto_design",
+    "description_of_task": "Design and analyze a novel post-quantum cryptographic system, considering both current and potential future quantum computing capabilities.",
+    "capability_being_measured": "understanding of quantum computing principles, cryptography knowledge, creative problem-solving, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_translation_and_proverb_generation",
+    "description_of_task": "Translate short passages between different languages and generate culturally appropriate proverbs/idioms.",
+    "capability_being_measured": "multilingual understanding and generation",
+    "estimated_human_difficulty": "4"
+}

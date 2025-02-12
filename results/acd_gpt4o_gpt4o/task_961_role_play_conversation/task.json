@@ -1,0 +1,6 @@
+{
+    "name_of_task": "role_play_conversation",
+    "description_of_task": "Simulate a conversation in a specific role, maintaining appropriate context, tone, and coherence throughout the interaction.",
+    "capability_being_measured": "context understanding, dialogue coherence, role-specific behavior",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algebraic_expression_manipulation",
+    "description_of_task": "Generate and solve algebraic expressions based on given prompts.",
+    "capability_being_measured": "mathematical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

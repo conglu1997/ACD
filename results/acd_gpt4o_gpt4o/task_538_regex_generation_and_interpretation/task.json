@@ -1,0 +1,6 @@
+{
+    "name_of_task": "regex_generation_and_interpretation",
+    "description_of_task": "Generate regular expressions based on given descriptions and interpret given regular expressions to describe their patterns.",
+    "capability_being_measured": "pattern recognition, computational thinking, linguistic understanding",
+    "estimated_human_difficulty": "4"
+}

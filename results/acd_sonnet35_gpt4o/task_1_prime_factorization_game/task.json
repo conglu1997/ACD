@@ -1,0 +1,6 @@
+{
+    "name_of_task": "prime_factorization_game",
+    "description_of_task": "Perform prime factorization on a given number and use the result to make a move in a game.",
+    "capability_being_measured": "multi-step reasoning, mathematical knowledge, and strategic thinking",
+    "estimated_human_difficulty": "4"
+}

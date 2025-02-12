@@ -1,0 +1,6 @@
+{
+    "name_of_task": "exoplanet_biosignature_analyzer",
+    "description_of_task": "Design an AI system to analyze and interpret potential biosignatures on exoplanets, integrating data from various astronomical instruments and applying knowledge from astrobiology, biochemistry, and planetary science.",
+    "capability_being_measured": "interdisciplinary knowledge integration, data analysis, pattern recognition, and creative problem-solving in the context of astrobiology and exoplanet research",
+    "estimated_human_difficulty": "5"
+}

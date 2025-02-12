@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_fallacy_identification",
+    "description_of_task": "Identify and explain logical fallacies in given argumentative statements.",
+    "capability_being_measured": "reasoning, critical thinking, argumentative skills",
+    "estimated_human_difficulty": "4"
+}

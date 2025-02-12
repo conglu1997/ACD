@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialect_accent_generation",
+    "description_of_task": "Generate and recognize different English dialects or accents based on given prompts.",
+    "capability_being_measured": "linguistic adaptability, cultural understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

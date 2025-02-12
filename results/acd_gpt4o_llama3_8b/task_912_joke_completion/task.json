@@ -1,0 +1,6 @@
+{
+    "name_of_task": "joke_completion",
+    "description_of_task": "Provide a punchline to complete a given joke setup.",
+    "capability_being_measured": "creativity, contextual understanding, cultural knowledge",
+    "estimated_human_difficulty": "3"
+}

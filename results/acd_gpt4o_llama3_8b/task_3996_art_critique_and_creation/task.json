@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_critique_and_creation",
+    "description_of_task": "Analyze and critique a given art piece based on detailed descriptions and create a new art concept following specified criteria.",
+    "capability_being_measured": "artistic knowledge, analytical thinking, creativity",
+    "estimated_human_difficulty": "4"
+}

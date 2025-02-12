@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_comparison",
+    "description_of_task": "Compare two literary works based on given criteria.",
+    "capability_being_measured": "comprehension, analytical skills, language understanding",
+    "estimated_human_difficulty": "3"
+}

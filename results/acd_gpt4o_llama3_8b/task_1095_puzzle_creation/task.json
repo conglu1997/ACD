@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_creation",
+    "description_of_task": "Create a puzzle based on given constraints and guidelines.",
+    "capability_being_measured": "creativity, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

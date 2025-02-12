@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sound_imitation",
+    "description_of_task": "Generate detailed textual descriptions of given sounds and create sound imitation descriptions based on prompts, assessing auditory imagination and linguistic creativity.",
+    "capability_being_measured": "creativity, auditory imagination, linguistic capability",
+    "estimated_human_difficulty": "3"
+}

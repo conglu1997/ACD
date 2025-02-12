@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_translation_and_synthesis",
+    "description_of_task": "Translate given text between multiple languages and synthesize new content based on provided multilingual instructions.",
+    "capability_being_measured": "multilingual understanding, translation accuracy, content synthesis",
+    "estimated_human_difficulty": "4"
+}

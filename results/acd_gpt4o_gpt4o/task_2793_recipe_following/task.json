@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_following",
+    "description_of_task": "Follow a given recipe and provide the final step-by-step instructions and expected outcome.",
+    "capability_being_measured": "procedural understanding, sequential reasoning, practical application",
+    "estimated_human_difficulty": "3"
+}

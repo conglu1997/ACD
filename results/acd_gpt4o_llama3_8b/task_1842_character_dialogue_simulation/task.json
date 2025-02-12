@@ -1,0 +1,6 @@
+{
+    "name_of_task": "character_dialogue_simulation",
+    "description_of_task": "Simulate a realistic conversation between multiple characters with distinct personalities based on a given scenario.",
+    "capability_being_measured": "dialogue generation, character development, conversational coherence",
+    "estimated_human_difficulty": "3"
+}

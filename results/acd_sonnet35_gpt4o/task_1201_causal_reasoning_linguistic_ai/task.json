@@ -1,0 +1,6 @@
+{
+    "name_of_task": "causal_reasoning_linguistic_ai",
+    "description_of_task": "Analyze how different languages express causality and design experiments to test how this affects causal reasoning in AI language models",
+    "capability_being_measured": "linguistic analysis, causal reasoning, experimental design, and understanding of AI language models",
+    "estimated_human_difficulty": "5"
+}

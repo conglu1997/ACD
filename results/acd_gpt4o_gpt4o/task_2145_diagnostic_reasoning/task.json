@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diagnostic_reasoning",
+    "description_of_task": "Diagnose problems based on a set of symptoms and provide a rationale for the diagnosis.",
+    "capability_being_measured": "diagnostic reasoning, critical thinking, problem-solving",
+    "estimated_human_difficulty": "4"
+}

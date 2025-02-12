@@ -1,0 +1,6 @@
+{
+    "name_of_task": "lexical_transformation",
+    "description_of_task": "Transform given sentences by changing the form of words according to specified rules while retaining the original meaning.",
+    "capability_being_measured": "morphology, syntax, semantics, language manipulation",
+    "estimated_human_difficulty": "3"
+}

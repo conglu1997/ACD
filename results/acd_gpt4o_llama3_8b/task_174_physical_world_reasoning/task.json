@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_world_reasoning",
+    "description_of_task": "Reason about physical interactions and spatial relationships in a given scenario.",
+    "capability_being_measured": "spatial reasoning, understanding of physical laws",
+    "estimated_human_difficulty": "4"
+}

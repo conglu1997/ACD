@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_recognition",
+    "description_of_task": "Identify or continue a visual pattern based on a given description.",
+    "capability_being_measured": "spatial reasoning, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

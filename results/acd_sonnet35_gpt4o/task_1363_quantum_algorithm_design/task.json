@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_algorithm_design",
+    "description_of_task": "Design and analyze quantum algorithms for classical computing problems, explaining the quantum advantage and potential implementation challenges.",
+    "capability_being_measured": "understanding of quantum computing principles, algorithmic thinking, and ability to translate classical problems into quantum frameworks",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_puzzle_solving",
+    "description_of_task": "Interpret and solve visual puzzles based on descriptive text instructions.",
+    "capability_being_measured": "visual-spatial reasoning, logical reasoning, comprehension",
+    "estimated_human_difficulty": "4"
+}

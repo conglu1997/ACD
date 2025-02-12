@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_creation_and_explanation",
+    "description_of_task": "Create ASCII art based on a given theme and explain the design choices made.",
+    "capability_being_measured": "creativity, spatial reasoning, articulation of design choices",
+    "estimated_human_difficulty": "4"
+}

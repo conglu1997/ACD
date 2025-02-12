@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_cultural_metaphor_generation",
+    "description_of_task": "Design and implement a language model capable of generating and interpreting metaphors across different cultures and languages, then use it to analyze complex abstract concepts.",
+    "capability_being_measured": "cross-cultural linguistic understanding, abstract reasoning, creative language generation, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

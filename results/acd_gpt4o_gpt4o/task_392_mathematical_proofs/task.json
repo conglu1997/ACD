@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proofs",
+    "description_of_task": "Construct formal mathematical proofs for given statements.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, formal language use",
+    "estimated_human_difficulty": "5"
+}

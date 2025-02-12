@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_reasoning_critique",
+    "description_of_task": "Design an AI system capable of generating and critiquing abstract interpretations in art or philosophy, then analyze its output and ethical implications.",
+    "capability_being_measured": "abstract reasoning, creative interpretation, critical analysis, ethical reasoning, and interdisciplinary knowledge integration",
+    "estimated_human_difficulty": "5"
+}

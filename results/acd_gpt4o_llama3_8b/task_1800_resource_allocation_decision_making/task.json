@@ -1,0 +1,6 @@
+{
+    "name_of_task": "resource_allocation_decision_making",
+    "description_of_task": "Allocate limited resources to maximize certain outcomes based on given constraints and preferences.",
+    "capability_being_measured": "logical reasoning, decision-making, optimization",
+    "estimated_human_difficulty": "4"
+}

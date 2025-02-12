@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_interpretation",
+    "description_of_task": "Interpret given musical notations and generate corresponding musical pieces in a textual description.",
+    "capability_being_measured": "music theory knowledge, symbolic interpretation, creativity",
+    "estimated_human_difficulty": "4"
+}

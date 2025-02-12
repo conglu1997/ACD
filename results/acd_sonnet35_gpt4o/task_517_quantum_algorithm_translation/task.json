@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_algorithm_translation",
+    "description_of_task": "Analyze a given quantum algorithm, explain its purpose and function, then design a classical algorithm that approximates its behavior, and compare their computational complexities.",
+    "capability_being_measured": "understanding of quantum computing principles, algorithm design, computational complexity analysis, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

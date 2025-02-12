@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algebraic_manipulation",
+    "description_of_task": "Perform algebraic manipulations and solve complex equations based on given expressions.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, algebraic manipulation",
+    "estimated_human_difficulty": "4"
+}

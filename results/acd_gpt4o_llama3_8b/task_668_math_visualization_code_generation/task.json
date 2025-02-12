@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_visualization_code_generation",
+    "description_of_task": "Generate Python code to create specific mathematical visualizations using Matplotlib.",
+    "capability_being_measured": "technical knowledge, coding skills, mathematical understanding",
+    "estimated_human_difficulty": "3"
+}

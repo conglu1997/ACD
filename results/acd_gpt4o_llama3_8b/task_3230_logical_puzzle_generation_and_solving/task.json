@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzle_generation_and_solving",
+    "description_of_task": "Solve a given logical puzzle and generate a new logical puzzle based on specified criteria.",
+    "capability_being_measured": "logical reasoning, problem-solving, language comprehension",
+    "estimated_human_difficulty": "4"
+}

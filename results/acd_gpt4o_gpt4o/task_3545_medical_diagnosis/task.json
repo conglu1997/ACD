@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_diagnosis",
+    "description_of_task": "Diagnose a fictional patient's condition based on a set of symptoms provided.",
+    "capability_being_measured": "medical knowledge, diagnostic reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

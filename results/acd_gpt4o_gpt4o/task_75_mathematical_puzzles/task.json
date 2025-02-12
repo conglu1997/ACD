@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_puzzles",
+    "description_of_task": "Solve mathematical puzzles and provide logical explanations for given mathematical scenarios.",
+    "capability_being_measured": "logical reasoning, mathematical understanding",
+    "estimated_human_difficulty": "4"
+}

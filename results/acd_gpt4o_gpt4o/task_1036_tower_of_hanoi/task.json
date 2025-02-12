@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tower_of_hanoi",
+    "description_of_task": "Solve the Tower of Hanoi puzzle for a given number of disks and explain the steps involved in the solution.",
+    "capability_being_measured": "logical reasoning, algorithmic thinking, explanation skills",
+    "estimated_human_difficulty": "3"
+}

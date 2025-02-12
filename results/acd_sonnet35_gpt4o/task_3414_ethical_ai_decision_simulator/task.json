@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_ai_decision_simulator",
+    "description_of_task": "Design and implement an AI system that simulates ethical decision-making in complex scenarios, then analyze its choices and implications",
+    "capability_being_measured": "ethical reasoning, multi-perspective analysis, decision-making under uncertainty, and understanding of complex societal issues",
+    "estimated_human_difficulty": "5"
+}

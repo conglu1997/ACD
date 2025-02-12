@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_analogy_engine",
+    "description_of_task": "Design an AI system capable of understanding and generating complex analogies across different domains of knowledge, then use it to solve interdisciplinary problems.",
+    "capability_being_measured": "abstract reasoning, knowledge integration, creative problem-solving, and interdisciplinary application of cognitive science, linguistics, and artificial intelligence concepts",
+    "estimated_human_difficulty": "5"
+}

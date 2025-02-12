@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_puzzle_solving",
+    "description_of_task": "Solve geometric puzzles based on given descriptions and constraints.",
+    "capability_being_measured": "spatial reasoning, geometric understanding, logical thinking",
+    "estimated_human_difficulty": "3"
+}

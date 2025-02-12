@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_analysis",
+    "description_of_task": "Generate meaningful analogies based on given concepts and analyze provided analogies for their coherence and relevance.",
+    "capability_being_measured": "abstract reasoning, creativity, language generation, comprehension",
+    "estimated_human_difficulty": "4"
+}

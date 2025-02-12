@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_imagination",
+    "description_of_task": "Generate detailed visual descriptions of scenes based on simple prompts.",
+    "capability_being_measured": "creativity, descriptive language, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

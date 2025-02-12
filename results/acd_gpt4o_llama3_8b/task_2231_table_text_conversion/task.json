@@ -1,0 +1,6 @@
+{
+    "name_of_task": "table_text_conversion",
+    "description_of_task": "Convert tabular data into a textual summary and convert textual information into a table.",
+    "capability_being_measured": "data interpretation, structured data manipulation, textual summarization",
+    "estimated_human_difficulty": "3"
+}

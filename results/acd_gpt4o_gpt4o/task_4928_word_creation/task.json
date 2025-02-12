@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_creation",
+    "description_of_task": "Create new words and provide their definitions along with example sentences demonstrating their usage.",
+    "capability_being_measured": "linguistic creativity, semantic understanding, language structure",
+    "estimated_human_difficulty": "3"
+}

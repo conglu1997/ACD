@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_transformations",
+    "description_of_task": "Apply geometric transformations to given shapes and describe the new coordinates or properties of the transformed shapes.",
+    "capability_being_measured": "spatial reasoning, mathematical knowledge, problem-solving",
+    "estimated_human_difficulty": "4"
+}

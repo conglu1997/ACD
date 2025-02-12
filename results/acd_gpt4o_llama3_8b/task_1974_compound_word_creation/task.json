@@ -1,0 +1,6 @@
+{
+    "name_of_task": "compound_word_creation",
+    "description_of_task": "Create compound words or phrases based on given components and provide their meanings and usage in a sentence.",
+    "capability_being_measured": "language understanding, creativity, semantic comprehension",
+    "estimated_human_difficulty": "3"
+}

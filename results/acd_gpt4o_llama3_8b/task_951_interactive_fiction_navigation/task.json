@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_fiction_navigation",
+    "description_of_task": "Navigate through a text-based adventure game by making decisions based on the narrative provided.",
+    "capability_being_measured": "context understanding, decision-making, narrative coherence",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis",
+    "description_of_task": "Analyze a given historical event and provide insights or a comparative analysis with another event.",
+    "capability_being_measured": "historical knowledge, analytical skills, comparative reasoning",
+    "estimated_human_difficulty": "3"
+}

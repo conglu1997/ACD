@@ -1,0 +1,6 @@
+{
+    "name_of_task": "robotics_movement_design",
+    "description_of_task": "Design and program the movement of a simple robot based on given objectives and constraints.",
+    "capability_being_measured": "technical comprehension, procedural knowledge, problem-solving",
+    "estimated_human_difficulty": "4"
+}

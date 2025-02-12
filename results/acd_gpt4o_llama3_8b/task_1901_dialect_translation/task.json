@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialect_translation",
+    "description_of_task": "Translate sentences between standard English and specific regional dialects, and vice versa.",
+    "capability_being_measured": "language understanding, cultural knowledge, translation",
+    "estimated_human_difficulty": "3"
+}

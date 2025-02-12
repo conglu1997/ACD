@@ -1,0 +1,6 @@
+{
+    "name_of_task": "developmental_language_acquisition_simulation",
+    "description_of_task": "Design and implement a simulated language acquisition process for an AI agent, mimicking key stages of human language development, then analyze the resulting 'child language'",
+    "capability_being_measured": "understanding of language acquisition theories, ability to simulate cognitive developmental processes, and analysis of emergent linguistic patterns",
+    "estimated_human_difficulty": "5"
+}

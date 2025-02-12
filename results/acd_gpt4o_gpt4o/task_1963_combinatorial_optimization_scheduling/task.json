@@ -1,0 +1,6 @@
+{
+    "name_of_task": "combinatorial_optimization_scheduling",
+    "description_of_task": "Solve scheduling problems by optimizing resource allocation and meeting specified constraints.",
+    "capability_being_measured": "optimization, problem-solving, mathematical reasoning",
+    "estimated_human_difficulty": "4"
+}

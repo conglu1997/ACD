@@ -1,0 +1,6 @@
+{
+    "name_of_task": "role_playing_dialogue_generation",
+    "description_of_task": "Continue a role-playing dialogue based on a given scenario and initial exchanges.",
+    "capability_being_measured": "conversational intelligence, contextual understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

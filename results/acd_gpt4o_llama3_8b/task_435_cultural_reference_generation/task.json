@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_reference_generation",
+    "description_of_task": "Generate contextually appropriate cultural references based on given prompts.",
+    "capability_being_measured": "cultural knowledge and creative language generation",
+    "estimated_human_difficulty": "4"
+}

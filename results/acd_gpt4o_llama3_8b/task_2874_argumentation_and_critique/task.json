@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argumentation_and_critique",
+    "description_of_task": "Generate a persuasive argument on a given topic and critique a provided argument for logical consistency and effectiveness.",
+    "capability_being_measured": "logical reasoning, critical thinking, persuasive writing",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "philosophical_concept_explanation_and_generation",
+    "description_of_task": "Explain complex philosophical concepts and generate content based on given philosophical prompts.",
+    "capability_being_measured": "philosophical reasoning, abstraction, creativity, language generation",
+    "estimated_human_difficulty": "5"
+}

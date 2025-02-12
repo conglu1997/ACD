@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_creation_with_constraints",
+    "description_of_task": "Create poems based on given structural and thematic constraints.",
+    "capability_being_measured": "creativity, linguistic skills, rule-following",
+    "estimated_human_difficulty": "4"
+}

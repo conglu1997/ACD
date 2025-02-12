@@ -1,0 +1,6 @@
+{
+    "name_of_task": "language_memory_decision_integration",
+    "description_of_task": "Design an AI system that integrates natural language processing, episodic memory, and decision-making processes, then apply it to solve complex narrative-based problems",
+    "capability_being_measured": "integration of language understanding, memory formation and retrieval, and decision-making processes in AI systems",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_bias_storytelling",
+    "description_of_task": "Design an AI system that generates short stories illustrating specific cognitive biases, then analyze the stories to evaluate how effectively they demonstrate the biases.",
+    "capability_being_measured": "understanding of cognitive psychology, creative writing, and meta-analysis of generated content",
+    "estimated_human_difficulty": "4"
+}

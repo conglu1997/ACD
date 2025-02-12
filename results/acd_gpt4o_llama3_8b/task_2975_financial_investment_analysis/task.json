@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_investment_analysis",
+    "description_of_task": "Analyze financial data and make investment recommendations based on given guidelines.",
+    "capability_being_measured": "data analysis, financial reasoning, decision-making",
+    "estimated_human_difficulty": "4"
+}

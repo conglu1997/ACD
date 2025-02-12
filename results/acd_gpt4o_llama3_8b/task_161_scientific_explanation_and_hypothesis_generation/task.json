@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_and_hypothesis_generation",
+    "description_of_task": "Explain scientific phenomena and generate hypotheses based on provided data or observations.",
+    "capability_being_measured": "scientific knowledge, reasoning, hypothesis generation",
+    "estimated_human_difficulty": "4"
+}

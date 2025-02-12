@@ -1,0 +1,6 @@
+{
+    "name_of_task": "furniture_assembly_instructions",
+    "description_of_task": "Generate step-by-step assembly instructions for a piece of furniture based on given specifications.",
+    "capability_being_measured": "spatial reasoning, logical sequencing, and descriptive language",
+    "estimated_human_difficulty": "4"
+}

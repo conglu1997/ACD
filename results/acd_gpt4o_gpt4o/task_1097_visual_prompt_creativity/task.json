@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_prompt_creativity",
+    "description_of_task": "Generate creative content based on detailed visual prompts.",
+    "capability_being_measured": "creativity, visual interpretation, text generation",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_puzzle_generation_solution",
+    "description_of_task": "Create a math-based puzzle and provide a solution to it.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

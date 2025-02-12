@@ -1,0 +1,6 @@
+{
+    "name_of_task": "career_advice",
+    "description_of_task": "Provide detailed and contextually appropriate career advice based on hypothetical scenarios.",
+    "capability_being_measured": "knowledge, reasoning, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

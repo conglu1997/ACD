@@ -1,0 +1,6 @@
+{
+    "name_of_task": "turn_based_strategy",
+    "description_of_task": "Make strategic decisions in turn-based games based on the game state and predefined rules.",
+    "capability_being_measured": "strategic decision-making and adaptability",
+    "estimated_human_difficulty": "3"
+}

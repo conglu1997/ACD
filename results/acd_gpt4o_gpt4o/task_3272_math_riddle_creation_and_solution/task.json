@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_riddle_creation_and_solution",
+    "description_of_task": "Create a mathematical riddle based on given constraints and solve a provided mathematical riddle.",
+    "capability_being_measured": "mathematical creativity, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

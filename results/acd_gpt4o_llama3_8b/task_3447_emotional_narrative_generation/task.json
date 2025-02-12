@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_narrative_generation",
+    "description_of_task": "Generate emotionally charged narratives based on given emotional cues and contexts.",
+    "capability_being_measured": "emotional understanding, creative writing, narrative construction",
+    "estimated_human_difficulty": "4"
+}

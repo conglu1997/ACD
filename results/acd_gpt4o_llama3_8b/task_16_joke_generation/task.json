@@ -1,0 +1,6 @@
+{
+    "name_of_task": "joke_generation",
+    "description_of_task": "Generate jokes based on a given theme and type.",
+    "capability_being_measured": "creativity and language understanding",
+    "estimated_human_difficulty": "4"
+}

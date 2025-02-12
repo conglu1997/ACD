@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_historical_context",
+    "description_of_task": "Answer questions related to historical events and cultural practices based on provided context.",
+    "capability_being_measured": "cultural knowledge, historical knowledge, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

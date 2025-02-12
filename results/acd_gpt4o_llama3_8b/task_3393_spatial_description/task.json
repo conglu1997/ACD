@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_description",
+    "description_of_task": "Describe the spatial relationships between objects in a given scene.",
+    "capability_being_measured": "spatial reasoning, descriptive ability",
+    "estimated_human_difficulty": "3"
+}

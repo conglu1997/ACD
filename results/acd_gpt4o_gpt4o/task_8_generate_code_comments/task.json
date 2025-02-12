@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_code_comments",
+    "description_of_task": "Generate meaningful comments for given code snippets.",
+    "capability_being_measured": "code understanding, natural language generation",
+    "estimated_human_difficulty": "3"
+}

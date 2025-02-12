@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_puzzle_generation_and_solution",
+    "description_of_task": "Generate a mathematical puzzle based on given constraints and solve a provided puzzle.",
+    "capability_being_measured": "logical reasoning, mathematical understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

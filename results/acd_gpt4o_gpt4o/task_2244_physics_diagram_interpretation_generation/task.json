@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_diagram_interpretation_generation",
+    "description_of_task": "Generate and interpret diagrams representing physical phenomena, assessing understanding of physical principles and ability to communicate them.",
+    "capability_being_measured": "scientific understanding, diagrammatic reasoning, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

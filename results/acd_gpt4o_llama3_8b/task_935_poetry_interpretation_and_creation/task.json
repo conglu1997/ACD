@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_interpretation_and_creation",
+    "description_of_task": "Analyze a given poem to explain its themes, metaphors, and emotions, and create a poem based on a given prompt.",
+    "capability_being_measured": "creative writing, language understanding, interpretative skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_drafting_and_analysis",
+    "description_of_task": "Analyze given legal documents for key elements and draft new legal documents based on specified criteria.",
+    "capability_being_measured": "specialized language understanding, logical structuring, adherence to formal requirements",
+    "estimated_human_difficulty": "5"
+}

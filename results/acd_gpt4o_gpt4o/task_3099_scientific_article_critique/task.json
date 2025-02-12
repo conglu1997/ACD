@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_article_critique",
+    "description_of_task": "Critically analyze a given scientific article, summarizing its content, evaluating its methodology, and discussing its significance and limitations.",
+    "capability_being_measured": "comprehension, analytical skills, logical reasoning, summarization",
+    "estimated_human_difficulty": "4"
+}

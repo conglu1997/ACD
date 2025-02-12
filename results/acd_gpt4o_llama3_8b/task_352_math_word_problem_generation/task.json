@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problem_generation",
+    "description_of_task": "Generate a coherent and accurate word problem based on a given mathematical equation or scenario.",
+    "capability_being_measured": "mathematical reasoning and language generation",
+    "estimated_human_difficulty": "4"
+}

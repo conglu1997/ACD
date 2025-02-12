@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_description_generation",
+    "description_of_task": "Interpret a given piece of musical notation and generate a description of its musical elements, then create a new piece of musical notation based on a given description.",
+    "capability_being_measured": "music theory understanding, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

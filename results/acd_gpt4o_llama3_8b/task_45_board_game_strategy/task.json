@@ -1,0 +1,6 @@
+{
+    "name_of_task": "board_game_strategy",
+    "description_of_task": "Generate a strategy for a given board game scenario.",
+    "capability_being_measured": "strategic reasoning and decision-making",
+    "estimated_human_difficulty": "4"
+}

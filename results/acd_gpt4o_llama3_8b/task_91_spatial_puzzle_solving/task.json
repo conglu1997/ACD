@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_puzzle_solving",
+    "description_of_task": "Solve spatial puzzles based on textual descriptions.",
+    "capability_being_measured": "spatial reasoning and problem-solving",
+    "estimated_human_difficulty": "4"
+}

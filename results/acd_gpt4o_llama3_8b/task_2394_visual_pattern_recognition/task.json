@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_recognition",
+    "description_of_task": "Identify underlying rules in visual patterns and generate similar patterns based on given criteria.",
+    "capability_being_measured": "visual-spatial reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

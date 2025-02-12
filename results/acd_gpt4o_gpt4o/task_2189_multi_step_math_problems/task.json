@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_step_math_problems",
+    "description_of_task": "Solve multi-step word problems involving numerical reasoning and calculations.",
+    "capability_being_measured": "numerical reasoning, problem-solving, mathematical comprehension",
+    "estimated_human_difficulty": "4"
+}

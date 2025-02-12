@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_cue_interpretation",
+    "description_of_task": "Interpret implicit social cues in dialogues and explain the underlying emotions or intentions.",
+    "capability_being_measured": "contextual understanding, emotional intelligence, social reasoning",
+    "estimated_human_difficulty": "4"
+}

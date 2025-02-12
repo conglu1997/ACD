@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_fallacies",
+    "description_of_task": "Identify logical fallacies in a given argument and create an argument containing a specified logical fallacy.",
+    "capability_being_measured": "reasoning, critical thinking, argumentation",
+    "estimated_human_difficulty": "4"
+}

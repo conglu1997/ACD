@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_interpretation",
+    "description_of_task": "Generate a poem based on a given theme and analyze the meaning and emotional impact of a given poem.",
+    "capability_being_measured": "creativity, language understanding, emotional intelligence",
+    "estimated_human_difficulty": "4"
+}

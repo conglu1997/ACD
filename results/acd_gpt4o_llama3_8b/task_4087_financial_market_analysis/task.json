@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_market_analysis",
+    "description_of_task": "Analyze stock market data and generate insights based on given trends.",
+    "capability_being_measured": "data interpretation, reasoning, financial knowledge",
+    "estimated_human_difficulty": "4"
+}

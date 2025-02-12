@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_documentation_generation",
+    "description_of_task": "Generate comprehensive documentation for given code snippets.",
+    "capability_being_measured": "code comprehension and language generation",
+    "estimated_human_difficulty": "3"
+}

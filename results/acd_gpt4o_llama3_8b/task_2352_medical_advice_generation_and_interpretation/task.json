@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_advice_generation_and_interpretation",
+    "description_of_task": "Generate and interpret medical advice based on given symptoms or conditions.",
+    "capability_being_measured": "medical knowledge, comprehension, context understanding, synthesis",
+    "estimated_human_difficulty": "5"
+}

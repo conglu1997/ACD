@@ -1,0 +1,6 @@
+{
+    "name_of_task": "food_tasting_notes_generation",
+    "description_of_task": "Generate descriptive tasting notes for given food items, focusing on flavor, texture, aroma, and overall experience.",
+    "capability_being_measured": "creativity, language skills, sensory simulation",
+    "estimated_human_difficulty": "3"
+}

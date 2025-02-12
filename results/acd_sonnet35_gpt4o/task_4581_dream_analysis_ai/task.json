@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dream_analysis_ai",
+    "description_of_task": "Design an AI system capable of analyzing and generating dream-like narratives based on psychological theories and linguistic patterns, then apply it to interpret a given dream scenario and generate a new one.",
+    "capability_being_measured": "understanding of psychological theories, natural language processing, creative text generation, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "4"
+}

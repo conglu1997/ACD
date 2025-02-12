@@ -1,0 +1,6 @@
+{
+    "name_of_task": "biological_process_analysis_and_generation",
+    "description_of_task": "Analyze a given biological process or phenomenon and generate a new biological scenario based on specified criteria.",
+    "capability_being_measured": "biological knowledge, analytical thinking, creativity",
+    "estimated_human_difficulty": "4"
+}

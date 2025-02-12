@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_deduction",
+    "description_of_task": "Solve multi-step logical deduction puzzles based on given premises.",
+    "capability_being_measured": "logical reasoning and problem-solving",
+    "estimated_human_difficulty": "4"
+}

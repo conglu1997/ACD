@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_proof_verification",
+    "description_of_task": "Verify the correctness of a given mathematical proof.",
+    "capability_being_measured": "mathematical reasoning, formal logic, verification skills",
+    "estimated_human_difficulty": "4"
+}

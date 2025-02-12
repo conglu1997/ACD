@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_and_interpretation",
+    "description_of_task": "Generate a detailed cooking recipe based on given specifications and interpret an existing recipe to extract key components.",
+    "capability_being_measured": "procedural understanding, logical reasoning, domain-specific knowledge",
+    "estimated_human_difficulty": "3"
+}

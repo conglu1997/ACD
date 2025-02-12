@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_comprehension",
+    "description_of_task": "Interpret detailed descriptions of visual scenes and answer questions or solve problems based on the scenes.",
+    "capability_being_measured": "comprehension, descriptive abilities, problem-solving",
+    "estimated_human_difficulty": "4"
+}

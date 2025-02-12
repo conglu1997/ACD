@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experiment_simulation",
+    "description_of_task": "Simulate a given scientific experiment and predict the outcome based on provided conditions.",
+    "capability_being_measured": "scientific knowledge, hypothesis formulation, reasoning",
+    "estimated_human_difficulty": "4"
+}

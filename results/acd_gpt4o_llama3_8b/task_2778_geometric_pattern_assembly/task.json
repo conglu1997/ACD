@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_pattern_assembly",
+    "description_of_task": "Assemble a series of geometric shapes into a specified pattern based on given instructions.",
+    "capability_being_measured": "logical reasoning, spatial awareness, problem-solving",
+    "estimated_human_difficulty": "4"
+}

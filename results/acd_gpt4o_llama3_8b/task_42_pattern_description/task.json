@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pattern_description",
+    "description_of_task": "Generate descriptions for given geometric patterns based on specified constraints.",
+    "capability_being_measured": "visual-spatial reasoning",
+    "estimated_human_difficulty": "3"
+}

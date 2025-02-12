@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interpret_ambiguity",
+    "description_of_task": "Interpret ambiguous statements and provide clear, contextually appropriate responses.",
+    "capability_being_measured": "comprehension, context understanding, handling ambiguity",
+    "estimated_human_difficulty": "4"
+}

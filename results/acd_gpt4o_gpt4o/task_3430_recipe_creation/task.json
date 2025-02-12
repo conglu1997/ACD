@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation",
+    "description_of_task": "Generate a new recipe based on given dietary restrictions and available ingredients.",
+    "capability_being_measured": "creativity, practical problem-solving, knowledge about food and nutrition",
+    "estimated_human_difficulty": "4"
+}

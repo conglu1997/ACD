@@ -1,0 +1,6 @@
+{
+    "name_of_task": "describe_and_interpret_visual_scene",
+    "description_of_task": "Describe a visual scene based on a given textual prompt and then answer questions about the scene.",
+    "capability_being_measured": "visualization, comprehension, spatial reasoning",
+    "estimated_human_difficulty": "3"
+}

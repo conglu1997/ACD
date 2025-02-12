@@ -1,0 +1,6 @@
+{
+    "name_of_task": "proto_language_reconstruction",
+    "description_of_task": "Reconstruct a hypothetical proto-language based on given descendant languages, then use it to translate a modern phrase",
+    "capability_being_measured": "linguistic analysis, historical reasoning, pattern recognition, and creative language generation",
+    "estimated_human_difficulty": "5"
+}

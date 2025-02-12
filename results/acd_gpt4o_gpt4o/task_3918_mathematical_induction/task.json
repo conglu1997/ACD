@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_induction",
+    "description_of_task": "Generate mathematical proofs using induction and verify the correctness of given proofs.",
+    "capability_being_measured": "mathematical reasoning, logical deduction",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_interpretation",
+    "description_of_task": "Generate a poem based on a given theme or interpret a given poem's meaning and style.",
+    "capability_being_measured": "creativity, language understanding, style adaptation",
+    "estimated_human_difficulty": "4"
+}

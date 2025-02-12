@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_emotion_translation",
+    "description_of_task": "Translate emotional states between music and natural language, and design an AI system to perform this translation",
+    "capability_being_measured": "cross-modal understanding, emotional intelligence, creative problem-solving, and interdisciplinary knowledge application in music theory, psychology, and AI",
+    "estimated_human_difficulty": "4"
+}

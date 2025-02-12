@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_explanation_generation",
+    "description_of_task": "Generate clear and accurate explanations for given physical phenomena based on fundamental principles and laws of physics.",
+    "capability_being_measured": "scientific reasoning, explanatory skills, knowledge of physics",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "parody_generation",
+    "description_of_task": "Generate a humorous parody of a well-known piece of literature or a famous speech, maintaining the original style and form while infusing humor and exaggeration.",
+    "capability_being_measured": "creativity, cultural knowledge, humor understanding",
+    "estimated_human_difficulty": "4"
+}

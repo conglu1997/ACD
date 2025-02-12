@@ -1,0 +1,6 @@
+{
+    "name_of_task": "gadget_design_and_explanation",
+    "description_of_task": "Design a novel gadget based on a given functional requirement and explain the functionality of a described gadget.",
+    "capability_being_measured": "creativity, technical understanding, descriptive language",
+    "estimated_human_difficulty": "4"
+}

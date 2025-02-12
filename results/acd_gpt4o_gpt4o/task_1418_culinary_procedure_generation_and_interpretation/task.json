@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_procedure_generation_and_interpretation",
+    "description_of_task": "Generate and interpret complex culinary recipes to assess procedural understanding, sequential reasoning, and attention to detail.",
+    "capability_being_measured": "procedural understanding, sequential reasoning, attention to detail",
+    "estimated_human_difficulty": "3"
+}

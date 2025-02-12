@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_analysis",
+    "description_of_task": "Generate a humorous story based on a given prompt and analyze the humor in a provided joke.",
+    "capability_being_measured": "creativity, language understanding, cultural knowledge, linguistic nuances",
+    "estimated_human_difficulty": "4"
+}

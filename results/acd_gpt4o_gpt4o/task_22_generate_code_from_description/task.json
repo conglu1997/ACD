@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_code_from_description",
+    "description_of_task": "Generate functional code based on a given natural language description.",
+    "capability_being_measured": "programming ability, comprehension of natural language, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

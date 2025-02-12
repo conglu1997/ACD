@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_analysis",
+    "description_of_task": "Analyze a given poem to identify its themes, metaphorical language, and emotional tone.",
+    "capability_being_measured": "literary analysis, language understanding, interpretative skills",
+    "estimated_human_difficulty": "4"
+}

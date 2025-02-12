@@ -1,0 +1,6 @@
+{
+    "name_of_task": "explain_complex_concept",
+    "description_of_task": "Explain a complex scientific or technical concept in simple terms tailored for a specific audience.",
+    "capability_being_measured": "comprehension, adaptability, communication",
+    "estimated_human_difficulty": "4"
+}

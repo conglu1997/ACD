@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_description",
+    "description_of_task": "Describe a piece of visual art based on a given image or a detailed description.",
+    "capability_being_measured": "visual interpretation and descriptive language",
+    "estimated_human_difficulty": "3"
+}

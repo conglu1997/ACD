@@ -1,0 +1,6 @@
+{
+    "name_of_task": "symbolic_analogy_generation",
+    "description_of_task": "Generate analogies based on given pairs of concepts, demonstrating an understanding of abstract relationships.",
+    "capability_being_measured": "abstract reasoning, creativity, language understanding",
+    "estimated_human_difficulty": "3"
+}

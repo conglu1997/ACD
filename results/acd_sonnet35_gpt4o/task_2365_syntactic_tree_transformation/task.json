@@ -1,0 +1,6 @@
+{
+    "name_of_task": "syntactic_tree_transformation",
+    "description_of_task": "Manipulate syntactic parse trees and generate new sentences based on structural transformations",
+    "capability_being_measured": "understanding of syntax, ability to manipulate linguistic structures, and creative language generation",
+    "estimated_human_difficulty": "4"
+}

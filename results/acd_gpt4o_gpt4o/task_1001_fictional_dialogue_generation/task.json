@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_dialogue_generation",
+    "description_of_task": "Generate creative and contextually appropriate dialogue between fictional characters in given scenarios.",
+    "capability_being_measured": "conversational creativity, contextual understanding, character consistency",
+    "estimated_human_difficulty": "3"
+}

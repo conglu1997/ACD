@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_semantic_role_labeling",
+    "description_of_task": "Perform semantic role labeling on sentences from diverse language families, then analyze and compare the results to uncover cross-linguistic patterns",
+    "capability_being_measured": "cross-lingual understanding, deep linguistic analysis, pattern recognition, and abstract reasoning",
+    "estimated_human_difficulty": "5"
+}

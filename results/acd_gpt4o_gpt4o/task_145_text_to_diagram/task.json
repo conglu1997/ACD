@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_diagram",
+    "description_of_task": "Convert textual descriptions into simple diagrams and generate textual descriptions from given diagrams.",
+    "capability_being_measured": "visualization, interpretation, descriptive skills",
+    "estimated_human_difficulty": "3"
+}

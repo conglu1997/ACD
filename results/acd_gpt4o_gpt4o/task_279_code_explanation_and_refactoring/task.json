@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_explanation_and_refactoring",
+    "description_of_task": "Explain a given piece of code and refactor it to improve readability and efficiency.",
+    "capability_being_measured": "programming knowledge, code comprehension, problem-solving, communication",
+    "estimated_human_difficulty": "3"
+}

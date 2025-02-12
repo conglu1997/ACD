@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_generation",
+    "description_of_task": "Generate a pun based on a given context.",
+    "capability_being_measured": "creativity, language manipulation, humor generation",
+    "estimated_human_difficulty": "4"
+}

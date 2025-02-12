@@ -1,0 +1,6 @@
+{
+    "name_of_task": "folk_tale_generation",
+    "description_of_task": "Generate a folk tale based on given cultural themes or elements, ensuring that the tale is creative, coherent, and culturally rich.",
+    "capability_being_measured": "creativity, cultural knowledge, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

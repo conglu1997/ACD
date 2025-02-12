@@ -1,0 +1,6 @@
+{
+    "name_of_task": "create_and_explain_idioms",
+    "description_of_task": "Generate a new idiom or proverb based on given criteria and explain its meaning and usage.",
+    "capability_being_measured": "creativity, cultural understanding, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

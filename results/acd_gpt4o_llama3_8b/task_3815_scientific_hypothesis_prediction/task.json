@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_prediction",
+    "description_of_task": "Predict the outcome of a given scientific hypothesis and provide a detailed explanation of the reasoning behind the prediction.",
+    "capability_being_measured": "scientific knowledge, logical reasoning, prediction",
+    "estimated_human_difficulty": "4"
+}

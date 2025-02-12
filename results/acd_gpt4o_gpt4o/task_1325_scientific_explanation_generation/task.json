@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_generation",
+    "description_of_task": "Generate detailed explanations for complex scientific phenomena based on given topics.",
+    "capability_being_measured": "scientific knowledge, explanatory skills, comprehension",
+    "estimated_human_difficulty": "4"
+}

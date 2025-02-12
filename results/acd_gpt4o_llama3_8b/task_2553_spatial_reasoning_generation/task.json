@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_generation",
+    "description_of_task": "Interpret and generate spatial descriptions or patterns based on given criteria.",
+    "capability_being_measured": "spatial reasoning, visual pattern recognition, descriptive generation",
+    "estimated_human_difficulty": "4"
+}

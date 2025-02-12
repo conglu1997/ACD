@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning_and_document_generation",
+    "description_of_task": "Interpret legal texts and generate legally sound arguments or documents based on given scenarios.",
+    "capability_being_measured": "legal reasoning, precise language use, domain-specific knowledge",
+    "estimated_human_difficulty": "5"
+}

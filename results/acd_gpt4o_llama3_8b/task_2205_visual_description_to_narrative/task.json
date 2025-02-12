@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_to_narrative",
+    "description_of_task": "Convert detailed visual descriptions into coherent and engaging narratives.",
+    "capability_being_measured": "comprehension, creativity, narrative skills",
+    "estimated_human_difficulty": "4"
+}

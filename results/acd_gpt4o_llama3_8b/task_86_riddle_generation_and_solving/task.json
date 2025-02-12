@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_generation_and_solving",
+    "description_of_task": "Generate a riddle based on given constraints and solve a provided riddle.",
+    "capability_being_measured": "creativity, language understanding, lateral thinking",
+    "estimated_human_difficulty": "4"
+}

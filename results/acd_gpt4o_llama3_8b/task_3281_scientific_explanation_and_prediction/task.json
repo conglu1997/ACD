@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_and_prediction",
+    "description_of_task": "Explain a given scientific phenomenon and predict outcomes based on provided data.",
+    "capability_being_measured": "scientific knowledge, logical reasoning, predictive analysis",
+    "estimated_human_difficulty": "4"
+}

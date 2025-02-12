@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mechanical_diagram_interpretation",
+    "description_of_task": "Interpret a mechanical diagram and describe how the depicted machine works.",
+    "capability_being_measured": "spatial reasoning, mechanical comprehension, technical explanation",
+    "estimated_human_difficulty": "4"
+}

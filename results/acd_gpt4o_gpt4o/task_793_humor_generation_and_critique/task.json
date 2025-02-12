@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_critique",
+    "description_of_task": "Generate jokes based on given prompts and critique jokes based on their humor, appropriateness, and structure.",
+    "capability_being_measured": "creativity, cultural knowledge, linguistic dexterity",
+    "estimated_human_difficulty": "4"
+}

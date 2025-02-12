@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_proverb_interpretation_creation",
+    "description_of_task": "Interpret given idiomatic expressions or proverbs and create new ones based on given meanings.",
+    "capability_being_measured": "language comprehension, cultural knowledge, creativity",
+    "estimated_human_difficulty": "3"
+}

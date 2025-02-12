@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geographic_data_analysis",
+    "description_of_task": "Interpret geographic data and produce detailed descriptive and analytical responses.",
+    "capability_being_measured": "domain-specific knowledge, spatial reasoning, descriptive analysis",
+    "estimated_human_difficulty": "4"
+}

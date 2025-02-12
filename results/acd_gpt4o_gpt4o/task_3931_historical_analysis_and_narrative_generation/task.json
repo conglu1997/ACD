@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis_and_narrative_generation",
+    "description_of_task": "Analyze a given historical event and generate a historical narrative based on specified criteria.",
+    "capability_being_measured": "historical knowledge, analytical reasoning, creative writing",
+    "estimated_human_difficulty": "4"
+}

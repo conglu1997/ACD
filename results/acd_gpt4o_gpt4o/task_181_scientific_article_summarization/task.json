@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_article_summarization",
+    "description_of_task": "Read and summarize scientific articles accurately, highlighting the key points and findings.",
+    "capability_being_measured": "comprehension, summarization, technical knowledge",
+    "estimated_human_difficulty": "4"
+}

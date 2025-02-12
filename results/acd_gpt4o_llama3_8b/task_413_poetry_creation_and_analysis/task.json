@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_creation_and_analysis",
+    "description_of_task": "Write a poem based on a given theme and explain the poetic devices used.",
+    "capability_being_measured": "creativity, language understanding, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

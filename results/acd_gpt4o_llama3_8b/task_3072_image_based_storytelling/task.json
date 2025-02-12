@@ -1,0 +1,6 @@
+{
+    "name_of_task": "image_based_storytelling",
+    "description_of_task": "Generate a narrative based on a sequence of images or generate images based on a given narrative.",
+    "capability_being_measured": "visual interpretation, narrative generation, creativity",
+    "estimated_human_difficulty": "4"
+}

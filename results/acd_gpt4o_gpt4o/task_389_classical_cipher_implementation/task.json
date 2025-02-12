@@ -1,0 +1,6 @@
+{
+    "name_of_task": "classical_cipher_implementation",
+    "description_of_task": "Implement and break classical ciphers to encrypt and decrypt messages.",
+    "capability_being_measured": "cryptographic knowledge, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

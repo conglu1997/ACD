@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_generation",
+    "description_of_task": "Generate a legally coherent document (such as a contract clause or a legal notice) based on given requirements.",
+    "capability_being_measured": "legal understanding, language precision, document structuring",
+    "estimated_human_difficulty": "5"
+}

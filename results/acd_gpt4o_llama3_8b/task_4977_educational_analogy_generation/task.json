@@ -1,0 +1,6 @@
+{
+    "name_of_task": "educational_analogy_generation",
+    "description_of_task": "Generate educational analogies to explain complex concepts using simpler, everyday terms.",
+    "capability_being_measured": "knowledge, creativity, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "compound_word_generation",
+    "description_of_task": "Generate a compound word or phrase based on given components and provide a meaningful explanation of its usage.",
+    "capability_being_measured": "linguistic creativity, semantic understanding",
+    "estimated_human_difficulty": "3"
+}

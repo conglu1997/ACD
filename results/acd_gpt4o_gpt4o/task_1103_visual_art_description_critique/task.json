@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_description_critique",
+    "description_of_task": "Interpret and critique a given visual art piece based on its description, and generate a description for a hypothetical art piece based on a given theme and style.",
+    "capability_being_measured": "creativity, language understanding, nuanced interpretation",
+    "estimated_human_difficulty": "4"
+}

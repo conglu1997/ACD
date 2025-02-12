@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_interpretation",
+    "description_of_task": "Interpret legal documents and provide coherent legal arguments or summaries based on the given text.",
+    "capability_being_measured": "legal knowledge, reasoning, synthesis",
+    "estimated_human_difficulty": "5"
+}

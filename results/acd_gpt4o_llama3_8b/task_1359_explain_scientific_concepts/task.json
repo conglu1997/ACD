@@ -1,0 +1,6 @@
+{
+    "name_of_task": "explain_scientific_concepts",
+    "description_of_task": "Provide detailed explanations of complex scientific concepts, covering definitions, principles, and real-world examples.",
+    "capability_being_measured": "scientific knowledge, clarity of communication, depth of understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_structure_manipulation",
+    "description_of_task": "Perform specific operations on given data structures (e.g., arrays, linked lists, trees) and describe the resulting structure.",
+    "capability_being_measured": "logical reasoning, data structure knowledge, algorithmic manipulation",
+    "estimated_human_difficulty": "3"
+}

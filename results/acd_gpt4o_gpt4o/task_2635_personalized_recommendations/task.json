@@ -1,0 +1,6 @@
+{
+    "name_of_task": "personalized_recommendations",
+    "description_of_task": "Generate personalized recommendations for users based on their profiles and preferences.",
+    "capability_being_measured": "user understanding, synthesis, personalization",
+    "estimated_human_difficulty": "3"
+}

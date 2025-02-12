@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_with_grids",
+    "description_of_task": "Interpret and generate descriptions of spatial arrangements within a grid based on given instructions.",
+    "capability_being_measured": "spatial reasoning, visualization, linguistic articulation",
+    "estimated_human_difficulty": "4"
+}

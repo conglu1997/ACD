@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_puzzle_creation",
+    "description_of_task": "Create and describe visual puzzles based on given criteria. The puzzles should be challenging and creative.",
+    "capability_being_measured": "visual-spatial reasoning, creativity, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

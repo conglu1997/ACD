@@ -1,0 +1,6 @@
+{
+    "name_of_task": "travel_itinerary_planning",
+    "description_of_task": "Create a comprehensive travel itinerary based on given preferences, constraints, and points of interest.",
+    "capability_being_measured": "information synthesis, reasoning, decision-making",
+    "estimated_human_difficulty": "4"
+}

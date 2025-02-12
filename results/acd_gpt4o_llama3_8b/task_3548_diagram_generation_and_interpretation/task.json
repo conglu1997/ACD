@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diagram_generation_and_interpretation",
+    "description_of_task": "Generate text descriptions of diagrams based on given specifications and interpret provided text descriptions to generate a coherent explanation or analysis of the diagram.",
+    "capability_being_measured": "spatial reasoning, technical knowledge, interpretive skills",
+    "estimated_human_difficulty": "4"
+}

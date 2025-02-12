@@ -1,0 +1,6 @@
+{
+    "name_of_task": "architectural_blueprint_generation",
+    "description_of_task": "Generate an architectural blueprint based on given requirements and interpret an existing blueprint.",
+    "capability_being_measured": "spatial reasoning, technical understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

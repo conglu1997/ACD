@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sarcasm_detection_and_generation",
+    "description_of_task": "Detect sarcasm in a given statement and generate a sarcastic response based on a given context.",
+    "capability_being_measured": "linguistic nuance, social understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

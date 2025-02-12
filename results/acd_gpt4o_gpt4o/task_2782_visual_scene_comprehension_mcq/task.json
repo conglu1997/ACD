@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_comprehension_mcq",
+    "description_of_task": "Answer multiple-choice questions based on detailed descriptions of visual scenes.",
+    "capability_being_measured": "visual reasoning, comprehension, detailed understanding",
+    "estimated_human_difficulty": "3"
+}

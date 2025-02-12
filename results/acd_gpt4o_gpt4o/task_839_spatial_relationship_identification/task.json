@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_relationship_identification",
+    "description_of_task": "Interpret spatial relationships between objects in a given scene and generate new spatial arrangements based on specified criteria.",
+    "capability_being_measured": "spatial reasoning, visual perception, geometric understanding",
+    "estimated_human_difficulty": "4"
+}

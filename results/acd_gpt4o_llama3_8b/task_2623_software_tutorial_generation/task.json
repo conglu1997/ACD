@@ -1,0 +1,6 @@
+{
+    "name_of_task": "software_tutorial_generation",
+    "description_of_task": "Generate detailed step-by-step tutorials for completing specified tasks using software tools.",
+    "capability_being_measured": "technical knowledge, procedural explanation, logical sequencing",
+    "estimated_human_difficulty": "3"
+}

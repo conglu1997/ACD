@@ -1,0 +1,6 @@
+{
+    "name_of_task": "climate_mitigation_language_model",
+    "description_of_task": "Design and implement a language model specialized in climate change mitigation strategies, capable of analyzing scientific papers, generating reports, and answering questions about environmental policies.",
+    "capability_being_measured": "interdisciplinary knowledge integration, scientific language processing, data analysis, and effective communication of complex environmental concepts",
+    "estimated_human_difficulty": "5"
+}

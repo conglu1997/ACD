@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_storytelling",
+    "description_of_task": "Generate a story based on a given prompt, and continue the story based on new inputs.",
+    "capability_being_measured": "creativity, narrative skills, adaptability",
+    "estimated_human_difficulty": "3"
+}

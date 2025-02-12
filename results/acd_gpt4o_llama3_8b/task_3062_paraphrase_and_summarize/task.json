@@ -1,0 +1,6 @@
+{
+    "name_of_task": "paraphrase_and_summarize",
+    "description_of_task": "Transform sentences by paraphrasing and summarizing while preserving the original meaning.",
+    "capability_being_measured": "language comprehension, synthesis, linguistic creativity",
+    "estimated_human_difficulty": "3"
+}

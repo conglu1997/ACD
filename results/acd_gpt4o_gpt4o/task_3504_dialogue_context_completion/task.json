@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_context_completion",
+    "description_of_task": "Complete an incomplete dialogue in a coherent and contextually appropriate manner.",
+    "capability_being_measured": "conversational coherence, context understanding, natural language generation",
+    "estimated_human_difficulty": "3"
+}

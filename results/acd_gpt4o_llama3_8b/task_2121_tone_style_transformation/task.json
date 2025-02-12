@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tone_style_transformation",
+    "description_of_task": "Rewrite a given passage to match a specified tone or style.",
+    "capability_being_measured": "linguistic adaptability, stylistic transformation",
+    "estimated_human_difficulty": "4"
+}

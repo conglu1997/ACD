@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_and_satire_generation",
+    "description_of_task": "Generate humorous content and analyze a satirical piece for its underlying message and effectiveness.",
+    "capability_being_measured": "creativity, cultural understanding, language nuance",
+    "estimated_human_difficulty": "4"
+}

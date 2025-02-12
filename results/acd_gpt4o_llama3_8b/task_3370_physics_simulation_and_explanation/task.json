@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_simulation_and_explanation",
+    "description_of_task": "Simulate simple physical systems based on given parameters and explain the underlying principles.",
+    "capability_being_measured": "knowledge of physics, logical reasoning, application of theoretical concepts",
+    "estimated_human_difficulty": "4"
+}

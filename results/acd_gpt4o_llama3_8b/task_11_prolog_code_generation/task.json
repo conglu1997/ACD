@@ -1,0 +1,6 @@
+{
+    "name_of_task": "prolog_code_generation",
+    "description_of_task": "Generate Prolog code based on given requirements.",
+    "capability_being_measured": "technical knowledge and logic programming",
+    "estimated_human_difficulty": "4"
+}

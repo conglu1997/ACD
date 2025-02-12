@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_transformation_description",
+    "description_of_task": "Describe the transformation of a 3D object when it is rotated around a specific axis.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

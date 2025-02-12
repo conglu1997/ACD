@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description",
+    "description_of_task": "Generate detailed descriptions of complex visual scenes or interpret descriptions to identify specific elements within the scenes.",
+    "capability_being_measured": "visual imagination and descriptive language",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argumentation",
+    "description_of_task": "Generate a persuasive argument for a given topic and provide a counterargument to a given argument.",
+    "capability_being_measured": "critical thinking, rhetoric, understanding of complex topics",
+    "estimated_human_difficulty": "4"
+}

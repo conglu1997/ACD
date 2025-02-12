@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_quote_explanation",
+    "description_of_task": "Decode and explain the significance of given historical quotes.",
+    "capability_being_measured": "cultural literacy, interpretive skills, historical knowledge",
+    "estimated_human_difficulty": "4"
+}

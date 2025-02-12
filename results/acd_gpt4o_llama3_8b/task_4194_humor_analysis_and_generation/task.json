@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_analysis_and_generation",
+    "description_of_task": "Understand and analyze a given joke for its structure and humor elements, then generate a new joke based on a specified theme.",
+    "capability_being_measured": "creativity, language understanding, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_generation",
+    "description_of_task": "Interpret a given piece of music and generate a new composition based on specific criteria.",
+    "capability_being_measured": "creativity, understanding of musical theory, pattern recognition",
+    "estimated_human_difficulty": "5"
+}

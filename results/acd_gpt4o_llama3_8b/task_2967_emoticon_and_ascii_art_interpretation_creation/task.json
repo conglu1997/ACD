@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emoticon_and_ascii_art_interpretation_creation",
+    "description_of_task": "Interpret the meaning of given emoticons or ASCII art and create new ones based on specified themes or emotions.",
+    "capability_being_measured": "interpretation, creativity, cultural knowledge",
+    "estimated_human_difficulty": "3"
+}

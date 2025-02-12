@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_analysis",
+    "description_of_task": "Create a recipe based on given ingredients and analyze the nutritional content of a provided recipe.",
+    "capability_being_measured": "culinary knowledge, creativity, analytical skills",
+    "estimated_human_difficulty": "3"
+}

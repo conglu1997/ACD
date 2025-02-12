@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_lyrics_generation",
+    "description_of_task": "Generate a short piece of music notation in a specific style or create song lyrics based on a given theme.",
+    "capability_being_measured": "creativity, understanding of musical elements, language generation",
+    "estimated_human_difficulty": "4"
+}

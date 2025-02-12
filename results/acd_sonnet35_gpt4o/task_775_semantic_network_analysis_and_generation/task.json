@@ -1,0 +1,6 @@
+{
+    "name_of_task": "semantic_network_analysis_and_generation",
+    "description_of_task": "Create a semantic network from a given text, use it to answer questions, and generate new content based on the network",
+    "capability_being_measured": "semantic parsing, knowledge representation, inference, and natural language generation",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description",
+    "description_of_task": "Generate a vivid and detailed description of an image based on a given textual prompt.",
+    "capability_being_measured": "creativity, language understanding, visual imagination",
+    "estimated_human_difficulty": "4"
+}

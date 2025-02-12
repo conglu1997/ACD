@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_explanation",
+    "description_of_task": "Generate humorous content based on given prompts and explain why it is funny.",
+    "capability_being_measured": "creativity, cultural knowledge, linguistic understanding",
+    "estimated_human_difficulty": "4"
+}

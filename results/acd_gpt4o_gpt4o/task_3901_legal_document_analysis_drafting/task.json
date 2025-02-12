@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_analysis_drafting",
+    "description_of_task": "Analyze a given legal document for specific clauses and draft a new legal document based on certain criteria.",
+    "capability_being_measured": "comprehension, attention to detail, domain-specific knowledge (legal)",
+    "estimated_human_difficulty": "5"
+}

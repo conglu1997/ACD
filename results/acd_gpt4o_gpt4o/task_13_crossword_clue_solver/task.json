@@ -1,0 +1,6 @@
+{
+    "name_of_task": "crossword_clue_solver",
+    "description_of_task": "Solve a given crossword clue and provide the correct word.",
+    "capability_being_measured": "linguistic ability, cultural knowledge, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

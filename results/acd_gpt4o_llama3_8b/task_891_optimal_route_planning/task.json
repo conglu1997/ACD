@@ -1,0 +1,6 @@
+{
+    "name_of_task": "optimal_route_planning",
+    "description_of_task": "Plan an optimal route for travel based on given constraints such as distance, time, and cost.",
+    "capability_being_measured": "logical reasoning, decision-making, optimization",
+    "estimated_human_difficulty": "4"
+}

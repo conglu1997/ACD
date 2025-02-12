@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_summary",
+    "description_of_task": "Summarize legal documents, highlighting key points and implications.",
+    "capability_being_measured": "comprehension, summarization, attention to detail",
+    "estimated_human_difficulty": "4"
+}

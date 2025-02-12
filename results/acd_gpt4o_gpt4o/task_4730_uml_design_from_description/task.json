@@ -1,0 +1,6 @@
+{
+    "name_of_task": "uml_design_from_description",
+    "description_of_task": "Create UML diagrams based on given software design descriptions.",
+    "capability_being_measured": "technical understanding, creativity, structured thinking",
+    "estimated_human_difficulty": "5"
+}

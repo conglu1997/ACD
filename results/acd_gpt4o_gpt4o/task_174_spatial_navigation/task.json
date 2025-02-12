@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation",
+    "description_of_task": "Generate and interpret spatial instructions for navigating through a given environment.",
+    "capability_being_measured": "spatial reasoning, comprehension, instruction generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation",
+    "description_of_task": "Generate a metaphor based on a given concept and explain its meaning.",
+    "capability_being_measured": "linguistic creativity, conceptual understanding, figurative language",
+    "estimated_human_difficulty": "4"
+}

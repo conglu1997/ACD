@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chord_progressions",
+    "description_of_task": "Generate and analyze musical chord progressions based on given criteria.",
+    "capability_being_measured": "music theory knowledge, creativity, structured generation",
+    "estimated_human_difficulty": "4"
+}

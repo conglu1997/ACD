@@ -1,0 +1,6 @@
+{
+    "name_of_task": "negotiation_scenario",
+    "description_of_task": "Simulate a negotiation scenario based on given prompts and critique the negotiation strategy employed.",
+    "capability_being_measured": "strategic thinking, language generation, understanding human interaction, empathy",
+    "estimated_human_difficulty": "5"
+}

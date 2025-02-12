@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_story_completion",
+    "description_of_task": "Complete a given story setup in a way that is both logically consistent and creatively engaging.",
+    "capability_being_measured": "logical reasoning, creativity, narrative understanding",
+    "estimated_human_difficulty": "3"
+}

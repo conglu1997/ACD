@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interpret_scientific_data",
+    "description_of_task": "Interpret given scientific data and draw a conclusion from it.",
+    "capability_being_measured": "scientific reasoning, data interpretation, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

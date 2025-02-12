@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_interpretation",
+    "description_of_task": "Interpret and summarize legal documents, extracting specific information based on given criteria.",
+    "capability_being_measured": "comprehension, summarization, information extraction",
+    "estimated_human_difficulty": "4"
+}

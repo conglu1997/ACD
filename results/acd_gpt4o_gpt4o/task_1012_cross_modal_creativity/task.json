@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_creativity",
+    "description_of_task": "Generate creative content by combining different modes of input, such as text and visual descriptions.",
+    "capability_being_measured": "cross-modal integration, creativity, interpretation",
+    "estimated_human_difficulty": "4"
+}

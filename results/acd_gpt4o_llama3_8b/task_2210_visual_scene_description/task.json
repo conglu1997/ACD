@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description",
+    "description_of_task": "Interpret and describe a visual scene based on a provided image description.",
+    "capability_being_measured": "spatial reasoning, language generation, visual interpretation",
+    "estimated_human_difficulty": "4"
+}

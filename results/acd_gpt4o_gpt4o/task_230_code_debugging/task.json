@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debugging",
+    "description_of_task": "Identify and fix errors in given code snippets.",
+    "capability_being_measured": "programming skills, problem-solving, debugging",
+    "estimated_human_difficulty": "4"
+}

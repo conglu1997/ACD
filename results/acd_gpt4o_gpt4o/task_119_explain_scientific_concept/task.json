@@ -1,0 +1,6 @@
+{
+    "name_of_task": "explain_scientific_concept",
+    "description_of_task": "Explain a scientific concept in simple terms.",
+    "capability_being_measured": "scientific knowledge, explanatory clarity, communication skills",
+    "estimated_human_difficulty": "3"
+}

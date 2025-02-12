@@ -1,0 +1,6 @@
+{
+    "name_of_task": "kenken_puzzle_solving_and_creation",
+    "description_of_task": "Solve given KenKen puzzles or create new KenKen puzzles based on specified constraints.",
+    "capability_being_measured": "logical reasoning, pattern recognition, mathematical problem-solving",
+    "estimated_human_difficulty": "5"
+}

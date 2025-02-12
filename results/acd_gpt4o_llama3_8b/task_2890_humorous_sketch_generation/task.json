@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humorous_sketch_generation",
+    "description_of_task": "Generate or interpret humorous sketches based on given descriptions, demonstrating understanding of visual humor and creativity.",
+    "capability_being_measured": "visual-spatial reasoning, creativity, humor understanding",
+    "estimated_human_difficulty": "3"
+}

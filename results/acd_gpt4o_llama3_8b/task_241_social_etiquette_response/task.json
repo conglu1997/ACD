@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_etiquette_response",
+    "description_of_task": "Generate appropriate responses to given social etiquette scenarios.",
+    "capability_being_measured": "understanding of social norms and cultural context",
+    "estimated_human_difficulty": "4"
+}

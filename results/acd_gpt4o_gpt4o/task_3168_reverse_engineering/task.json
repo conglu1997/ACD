@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering",
+    "description_of_task": "Understand and explain the functionality of given code snippets or systems.",
+    "capability_being_measured": "technical comprehension, reasoning, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

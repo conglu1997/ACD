@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_art_translation",
+    "description_of_task": "Translate between natural language descriptions and visual art, analyzing the semantic and stylistic elements in both modalities.",
+    "capability_being_measured": "cross-modal understanding, creative interpretation, visual and linguistic analysis, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "4"
+}

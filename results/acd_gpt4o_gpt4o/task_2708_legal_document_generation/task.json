@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_generation",
+    "description_of_task": "Generate a coherent and legally sound document based on provided legal clauses and requirements.",
+    "capability_being_measured": "legal comprehension, structured writing, attention to detail",
+    "estimated_human_difficulty": "5"
+}

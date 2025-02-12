@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recursive_function_generation",
+    "description_of_task": "Generate a recursive function for a given problem and provide a detailed explanation of how it works.",
+    "capability_being_measured": "programming skills, recursion, mathematical reasoning, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

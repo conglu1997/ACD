@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_historical_narratives",
+    "description_of_task": "Generate culturally accurate descriptions and narratives based on given prompts related to cultural practices or historical events.",
+    "capability_being_measured": "knowledge, comprehension, synthesis",
+    "estimated_human_difficulty": "4"
+}

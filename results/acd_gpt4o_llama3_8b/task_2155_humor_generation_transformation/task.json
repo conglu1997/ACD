@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_transformation",
+    "description_of_task": "Generate or transform jokes while retaining their humor and core meaning.",
+    "capability_being_measured": "creativity, language manipulation, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

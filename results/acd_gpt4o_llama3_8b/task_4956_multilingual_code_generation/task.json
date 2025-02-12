@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_code_generation",
+    "description_of_task": "Generate code snippets that solve a given problem in two different programming languages.",
+    "capability_being_measured": "programming proficiency, multilingual coding ability, syntax and semantics understanding",
+    "estimated_human_difficulty": "4"
+}

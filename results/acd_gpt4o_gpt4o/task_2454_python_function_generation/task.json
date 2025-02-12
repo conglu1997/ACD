@@ -1,0 +1,6 @@
+{
+    "name_of_task": "python_function_generation",
+    "description_of_task": "Translate natural language descriptions into Python functions.",
+    "capability_being_measured": "language-to-code translation, problem-solving, programming logic",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sensory_description_interpretation_generation",
+    "description_of_task": "Interpret detailed sensory descriptions and generate rich, vivid sensory descriptions based on given prompts.",
+    "capability_being_measured": "sensory comprehension, descriptive skills, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation",
+    "description_of_task": "Analyze legal scenarios and construct coherent legal arguments based on given prompts.",
+    "capability_being_measured": "logical reasoning, specialized knowledge, argument construction",
+    "estimated_human_difficulty": "4"
+}

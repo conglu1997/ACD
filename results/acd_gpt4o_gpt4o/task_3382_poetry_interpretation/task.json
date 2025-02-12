@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_interpretation",
+    "description_of_task": "Interpret given poems, analyzing themes, emotions, and literary devices used.",
+    "capability_being_measured": "linguistic creativity, emotional comprehension, literary analysis",
+    "estimated_human_difficulty": "4"
+}

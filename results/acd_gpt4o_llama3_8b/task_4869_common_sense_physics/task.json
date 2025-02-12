@@ -1,0 +1,6 @@
+{
+    "name_of_task": "common_sense_physics",
+    "description_of_task": "Answer questions about everyday physical interactions and scenarios based on common sense reasoning.",
+    "capability_being_measured": "common sense reasoning, physical world understanding",
+    "estimated_human_difficulty": "2"
+}

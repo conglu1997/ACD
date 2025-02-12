@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_bias_ai_translator",
+    "description_of_task": "Design an AI system that translates human language affected by cognitive biases into more objective language, and vice versa. Then, apply this system to analyze and rewrite policy documents.",
+    "capability_being_measured": "understanding of cognitive science, natural language processing, decision theory, and public policy analysis",
+    "estimated_human_difficulty": "5"
+}

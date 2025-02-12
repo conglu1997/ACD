@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_interpretation_and_generation",
+    "description_of_task": "Interpret given art pieces and generate descriptions for new art based on specified themes or concepts.",
+    "capability_being_measured": "creativity, descriptive language, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

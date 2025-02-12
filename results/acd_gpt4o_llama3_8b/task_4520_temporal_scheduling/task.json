@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_scheduling",
+    "description_of_task": "Organize a series of events or tasks within given time constraints, ensuring no conflicts and meeting all specified conditions.",
+    "capability_being_measured": "temporal reasoning, scheduling, constraint satisfaction",
+    "estimated_human_difficulty": "4"
+}

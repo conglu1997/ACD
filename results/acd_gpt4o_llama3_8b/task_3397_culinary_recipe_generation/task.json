@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_recipe_generation",
+    "description_of_task": "Generate a detailed culinary recipe based on given criteria and interpret an existing recipe to explain the steps and rationale behind it.",
+    "capability_being_measured": "creativity, descriptive skills, culinary knowledge",
+    "estimated_human_difficulty": "3"
+}

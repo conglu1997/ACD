@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pseudocode_conversion",
+    "description_of_task": "Convert natural language descriptions into pseudocode and interpret pseudocode into natural language descriptions.",
+    "capability_being_measured": "technical understanding, logical structuring, language fluency",
+    "estimated_human_difficulty": "4"
+}

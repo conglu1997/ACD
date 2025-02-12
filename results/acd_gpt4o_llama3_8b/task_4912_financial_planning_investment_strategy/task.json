@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_planning_investment_strategy",
+    "description_of_task": "Devise a financial plan and investment strategy based on given financial goals and constraints.",
+    "capability_being_measured": "financial literacy, logical reasoning, multi-step problem-solving",
+    "estimated_human_difficulty": "4"
+}

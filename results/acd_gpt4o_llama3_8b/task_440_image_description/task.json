@@ -1,0 +1,6 @@
+{
+    "name_of_task": "image_description",
+    "description_of_task": "Generate a descriptive narrative based on a given image.",
+    "capability_being_measured": "multi-modal understanding, language generation, creativity",
+    "estimated_human_difficulty": "3"
+}

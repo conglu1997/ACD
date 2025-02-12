@@ -1,0 +1,6 @@
+{
+    "name_of_task": "bias_detection_and_correction",
+    "description_of_task": "Identify and correct biases in short written passages to make them more neutral and unbiased.",
+    "capability_being_measured": "ethical reasoning, language comprehension, critical thinking",
+    "estimated_human_difficulty": "4"
+}

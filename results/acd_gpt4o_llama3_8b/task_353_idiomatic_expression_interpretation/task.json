@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiomatic_expression_interpretation",
+    "description_of_task": "Interpret and generate idiomatic expressions based on given contexts.",
+    "capability_being_measured": "cultural knowledge, language understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

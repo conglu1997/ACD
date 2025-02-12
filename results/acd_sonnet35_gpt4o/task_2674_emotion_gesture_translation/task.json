@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_gesture_translation",
+    "description_of_task": "Translate between emotional states and physical gestures across different cultures, considering cultural context and variations in non-verbal communication.",
+    "capability_being_measured": "cross-cultural understanding, emotional intelligence, non-verbal communication interpretation, and multi-modal information processing",
+    "estimated_human_difficulty": "4"
+}

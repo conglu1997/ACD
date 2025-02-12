@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_causal_reasoning",
+    "description_of_task": "Analyze and manipulate complex temporal and causal relationships in narratives, then apply this understanding to solve abstract reasoning problems and generate novel scenarios.",
+    "capability_being_measured": "abstract reasoning, temporal logic, causal inference, and creative problem-solving in the context of narrative understanding and generation",
+    "estimated_human_difficulty": "5"
+}

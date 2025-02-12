@@ -1,0 +1,6 @@
+{
+    "name_of_task": "navigation_directions",
+    "description_of_task": "Generate and interpret real-world navigation directions.",
+    "capability_being_measured": "spatial reasoning, practical knowledge, linguistic clarity",
+    "estimated_human_difficulty": "3"
+}

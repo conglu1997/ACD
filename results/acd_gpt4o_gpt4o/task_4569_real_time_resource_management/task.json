@@ -1,0 +1,6 @@
+{
+    "name_of_task": "real_time_resource_management",
+    "description_of_task": "Manage a resource in a simulated environment by making decisions based on changing conditions.",
+    "capability_being_measured": "adaptability, decision-making, real-time problem-solving",
+    "estimated_human_difficulty": "4"
+}

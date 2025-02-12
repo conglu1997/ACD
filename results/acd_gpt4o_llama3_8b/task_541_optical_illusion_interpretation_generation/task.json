@@ -1,0 +1,6 @@
+{
+    "name_of_task": "optical_illusion_interpretation_generation",
+    "description_of_task": "Interpret the visual effect of a given optical illusion and generate a description for a new optical illusion concept.",
+    "capability_being_measured": "visual reasoning, descriptive language, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation",
+    "description_of_task": "Analyze a legal scenario and construct a coherent legal argument based on specified laws and precedents.",
+    "capability_being_measured": "legal reasoning, logical structuring, argumentation skills",
+    "estimated_human_difficulty": "5"
+}

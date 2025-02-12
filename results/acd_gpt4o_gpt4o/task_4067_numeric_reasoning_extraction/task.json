@@ -1,0 +1,6 @@
+{
+    "name_of_task": "numeric_reasoning_extraction",
+    "description_of_task": "Extract and reason about numeric information from complex textual scenarios.",
+    "capability_being_measured": "numeric reasoning, comprehension, information extraction",
+    "estimated_human_difficulty": "4"
+}

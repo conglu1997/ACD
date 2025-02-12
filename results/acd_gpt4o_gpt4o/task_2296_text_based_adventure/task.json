@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_based_adventure",
+    "description_of_task": "Navigate through a text-based adventure game by making sequential choices.",
+    "capability_being_measured": "context understanding, decision-making, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

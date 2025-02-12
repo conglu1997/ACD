@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_interpret_analogies",
+    "description_of_task": "Generate analogies based on given relationships and interpret the meaning of existing analogies.",
+    "capability_being_measured": "reasoning, linguistic understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

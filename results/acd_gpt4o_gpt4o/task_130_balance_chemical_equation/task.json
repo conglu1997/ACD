@@ -1,0 +1,6 @@
+{
+    "name_of_task": "balance_chemical_equation",
+    "description_of_task": "Balance a given chemical equation and provide the balanced equation.",
+    "capability_being_measured": "logical reasoning, domain-specific knowledge",
+    "estimated_human_difficulty": "3"
+}

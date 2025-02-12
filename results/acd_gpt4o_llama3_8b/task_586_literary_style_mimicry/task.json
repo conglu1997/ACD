@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_style_mimicry",
+    "description_of_task": "Generate a piece of writing in a specified literary style, ensuring it adheres to the tone, language, and structure typical of that style.",
+    "capability_being_measured": "creativity, language understanding, literary knowledge",
+    "estimated_human_difficulty": "4"
+}

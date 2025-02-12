@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_crypto_impact_analysis",
+    "description_of_task": "Analyze the impact of quantum computing on current cryptographic methods and propose a novel post-quantum cryptographic solution.",
+    "capability_being_measured": "interdisciplinary knowledge integration, technical understanding of quantum computing and cryptography, creative problem-solving, and ethical reasoning",
+    "estimated_human_difficulty": "5"
+}

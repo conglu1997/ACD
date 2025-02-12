@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation",
+    "description_of_task": "Generate detailed directions for navigating from one point to another in a fictional or real environment.",
+    "capability_being_measured": "spatial reasoning, language understanding, coherence",
+    "estimated_human_difficulty": "3"
+}

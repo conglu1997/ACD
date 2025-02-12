@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reenactment",
+    "description_of_task": "Generate a dialogue between historical figures discussing a significant event from their era.",
+    "capability_being_measured": "historical knowledge, contextual understanding, creative writing",
+    "estimated_human_difficulty": "4"
+}

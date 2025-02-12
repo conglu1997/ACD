@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_refactoring",
+    "description_of_task": "Refactor given code snippets to improve their readability, efficiency, and maintainability without changing their functionality.",
+    "capability_being_measured": "programming skills, code optimization, readability improvement",
+    "estimated_human_difficulty": "4"
+}

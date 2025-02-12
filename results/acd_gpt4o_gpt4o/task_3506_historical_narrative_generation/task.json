@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_narrative_generation",
+    "description_of_task": "Generate a narrative based on a given historical event, ensuring accuracy and contextual relevance.",
+    "capability_being_measured": "historical knowledge, narrative coherence, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation_explanation",
+    "description_of_task": "Generate a metaphor based on a given theme or scenario and explain the metaphor's meaning and relevance.",
+    "capability_being_measured": "creativity, language understanding, communication skills",
+    "estimated_human_difficulty": "3"
+}

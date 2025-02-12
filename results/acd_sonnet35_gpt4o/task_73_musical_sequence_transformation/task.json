@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_sequence_transformation",
+    "description_of_task": "Transform a given musical sequence using mathematical operations and music theory concepts",
+    "capability_being_measured": "music theory knowledge, mathematical reasoning, and algorithmic thinking",
+    "estimated_human_difficulty": "5"
+}

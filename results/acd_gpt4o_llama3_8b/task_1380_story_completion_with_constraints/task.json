@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_completion_with_constraints",
+    "description_of_task": "Complete a given story snippet by following specific constraints regarding tone, elements, or style.",
+    "capability_being_measured": "narrative generation, creativity, instruction following",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_modification",
+    "description_of_task": "Generate a recipe based on given criteria and modify an existing recipe according to specified changes.",
+    "capability_being_measured": "procedural reasoning, creativity, adaptation",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_explanation",
+    "description_of_task": "Explain a given piece of code step-by-step in plain language.",
+    "capability_being_measured": "programming knowledge, clarity in communication, ability to simplify complex concepts",
+    "estimated_human_difficulty": "3"
+}

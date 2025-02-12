@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experiment_design_and_analysis",
+    "description_of_task": "Design a scientific experiment based on given parameters and analyze the results of a provided experiment.",
+    "capability_being_measured": "scientific knowledge, experimental design, data analysis",
+    "estimated_human_difficulty": "4"
+}

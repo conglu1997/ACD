@@ -1,0 +1,6 @@
+{
+    "name_of_task": "novel_math_puzzle_creation",
+    "description_of_task": "Generate and solve novel mathematical puzzles based on given constraints.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

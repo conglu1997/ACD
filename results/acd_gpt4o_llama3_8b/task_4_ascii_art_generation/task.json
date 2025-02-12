@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_generation",
+    "description_of_task": "Generate ASCII art based on a given description.",
+    "capability_being_measured": "spatial reasoning and descriptive language interpretation",
+    "estimated_human_difficulty": "4"
+}

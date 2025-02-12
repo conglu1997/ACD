@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation",
+    "description_of_task": "Generate technical documentation based on given technical specifications.",
+    "capability_being_measured": "technical writing, comprehension, communication",
+    "estimated_human_difficulty": "4"
+}

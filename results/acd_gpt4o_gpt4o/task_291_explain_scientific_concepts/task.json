@@ -1,0 +1,6 @@
+{
+    "name_of_task": "explain_scientific_concepts",
+    "description_of_task": "Explain complex scientific concepts in simple terms and design simple experiments to demonstrate these concepts.",
+    "capability_being_measured": "scientific understanding, explanatory skills, creativity",
+    "estimated_human_difficulty": "4"
+}

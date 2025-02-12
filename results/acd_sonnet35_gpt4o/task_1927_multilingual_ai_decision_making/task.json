@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_ai_decision_making",
+    "description_of_task": "Design an AI system that makes decisions based on input in different languages, then analyze how language-specific features influence the decision-making process.",
+    "capability_being_measured": "cross-linguistic reasoning, understanding of cognitive biases, AI system design, and analysis of language-thought interactions",
+    "estimated_human_difficulty": "5"
+}

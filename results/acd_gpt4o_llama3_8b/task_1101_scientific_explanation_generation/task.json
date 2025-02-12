@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_generation",
+    "description_of_task": "Generate simple educational explanations and analogies for complex scientific concepts.",
+    "capability_being_measured": "knowledge, creativity, educational communication",
+    "estimated_human_difficulty": "3"
+}

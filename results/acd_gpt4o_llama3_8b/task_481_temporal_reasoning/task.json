@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_reasoning",
+    "description_of_task": "Solve tasks that involve understanding and manipulating time-based information.",
+    "capability_being_measured": "temporal reasoning",
+    "estimated_human_difficulty": "4"
+}

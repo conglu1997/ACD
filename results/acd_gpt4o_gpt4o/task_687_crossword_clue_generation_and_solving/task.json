@@ -1,0 +1,6 @@
+{
+    "name_of_task": "crossword_clue_generation_and_solving",
+    "description_of_task": "Generate crossword clues for given words and solve given crossword clues.",
+    "capability_being_measured": "creativity, linguistic skills, general knowledge",
+    "estimated_human_difficulty": "4"
+}

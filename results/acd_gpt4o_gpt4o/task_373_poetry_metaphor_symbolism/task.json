@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_metaphor_symbolism",
+    "description_of_task": "Generate a poem based on given themes and analyze the use of metaphor and symbolism in a provided poem.",
+    "capability_being_measured": "creativity, linguistic capability, literary analysis",
+    "estimated_human_difficulty": "4"
+}

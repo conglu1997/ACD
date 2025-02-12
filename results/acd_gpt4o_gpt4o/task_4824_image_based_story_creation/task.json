@@ -1,0 +1,6 @@
+{
+    "name_of_task": "image_based_story_creation",
+    "description_of_task": "Create a coherent and creative story based on a given image.",
+    "capability_being_measured": "creativity, descriptive abilities, multimodal integration",
+    "estimated_human_difficulty": "4"
+}

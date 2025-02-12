@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_translation",
+    "description_of_task": "Translate a given poem from one language to another, maintaining the poetic form, style, cultural nuances, meter, and rhyme scheme.",
+    "capability_being_measured": "linguistic understanding, cultural knowledge, translation skills, creativity",
+    "estimated_human_difficulty": "5"
+}

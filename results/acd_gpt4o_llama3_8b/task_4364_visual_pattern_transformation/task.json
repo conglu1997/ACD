@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_transformation",
+    "description_of_task": "Describe the transformation applied to a given visual pattern represented textually.",
+    "capability_being_measured": "spatial reasoning, pattern recognition, descriptive language",
+    "estimated_human_difficulty": "4"
+}

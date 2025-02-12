@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning_contract_analysis",
+    "description_of_task": "Analyze and interpret given legal contracts to identify potential issues and suggest improvements.",
+    "capability_being_measured": "comprehension, critical reasoning, language skills",
+    "estimated_human_difficulty": "4"
+}

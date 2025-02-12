@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_solving",
+    "description_of_task": "Solve a given riddle by providing a logical and coherent explanation.",
+    "capability_being_measured": "logical reasoning, problem-solving, language comprehension",
+    "estimated_human_difficulty": "4"
+}

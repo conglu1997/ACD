@@ -1,0 +1,6 @@
+{
+    "name_of_task": "formal_logic_generation",
+    "description_of_task": "Generate logical propositions based on given premises and evaluate the validity of arguments.",
+    "capability_being_measured": "logical reasoning and formal language understanding",
+    "estimated_human_difficulty": "4"
+}

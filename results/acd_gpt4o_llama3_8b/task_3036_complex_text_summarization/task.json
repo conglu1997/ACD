@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_text_summarization",
+    "description_of_task": "Summarize complex passages of text into concise and coherent summaries.",
+    "capability_being_measured": "comprehension, information synthesis, language generation",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Interpret spatial descriptions and provide solutions that demonstrate understanding of spatial relationships.",
+    "capability_being_measured": "spatial reasoning and visual interpretation",
+    "estimated_human_difficulty": "4"
+}

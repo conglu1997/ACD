@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_conversion",
+    "description_of_task": "Create a recipe based on given ingredients and then convert the recipe to accommodate a different number of servings.",
+    "capability_being_measured": "practical knowledge application, sequential task execution, numerical reasoning, adaptability",
+    "estimated_human_difficulty": "4"
+}

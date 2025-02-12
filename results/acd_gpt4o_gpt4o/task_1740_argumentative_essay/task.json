@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argumentative_essay",
+    "description_of_task": "Understand and generate argumentative essays based on given topics.",
+    "capability_being_measured": "argument comprehension, persuasive writing, logical structuring",
+    "estimated_human_difficulty": "4"
+}

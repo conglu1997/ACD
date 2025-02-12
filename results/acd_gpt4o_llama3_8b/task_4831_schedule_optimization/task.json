@@ -1,0 +1,6 @@
+{
+    "name_of_task": "schedule_optimization",
+    "description_of_task": "Create optimized schedules based on given constraints and requirements.",
+    "capability_being_measured": "logical reasoning, problem-solving, constraint satisfaction",
+    "estimated_human_difficulty": "4"
+}

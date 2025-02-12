@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_narrative_generator",
+    "description_of_task": "Design an AI system that generates narratives by simulating human cognitive processes, then use it to create a story based on a specific cognitive bias or heuristic.",
+    "capability_being_measured": "understanding of cognitive science, creative writing, and AI; ability to integrate interdisciplinary knowledge; and capacity for generating coherent narratives based on complex cognitive principles",
+    "estimated_human_difficulty": "4"
+}

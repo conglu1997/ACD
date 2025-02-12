@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_story_summary",
+    "description_of_task": "Generate and interpret summaries for fictional stories.",
+    "capability_being_measured": "narrative understanding, summary generation, comprehension",
+    "estimated_human_difficulty": "3"
+}

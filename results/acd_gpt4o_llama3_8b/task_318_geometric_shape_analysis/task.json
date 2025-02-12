@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_shape_analysis",
+    "description_of_task": "Analyze and describe the properties and relationships of given geometric shapes.",
+    "capability_being_measured": "spatial reasoning, geometric understanding, descriptive language",
+    "estimated_human_difficulty": "3"
+}

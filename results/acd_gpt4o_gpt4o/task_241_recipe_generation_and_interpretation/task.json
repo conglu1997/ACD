@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_and_interpretation",
+    "description_of_task": "Create a recipe based on given ingredients and constraints, and interpret a provided recipe to answer specific questions.",
+    "capability_being_measured": "creativity, procedural knowledge, comprehension",
+    "estimated_human_difficulty": "3"
+}

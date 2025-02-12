@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_chord_progressions",
+    "description_of_task": "Generate chord progressions based on given constraints.",
+    "capability_being_measured": "music theory understanding, structured output generation, creativity",
+    "estimated_human_difficulty": "4"
+}

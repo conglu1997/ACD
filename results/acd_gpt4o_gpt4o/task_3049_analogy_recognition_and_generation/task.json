@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_recognition_and_generation",
+    "description_of_task": "Match given analogies to their categories and create new analogies based on provided relationships.",
+    "capability_being_measured": "analogical reasoning, abstract thinking, creativity",
+    "estimated_human_difficulty": "4"
+}

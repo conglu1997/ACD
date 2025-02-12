@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_to_music_to_visualization",
+    "description_of_task": "Translate a given emotional state into a musical composition, then create a data visualization representing the musical elements and their emotional correlates.",
+    "capability_being_measured": "interdisciplinary knowledge application in music theory, psychology, and data visualization, creative synthesis, and multimodal representation skills",
+    "estimated_human_difficulty": "5"
+}

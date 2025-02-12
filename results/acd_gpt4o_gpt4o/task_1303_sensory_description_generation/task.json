@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sensory_description_generation",
+    "description_of_task": "Generate vivid and rich descriptions of sensory experiences based on given contexts.",
+    "capability_being_measured": "creativity, linguistic expressiveness, sensory perception",
+    "estimated_human_difficulty": "3"
+}

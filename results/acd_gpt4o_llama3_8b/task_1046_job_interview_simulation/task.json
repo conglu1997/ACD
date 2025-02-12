@@ -1,0 +1,6 @@
+{
+    "name_of_task": "job_interview_simulation",
+    "description_of_task": "Simulate a job interview by responding to a series of interview questions appropriately.",
+    "capability_being_measured": "interactive dialogue, contextual understanding, social reasoning",
+    "estimated_human_difficulty": "3"
+}

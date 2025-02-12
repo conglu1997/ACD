@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_and_comparison",
+    "description_of_task": "Generate detailed textual descriptions of given images or visual scenes and compare two visual descriptions.",
+    "capability_being_measured": "visual understanding, descriptive ability, comparative reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering",
+    "description_of_task": "Analyze a given output and deduce the original input or process that produced it.",
+    "capability_being_measured": "analytical thinking, problem-solving, comprehension",
+    "estimated_human_difficulty": "4"
+}

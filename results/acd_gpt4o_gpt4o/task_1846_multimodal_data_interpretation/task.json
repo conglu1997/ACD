@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_data_interpretation",
+    "description_of_task": "Interpret and synthesize information from both text and tables to provide comprehensive insights.",
+    "capability_being_measured": "data integration, analytical reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

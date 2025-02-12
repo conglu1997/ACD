@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_completion",
+    "description_of_task": "Complete a given recipe by providing the missing ingredient or step.",
+    "capability_being_measured": "procedural understanding, sequential reasoning, natural language comprehension",
+    "estimated_human_difficulty": "3"
+}

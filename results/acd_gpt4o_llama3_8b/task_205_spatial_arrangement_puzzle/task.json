@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_arrangement_puzzle",
+    "description_of_task": "Solve a spatial arrangement puzzle by determining the correct placement of objects based on given constraints.",
+    "capability_being_measured": "spatial reasoning and logical thinking",
+    "estimated_human_difficulty": "4"
+}

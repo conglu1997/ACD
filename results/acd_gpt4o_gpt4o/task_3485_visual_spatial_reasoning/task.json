@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_spatial_reasoning",
+    "description_of_task": "Interpret and generate visual patterns or descriptions based on spatial constraints.",
+    "capability_being_measured": "visual reasoning, spatial understanding, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "debate_argument_generation",
+    "description_of_task": "Generate and respond to debate arguments on given topics.",
+    "capability_being_measured": "logical reasoning, persuasive writing, language understanding",
+    "estimated_human_difficulty": "4"
+}

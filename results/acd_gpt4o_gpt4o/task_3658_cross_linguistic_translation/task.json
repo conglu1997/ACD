@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_linguistic_translation",
+    "description_of_task": "Translate given phrases or texts between languages and explain the cultural nuances and contexts that may differ.",
+    "capability_being_measured": "linguistic translation, cultural knowledge, explanatory skills",
+    "estimated_human_difficulty": "3"
+}

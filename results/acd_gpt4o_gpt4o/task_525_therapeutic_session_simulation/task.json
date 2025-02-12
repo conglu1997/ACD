@@ -1,0 +1,6 @@
+{
+    "name_of_task": "therapeutic_session_simulation",
+    "description_of_task": "Simulate a therapeutic session by responding to a client's statements with empathetic and constructive feedback.",
+    "capability_being_measured": "empathy, emotional intelligence, conversational skills",
+    "estimated_human_difficulty": "5"
+}

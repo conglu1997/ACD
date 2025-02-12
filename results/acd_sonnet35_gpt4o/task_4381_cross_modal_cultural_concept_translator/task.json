@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_cultural_concept_translator",
+    "description_of_task": "Design an AI system that translates abstract concepts across different sensory modalities and cultural contexts, then use it to represent a complex philosophical idea in multiple cultures and sensory forms.",
+    "capability_being_measured": "cross-domain knowledge integration, abstract reasoning, cultural understanding, and creative problem-solving in sensory representation of ideas",
+    "estimated_human_difficulty": "5"
+}

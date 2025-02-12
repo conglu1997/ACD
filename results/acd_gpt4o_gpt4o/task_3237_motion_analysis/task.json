@@ -1,0 +1,6 @@
+{
+    "name_of_task": "motion_analysis",
+    "description_of_task": "Analyze and predict the motion of objects under different physical forces.",
+    "capability_being_measured": "physical intuition, mathematical modeling",
+    "estimated_human_difficulty": "3"
+}

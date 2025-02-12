@@ -1,0 +1,6 @@
+{
+    "name_of_task": "explain_historical_significance",
+    "description_of_task": "Explain the significance of historical events tailored for different audiences.",
+    "capability_being_measured": "knowledge, adaptability, communication",
+    "estimated_human_difficulty": "4"
+}

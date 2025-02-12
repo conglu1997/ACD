@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_math_notation",
+    "description_of_task": "Design a novel mathematical notation system based on linguistic principles from a given natural language, then use it to solve complex mathematical problems.",
+    "capability_being_measured": "advanced mathematical reasoning, linguistic analysis, creative problem-solving, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

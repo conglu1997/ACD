@@ -1,0 +1,6 @@
+{
+    "name_of_task": "weather_data_interpretation",
+    "description_of_task": "Interpret given weather data and make appropriate decisions or recommendations based on the forecast.",
+    "capability_being_measured": "real-time data interpretation, decision-making, reasoning",
+    "estimated_human_difficulty": "4"
+}

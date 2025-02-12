@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_object_manipulation",
+    "description_of_task": "Reason about physical properties and spatial relationships to manipulate objects and predict outcomes of physical interactions.",
+    "capability_being_measured": "physical intuition, spatial reasoning, logical inference",
+    "estimated_human_difficulty": "4"
+}

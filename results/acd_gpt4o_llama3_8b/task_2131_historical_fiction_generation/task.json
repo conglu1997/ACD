@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_fiction_generation",
+    "description_of_task": "Generate fictional narratives based on given historical events, ensuring the narratives are plausible within the historical context.",
+    "capability_being_measured": "historical knowledge, creativity, narrative skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_story_continuation",
+    "description_of_task": "Continue a given story in a logical, coherent, and engaging manner, maintaining the style and tone of the original text.",
+    "capability_being_measured": "creativity, language understanding, coherence",
+    "estimated_human_difficulty": "3"
+}

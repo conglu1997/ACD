@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Interpret and manipulate 2D shapes based on given instructions.",
+    "capability_being_measured": "spatial reasoning, visualization",
+    "estimated_human_difficulty": "3"
+}

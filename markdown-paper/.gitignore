@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.tex
+*.html
+*.swp
+Makefile
+.DS_Store*
+paper.pdf

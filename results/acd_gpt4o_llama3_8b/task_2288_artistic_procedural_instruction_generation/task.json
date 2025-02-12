@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artistic_procedural_instruction_generation",
+    "description_of_task": "Generate detailed, step-by-step instructions for creating various forms of artistic projects.",
+    "capability_being_measured": "procedural knowledge, creativity, clarity of communication",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetic_style_generation",
+    "description_of_task": "Generate a poem based on a specific theme and in the style of a specified poet.",
+    "capability_being_measured": "creativity, comprehension of poetic styles, and language generation",
+    "estimated_human_difficulty": "4"
+}

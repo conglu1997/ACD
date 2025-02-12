@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_puzzles",
+    "description_of_task": "Solve puzzles based on musical notation and provide explanations of the solutions.",
+    "capability_being_measured": "pattern recognition, domain-specific knowledge, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

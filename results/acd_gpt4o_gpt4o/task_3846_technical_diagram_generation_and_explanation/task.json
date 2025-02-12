@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_diagram_generation_and_explanation",
+    "description_of_task": "Generate and explain technical diagrams based on given descriptions, demonstrating technical knowledge and spatial reasoning.",
+    "capability_being_measured": "technical knowledge, spatial reasoning, clarity in communication",
+    "estimated_human_difficulty": "4"
+}

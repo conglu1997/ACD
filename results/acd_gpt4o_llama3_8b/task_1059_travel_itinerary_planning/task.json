@@ -1,0 +1,6 @@
+{
+    "name_of_task": "travel_itinerary_planning",
+    "description_of_task": "Create a detailed step-by-step travel itinerary for a given set of destinations and constraints.",
+    "capability_being_measured": "planning, problem-solving, procedural generation",
+    "estimated_human_difficulty": "4"
+}

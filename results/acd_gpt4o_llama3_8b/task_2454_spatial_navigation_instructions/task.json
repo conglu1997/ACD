@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation_instructions",
+    "description_of_task": "Generate clear and precise step-by-step navigation instructions based on a given map and destination.",
+    "capability_being_measured": "spatial reasoning, logical thinking, clarity in instructions",
+    "estimated_human_difficulty": "3"
+}

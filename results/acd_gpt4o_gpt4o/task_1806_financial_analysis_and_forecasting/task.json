@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_analysis_and_forecasting",
+    "description_of_task": "Analyze financial data and generate forecasts based on historical trends.",
+    "capability_being_measured": "numerical reasoning, financial knowledge, predictive analysis",
+    "estimated_human_difficulty": "4"
+}

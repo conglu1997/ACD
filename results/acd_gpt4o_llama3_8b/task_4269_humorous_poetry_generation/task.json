@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humorous_poetry_generation",
+    "description_of_task": "Generate humorous poetry based on given prompts and specified poetic forms.",
+    "capability_being_measured": "creativity, language understanding, humor generation",
+    "estimated_human_difficulty": "3"
+}

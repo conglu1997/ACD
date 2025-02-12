@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_problem_solving",
+    "description_of_task": "Solve mathematical word problems based on given scenarios.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, text interpretation",
+    "estimated_human_difficulty": "3"
+}

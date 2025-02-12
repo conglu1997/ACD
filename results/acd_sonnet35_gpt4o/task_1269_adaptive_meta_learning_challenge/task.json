@@ -1,0 +1,6 @@
+{
+    "name_of_task": "adaptive_meta_learning_challenge",
+    "description_of_task": "Design and solve a series of increasingly complex problems across diverse domains, demonstrating adaptive learning and strategy transfer.",
+    "capability_being_measured": "meta-learning, adaptive problem-solving, transfer learning, and cross-domain knowledge application",
+    "estimated_human_difficulty": "5"
+}

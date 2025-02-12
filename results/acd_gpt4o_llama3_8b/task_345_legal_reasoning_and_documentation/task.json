@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning_and_documentation",
+    "description_of_task": "Generate legal arguments or documentation based on given legal scenarios and requirements.",
+    "capability_being_measured": "legal reasoning, comprehension, structured text generation",
+    "estimated_human_difficulty": "4"
+}

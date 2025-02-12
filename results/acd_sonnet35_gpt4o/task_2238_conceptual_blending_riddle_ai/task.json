@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conceptual_blending_riddle_ai",
+    "description_of_task": "Design an AI system that generates and solves riddles based on conceptual blending theory, then use it to create and solve a complex riddle",
+    "capability_being_measured": "understanding of cognitive science theories, creative problem-solving, abstract reasoning, and AI system design",
+    "estimated_human_difficulty": "5"
+}

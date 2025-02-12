@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_interpretation",
+    "description_of_task": "Interpret and generate descriptions based on spatial relationships and geometric concepts.",
+    "capability_being_measured": "spatial reasoning, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problem_generation_and_solving",
+    "description_of_task": "Generate and solve mathematical word problems based on given scenarios.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, language understanding",
+    "estimated_human_difficulty": "4"
+}

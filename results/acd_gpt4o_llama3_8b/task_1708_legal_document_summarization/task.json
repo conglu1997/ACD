@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_summarization",
+    "description_of_task": "Summarize given legal documents into concise and accurate summaries.",
+    "capability_being_measured": "legal comprehension and summarization",
+    "estimated_human_difficulty": "4"
+}

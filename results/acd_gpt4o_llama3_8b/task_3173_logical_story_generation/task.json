@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_story_generation",
+    "description_of_task": "Generate a coherent and logically consistent short story based on provided constraints.",
+    "capability_being_measured": "logical reasoning, creativity, narrative understanding",
+    "estimated_human_difficulty": "4"
+}

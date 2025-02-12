@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_continuation_and_consistency_check",
+    "description_of_task": "Continue a given story while ensuring logical consistency and coherence throughout the narrative.",
+    "capability_being_measured": "narrative construction, coherence, consistency, creativity",
+    "estimated_human_difficulty": "3"
+}

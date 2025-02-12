@@ -1,0 +1,6 @@
+{
+    "name_of_task": "formal_logic_translation",
+    "description_of_task": "Translate natural language statements into formal logic expressions and vice versa.",
+    "capability_being_measured": "logical reasoning, symbolic manipulation, comprehension",
+    "estimated_human_difficulty": "4"
+}

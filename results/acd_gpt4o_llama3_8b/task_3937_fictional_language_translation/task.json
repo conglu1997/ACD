@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_language_translation",
+    "description_of_task": "Translate text between human languages and fictional languages from popular media.",
+    "capability_being_measured": "language understanding, translation, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

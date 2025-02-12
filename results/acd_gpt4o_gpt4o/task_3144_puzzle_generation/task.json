@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_generation",
+    "description_of_task": "Generate puzzles based on given themes and constraints.",
+    "capability_being_measured": "creativity, logical reasoning, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

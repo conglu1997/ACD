@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetic_translation",
+    "description_of_task": "Translate a given poem from one language to another while preserving its meaning, tone, and artistic elements.",
+    "capability_being_measured": "language translation, creativity, understanding of poetic devices",
+    "estimated_human_difficulty": "4"
+}

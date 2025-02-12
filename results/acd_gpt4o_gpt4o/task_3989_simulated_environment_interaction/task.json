@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simulated_environment_interaction",
+    "description_of_task": "Interpret and respond to changes in a simulated environment based on given rules and initial conditions.",
+    "capability_being_measured": "causal reasoning, adaptability, dynamic problem-solving",
+    "estimated_human_difficulty": "4"
+}

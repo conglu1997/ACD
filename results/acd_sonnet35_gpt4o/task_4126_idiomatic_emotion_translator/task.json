@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiomatic_emotion_translator",
+    "description_of_task": "Design an AI system that translates idiomatic expressions across languages while preserving their emotional and cultural connotations, then use it to analyze cross-cultural communication patterns.",
+    "capability_being_measured": "linguistics knowledge, cultural understanding, emotional intelligence, AI system design, and creative problem-solving",
+    "estimated_human_difficulty": "5"
+}

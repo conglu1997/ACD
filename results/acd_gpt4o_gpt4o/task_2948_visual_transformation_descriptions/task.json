@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_transformation_descriptions",
+    "description_of_task": "Describe the steps required to transform a given visual scene into another based on specified instructions.",
+    "capability_being_measured": "spatial reasoning, descriptive ability, creativity",
+    "estimated_human_difficulty": "3"
+}

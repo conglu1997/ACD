@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_story_generation",
+    "description_of_task": "Generate a short story based on specific themes and constraints provided. The story should be coherent, creative, and adhere to the given guidelines.",
+    "capability_being_measured": "creativity, narrative coherence, adherence to constraints",
+    "estimated_human_difficulty": "3"
+}

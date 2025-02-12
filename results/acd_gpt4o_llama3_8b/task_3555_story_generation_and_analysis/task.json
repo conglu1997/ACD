@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_generation_and_analysis",
+    "description_of_task": "Generate a coherent and logical short story based on a given prompt and provide a summary or analysis of the story.",
+    "capability_being_measured": "creativity, logical reasoning, narrative understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation",
+    "description_of_task": "Generate a humorous response based on a given prompt.",
+    "capability_being_measured": "creativity, cultural knowledge, and language understanding",
+    "estimated_human_difficulty": "4"
+}

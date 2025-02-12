@@ -1,0 +1,6 @@
+{
+    "name_of_task": "detective_narrative_construction",
+    "description_of_task": "Create a detective story based on given clues and analyze the logical coherence of a provided detective narrative.",
+    "capability_being_measured": "narrative creativity, logical coherence, genre-specific conventions",
+    "estimated_human_difficulty": "4"
+}

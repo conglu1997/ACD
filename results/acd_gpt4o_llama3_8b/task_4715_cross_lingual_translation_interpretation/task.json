@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_lingual_translation_interpretation",
+    "description_of_task": "Translate a given text between different languages and interpret the translated text to ensure it maintains the original meaning.",
+    "capability_being_measured": "multilingual understanding, translation accuracy, contextual interpretation",
+    "estimated_human_difficulty": "4"
+}

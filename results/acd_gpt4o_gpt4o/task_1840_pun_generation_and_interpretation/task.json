@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_generation_and_interpretation",
+    "description_of_task": "Generate puns based on given prompts and interpret the humor in provided puns.",
+    "capability_being_measured": "creativity, linguistic skills, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

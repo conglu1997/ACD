@@ -1,0 +1,6 @@
+{
+    "name_of_task": "short_story_generation",
+    "description_of_task": "Generate a short story based on a given prompt and specific narrative elements.",
+    "capability_being_measured": "creative writing and narrative understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_lyrics_and_analysis",
+    "description_of_task": "Generate lyrics for a given melody and analyze a piece of music to identify its structure.",
+    "capability_being_measured": "creativity, music theory understanding, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

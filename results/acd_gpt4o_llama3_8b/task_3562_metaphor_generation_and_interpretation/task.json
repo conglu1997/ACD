@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation_and_interpretation",
+    "description_of_task": "Generate metaphors based on given themes and interpret provided metaphors.",
+    "capability_being_measured": "creativity, language comprehension, figurative language understanding",
+    "estimated_human_difficulty": "3"
+}

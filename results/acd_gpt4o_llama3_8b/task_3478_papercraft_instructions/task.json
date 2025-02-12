@@ -1,0 +1,6 @@
+{
+    "name_of_task": "papercraft_instructions",
+    "description_of_task": "Generate step-by-step instructions for creating a specific papercraft model.",
+    "capability_being_measured": "procedural knowledge, logical thinking, instructional clarity",
+    "estimated_human_difficulty": "3"
+}

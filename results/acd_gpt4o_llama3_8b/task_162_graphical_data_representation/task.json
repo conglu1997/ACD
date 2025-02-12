@@ -1,0 +1,6 @@
+{
+    "name_of_task": "graphical_data_representation",
+    "description_of_task": "Generate a graphical representation of given data and interpret a provided graphical representation.",
+    "capability_being_measured": "data visualization, interpretation, technical understanding",
+    "estimated_human_difficulty": "3"
+}

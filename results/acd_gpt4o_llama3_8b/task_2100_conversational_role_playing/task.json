@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conversational_role_playing",
+    "description_of_task": "Assume the role of a given character and engage in a conversation that aligns with the character's traits, background, and context.",
+    "capability_being_measured": "context understanding, character consistency, creative dialogue generation",
+    "estimated_human_difficulty": "4"
+}

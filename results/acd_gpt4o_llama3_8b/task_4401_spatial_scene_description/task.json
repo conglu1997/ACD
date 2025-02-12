@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_scene_description",
+    "description_of_task": "Generate detailed descriptions of visual scenes based on given abstract spatial arrangements.",
+    "capability_being_measured": "spatial reasoning, visual imagination, descriptive language",
+    "estimated_human_difficulty": "4"
+}

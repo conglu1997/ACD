@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_imagination",
+    "description_of_task": "Interpret a given visual description and generate a corresponding text that describes an imaginary scene.",
+    "capability_being_measured": "visual imagination, descriptive language, creativity",
+    "estimated_human_difficulty": "4"
+}

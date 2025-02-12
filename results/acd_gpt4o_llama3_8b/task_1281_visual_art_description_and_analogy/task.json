@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_description_and_analogy",
+    "description_of_task": "Interpret descriptions of visual art and generate new descriptions or analogies based on those descriptions.",
+    "capability_being_measured": "language understanding, creativity, abstract thinking",
+    "estimated_human_difficulty": "4"
+}

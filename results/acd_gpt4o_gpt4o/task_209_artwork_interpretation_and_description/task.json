@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artwork_interpretation_and_description",
+    "description_of_task": "Interpret a famous artwork and generate a detailed description of a given artwork.",
+    "capability_being_measured": "artistic knowledge, descriptive language, visual imagination",
+    "estimated_human_difficulty": "4"
+}

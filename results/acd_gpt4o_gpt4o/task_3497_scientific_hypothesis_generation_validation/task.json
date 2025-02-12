@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_generation_validation",
+    "description_of_task": "Generate a scientific hypothesis based on a given observation and validate a provided hypothesis using scientific reasoning.",
+    "capability_being_measured": "scientific reasoning, knowledge of scientific principles, articulation",
+    "estimated_human_difficulty": "4"
+}

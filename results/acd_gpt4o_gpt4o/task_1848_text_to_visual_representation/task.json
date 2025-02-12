@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_visual_representation",
+    "description_of_task": "Generate a visual representation based on a given textual description and interpret a visual representation in text form.",
+    "capability_being_measured": "spatial reasoning, descriptive accuracy, translation between modalities",
+    "estimated_human_difficulty": "4"
+}

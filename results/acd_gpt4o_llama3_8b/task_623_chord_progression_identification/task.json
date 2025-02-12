@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chord_progression_identification",
+    "description_of_task": "Identify the chord progression in a given sequence of musical chords.",
+    "capability_being_measured": "music theory knowledge, pattern recognition, application of theoretical concepts",
+    "estimated_human_difficulty": "3"
+}

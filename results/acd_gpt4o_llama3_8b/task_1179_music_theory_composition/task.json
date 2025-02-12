@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_composition",
+    "description_of_task": "Analyze musical elements in a given piece and create a new piece of music based on specific instructions.",
+    "capability_being_measured": "creativity, technical knowledge in music theory",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_instruction_generation",
+    "description_of_task": "Generate clear, step-by-step instructions to complete a given practical task.",
+    "capability_being_measured": "procedural knowledge, practical reasoning, clarity of communication",
+    "estimated_human_difficulty": "4"
+}

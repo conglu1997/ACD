@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_intelligence",
+    "description_of_task": "Assess the model's ability to recognize emotions in a given statement and respond empathetically.",
+    "capability_being_measured": "emotional intelligence, empathy, conversational skills",
+    "estimated_human_difficulty": "4"
+}

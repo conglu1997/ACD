@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_creation",
+    "description_of_task": "Create a plausible scientific hypothesis based on given phenomena and explain the reasoning behind it.",
+    "capability_being_measured": "scientific reasoning, creativity, understanding of scientific concepts",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "annotated_map_interpretation",
+    "description_of_task": "Interpret a given annotated map and answer specific questions based on the map and its annotations.",
+    "capability_being_measured": "multi-modal data integration, spatial reasoning, comprehension",
+    "estimated_human_difficulty": "4"
+}

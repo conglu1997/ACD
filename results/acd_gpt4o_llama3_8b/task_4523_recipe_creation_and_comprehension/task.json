@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_comprehension",
+    "description_of_task": "Generate detailed recipes based on given ingredients and identify missing steps in provided recipes.",
+    "capability_being_measured": "procedural knowledge, creativity, attention to detail",
+    "estimated_human_difficulty": "4"
+}

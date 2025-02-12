@@ -1,0 +1,96 @@
+\documentclass[fleqn,10pt]{wlscirep}
+\usepackage{csquotes} 
+\usepackage[utf8]{inputenc}  % Tells LaTeX that the document is encoded in UTF-8
+\usepackage[T1]{fontenc}     % Use T1 font encoding for better output with accented characters
+\usepackage{lmodern}         % A modern font package that works well with T1 encoding
+
+\usepackage[style=apa,backend=biber]{biblatex}
+\DeclareLanguageMapping{english}{english-apa}
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+%\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setkeys{Gin}{keepaspectratio}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+%\newcommand{\autocite}[1]{\cite{#1}}
+%\newcommand{\textcite}[1]{\cite{#1}}
+\addbibresource{$bibliography$}
+
+\title{$if(title)$$title$$endif$}
+
+%%------------AUTHORS--------------
+$for(author)$
+$if(author.name)$
+\author[$author.footnote$ $if(author.corresponding)$,$$\ast$$ $endif$]{$author.name$}
+$endif$
+$endfor$
+
+$for(affiliation)$
+$if(affiliation.number)$
+\affil[$affiliation.number$]{$affiliation.name$}
+$endif$
+$endfor$
+
+$for(author)$
+$if(author.corresponding)$
+\affil[*]{$author.email$}
+$endif$
+$endfor$
+%%------------/AUTHORS--------------
+
+
+$if(keyword)$
+\keywords{
+$for(keyword)$
+$keyword$,
+$endfor$
+}
+$endif$
+%\keywords{Keyword1, Keyword2, Keyword3}
+
+$if(abstract)$
+\begin{abstract}
+%% Text of abstract
+$abstract$
+\end{abstract}
+$endif$
+
+
+\begin{document}
+
+\flushbottom
+\maketitle
+% * <john.hammersley@gmail.com> 2015-02-09T12:07:31.197Z:
+%
+%  Click the title above to edit the author information and abstract
+%
+\thispagestyle{empty}
+
+%\noindent Please note: Abbreviations should be introduced at the first mention in the main text – no abbreviations lists. Suggested structure of main text (not enforced) is provided below.
+
+%% main text
+$body$
+
+\printbibliography
+
+$if(acknowledgements)$
+\section*{Acknowledgements}
+$acknowledgements$
+$endif$
+
+$if(contribution)$
+\section*{Author contributions statement}
+$contribution$
+$endif$
+
+
+$if(additionalinformation)$
+\section*{Additional information}
+$additionalinformation$
+$additionalinformation$
+$endif$
+
+\end{document}

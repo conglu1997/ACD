@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_transformation",
+    "description_of_task": "Create and transform recipes based on given constraints and requirements.",
+    "capability_being_measured": "creativity, knowledge of cooking, logical reasoning, adaptability",
+    "estimated_human_difficulty": "3"
+}

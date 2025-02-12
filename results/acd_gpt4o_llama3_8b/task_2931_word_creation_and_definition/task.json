@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_creation_and_definition",
+    "description_of_task": "Create new words based on given constraints and provide their definitions.",
+    "capability_being_measured": "linguistic creativity, semantic understanding, language generation",
+    "estimated_human_difficulty": "3"
+}

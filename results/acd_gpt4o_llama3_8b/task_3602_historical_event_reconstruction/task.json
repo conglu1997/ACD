@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reconstruction",
+    "description_of_task": "Reconstruct a historical event from fragmented or partially given information.",
+    "capability_being_measured": "historical knowledge, logical reasoning, inferential ability",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_generation",
+    "description_of_task": "Generate detailed visual descriptions of abstract concepts or scenarios.",
+    "capability_being_measured": "spatial reasoning, descriptive interpretation, creativity",
+    "estimated_human_difficulty": "4"
+}

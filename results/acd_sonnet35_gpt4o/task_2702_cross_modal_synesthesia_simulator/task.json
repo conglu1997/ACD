@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_synesthesia_simulator",
+    "description_of_task": "Design an AI system that simulates synesthesia-like experiences by translating information between different sensory modalities, then use it to create and analyze novel cross-modal mappings.",
+    "capability_being_measured": "multimodal integration, cross-modal translation, creative problem-solving, and understanding of cognitive science and perception",
+    "estimated_human_difficulty": "5"
+}

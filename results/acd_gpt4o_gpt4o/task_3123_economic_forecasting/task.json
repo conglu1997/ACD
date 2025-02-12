@@ -1,0 +1,6 @@
+{
+    "name_of_task": "economic_forecasting",
+    "description_of_task": "Analyze given economic data and provide forecasts and recommendations based on various economic indicators such as GDP, unemployment rate, inflation, interest rates, and more.",
+    "capability_being_measured": "economic understanding, data analysis, reasoning, forecasting",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_puzzles_creation_and_solving",
+    "description_of_task": "Create and solve word puzzles such as word ladders and crosswords based on given clues.",
+    "capability_being_measured": "logical reasoning, vocabulary, pattern recognition, creativity",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_creation_and_interpretation",
+    "description_of_task": "Create a humorous story based on a given scenario and interpret the humor in a given joke.",
+    "capability_being_measured": "creativity, cultural understanding, contextual understanding, linguistic adaptability",
+    "estimated_human_difficulty": "4"
+}

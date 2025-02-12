@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pseudocode_generation",
+    "description_of_task": "Write pseudocode to solve specified problems.",
+    "capability_being_measured": "algorithmic thinking, procedural knowledge, problem-solving",
+    "estimated_human_difficulty": "4"
+}

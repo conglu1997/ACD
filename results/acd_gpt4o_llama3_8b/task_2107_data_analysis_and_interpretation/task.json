@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_analysis_and_interpretation",
+    "description_of_task": "Interpret and analyze a given dataset to answer specific questions.",
+    "capability_being_measured": "data analysis, comprehension, reasoning",
+    "estimated_human_difficulty": "4"
+}

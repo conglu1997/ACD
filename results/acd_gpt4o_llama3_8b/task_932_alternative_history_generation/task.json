@@ -1,0 +1,6 @@
+{
+    "name_of_task": "alternative_history_generation",
+    "description_of_task": "Interpret a historical event and generate a plausible alternative historical scenario based on a given change in that event.",
+    "capability_being_measured": "historical knowledge, reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

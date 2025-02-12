@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_interpretation",
+    "description_of_task": "Compose a simple melody based on given constraints and interpret a provided musical scenario.",
+    "capability_being_measured": "creativity, musical theory knowledge, interpretation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "timeline_generation_and_interpretation",
+    "description_of_task": "Interpret given historical timelines and generate new timelines based on specified events and criteria.",
+    "capability_being_measured": "temporal reasoning, historical knowledge, structured information generation",
+    "estimated_human_difficulty": "4"
+}

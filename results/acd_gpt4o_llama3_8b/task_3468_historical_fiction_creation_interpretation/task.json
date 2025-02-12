@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_fiction_creation_interpretation",
+    "description_of_task": "Create a historical fiction narrative based on a given historical event and interpret a provided historical fiction excerpt to identify key elements and historical context.",
+    "capability_being_measured": "creativity, historical knowledge, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

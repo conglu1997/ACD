@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_and_explanation",
+    "description_of_task": "Generate a recipe based on given constraints and explain the reasoning behind ingredient choices and steps.",
+    "capability_being_measured": "creativity, domain-specific knowledge, sequential reasoning",
+    "estimated_human_difficulty": "3"
+}

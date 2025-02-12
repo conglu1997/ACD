@@ -1,0 +1,6 @@
+{
+    "name_of_task": "syntactic_style_transfer",
+    "description_of_task": "Develop an algorithm to transfer the syntactic style of one author to the content of another author's text, then analyze and recreate the result.",
+    "capability_being_measured": "linguistic analysis, creative writing, algorithmic thinking, and interdisciplinary knowledge application in computational linguistics and literary studies",
+    "estimated_human_difficulty": "4"
+}

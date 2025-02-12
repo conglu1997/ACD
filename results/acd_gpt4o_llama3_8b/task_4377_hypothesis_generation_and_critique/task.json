@@ -1,0 +1,6 @@
+{
+    "name_of_task": "hypothesis_generation_and_critique",
+    "description_of_task": "Generate a plausible scientific hypothesis based on given data and then critique the hypothesis for its validity based on scientific principles.",
+    "capability_being_measured": "logical reasoning, scientific knowledge, critical thinking",
+    "estimated_human_difficulty": "4"
+}

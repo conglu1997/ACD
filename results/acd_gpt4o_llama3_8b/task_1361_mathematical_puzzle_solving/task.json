@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_puzzle_solving",
+    "description_of_task": "Solve or generate a mathematical puzzle based on given constraints.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "3"
+}

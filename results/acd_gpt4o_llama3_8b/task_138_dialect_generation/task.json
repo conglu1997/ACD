@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialect_generation",
+    "description_of_task": "Generate a passage in a specified English dialect or accent.",
+    "capability_being_measured": "linguistic diversity, cultural adaptation, language generation",
+    "estimated_human_difficulty": "4"
+}

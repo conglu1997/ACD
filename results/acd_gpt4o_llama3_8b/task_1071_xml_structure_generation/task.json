@@ -1,0 +1,6 @@
+{
+    "name_of_task": "xml_structure_generation",
+    "description_of_task": "Generate a well-formed XML structure based on a given text description.",
+    "capability_being_measured": "data structuring, syntax generation, semantic understanding",
+    "estimated_human_difficulty": "3"
+}

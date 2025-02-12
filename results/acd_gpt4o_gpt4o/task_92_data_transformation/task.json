@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_transformation",
+    "description_of_task": "Convert structured data from one format to another based on given specifications.",
+    "capability_being_measured": "data manipulation, attention to detail",
+    "estimated_human_difficulty": "3"
+}

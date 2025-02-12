@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning",
+    "description_of_task": "Interpret legal scenarios and apply relevant laws to provide reasoned judgments or advice.",
+    "capability_being_measured": "legal knowledge, logical reasoning, interpretation, problem-solving",
+    "estimated_human_difficulty": "5"
+}

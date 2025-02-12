@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geographical_coordinate_generation",
+    "description_of_task": "Generate accurate map coordinates based on given geographical descriptions.",
+    "capability_being_measured": "spatial reasoning, language comprehension, geographical knowledge",
+    "estimated_human_difficulty": "4"
+}

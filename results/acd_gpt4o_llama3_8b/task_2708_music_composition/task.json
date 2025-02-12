@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_composition",
+    "description_of_task": "Generate a simple piece of music based on given constraints, including melody, harmony, and structure.",
+    "capability_being_measured": "creativity, understanding of musical theory, rule-based generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_step_arithmetic",
+    "description_of_task": "Solve complex arithmetic word problems that require multiple steps and operations.",
+    "capability_being_measured": "arithmetic problem-solving, logical reasoning",
+    "estimated_human_difficulty": "3"
+}

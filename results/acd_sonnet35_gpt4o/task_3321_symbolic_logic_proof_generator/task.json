@@ -1,0 +1,6 @@
+{
+    "name_of_task": "symbolic_logic_proof_generator",
+    "description_of_task": "Generate and verify formal proofs in symbolic logic based on given axioms and inference rules, then translate the proofs into natural language explanations.",
+    "capability_being_measured": "abstract reasoning, formal logic understanding, proof construction, and translation between formal and natural language",
+    "estimated_human_difficulty": "5"
+}

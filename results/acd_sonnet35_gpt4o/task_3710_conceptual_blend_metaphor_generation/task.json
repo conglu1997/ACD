@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conceptual_blend_metaphor_generation",
+    "description_of_task": "Design and implement an AI system that generates novel metaphors through conceptual blending, then apply it to explain complex scientific concepts using culturally diverse source domains.",
+    "capability_being_measured": "creative problem-solving, understanding of cognitive linguistics, cultural knowledge integration, and ability to explain complex concepts through metaphor",
+    "estimated_human_difficulty": "5"
+}

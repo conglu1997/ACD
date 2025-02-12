@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_conceptual_blending",
+    "description_of_task": "Design and implement a system that generates novel concepts by blending ideas from different sensory modalities and abstract domains, then analyze the resulting conceptual integrations.",
+    "capability_being_measured": "abstract reasoning, creative synthesis, cross-modal integration, and linguistic creativity",
+    "estimated_human_difficulty": "5"
+}

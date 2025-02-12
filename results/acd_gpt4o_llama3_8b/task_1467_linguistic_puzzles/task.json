@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_puzzles",
+    "description_of_task": "Generate and interpret linguistic puzzles such as palindromes and anagrams based on given criteria.",
+    "capability_being_measured": "linguistic manipulation, pattern recognition, creativity",
+    "estimated_human_difficulty": "3"
+}

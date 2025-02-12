@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constraint_satisfaction_problem",
+    "description_of_task": "Generate and solve constraint satisfaction problems (CSPs) based on given variables and constraints.",
+    "capability_being_measured": "logical reasoning, problem-solving, mathematical reasoning",
+    "estimated_human_difficulty": "4"
+}

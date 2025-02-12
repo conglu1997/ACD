@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_graphic_synthesis",
+    "description_of_task": "Interpret and combine textual and graphical data to generate a coherent summary or explanation.",
+    "capability_being_measured": "multi-modal comprehension, synthesis, reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_story_translation",
+    "description_of_task": "Translate a short story from one language to another while maintaining the original story's tone, style, and coherence.",
+    "capability_being_measured": "multilingual capabilities, narrative understanding, translation accuracy",
+    "estimated_human_difficulty": "4"
+}

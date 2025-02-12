@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_music_theory_composer",
+    "description_of_task": "Design an AI system that can generate and analyze musical compositions based on specific music theory principles, and explain its creative choices.",
+    "capability_being_measured": "understanding of music theory, creative problem-solving, pattern generation and analysis, and ability to explain abstract concepts",
+    "estimated_human_difficulty": "4"
+}

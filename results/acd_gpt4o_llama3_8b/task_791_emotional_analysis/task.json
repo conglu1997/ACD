@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_analysis",
+    "description_of_task": "Analyze a given scenario to identify the emotional states of the characters involved and provide a rationale for your analysis.",
+    "capability_being_measured": "emotional intelligence, empathy, reading comprehension",
+    "estimated_human_difficulty": "4"
+}

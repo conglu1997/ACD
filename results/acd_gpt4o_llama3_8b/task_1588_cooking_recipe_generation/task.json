@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cooking_recipe_generation",
+    "description_of_task": "Generate a detailed cooking recipe based on specified ingredients and constraints.",
+    "capability_being_measured": "procedural knowledge, creativity, language generation",
+    "estimated_human_difficulty": "3"
+}

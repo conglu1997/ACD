@@ -1,0 +1,6 @@
+{
+    "name_of_task": "natural_to_pseudocode",
+    "description_of_task": "Convert a given natural language description of a process into structured pseudocode.",
+    "capability_being_measured": "programming logic comprehension and synthesis",
+    "estimated_human_difficulty": "3"
+}

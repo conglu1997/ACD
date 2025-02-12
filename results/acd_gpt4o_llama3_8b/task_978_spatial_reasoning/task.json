@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Interpret spatial descriptions and make inferences based on those descriptions.",
+    "capability_being_measured": "spatial reasoning, comprehension, inference",
+    "estimated_human_difficulty": "4"
+}

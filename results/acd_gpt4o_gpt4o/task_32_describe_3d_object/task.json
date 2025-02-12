@@ -1,0 +1,6 @@
+{
+    "name_of_task": "describe_3d_object",
+    "description_of_task": "Interpret and generate descriptions of 3D objects based on given spatial information.",
+    "capability_being_measured": "spatial reasoning, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

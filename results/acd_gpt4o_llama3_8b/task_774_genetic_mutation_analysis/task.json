@@ -1,0 +1,6 @@
+{
+    "name_of_task": "genetic_mutation_analysis",
+    "description_of_task": "Identify genetic mutations in given DNA sequences and explain their potential impact on protein function.",
+    "capability_being_measured": "scientific knowledge, specialized reasoning",
+    "estimated_human_difficulty": "5"
+}

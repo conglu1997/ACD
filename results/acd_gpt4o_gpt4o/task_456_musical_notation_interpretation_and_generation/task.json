@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_interpretation_and_generation",
+    "description_of_task": "Interpret a given musical score and generate a musical score based on a provided description.",
+    "capability_being_measured": "symbolic reasoning, creativity, structured language comprehension",
+    "estimated_human_difficulty": "4"
+}

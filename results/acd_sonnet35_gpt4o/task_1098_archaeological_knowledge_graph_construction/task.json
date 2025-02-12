@@ -1,0 +1,6 @@
+{
+    "name_of_task": "archaeological_knowledge_graph_construction",
+    "description_of_task": "Design and implement a system to construct a knowledge graph from archaeological texts and data, integrating information across multiple time periods and cultures.",
+    "capability_being_measured": "natural language processing, knowledge representation, interdisciplinary reasoning, and creative inference in the context of archaeological data analysis",
+    "estimated_human_difficulty": "5"
+}

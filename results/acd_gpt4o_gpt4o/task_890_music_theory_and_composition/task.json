@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_and_composition",
+    "description_of_task": "Analyze a given musical piece and compose a short piece of music based on specific criteria.",
+    "capability_being_measured": "music theory knowledge, creativity, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

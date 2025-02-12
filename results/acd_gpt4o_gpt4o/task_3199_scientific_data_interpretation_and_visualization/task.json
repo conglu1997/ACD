@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_data_interpretation_and_visualization",
+    "description_of_task": "Interpret scientific data and describe suitable visualizations for the given data.",
+    "capability_being_measured": "scientific reasoning, data interpretation, visualization skills",
+    "estimated_human_difficulty": "4"
+}

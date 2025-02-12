@@ -1,0 +1,6 @@
+{
+    "name_of_task": "controversial_argumentation",
+    "description_of_task": "Generate pros and cons for a given controversial topic and evaluate a provided argument.",
+    "capability_being_measured": "argumentation, reasoning, language comprehension",
+    "estimated_human_difficulty": "4"
+}

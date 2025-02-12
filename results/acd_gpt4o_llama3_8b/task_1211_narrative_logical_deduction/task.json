@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_logical_deduction",
+    "description_of_task": "Deduce logical conclusions from given narrative-based clues.",
+    "capability_being_measured": "logical reasoning, comprehension, inference",
+    "estimated_human_difficulty": "4"
+}

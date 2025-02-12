@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argument_generation",
+    "description_of_task": "Generate and interpret legal arguments based on given scenarios or legal principles.",
+    "capability_being_measured": "legal reasoning, argumentation, comprehension",
+    "estimated_human_difficulty": "5"
+}

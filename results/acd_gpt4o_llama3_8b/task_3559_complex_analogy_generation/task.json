@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_analogy_generation",
+    "description_of_task": "Generate complex analogies based on given pairs of concepts and explain the relationships between them.",
+    "capability_being_measured": "abstract reasoning, linguistic proficiency, creativity",
+    "estimated_human_difficulty": "4"
+}

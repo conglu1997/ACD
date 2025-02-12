@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reinterpretation",
+    "description_of_task": "Recount historical events accurately and creatively reinterpret or create alternative history scenarios based on those events.",
+    "capability_being_measured": "historical knowledge, reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

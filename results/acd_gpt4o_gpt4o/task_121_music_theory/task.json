@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory",
+    "description_of_task": "Identify musical scales and generate chord progressions based on given instructions.",
+    "capability_being_measured": "knowledge of music theory, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

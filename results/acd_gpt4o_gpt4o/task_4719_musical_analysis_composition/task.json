@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_analysis_composition",
+    "description_of_task": "Analyze a given piece of music and create a new piece of music based on specific criteria.",
+    "capability_being_measured": "musical theory understanding, creativity, compositional skills",
+    "estimated_human_difficulty": "4"
+}

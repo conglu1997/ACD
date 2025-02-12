@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_augmented_music_composition",
+    "description_of_task": "Design an AI system that collaborates with human musicians in real-time to compose and perform original music, adapting to the musician's style and emotional state.",
+    "capability_being_measured": "creativity, understanding of music theory, real-time adaptive systems design, and human-AI interaction",
+    "estimated_human_difficulty": "5"
+}

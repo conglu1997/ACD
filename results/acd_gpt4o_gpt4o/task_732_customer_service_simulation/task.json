@@ -1,0 +1,6 @@
+{
+    "name_of_task": "customer_service_simulation",
+    "description_of_task": "Simulate a customer service interaction based on a given scenario and provide a helpful and coherent response.",
+    "capability_being_measured": "communication, empathy, problem-solving",
+    "estimated_human_difficulty": "3"
+}

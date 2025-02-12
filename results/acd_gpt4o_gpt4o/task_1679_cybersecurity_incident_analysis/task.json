@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cybersecurity_incident_analysis",
+    "description_of_task": "Analyze given cybersecurity incident scenarios and provide a detailed report identifying the type of attack, possible vulnerabilities exploited, and suggested mitigation strategies.",
+    "capability_being_measured": "technical knowledge, problem-solving, critical thinking",
+    "estimated_human_difficulty": "5"
+}

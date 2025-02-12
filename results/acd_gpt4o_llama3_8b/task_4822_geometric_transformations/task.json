@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_transformations",
+    "description_of_task": "Describe transformations or calculate properties of geometric figures based on given descriptions or coordinates.",
+    "capability_being_measured": "spatial reasoning, geometric understanding",
+    "estimated_human_difficulty": "4"
+}

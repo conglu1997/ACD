@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_speech_analysis",
+    "description_of_task": "Analyze historical speeches to extract key themes and assess their impact.",
+    "capability_being_measured": "historical knowledge, critical analysis, language understanding",
+    "estimated_human_difficulty": "4"
+}

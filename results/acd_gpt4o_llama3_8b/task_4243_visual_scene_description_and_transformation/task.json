@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description_and_transformation",
+    "description_of_task": "Describe a given visual scene in detail and transform the scene based on specified modifications.",
+    "capability_being_measured": "comprehension, creativity, reasoning",
+    "estimated_human_difficulty": "4"
+}

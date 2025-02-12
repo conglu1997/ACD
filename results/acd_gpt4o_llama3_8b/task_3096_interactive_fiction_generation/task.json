@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_fiction_generation",
+    "description_of_task": "Generate a short story based on a given prompt, incorporating specified plot elements or character traits.",
+    "capability_being_measured": "creativity, language understanding, adaptability",
+    "estimated_human_difficulty": "4"
+}

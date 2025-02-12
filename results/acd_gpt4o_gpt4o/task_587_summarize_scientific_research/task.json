@@ -1,0 +1,6 @@
+{
+    "name_of_task": "summarize_scientific_research",
+    "description_of_task": "Summarize the abstract of a scientific paper and explain the significance and potential impact of the research.",
+    "capability_being_measured": "comprehension, synthesis, scientific understanding",
+    "estimated_human_difficulty": "4"
+}

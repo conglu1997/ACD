@@ -1,0 +1,6 @@
+{
+    "name_of_task": "contextual_metaphor_generation",
+    "description_of_task": "Generate new metaphors based on given contexts and interpret complex metaphors in detail.",
+    "capability_being_measured": "abstract thinking, language comprehension, creative interpretation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "empathetic_response_generation",
+    "description_of_task": "Generate empathetic and supportive responses based on given sensitive scenarios.",
+    "capability_being_measured": "emotional intelligence, language understanding, and empathy",
+    "estimated_human_difficulty": "4"
+}

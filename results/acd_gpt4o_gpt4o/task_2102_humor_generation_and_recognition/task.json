@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_recognition",
+    "description_of_task": "Generate humorous content based on given prompts and recognize humor in provided text.",
+    "capability_being_measured": "creativity, language manipulation, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

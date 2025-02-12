@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_generation_and_interpretation",
+    "description_of_task": "Generate detailed descriptions of objects or scenes and interpret descriptions to visualize the object or scene.",
+    "capability_being_measured": "spatial reasoning, descriptive abilities, visual imagination",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "auditory_creativity",
+    "description_of_task": "Generate creative content based on auditory descriptions of sounds or music.",
+    "capability_being_measured": "auditory interpretation, creativity, narrative generation",
+    "estimated_human_difficulty": "4"
+}

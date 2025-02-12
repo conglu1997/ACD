@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation",
+    "description_of_task": "Navigate through a described maze or pathway by providing step-by-step directions based on given spatial instructions.",
+    "capability_being_measured": "spatial reasoning, comprehension, instruction following",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "symbolic_logic",
+    "description_of_task": "Interpret and generate symbolic logic statements based on given conditions and rules.",
+    "capability_being_measured": "logical reasoning, understanding of symbolic logic, precision",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pattern_recognition_sequence_prediction",
+    "description_of_task": "Identify and extend numerical patterns based on given sequences.",
+    "capability_being_measured": "mathematical reasoning, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

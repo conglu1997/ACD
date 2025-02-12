@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_scientific_hypothesis_generation",
+    "description_of_task": "Generate a fictional scientific hypothesis based on a given phenomenon and provide a coherent explanation of the hypothesis.",
+    "capability_being_measured": "creativity, scientific knowledge, abstract reasoning",
+    "estimated_human_difficulty": "4"
+}

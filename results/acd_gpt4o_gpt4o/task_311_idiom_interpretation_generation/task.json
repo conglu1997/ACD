@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_interpretation_generation",
+    "description_of_task": "Interpret the meaning of a given idiom and create a new idiom with an explanation.",
+    "capability_being_measured": "linguistic creativity, understanding of figurative language, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "embodied_ai_adaptive_locomotion",
+    "description_of_task": "Design a framework for an embodied AI system capable of learning and adapting its locomotion strategies in diverse and novel physical environments, integrating principles from robotics, physics, machine learning, and biomechanics.",
+    "capability_being_measured": "interdisciplinary knowledge integration, creative problem-solving, understanding of robotics, physics, machine learning, and biomechanics",
+    "estimated_human_difficulty": "5"
+}

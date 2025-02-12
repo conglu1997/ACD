@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_simplification",
+    "description_of_task": "Simplify complex sentences while preserving their original meaning.",
+    "capability_being_measured": "language transformation, comprehension",
+    "estimated_human_difficulty": "3"
+}

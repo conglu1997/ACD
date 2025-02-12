@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_sequence_inference",
+    "description_of_task": "Infer the next element in a given logical sequence based on the provided pattern.",
+    "capability_being_measured": "logical reasoning, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

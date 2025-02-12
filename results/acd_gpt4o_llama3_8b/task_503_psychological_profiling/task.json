@@ -1,0 +1,6 @@
+{
+    "name_of_task": "psychological_profiling",
+    "description_of_task": "Analyze given text descriptions to infer the personality traits and psychological profile of the described individuals.",
+    "capability_being_measured": "psychological understanding, empathy, language comprehension",
+    "estimated_human_difficulty": "4"
+}

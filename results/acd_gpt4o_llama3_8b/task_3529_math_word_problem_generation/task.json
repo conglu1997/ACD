@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problem_generation",
+    "description_of_task": "Generate a detailed mathematical word problem based on given mathematical concepts and constraints.",
+    "capability_being_measured": "mathematical reasoning, language generation",
+    "estimated_human_difficulty": "4"
+}

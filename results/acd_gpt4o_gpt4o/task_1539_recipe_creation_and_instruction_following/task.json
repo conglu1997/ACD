@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_instruction_following",
+    "description_of_task": "Create a detailed recipe based on given criteria and follow a step-by-step cooking instruction.",
+    "capability_being_measured": "creativity, procedural knowledge, language understanding",
+    "estimated_human_difficulty": "3"
+}

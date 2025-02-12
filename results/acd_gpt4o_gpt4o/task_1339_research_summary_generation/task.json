@@ -1,0 +1,6 @@
+{
+    "name_of_task": "research_summary_generation",
+    "description_of_task": "Generate a coherent and informative summary based on provided abstracts from different research papers.",
+    "capability_being_measured": "information synthesis, comprehension, summarization",
+    "estimated_human_difficulty": "4"
+}

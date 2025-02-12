@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_creation_and_interpretation",
+    "description_of_task": "Interpret given poems and create new poems based on specified themes or styles.",
+    "capability_being_measured": "creativity, linguistic skills, understanding of poetic devices",
+    "estimated_human_difficulty": "4"
+}

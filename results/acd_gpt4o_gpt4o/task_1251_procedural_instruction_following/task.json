@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_instruction_following",
+    "description_of_task": "Create and follow detailed, multi-step instructions to achieve a specific outcome.",
+    "capability_being_measured": "procedural reasoning, comprehension, logical sequencing",
+    "estimated_human_difficulty": "4"
+}

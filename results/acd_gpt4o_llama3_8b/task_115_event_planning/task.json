@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_planning",
+    "description_of_task": "Generate a detailed event plan based on given constraints and requirements.",
+    "capability_being_measured": "procedural reasoning, organizational skills, and contextual understanding",
+    "estimated_human_difficulty": "4"
+}

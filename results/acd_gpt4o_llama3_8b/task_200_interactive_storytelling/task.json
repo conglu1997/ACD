@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_storytelling",
+    "description_of_task": "Create an interactive story where the user provides inputs at certain points, and the model continues the story based on those inputs.",
+    "capability_being_measured": "creativity, narrative skills, contextual understanding, and interactivity",
+    "estimated_human_difficulty": "4"
+}

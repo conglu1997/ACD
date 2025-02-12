@@ -1,0 +1,6 @@
+{
+    "name_of_task": "basic_programming",
+    "description_of_task": "Write a simple program based on given requirements and debug a provided code snippet.",
+    "capability_being_measured": "programming, logical reasoning, technical comprehension",
+    "estimated_human_difficulty": "3"
+}

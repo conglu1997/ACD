@@ -1,0 +1,6 @@
+{
+    "name_of_task": "character_simulation",
+    "description_of_task": "Simulate a character with specific personality traits and generate dialogues or responses that are consistent with those traits.",
+    "capability_being_measured": "character consistency, creativity, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

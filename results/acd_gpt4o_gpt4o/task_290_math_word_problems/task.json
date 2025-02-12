@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems",
+    "description_of_task": "Generate and solve mathematical word problems, testing both numerical reasoning and linguistic creativity.",
+    "capability_being_measured": "numerical reasoning, contextual understanding, linguistic creativity",
+    "estimated_human_difficulty": "4"
+}

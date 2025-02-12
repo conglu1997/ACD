@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation_generation",
+    "description_of_task": "Generate comprehensive technical documentation for a given software function or system.",
+    "capability_being_measured": "technical knowledge, comprehension, articulation",
+    "estimated_human_difficulty": "4"
+}

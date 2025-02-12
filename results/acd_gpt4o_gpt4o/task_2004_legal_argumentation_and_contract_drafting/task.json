@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation_and_contract_drafting",
+    "description_of_task": "Generate legal arguments based on given cases and draft legal contracts based on provided specifications.",
+    "capability_being_measured": "legal reasoning, understanding of legal principles, precise language use",
+    "estimated_human_difficulty": "5"
+}

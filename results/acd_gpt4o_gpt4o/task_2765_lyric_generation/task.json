@@ -1,0 +1,6 @@
+{
+    "name_of_task": "lyric_generation",
+    "description_of_task": "Generate song lyrics based on specified themes and musical styles.",
+    "capability_being_measured": "creativity, context understanding, stylistic consistency",
+    "estimated_human_difficulty": "4"
+}

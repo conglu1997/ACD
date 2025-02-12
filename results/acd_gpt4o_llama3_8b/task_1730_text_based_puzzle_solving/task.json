@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_based_puzzle_solving",
+    "description_of_task": "Solve complex text-based puzzles by applying given rules and constraints.",
+    "capability_being_measured": "logical reasoning, rule application, problem-solving",
+    "estimated_human_difficulty": "4"
+}

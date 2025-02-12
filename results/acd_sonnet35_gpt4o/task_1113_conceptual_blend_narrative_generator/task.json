@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conceptual_blend_narrative_generator",
+    "description_of_task": "Design and implement a system that uses conceptual blending theory to generate novel narrative structures, then create a story using this system.",
+    "capability_being_measured": "Understanding of cognitive science concepts, creative application of interdisciplinary knowledge, and narrative generation skills",
+    "estimated_human_difficulty": "5"
+}

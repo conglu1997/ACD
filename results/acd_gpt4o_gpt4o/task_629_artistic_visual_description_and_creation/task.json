@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artistic_visual_description_and_creation",
+    "description_of_task": "Describe a piece of visual art in detail based on a given description and generate a detailed description of an imagined artwork based on a given theme.",
+    "capability_being_measured": "visual imagination, creativity, descriptive linguistic skills",
+    "estimated_human_difficulty": "4"
+}

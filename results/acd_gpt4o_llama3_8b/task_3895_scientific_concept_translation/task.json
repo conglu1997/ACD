@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_concept_translation",
+    "description_of_task": "Translate complex scientific concepts into layman's terms and translate layman's descriptions back into scientific terminology.",
+    "capability_being_measured": "scientific knowledge, language comprehension, communication skills",
+    "estimated_human_difficulty": "4"
+}

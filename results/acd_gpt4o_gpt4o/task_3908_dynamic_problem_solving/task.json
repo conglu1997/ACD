@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dynamic_problem_solving",
+    "description_of_task": "Solve a given problem and adapt the solution when new constraints or rules are introduced mid-task.",
+    "capability_being_measured": "cognitive flexibility, problem-solving, adaptability",
+    "estimated_human_difficulty": "4"
+}

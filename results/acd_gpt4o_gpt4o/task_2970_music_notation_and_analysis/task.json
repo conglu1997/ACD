@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation_and_analysis",
+    "description_of_task": "Generate a piece of music based on a given theme or constraints and analyze an existing piece of music for specific features.",
+    "capability_being_measured": "creativity, domain-specific knowledge, pattern recognition",
+    "estimated_human_difficulty": "5"
+}

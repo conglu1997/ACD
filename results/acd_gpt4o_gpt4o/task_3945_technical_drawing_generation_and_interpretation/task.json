@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_drawing_generation_and_interpretation",
+    "description_of_task": "Generate a technical drawing based on given specifications and interpret an existing drawing to provide detailed descriptions or identify components.",
+    "capability_being_measured": "spatial reasoning, technical knowledge, creativity",
+    "estimated_human_difficulty": "5"
+}

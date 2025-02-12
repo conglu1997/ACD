@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogical_reasoning",
+    "description_of_task": "Identify the relationship between pairs of concepts and apply this relationship to a new pair of concepts.",
+    "capability_being_measured": "reasoning, pattern recognition, generalization",
+    "estimated_human_difficulty": "3"
+}

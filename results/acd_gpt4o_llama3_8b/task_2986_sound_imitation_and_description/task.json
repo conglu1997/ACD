@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sound_imitation_and_description",
+    "description_of_task": "Generate onomatopoeic representations and detailed descriptions of given sounds.",
+    "capability_being_measured": "sensory imagination, descriptive language, creativity",
+    "estimated_human_difficulty": "3"
+}

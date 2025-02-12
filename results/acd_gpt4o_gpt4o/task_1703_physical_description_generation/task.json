@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_description_generation",
+    "description_of_task": "Generate and interpret detailed physical descriptions of objects and environments based on specified criteria.",
+    "capability_being_measured": "spatial reasoning, descriptive skills, visualization",
+    "estimated_human_difficulty": "3"
+}

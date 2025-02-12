@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Describe how to assemble a simple object from given parts or explain how to navigate through a maze based on textual descriptions.",
+    "capability_being_measured": "spatial reasoning, visual imagination, descriptive language",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description_and_interpretation",
+    "description_of_task": "Describe and interpret visual scenes based on textual descriptions.",
+    "capability_being_measured": "visual reasoning, descriptive ability, comprehension",
+    "estimated_human_difficulty": "3"
+}

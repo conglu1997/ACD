@@ -1,0 +1,6 @@
+{
+    "name_of_task": "concept_to_code_translation",
+    "description_of_task": "Design and implement a system that translates abstract concepts from natural language into functional code in a specified programming language, focusing on philosophical ideas.",
+    "capability_being_measured": "abstract reasoning, linguistic understanding, programming skills, interdisciplinary knowledge integration, and ethical consideration",
+    "estimated_human_difficulty": "5"
+}

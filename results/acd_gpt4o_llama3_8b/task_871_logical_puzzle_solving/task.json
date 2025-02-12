@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzle_solving",
+    "description_of_task": "Solve a logical puzzle by reasoning through the scenario and providing a solution.",
+    "capability_being_measured": "logical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "3"
+}

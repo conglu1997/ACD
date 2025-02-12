@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_composition",
+    "description_of_task": "Interpret musical notation and compose a short piece of music based on given parameters.",
+    "capability_being_measured": "musical knowledge, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

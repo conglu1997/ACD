@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experimentation",
+    "description_of_task": "Describe the steps of a scientific experiment based on a given goal or analyze an experiment by identifying errors or missing steps.",
+    "capability_being_measured": "scientific reasoning, procedural understanding, clarity of explanation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "maze_creation_and_solving",
+    "description_of_task": "Create a maze based on given constraints and solve a provided maze, describing the solution path.",
+    "capability_being_measured": "spatial reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

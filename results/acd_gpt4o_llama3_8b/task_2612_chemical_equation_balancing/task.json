@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chemical_equation_balancing",
+    "description_of_task": "Balance chemical equations to ensure that the number of atoms for each element is the same on both sides of the equation.",
+    "capability_being_measured": "scientific knowledge, logical reasoning, attention to detail",
+    "estimated_human_difficulty": "3"
+}

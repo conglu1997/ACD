@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation",
+    "description_of_task": "Generate a joke based on a given topic and explain why it is funny.",
+    "capability_being_measured": "linguistic creativity, cultural knowledge, social understanding",
+    "estimated_human_difficulty": "4"
+}

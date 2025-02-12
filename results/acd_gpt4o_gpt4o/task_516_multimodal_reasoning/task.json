@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_reasoning",
+    "description_of_task": "Interpret and integrate information from both textual and visual inputs to solve given tasks.",
+    "capability_being_measured": "multimodal reasoning, comprehension, integration of text and images",
+    "estimated_human_difficulty": "4"
+}

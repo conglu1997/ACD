@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artwork_description_and_storytelling",
+    "description_of_task": "Describe a given artwork and create a story inspired by a given artwork.",
+    "capability_being_measured": "creativity, visual understanding, descriptive language",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_interpret_metaphors",
+    "description_of_task": "Generate metaphors based on given scenarios and interpret the meaning of existing metaphors.",
+    "capability_being_measured": "creativity, linguistic understanding",
+    "estimated_human_difficulty": "4"
+}

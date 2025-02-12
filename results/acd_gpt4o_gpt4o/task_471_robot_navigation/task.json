@@ -1,0 +1,6 @@
+{
+    "name_of_task": "robot_navigation",
+    "description_of_task": "Guide a robot through a grid-based maze from a start position to a goal position using a series of movement instructions.",
+    "capability_being_measured": "procedural reasoning, spatial reasoning, pathfinding",
+    "estimated_human_difficulty": "3"
+}

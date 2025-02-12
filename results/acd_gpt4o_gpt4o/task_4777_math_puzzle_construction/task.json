@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_puzzle_construction",
+    "description_of_task": "Construct a unique mathematical puzzle based on given constraints and provide its solution.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

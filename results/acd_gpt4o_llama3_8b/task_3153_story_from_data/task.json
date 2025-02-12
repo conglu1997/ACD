@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_from_data",
+    "description_of_task": "Generate coherent and engaging narratives based on provided structured data.",
+    "capability_being_measured": "data interpretation, creativity, narrative generation",
+    "estimated_human_difficulty": "3"
+}

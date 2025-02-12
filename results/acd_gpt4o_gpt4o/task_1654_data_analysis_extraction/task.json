@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_analysis_extraction",
+    "description_of_task": "Analyze a given dataset and extract specific insights or trends from the data.",
+    "capability_being_measured": "numerical reasoning, data interpretation, summarization",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_language_code_manipulation",
+    "description_of_task": "Read, understand, and modify code snippets in different programming languages based on specific requirements.",
+    "capability_being_measured": "programming knowledge, syntax familiarity, code comprehension",
+    "estimated_human_difficulty": "4"
+}

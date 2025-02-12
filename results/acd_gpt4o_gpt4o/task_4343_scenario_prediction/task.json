@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scenario_prediction",
+    "description_of_task": "Predict the outcome of a given real-world scenario based on provided variables and context.",
+    "capability_being_measured": "contextual understanding, logical reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "game_rules_creation_and_interpretation",
+    "description_of_task": "Create a detailed set of rules for a new game based on given requirements and interpret the rules of an existing game.",
+    "capability_being_measured": "logical reasoning, creativity, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

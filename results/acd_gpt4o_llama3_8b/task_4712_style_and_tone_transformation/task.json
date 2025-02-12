@@ -1,0 +1,6 @@
+{
+    "name_of_task": "style_and_tone_transformation",
+    "description_of_task": "Transform a given text to match a specified writing style and tone.",
+    "capability_being_measured": "contextual language transformation, stylistic adaptation, tone recognition",
+    "estimated_human_difficulty": "4"
+}

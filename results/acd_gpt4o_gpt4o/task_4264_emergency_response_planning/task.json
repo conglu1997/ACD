@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emergency_response_planning",
+    "description_of_task": "Plan and prioritize actions in emergency situations based on given scenarios.",
+    "capability_being_measured": "decision-making, prioritization, real-world knowledge, dynamic planning",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_generator",
+    "description_of_task": "Design an AI system capable of generating and evaluating novel scientific hypotheses across multiple disciplines, then use it to propose a groundbreaking interdisciplinary research project.",
+    "capability_being_measured": "interdisciplinary knowledge integration, scientific reasoning, creative problem-solving, and critical analysis",
+    "estimated_human_difficulty": "5"
+}

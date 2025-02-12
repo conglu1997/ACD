@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_analyze_persuasive_arguments",
+    "description_of_task": "Generate a persuasive argument for a given topic and analyze the persuasive techniques used in a given argument.",
+    "capability_being_measured": "persuasive writing, rhetorical analysis, critical thinking",
+    "estimated_human_difficulty": "4"
+}

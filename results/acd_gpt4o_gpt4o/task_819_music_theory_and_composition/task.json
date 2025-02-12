@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_and_composition",
+    "description_of_task": "Interpret given musical notations, generate musical scores, and create lyrics based on specified themes.",
+    "capability_being_measured": "musical understanding, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

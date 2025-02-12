@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algebraic_word_problems",
+    "description_of_task": "Generate and solve algebraic word problems based on given scenarios.",
+    "capability_being_measured": "mathematical reasoning, problem formulation, solution generation",
+    "estimated_human_difficulty": "4"
+}

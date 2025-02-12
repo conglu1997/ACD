@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation",
+    "description_of_task": "Generate a novel metaphor that compares a given abstract concept to a concrete object or experience.",
+    "capability_being_measured": "creative language use, abstract thinking, and conceptual mapping",
+    "estimated_human_difficulty": "4"
+}

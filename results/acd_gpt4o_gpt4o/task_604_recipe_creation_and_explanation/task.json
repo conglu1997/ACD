@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_explanation",
+    "description_of_task": "Generate a detailed recipe based on given constraints and explain the culinary techniques involved.",
+    "capability_being_measured": "creativity, culinary knowledge, procedural writing",
+    "estimated_human_difficulty": "4"
+}

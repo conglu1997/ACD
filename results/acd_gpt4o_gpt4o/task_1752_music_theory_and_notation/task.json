@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_and_notation",
+    "description_of_task": "Understand and generate musical notation and terminology based on given prompts.",
+    "capability_being_measured": "specialized knowledge, structured data generation, creativity",
+    "estimated_human_difficulty": "4"
+}

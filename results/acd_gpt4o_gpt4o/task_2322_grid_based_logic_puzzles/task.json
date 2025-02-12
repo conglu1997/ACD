@@ -1,0 +1,6 @@
+{
+    "name_of_task": "grid_based_logic_puzzles",
+    "description_of_task": "Solve and generate grid-based logic puzzles with specific constraints.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

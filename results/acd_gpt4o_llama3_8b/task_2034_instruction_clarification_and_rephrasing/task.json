@@ -1,0 +1,6 @@
+{
+    "name_of_task": "instruction_clarification_and_rephrasing",
+    "description_of_task": "Clarify and rephrase complex instructions to make them understandable to a layperson.",
+    "capability_being_measured": "natural language understanding and generation",
+    "estimated_human_difficulty": "3"
+}

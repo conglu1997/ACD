@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tower_of_hanoi_solver",
+    "description_of_task": "Generate a sequence of moves to solve the Tower of Hanoi puzzle.",
+    "capability_being_measured": "logical reasoning, procedural generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reenactment",
+    "description_of_task": "Recreate a detailed re-enactment of a given historical event, including dialogues and actions of historical figures.",
+    "capability_being_measured": "historical knowledge, contextual understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

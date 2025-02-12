@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation_hypothesis",
+    "description_of_task": "Explain scientific phenomena and generate plausible hypotheses based on given data.",
+    "capability_being_measured": "scientific knowledge, explanatory clarity, hypothesis generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_intelligence",
+    "description_of_task": "Identify emotions conveyed in a text or generate text to evoke specific emotions.",
+    "capability_being_measured": "emotional intelligence, comprehension, language generation",
+    "estimated_human_difficulty": "3"
+}

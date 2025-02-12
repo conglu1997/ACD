@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_recipe_creation",
+    "description_of_task": "Generate a recipe based on given ingredients, nutritional constraints, and user preferences, while interacting iteratively to refine the recipe.",
+    "capability_being_measured": "natural language understanding, structured data handling, creativity, iterative refinement",
+    "estimated_human_difficulty": "4"
+}

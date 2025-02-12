@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptographic_puzzles",
+    "description_of_task": "Decipher a message encoded with a simple substitution cipher, and encode a given message using a specified substitution cipher.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

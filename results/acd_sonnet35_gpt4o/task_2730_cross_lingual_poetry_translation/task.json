@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_lingual_poetry_translation",
+    "description_of_task": "Design and implement a system for automated poetry translation that preserves both semantic meaning and stylistic elements across languages.",
+    "capability_being_measured": "Understanding of linguistics, poetry, and machine translation principles; creative problem-solving; cultural sensitivity; and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

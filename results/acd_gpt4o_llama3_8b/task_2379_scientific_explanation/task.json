@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation",
+    "description_of_task": "Explain scientific phenomena or principles in layman's terms with real-world examples.",
+    "capability_being_measured": "scientific knowledge, comprehension, communication",
+    "estimated_human_difficulty": "3"
+}

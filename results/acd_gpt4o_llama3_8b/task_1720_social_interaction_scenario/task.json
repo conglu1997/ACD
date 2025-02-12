@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_interaction_scenario",
+    "description_of_task": "Generate a detailed social interaction scenario based on given prompts and analyze the emotional dynamics involved.",
+    "capability_being_measured": "empathy, emotional intelligence, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

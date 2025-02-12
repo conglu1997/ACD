@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphoric_narrative_generation",
+    "description_of_task": "Generate a creative narrative incorporating specific metaphors and idioms provided in the prompt.",
+    "capability_being_measured": "creative writing, language comprehension, abstract thinking",
+    "estimated_human_difficulty": "4"
+}

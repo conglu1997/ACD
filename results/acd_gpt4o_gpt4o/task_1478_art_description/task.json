@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_description",
+    "description_of_task": "Generate detailed descriptions of visual artworks, focusing on elements such as composition, color, form, and subject matter.",
+    "capability_being_measured": "creativity, comprehension, descriptive ability",
+    "estimated_human_difficulty": "4"
+}

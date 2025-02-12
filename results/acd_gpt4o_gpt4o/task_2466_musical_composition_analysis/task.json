@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_analysis",
+    "description_of_task": "Analyze given musical compositions and suggest improvements or modifications based on specific criteria.",
+    "capability_being_measured": "musical knowledge, creativity, analytical skills",
+    "estimated_human_difficulty": "4"
+}

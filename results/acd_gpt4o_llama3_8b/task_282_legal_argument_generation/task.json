@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argument_generation",
+    "description_of_task": "Generate a legal argument based on a given legal scenario.",
+    "capability_being_measured": "legal reasoning, persuasive writing, and logical structuring",
+    "estimated_human_difficulty": "5"
+}

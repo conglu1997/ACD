@@ -1,0 +1,6 @@
+{
+    "name_of_task": "schema_based_language_generation",
+    "description_of_task": "Design and implement cognitive schemas for specific domains, then use them to generate and analyze language in those contexts.",
+    "capability_being_measured": "abstract reasoning, contextual understanding, and creative application of cognitive science concepts to language processing",
+    "estimated_human_difficulty": "5"
+}

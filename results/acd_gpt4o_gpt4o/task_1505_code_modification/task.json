@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_modification",
+    "description_of_task": "Modify given code snippets to meet specified requirements while ensuring the code remains functional and efficient.",
+    "capability_being_measured": "programming skills, code comprehension, problem solving",
+    "estimated_human_difficulty": "4"
+}

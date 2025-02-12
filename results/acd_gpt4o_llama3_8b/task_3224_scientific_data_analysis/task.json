@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_data_analysis",
+    "description_of_task": "Analyze a given dataset and provide insights or conclusions based on the data.",
+    "capability_being_measured": "data interpretation, analytical reasoning, scientific understanding",
+    "estimated_human_difficulty": "4"
+}

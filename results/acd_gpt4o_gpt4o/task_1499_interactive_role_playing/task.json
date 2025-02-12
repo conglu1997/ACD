@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_role_playing",
+    "description_of_task": "Engage in a multi-turn role-playing conversation based on a given scenario and character, maintaining coherence and contextual appropriateness throughout the dialogue.",
+    "capability_being_measured": "conversational coherence, role-playing consistency, context understanding",
+    "estimated_human_difficulty": "4"
+}

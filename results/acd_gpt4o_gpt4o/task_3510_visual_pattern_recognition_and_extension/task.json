@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_recognition_and_extension",
+    "description_of_task": "Recognize patterns in a sequence of shapes and extend the sequence logically.",
+    "capability_being_measured": "visual-spatial reasoning, pattern recognition, logical thinking",
+    "estimated_human_difficulty": "4"
+}

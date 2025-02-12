@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation",
+    "description_of_task": "Draft legal arguments for both the plaintiff and the defendant based on a given legal scenario.",
+    "capability_being_measured": "legal reasoning, comprehension, logical argumentation, language generation",
+    "estimated_human_difficulty": "5"
+}

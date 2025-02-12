@@ -1,0 +1,6 @@
+{
+    "name_of_task": "bilingual_narrative_generation",
+    "description_of_task": "Generate a coherent and engaging narrative that alternates between two specified languages in each paragraph.",
+    "capability_being_measured": "multilingual proficiency, translation accuracy, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

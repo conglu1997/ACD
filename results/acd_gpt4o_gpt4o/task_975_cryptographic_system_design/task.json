@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptographic_system_design",
+    "description_of_task": "Design a secure cryptographic system based on given requirements and analyze the security of provided cryptographic systems.",
+    "capability_being_measured": "technical knowledge, logical reasoning, creativity",
+    "estimated_human_difficulty": "5"
+}

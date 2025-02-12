@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis_prediction",
+    "description_of_task": "Analyze historical events and predict potential outcomes based on hypothetical scenarios.",
+    "capability_being_measured": "historical reasoning, synthesis of information, prediction",
+    "estimated_human_difficulty": "4"
+}

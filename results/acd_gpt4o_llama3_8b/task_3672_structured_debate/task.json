@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_debate",
+    "description_of_task": "Engage in a structured debate by presenting arguments for or against a given proposition, including counterarguments and rebuttals.",
+    "capability_being_measured": "reasoning, argumentation, logical consistency",
+    "estimated_human_difficulty": "4"
+}

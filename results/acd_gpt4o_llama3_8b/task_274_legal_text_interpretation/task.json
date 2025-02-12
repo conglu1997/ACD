@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_interpretation",
+    "description_of_task": "Interpret and extract information from given legal texts or scenarios.",
+    "capability_being_measured": "legal knowledge, natural language understanding, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

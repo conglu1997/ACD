@@ -1,0 +1,6 @@
+{
+    "name_of_task": "philosophical_logic_translation",
+    "description_of_task": "Translate philosophical arguments into formal logic and use that logic to construct novel arguments",
+    "capability_being_measured": "abstract reasoning, logical manipulation, and creative application of philosophical concepts",
+    "estimated_human_difficulty": "5"
+}

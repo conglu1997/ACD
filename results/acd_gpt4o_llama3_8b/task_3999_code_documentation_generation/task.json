@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_documentation_generation",
+    "description_of_task": "Generate user-friendly documentation for a given piece of code, explaining its purpose, functionality, and usage.",
+    "capability_being_measured": "technical understanding and communication",
+    "estimated_human_difficulty": "4"
+}

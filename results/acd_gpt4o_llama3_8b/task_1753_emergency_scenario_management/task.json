@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emergency_scenario_management",
+    "description_of_task": "Manage a fictional emergency scenario by making real-time decisions based on evolving information.",
+    "capability_being_measured": "real-time decision-making, adaptability, reasoning",
+    "estimated_human_difficulty": "5"
+}

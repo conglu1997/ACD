@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_procedural_instructions",
+    "description_of_task": "Generate detailed step-by-step instructions for completing a given task or process.",
+    "capability_being_measured": "procedural knowledge, attention to detail, clarity of communication",
+    "estimated_human_difficulty": "3"
+}

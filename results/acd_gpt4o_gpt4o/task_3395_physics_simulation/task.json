@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_simulation",
+    "description_of_task": "Simulate and predict the outcomes of physical scenarios based on given initial conditions.",
+    "capability_being_measured": "physics understanding, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

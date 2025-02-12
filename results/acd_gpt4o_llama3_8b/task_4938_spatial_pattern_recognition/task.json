@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_pattern_recognition",
+    "description_of_task": "Identify the missing element in a sequence of spatial patterns by analyzing the given patterns and deducing the logical progression.",
+    "capability_being_measured": "spatial reasoning, logical problem-solving",
+    "estimated_human_difficulty": "4"
+}

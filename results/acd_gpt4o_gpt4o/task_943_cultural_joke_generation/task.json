@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_joke_generation",
+    "description_of_task": "Generate jokes that are culturally relevant to a specified context.",
+    "capability_being_measured": "cultural knowledge, creativity, social understanding",
+    "estimated_human_difficulty": "4"
+}

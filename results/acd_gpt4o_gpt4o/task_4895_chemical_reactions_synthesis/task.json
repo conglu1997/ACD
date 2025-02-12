@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chemical_reactions_synthesis",
+    "description_of_task": "Predict the outcomes of given chemical reactions and design new chemical reactions for specific purposes.",
+    "capability_being_measured": "technical knowledge, problem-solving, creativity",
+    "estimated_human_difficulty": "5"
+}

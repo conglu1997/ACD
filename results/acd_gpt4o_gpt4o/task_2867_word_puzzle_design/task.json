@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_puzzle_design",
+    "description_of_task": "Create a word puzzle (such as a crossword clue, anagram, or word search) based on given words or themes.",
+    "capability_being_measured": "linguistic creativity, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

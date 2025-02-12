@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_explanation",
+    "description_of_task": "Generate a poem based on a given theme and structure, and explain the choice of poetic devices used.",
+    "capability_being_measured": "creativity, linguistic finesse, understanding of poetic structures",
+    "estimated_human_difficulty": "4"
+}

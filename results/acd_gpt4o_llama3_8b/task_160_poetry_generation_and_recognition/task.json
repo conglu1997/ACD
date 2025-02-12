@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_recognition",
+    "description_of_task": "Generate a poem based on a given theme and recognize the poetic elements in a given text.",
+    "capability_being_measured": "creativity, language understanding, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

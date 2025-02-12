@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_spatial_reasoning",
+    "description_of_task": "Create and manipulate mental models based on linguistic descriptions of spatial relationships, then use these models to solve problems within a time constraint while considering potential errors.",
+    "capability_being_measured": "spatial reasoning, working memory, language comprehension, problem-solving, time management, and error analysis",
+    "estimated_human_difficulty": "5"
+}

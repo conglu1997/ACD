@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algebraic_equation_problem_solving",
+    "description_of_task": "Generate algebraic equations based on given constraints and solve provided algebraic equations.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, algebra",
+    "estimated_human_difficulty": "3"
+}

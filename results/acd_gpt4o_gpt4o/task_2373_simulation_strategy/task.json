@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simulation_strategy",
+    "description_of_task": "Make strategic decisions in a simulated environment to achieve specified goals.",
+    "capability_being_measured": "strategic planning, decision-making, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

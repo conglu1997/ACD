@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mind_map_generation_and_interpretation",
+    "description_of_task": "Create a mind map from a given topic and interpret an existing mind map to generate a coherent summary or explanation.",
+    "capability_being_measured": "structured thinking, spatial reasoning, summarization",
+    "estimated_human_difficulty": "4"
+}

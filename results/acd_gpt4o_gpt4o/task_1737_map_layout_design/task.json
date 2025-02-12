@@ -1,0 +1,6 @@
+{
+    "name_of_task": "map_layout_design",
+    "description_of_task": "Design a map layout based on given textual descriptions of an environment.",
+    "capability_being_measured": "spatial reasoning, visual thinking, descriptive interpretation",
+    "estimated_human_difficulty": "4"
+}

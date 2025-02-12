@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Compose a short piece of music based on given constraints, including specific musical elements or themes.",
+    "capability_being_measured": "musical understanding, creativity, adherence to constraints",
+    "estimated_human_difficulty": "4"
+}

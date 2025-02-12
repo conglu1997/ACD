@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis",
+    "description_of_task": "Generate and evaluate scientific hypotheses based on given experimental data or observations.",
+    "capability_being_measured": "scientific reasoning, hypothesis generation, data analysis",
+    "estimated_human_difficulty": "4"
+}

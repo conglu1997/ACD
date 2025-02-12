@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_timeline_generation",
+    "description_of_task": "Generate a chronological timeline of events related to a given historical topic.",
+    "capability_being_measured": "historical knowledge, chronological reasoning, cross-referencing",
+    "estimated_human_difficulty": "3"
+}

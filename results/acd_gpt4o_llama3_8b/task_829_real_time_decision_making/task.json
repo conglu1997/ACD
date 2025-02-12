@@ -1,0 +1,6 @@
+{
+    "name_of_task": "real_time_decision_making",
+    "description_of_task": "Make decisions in real-time scenarios involving prioritization and resource allocation under constraints.",
+    "capability_being_measured": "real-time decision-making, prioritization, resource management",
+    "estimated_human_difficulty": "4"
+}

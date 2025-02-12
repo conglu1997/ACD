@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis_synthesis",
+    "description_of_task": "Analyze specific historical events and draw connections between related events, providing coherent analyses and comparisons.",
+    "capability_being_measured": "historical knowledge, reasoning, synthesis, language processing",
+    "estimated_human_difficulty": "4"
+}

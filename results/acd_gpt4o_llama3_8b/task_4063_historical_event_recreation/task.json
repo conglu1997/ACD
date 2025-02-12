@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_recreation",
+    "description_of_task": "Recreate a historical event by providing a detailed narrative and explaining its significance, including key figures and outcomes.",
+    "capability_being_measured": "historical knowledge, narrative skills, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

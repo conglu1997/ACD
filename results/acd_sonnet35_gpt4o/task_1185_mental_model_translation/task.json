@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mental_model_translation",
+    "description_of_task": "Translate mental models between different domains, analyzing the implications and creating novel insights",
+    "capability_being_measured": "abstract reasoning, cross-domain knowledge transfer, and creative problem-solving",
+    "estimated_human_difficulty": "5"
+}

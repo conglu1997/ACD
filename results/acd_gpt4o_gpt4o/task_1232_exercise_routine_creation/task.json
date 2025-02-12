@@ -1,0 +1,6 @@
+{
+    "name_of_task": "exercise_routine_creation",
+    "description_of_task": "Create an exercise routine tailored to a specific fitness goal and explain the benefits of each exercise included.",
+    "capability_being_measured": "knowledge, understanding of fitness principles, ability to create structured routines",
+    "estimated_human_difficulty": "3"
+}

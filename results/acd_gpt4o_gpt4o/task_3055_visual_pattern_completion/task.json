@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_completion",
+    "description_of_task": "Complete a visual pattern based on a series of textual descriptions.",
+    "capability_being_measured": "spatial reasoning, visual imagination, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

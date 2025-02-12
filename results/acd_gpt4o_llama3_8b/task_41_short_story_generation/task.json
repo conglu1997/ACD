@@ -1,0 +1,6 @@
+{
+    "name_of_task": "short_story_generation",
+    "description_of_task": "Generate a fictional short story based on given constraints such as characters, settings, and themes.",
+    "capability_being_measured": "creativity, narrative skills, constraint-following",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_and_lyrics",
+    "description_of_task": "Generate lyrics based on given themes and create simple musical compositions.",
+    "capability_being_measured": "creativity, understanding of lyrical structure, basic musical knowledge",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering_challenge",
+    "description_of_task": "Infer the underlying mechanism or structure of a given system based on its behavior or output.",
+    "capability_being_measured": "logical reasoning, creativity, technical understanding",
+    "estimated_human_difficulty": "5"
+}

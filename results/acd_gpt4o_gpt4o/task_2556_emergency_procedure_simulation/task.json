@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emergency_procedure_simulation",
+    "description_of_task": "Simulate a step-by-step emergency procedure based on a given scenario, ensuring all critical steps are followed accurately.",
+    "capability_being_measured": "procedural knowledge, attention to detail, clarity of communication",
+    "estimated_human_difficulty": "4"
+}

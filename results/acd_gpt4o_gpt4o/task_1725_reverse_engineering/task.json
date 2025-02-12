@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering",
+    "description_of_task": "Deduce the underlying rules or structure of a system based on given outputs.",
+    "capability_being_measured": "analytical reasoning, inferential reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

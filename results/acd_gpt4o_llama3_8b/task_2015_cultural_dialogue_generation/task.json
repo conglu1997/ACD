@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_dialogue_generation",
+    "description_of_task": "Generate dialogues that reflect specific cultural norms, behaviors, and contexts based on given scenarios.",
+    "capability_being_measured": "social understanding, cultural awareness, dialogue generation",
+    "estimated_human_difficulty": "4"
+}

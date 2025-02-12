@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_troubleshooting",
+    "description_of_task": "Diagnose and troubleshoot simulated technical issues based on given scenarios.",
+    "capability_being_measured": "problem-solving, analytical reasoning, technical knowledge",
+    "estimated_human_difficulty": "4"
+}

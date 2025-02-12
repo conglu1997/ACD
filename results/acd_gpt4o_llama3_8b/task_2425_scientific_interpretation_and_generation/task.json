@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_interpretation_and_generation",
+    "description_of_task": "Interpret given scientific phenomena and generate clear, accurate explanations or related content.",
+    "capability_being_measured": "scientific knowledge, explanatory skills, creativity",
+    "estimated_human_difficulty": "4"
+}

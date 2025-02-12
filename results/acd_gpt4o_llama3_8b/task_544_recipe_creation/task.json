@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation",
+    "description_of_task": "Create a simple recipe from a given list of ingredients.",
+    "capability_being_measured": "procedural reasoning and comprehension",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_scene_description",
+    "description_of_task": "Generate or interpret textual descriptions of visual scenes to answer questions about spatial relationships.",
+    "capability_being_measured": "visual and spatial reasoning, language understanding",
+    "estimated_human_difficulty": "3"
+}

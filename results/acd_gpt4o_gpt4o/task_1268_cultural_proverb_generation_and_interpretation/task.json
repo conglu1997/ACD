@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_proverb_generation_and_interpretation",
+    "description_of_task": "Interpret the meaning and cultural context of given proverbs and generate culturally relevant proverbs based on given themes.",
+    "capability_being_measured": "cultural knowledge, linguistic understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

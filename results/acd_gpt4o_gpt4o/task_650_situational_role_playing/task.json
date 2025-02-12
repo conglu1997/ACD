@@ -1,0 +1,6 @@
+{
+    "name_of_task": "situational_role_playing",
+    "description_of_task": "Engage in a role-playing scenario where the agent must navigate a social or professional situation, demonstrating empathy, decision-making, and adaptability.",
+    "capability_being_measured": "context understanding, emotional intelligence, adaptability",
+    "estimated_human_difficulty": "4"
+}

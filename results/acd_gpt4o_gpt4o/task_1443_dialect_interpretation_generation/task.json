@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialect_interpretation_generation",
+    "description_of_task": "Interpret text written in a specific English dialect and generate text in that dialect.",
+    "capability_being_measured": "linguistic adaptability, creativity, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

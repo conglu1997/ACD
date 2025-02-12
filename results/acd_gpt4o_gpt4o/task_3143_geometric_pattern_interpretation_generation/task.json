@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_pattern_interpretation_generation",
+    "description_of_task": "Interpret descriptions of geometric patterns and generate new patterns based on given descriptions.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive skills, creativity",
+    "estimated_human_difficulty": "4"
+}

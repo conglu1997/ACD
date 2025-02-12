@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_creative_writing",
+    "description_of_task": "Write a creative short story that adheres to specific constraints given in the instructions.",
+    "capability_being_measured": "creativity, language generation, adherence to constraints",
+    "estimated_human_difficulty": "3"
+}

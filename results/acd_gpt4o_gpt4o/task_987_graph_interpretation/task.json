@@ -1,0 +1,6 @@
+{
+    "name_of_task": "graph_interpretation",
+    "description_of_task": "Interpret information from a provided graph data and answer specific questions about it.",
+    "capability_being_measured": "data analysis, interpretation, reasoning",
+    "estimated_human_difficulty": "3"
+}

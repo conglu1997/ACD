@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_understanding_generation",
+    "description_of_task": "Understand a given piece of code and generate new code to solve a specified problem.",
+    "capability_being_measured": "programming skills, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

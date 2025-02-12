@@ -1,0 +1,6 @@
+{
+    "name_of_task": "contextual_humor_generation",
+    "description_of_task": "Generate a humorous response based on a given context and specified elements.",
+    "capability_being_measured": "contextual understanding, creativity, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

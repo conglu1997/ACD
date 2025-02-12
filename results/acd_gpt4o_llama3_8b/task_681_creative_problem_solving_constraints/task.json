@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_problem_solving_constraints",
+    "description_of_task": "Generate creative solutions to given problems while adhering to a set of specific constraints.",
+    "capability_being_measured": "creativity and constraint adherence",
+    "estimated_human_difficulty": "4"
+}

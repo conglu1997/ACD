@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_activity_instruction",
+    "description_of_task": "Generate clear and detailed instructions for completing a specified physical activity.",
+    "capability_being_measured": "procedural knowledge, clarity of explanation, sequential reasoning",
+    "estimated_human_difficulty": "3"
+}

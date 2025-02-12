@@ -1,0 +1,6 @@
+{
+    "name_of_task": "basic_cryptography",
+    "description_of_task": "Encrypt and decrypt messages using basic cryptographic ciphers like Caesar cipher and Vigen\u00e8re cipher.",
+    "capability_being_measured": "logical reasoning, data manipulation, understanding of cryptographic concepts",
+    "estimated_human_difficulty": "3"
+}

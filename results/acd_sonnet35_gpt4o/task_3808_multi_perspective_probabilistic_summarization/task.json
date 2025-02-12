@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_perspective_probabilistic_summarization",
+    "description_of_task": "Summarize text from multiple perspectives, assigning probabilities to each perspective, and randomly select an 'observed' summary based on these probabilities.",
+    "capability_being_measured": "multi-perspective analysis, probabilistic reasoning, text summarization, and understanding of random selection based on probabilities",
+    "estimated_human_difficulty": "4"
+}

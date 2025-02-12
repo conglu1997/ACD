@@ -1,0 +1,6 @@
+{
+    "name_of_task": "symbolic_logic_puzzle_creation",
+    "description_of_task": "Create and solve a complex symbolic logic puzzle based on a given formal system, then extend the system to incorporate a paradox",
+    "capability_being_measured": "abstract reasoning, logical problem-solving, creativity in formal systems",
+    "estimated_human_difficulty": "5"
+}

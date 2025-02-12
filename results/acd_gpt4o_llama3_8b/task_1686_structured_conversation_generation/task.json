@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_conversation_generation",
+    "description_of_task": "Generate a structured conversation or interview based on provided prompts and characters. Ensure the dialogue is coherent, engaging, and contextually appropriate.",
+    "capability_being_measured": "conversational understanding, coherence, context maintenance",
+    "estimated_human_difficulty": "3"
+}

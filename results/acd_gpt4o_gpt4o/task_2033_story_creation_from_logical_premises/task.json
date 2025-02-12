@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_creation_from_logical_premises",
+    "description_of_task": "Create short stories based on a set of logical premises provided.",
+    "capability_being_measured": "creativity, logical reasoning, narrative skills",
+    "estimated_human_difficulty": "4"
+}

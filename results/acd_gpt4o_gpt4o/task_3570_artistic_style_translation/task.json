@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artistic_style_translation",
+    "description_of_task": "Interpret a given scenario and rewrite it in the style of a famous author or artist.",
+    "capability_being_measured": "creativity, linguistic adaptability, stylistic understanding",
+    "estimated_human_difficulty": "4"
+}

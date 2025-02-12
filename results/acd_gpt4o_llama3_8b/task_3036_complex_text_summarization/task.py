@@ -1,0 +1,19 @@
+class TaskFamily:
+    @staticmethod
+    def get_tasks() -> dict[str, dict]:
+        return {
+            "1": {"text": "The rapid advancements in artificial intelligence (AI) have led to significant breakthroughs in various fields, including healthcare, finance, and transportation. AI algorithms are now capable of diagnosing diseases with high accuracy, predicting stock market trends, and optimizing traffic flow in real-time. However, these advancements also raise ethical concerns about privacy, security, and the potential loss of jobs due to automation. As AI continues to evolve, it is essential to find a balance between leveraging its benefits and addressing its challenges. In healthcare, AI has the potential to revolutionize patient care by providing personalized treatment plans and predictive analytics. Nevertheless, the integration of AI in healthcare must be approached with caution to ensure patient privacy and data security. In finance, AI-driven algorithms can analyze vast amounts of data to identify market trends and make investment recommendations. Yet, the reliance on AI in financial decision-making raises questions about accountability and transparency. In transportation, AI technologies such as self-driving cars promise to reduce traffic accidents and improve fuel efficiency. Despite these benefits, the widespread adoption of autonomous vehicles faces obstacles, including regulatory hurdles and public acceptance. Overall, the future of AI holds great promise, but it is crucial to address the accompanying ethical and societal challenges to fully realize its potential."},
+            "2": {"text": "Climate change is one of the most pressing issues of our time. It is caused by the increase in greenhouse gases in the atmosphere, primarily due to human activities such as burning fossil fuels, deforestation, and industrial processes. The consequences of climate change include rising sea levels, more frequent and severe weather events, and disruptions to ecosystems. Tackling climate change requires global cooperation, significant policy changes, and the adoption of sustainable practices to reduce greenhouse gas emissions. International agreements, such as the Paris Agreement, aim to unite countries in their efforts to combat climate change by setting targets for reducing emissions and promoting renewable energy sources. However, progress has been slow, and many countries struggle to meet their commitments. In addition to governmental action, individual and community efforts play a crucial role in addressing climate change. Simple actions such as reducing energy consumption, recycling, and supporting sustainable products can collectively make a significant impact. Moreover, advancements in technology, such as the development of electric vehicles and renewable energy sources, provide promising solutions to reduce our carbon footprint. Despite these efforts, the challenge of climate change remains daunting, and it requires a concerted effort from all sectors of society to mitigate its effects and ensure a sustainable future for generations to come."}
+        }
+
+    @staticmethod
+    def get_instructions(t: dict) -> str:
+        text = t["text"]
+        return f"""Read the following passage and provide a concise and coherent summary of its main points:\n\n{text}\n\nSubmit your summary as a plain text string in the following format:\n\nSummary: [Your summary]"""
+
+    @staticmethod
+    def score(t: dict, submission: str) -> float | None:
+        from src.eval_helper import eval_with_llm_judge
+        instructions = TaskFamily.get_instructions(t)
+        criteria = ["The summary should accurately capture the main points of the passage.", "The summary should be concise and coherent."]
+        return 1.0 if eval_with_llm_judge(instructions, submission, criteria) else 0.0

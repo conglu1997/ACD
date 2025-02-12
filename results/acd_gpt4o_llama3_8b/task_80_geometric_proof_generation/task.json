@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_proof_generation",
+    "description_of_task": "Generate a geometric proof based on a given theorem or problem statement.",
+    "capability_being_measured": "logical reasoning, mathematical knowledge, and spatial understanding",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cause_effect_reasoning",
+    "description_of_task": "Identify the cause or effect given a scenario and generate a plausible scenario given a cause or effect.",
+    "capability_being_measured": "logical reasoning, comprehension, scenario generation",
+    "estimated_human_difficulty": "3"
+}

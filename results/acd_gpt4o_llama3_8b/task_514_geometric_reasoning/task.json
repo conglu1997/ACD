@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_reasoning",
+    "description_of_task": "Solve geometric problems involving shapes, measurements, and properties.",
+    "capability_being_measured": "logical reasoning, pattern recognition, mathematical knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_proverb_generation",
+    "description_of_task": "Interpret given proverbs and idioms from various cultures and generate new ones that fit specified cultural contexts.",
+    "capability_being_measured": "cultural understanding, language generation, creativity",
+    "estimated_human_difficulty": "3"
+}

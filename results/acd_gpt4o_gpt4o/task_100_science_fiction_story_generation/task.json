@@ -1,0 +1,6 @@
+{
+    "name_of_task": "science_fiction_story_generation",
+    "description_of_task": "Generate a short science fiction story based on a given scientific principle or phenomenon.",
+    "capability_being_measured": "knowledge, creativity, scientific understanding",
+    "estimated_human_difficulty": "4"
+}

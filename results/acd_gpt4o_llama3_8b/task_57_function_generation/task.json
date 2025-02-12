@@ -1,0 +1,6 @@
+{
+    "name_of_task": "function_generation",
+    "description_of_task": "Write a Python function to solve a given problem, adhering to specified constraints.",
+    "capability_being_measured": "programming, logical reasoning, syntax generation",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis",
+    "description_of_task": "Analyze historical events, draw comparisons, and provide insights based on given prompts.",
+    "capability_being_measured": "historical reasoning, synthesis, analytical skills",
+    "estimated_human_difficulty": "4"
+}

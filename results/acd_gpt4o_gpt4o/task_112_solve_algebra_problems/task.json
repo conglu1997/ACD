@@ -1,0 +1,6 @@
+{
+    "name_of_task": "solve_algebra_problems",
+    "description_of_task": "Solve algebraic equations and provide detailed step-by-step solutions.",
+    "capability_being_measured": "algebraic reasoning, symbolic manipulation, mathematical problem-solving",
+    "estimated_human_difficulty": "4"
+}

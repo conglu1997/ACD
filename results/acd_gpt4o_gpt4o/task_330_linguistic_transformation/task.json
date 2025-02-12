@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_transformation",
+    "description_of_task": "Transform given sentences based on specified linguistic rules or constraints.",
+    "capability_being_measured": "syntactic and semantic understanding, linguistic manipulation",
+    "estimated_human_difficulty": "4"
+}

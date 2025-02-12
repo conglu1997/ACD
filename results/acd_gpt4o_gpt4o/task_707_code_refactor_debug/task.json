@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_refactor_debug",
+    "description_of_task": "Refactor and debug provided code snippets to improve efficiency or correct errors.",
+    "capability_being_measured": "code comprehension, problem-solving, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

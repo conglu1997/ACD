@@ -1,0 +1,6 @@
+{
+    "name_of_task": "embodied_metaphor_robotics",
+    "description_of_task": "Design a robotic system that learns and generates novel metaphors based on its physical interactions with the environment, then use it to solve abstract reasoning tasks.",
+    "capability_being_measured": "interdisciplinary knowledge integration, creative problem-solving, understanding of embodied cognition, linguistics, and robotics",
+    "estimated_human_difficulty": "5"
+}

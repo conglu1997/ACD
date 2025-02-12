@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_chord_identification_and_generation",
+    "description_of_task": "Interpret given musical chords and generate new chords based on specified criteria.",
+    "capability_being_measured": "music theory knowledge, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_reasoning",
+    "description_of_task": "Generate scientific hypotheses based on given phenomena and explain the reasoning behind them.",
+    "capability_being_measured": "scientific reasoning, hypothesis generation, and explanatory skills",
+    "estimated_human_difficulty": "4"
+}

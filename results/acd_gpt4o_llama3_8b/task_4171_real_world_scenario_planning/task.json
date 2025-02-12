@@ -1,0 +1,6 @@
+{
+    "name_of_task": "real_world_scenario_planning",
+    "description_of_task": "Plan and make decisions for real-world scenarios based on given constraints and objectives.",
+    "capability_being_measured": "practical reasoning, decision-making, real-world knowledge",
+    "estimated_human_difficulty": "4"
+}

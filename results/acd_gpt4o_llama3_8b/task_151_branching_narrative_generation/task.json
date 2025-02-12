@@ -1,0 +1,6 @@
+{
+    "name_of_task": "branching_narrative_generation",
+    "description_of_task": "Generate a branching narrative based on a given starting point and constraints.",
+    "capability_being_measured": "creativity, logical reasoning, structured information generation",
+    "estimated_human_difficulty": "4"
+}

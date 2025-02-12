@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_sequence_generation",
+    "description_of_task": "Generate and continue logical sequences based on given patterns.",
+    "capability_being_measured": "logical reasoning, pattern recognition, sequence generation",
+    "estimated_human_difficulty": "4"
+}

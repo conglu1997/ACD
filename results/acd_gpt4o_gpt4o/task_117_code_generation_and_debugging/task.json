@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_debugging",
+    "description_of_task": "Generate code snippets for given problems and debug existing code with errors.",
+    "capability_being_measured": "programming skills, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

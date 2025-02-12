@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_transformation",
+    "description_of_task": "Transform a given poem from one form or style to another while retaining its core meaning and emotional impact.",
+    "capability_being_measured": "creative language manipulation, understanding of poetic forms, linguistic creativity",
+    "estimated_human_difficulty": "4"
+}

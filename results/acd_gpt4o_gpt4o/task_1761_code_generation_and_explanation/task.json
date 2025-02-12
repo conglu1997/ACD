@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_explanation",
+    "description_of_task": "Generate a piece of code based on a given problem description and then provide a detailed explanation of the code.",
+    "capability_being_measured": "programming, logical reasoning, technical communication",
+    "estimated_human_difficulty": "4"
+}

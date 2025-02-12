@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_refactoring",
+    "description_of_task": "Refactor the given code to improve its efficiency.",
+    "capability_being_measured": "coding, problem-solving, efficiency",
+    "estimated_human_difficulty": "4"
+}

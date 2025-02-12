@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_story_creation",
+    "description_of_task": "Create an interactive story based on iterative prompts, maintaining narrative consistency and creativity.",
+    "capability_being_measured": "creativity, coherence, narrative consistency",
+    "estimated_human_difficulty": "3"
+}

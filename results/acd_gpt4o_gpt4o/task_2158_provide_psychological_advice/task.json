@@ -1,0 +1,6 @@
+{
+    "name_of_task": "provide_psychological_advice",
+    "description_of_task": "Provide psychological advice or support based on a given scenario.",
+    "capability_being_measured": "empathy, understanding human emotions, counseling skills, appropriateness of advice",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "syllogism_logic",
+    "description_of_task": "Generate a valid conclusion from given premises and assess the validity of given syllogisms.",
+    "capability_being_measured": "logical reasoning, comprehension",
+    "estimated_human_difficulty": "3"
+}

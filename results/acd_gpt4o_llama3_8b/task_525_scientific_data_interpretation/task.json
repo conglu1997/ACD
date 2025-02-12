@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_data_interpretation",
+    "description_of_task": "Interpret experimental data and generate plausible scientific hypotheses or conclusions based on that data.",
+    "capability_being_measured": "scientific reasoning, data analysis, hypothesis generation",
+    "estimated_human_difficulty": "4"
+}

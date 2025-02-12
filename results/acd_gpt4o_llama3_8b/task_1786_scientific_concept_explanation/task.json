@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_concept_explanation",
+    "description_of_task": "Explain a given scientific concept in simple terms and answer detailed questions about specific scientific phenomena.",
+    "capability_being_measured": "scientific knowledge, explanatory skills, communication",
+    "estimated_human_difficulty": "4"
+}

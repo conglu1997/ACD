@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_fallacy_generation_and_identification",
+    "description_of_task": "Generate examples of logical fallacies based on given prompts and identify logical fallacies in provided arguments.",
+    "capability_being_measured": "logical reasoning, critical thinking, language generation",
+    "estimated_human_difficulty": "4"
+}

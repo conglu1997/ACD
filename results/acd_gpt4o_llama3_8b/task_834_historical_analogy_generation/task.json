@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analogy_generation",
+    "description_of_task": "Generate historical analogies by comparing given historical events or periods with other events or periods that share similar characteristics.",
+    "capability_being_measured": "historical knowledge, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

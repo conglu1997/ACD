@@ -1,0 +1,6 @@
+{
+    "name_of_task": "magic_square_creation_and_solution",
+    "description_of_task": "Create and solve a 3x3 magic square, where the sum of numbers in each row, column, and diagonal must be the same.",
+    "capability_being_measured": "mathematical reasoning and problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_symptom_analysis",
+    "description_of_task": "Provide medical advice based on given symptoms, including potential diagnoses and recommended actions.",
+    "capability_being_measured": "medical knowledge, reasoning, safety and ethical considerations",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptography_security",
+    "description_of_task": "Explain and implement cryptographic algorithms, and analyze security scenarios.",
+    "capability_being_measured": "technical knowledge, logical structuring, practical application",
+    "estimated_human_difficulty": "5"
+}

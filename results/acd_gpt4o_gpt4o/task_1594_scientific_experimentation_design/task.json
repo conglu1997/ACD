@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experimentation_design",
+    "description_of_task": "Design a scientific experiment based on given hypotheses and variables, including considering potential confounding variables, control groups, replication, and sample size.",
+    "capability_being_measured": "scientific reasoning, critical thinking, structured language generation",
+    "estimated_human_difficulty": "4"
+}

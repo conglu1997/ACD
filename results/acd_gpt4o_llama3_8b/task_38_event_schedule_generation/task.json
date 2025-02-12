@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_schedule_generation",
+    "description_of_task": "Generate a detailed event schedule based on given activities, times, and constraints.",
+    "capability_being_measured": "time management, constraint satisfaction, logical sequencing",
+    "estimated_human_difficulty": "4"
+}

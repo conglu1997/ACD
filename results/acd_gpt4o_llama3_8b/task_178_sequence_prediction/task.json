@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sequence_prediction",
+    "description_of_task": "Predict the outcome of a given sequence of events based on the provided context.",
+    "capability_being_measured": "temporal reasoning, prediction, creativity",
+    "estimated_human_difficulty": "3"
+}

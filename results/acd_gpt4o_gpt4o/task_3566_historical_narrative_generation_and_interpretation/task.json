@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_narrative_generation_and_interpretation",
+    "description_of_task": "Generate and interpret historical narratives to assess historical knowledge, temporal reasoning, and contextual understanding.",
+    "capability_being_measured": "historical knowledge, temporal reasoning, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

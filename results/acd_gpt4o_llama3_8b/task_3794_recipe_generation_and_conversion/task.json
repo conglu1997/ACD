@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation_and_conversion",
+    "description_of_task": "Convert a list of ingredients into a detailed recipe and convert a detailed recipe into a list of ingredients.",
+    "capability_being_measured": "procedural knowledge, clarity of communication, attention to detail",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_composition",
+    "description_of_task": "Generate musical scales and compose simple melodies based on given parameters.",
+    "capability_being_measured": "music theory knowledge, pattern recognition, creativity",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "furniture_arrangement_optimization",
+    "description_of_task": "Optimize the arrangement of furniture within a given room's dimensions, ensuring functionality and aesthetic appeal.",
+    "capability_being_measured": "spatial reasoning, practical knowledge application, creative problem-solving",
+    "estimated_human_difficulty": "4"
+}

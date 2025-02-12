@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_analysis",
+    "description_of_task": "Analyze a short piece of literature and generate a summary along with a thematic analysis.",
+    "capability_being_measured": "comprehension, reasoning, articulation",
+    "estimated_human_difficulty": "3"
+}

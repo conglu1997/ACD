@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_generation",
+    "description_of_task": "Generate a pun based on a given prompt, demonstrating understanding of wordplay and humor.",
+    "capability_being_measured": "creativity, linguistic flexibility, humor understanding",
+    "estimated_human_difficulty": "3"
+}

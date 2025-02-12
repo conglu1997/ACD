@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_strategy_simulator",
+    "description_of_task": "Analyze historical events, propose alternative strategies using game theory principles, and predict outcomes in counterfactual scenarios",
+    "capability_being_measured": "historical knowledge, strategic reasoning, game theory application, and counterfactual analysis",
+    "estimated_human_difficulty": "5"
+}

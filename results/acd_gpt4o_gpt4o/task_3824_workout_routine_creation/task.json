@@ -1,0 +1,6 @@
+{
+    "name_of_task": "workout_routine_creation",
+    "description_of_task": "Create detailed workout routines based on given goals, constraints, and available equipment.",
+    "capability_being_measured": "comprehension, practical problem-solving, creativity",
+    "estimated_human_difficulty": "3"
+}

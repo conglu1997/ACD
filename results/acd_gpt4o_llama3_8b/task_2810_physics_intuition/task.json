@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_intuition",
+    "description_of_task": "Predict the outcomes of given physical scenarios based on basic principles of physics.",
+    "capability_being_measured": "scientific reasoning, physical intuition, problem-solving",
+    "estimated_human_difficulty": "3"
+}

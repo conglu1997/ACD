@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation",
+    "description_of_task": "Generate a poem based on a given theme or emotion, ensuring that the poem is creative, coherent, and evocative.",
+    "capability_being_measured": "creativity, linguistic skills, emotional intelligence",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_generation_and_solving",
+    "description_of_task": "Generate and solve complex logical puzzles such as Sudoku.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

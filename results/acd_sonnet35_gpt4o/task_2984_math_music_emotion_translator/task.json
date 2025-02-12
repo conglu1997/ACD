@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_music_emotion_translator",
+    "description_of_task": "Design a system that translates mathematical sequences into musical compositions and then generates natural language descriptions of the emotional content of these compositions.",
+    "capability_being_measured": "cross-domain knowledge application, pattern recognition, abstract reasoning, and emotional intelligence",
+    "estimated_human_difficulty": "5"
+}

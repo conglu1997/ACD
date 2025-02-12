@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_story_generation",
+    "description_of_task": "Create an interactive story with multiple branching paths based on a given prompt.",
+    "capability_being_measured": "creativity, logical structuring, narrative consistency",
+    "estimated_human_difficulty": "4"
+}

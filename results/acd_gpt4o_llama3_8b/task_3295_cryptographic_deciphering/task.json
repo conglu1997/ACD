@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptographic_deciphering",
+    "description_of_task": "Decipher encrypted messages using given cryptographic techniques and keys.",
+    "capability_being_measured": "pattern recognition, cryptographic knowledge, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

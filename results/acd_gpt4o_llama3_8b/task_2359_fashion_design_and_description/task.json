@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fashion_design_and_description",
+    "description_of_task": "Create and describe a fashion design based on given criteria.",
+    "capability_being_measured": "creativity, domain knowledge, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_sensitive_joke_generation",
+    "description_of_task": "Generate a joke that is culturally appropriate and humorous based on a given theme and cultural context.",
+    "capability_being_measured": "creativity, cultural understanding, language generation",
+    "estimated_human_difficulty": "4"
+}

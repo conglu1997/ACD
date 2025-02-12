@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_language_creation",
+    "description_of_task": "Create a few sentences in a newly invented language along with a translation guide, and translate text written in the invented language back into English.",
+    "capability_being_measured": "creativity, language generation, language understanding",
+    "estimated_human_difficulty": "4"
+}

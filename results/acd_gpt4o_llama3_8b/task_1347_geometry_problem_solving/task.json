@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometry_problem_solving",
+    "description_of_task": "Solve given geometry problems and provide detailed explanations of the solutions.",
+    "capability_being_measured": "mathematical reasoning and problem-solving",
+    "estimated_human_difficulty": "4"
+}

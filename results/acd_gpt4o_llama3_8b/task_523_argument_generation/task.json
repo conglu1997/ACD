@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argument_generation",
+    "description_of_task": "Generate well-reasoned arguments for and against a given social issue.",
+    "capability_being_measured": "critical thinking, argumentation skills, understanding of social issues",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "improvisational_storytelling",
+    "description_of_task": "Generate an ongoing story based on a series of progressively given prompts, maintaining narrative coherence and integrating new elements smoothly.",
+    "capability_being_measured": "creativity, narrative understanding, adaptive thinking",
+    "estimated_human_difficulty": "4"
+}

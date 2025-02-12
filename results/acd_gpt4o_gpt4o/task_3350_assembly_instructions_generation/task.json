@@ -1,0 +1,6 @@
+{
+    "name_of_task": "assembly_instructions_generation",
+    "description_of_task": "Generate detailed step-by-step instructions for assembling or disassembling everyday objects.",
+    "capability_being_measured": "procedural understanding, clarity in communication, attention to detail",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "describe_and_interpret_abstract_art",
+    "description_of_task": "Generate descriptions of abstract art based on given themes and interpret given descriptions of abstract art.",
+    "capability_being_measured": "creativity, linguistic articulation, abstract thinking",
+    "estimated_human_difficulty": "4"
+}

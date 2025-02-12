@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_analysis_and_generation",
+    "description_of_task": "Analyze a given poem for its themes, structure, and literary devices, and generate an original poem based on a specified theme and form.",
+    "capability_being_measured": "creativity, linguistic understanding, literary analysis",
+    "estimated_human_difficulty": "4"
+}

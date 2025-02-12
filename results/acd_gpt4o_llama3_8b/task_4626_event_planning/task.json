@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_planning",
+    "description_of_task": "Plan a detailed schedule for a given event, considering specific requirements and constraints.",
+    "capability_being_measured": "logical reasoning, planning, organizational skills",
+    "estimated_human_difficulty": "4"
+}

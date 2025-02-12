@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_creation",
+    "description_of_task": "Generate a pun based on a given word or phrase.",
+    "capability_being_measured": "language understanding, creativity, cultural knowledge",
+    "estimated_human_difficulty": "3"
+}

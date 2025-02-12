@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_scenario_prediction",
+    "description_of_task": "Predict the outcome of a given physical scenario based on specified initial conditions.",
+    "capability_being_measured": "physical intuition, spatial reasoning, problem-solving",
+    "estimated_human_difficulty": "3"
+}

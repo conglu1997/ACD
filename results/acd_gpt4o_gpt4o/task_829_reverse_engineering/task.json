@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering",
+    "description_of_task": "Analyze a given system or process and reproduce it accurately in a different format.",
+    "capability_being_measured": "comprehension, problem-solving, creative generation",
+    "estimated_human_difficulty": "4"
+}

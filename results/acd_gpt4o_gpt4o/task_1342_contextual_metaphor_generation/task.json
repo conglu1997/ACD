@@ -1,0 +1,6 @@
+{
+    "name_of_task": "contextual_metaphor_generation",
+    "description_of_task": "Generate and interpret metaphors within specific contexts (e.g., business, science, emotions) to assess linguistic creativity and understanding of abstract relationships.",
+    "capability_being_measured": "linguistic creativity, understanding of abstract relationships",
+    "estimated_human_difficulty": "4"
+}

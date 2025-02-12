@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_to_screenplay",
+    "description_of_task": "Transform a given short story or descriptive text into a screenplay format.",
+    "capability_being_measured": "narrative understanding, format transformation, creativity",
+    "estimated_human_difficulty": "4"
+}

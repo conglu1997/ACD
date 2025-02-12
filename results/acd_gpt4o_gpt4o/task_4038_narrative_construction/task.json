@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_construction",
+    "description_of_task": "Generate a coherent narrative based on a given sequence of events.",
+    "capability_being_measured": "narrative reasoning, temporal understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

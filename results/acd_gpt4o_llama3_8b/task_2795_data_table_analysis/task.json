@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_table_analysis",
+    "description_of_task": "Analyze data from a given table and draw meaningful conclusions based on specific questions.",
+    "capability_being_measured": "quantitative reasoning, data interpretation",
+    "estimated_human_difficulty": "3"
+}

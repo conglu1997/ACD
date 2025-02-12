@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_data_analysis",
+    "description_of_task": "Analyze given financial data and provide investment advice based on the analysis.",
+    "capability_being_measured": "data interpretation, financial knowledge, analytical reasoning, communication",
+    "estimated_human_difficulty": "4"
+}

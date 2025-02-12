@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_solving",
+    "description_of_task": "Solve a given puzzle by deducing the correct sequence of moves to reach the solution.",
+    "capability_being_measured": "logical reasoning, problem-solving, strategic planning",
+    "estimated_human_difficulty": "4"
+}

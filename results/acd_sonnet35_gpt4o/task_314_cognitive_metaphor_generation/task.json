@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_metaphor_generation",
+    "description_of_task": "Design an AI system to generate and analyze metaphors based on cognitive models of metaphor comprehension, then apply it to create metaphors for abstract concepts in various domains.",
+    "capability_being_measured": "understanding of cognitive science, creative language generation, interdisciplinary knowledge application, and meta-cognitive analysis",
+    "estimated_human_difficulty": "5"
+}

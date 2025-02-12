@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_music_theory_composition",
+    "description_of_task": "Design an AI system that can analyze, interpret, and compose music based on complex music theory concepts, then use it to create and explain original compositions while comparing different musical styles.",
+    "capability_being_measured": "Understanding of music theory, creative composition, abstract reasoning, comparative analysis, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_interpret_legal_contracts",
+    "description_of_task": "Generate a legal contract based on given parameters and interpret specific clauses of a provided legal contract.",
+    "capability_being_measured": "legal understanding, structured writing, precision",
+    "estimated_human_difficulty": "5"
+}

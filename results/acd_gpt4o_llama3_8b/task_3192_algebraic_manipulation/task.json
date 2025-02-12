@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algebraic_manipulation",
+    "description_of_task": "Solve algebraic equations and inequalities by isolating the variable and providing the correct solution.",
+    "capability_being_measured": "mathematical reasoning, logical reasoning, algebraic manipulation",
+    "estimated_human_difficulty": "3"
+}

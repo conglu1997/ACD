@@ -1,0 +1,6 @@
+{
+    "name_of_task": "real_time_decision_making",
+    "description_of_task": "Make real-time decisions based on a dynamically changing scenario. The model must adapt its strategy as new information is introduced.",
+    "capability_being_measured": "adaptive reasoning, strategic thinking, decision-making under constraints",
+    "estimated_human_difficulty": "4"
+}

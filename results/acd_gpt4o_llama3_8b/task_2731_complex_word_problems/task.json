@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_word_problems",
+    "description_of_task": "Solve complex mathematical word problems that require multiple steps and logical deductions.",
+    "capability_being_measured": "mathematical reasoning, logical problem-solving, multi-step instructions",
+    "estimated_human_difficulty": "4"
+}

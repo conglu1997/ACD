@@ -1,0 +1,6 @@
+{
+    "name_of_task": "climate_policy_ai_advisor",
+    "description_of_task": "Design an AI system that integrates climate science data, economic models, and policy analysis to generate and evaluate long-term climate policy recommendations for a specific region.",
+    "capability_being_measured": "interdisciplinary knowledge integration, complex data analysis, long-term forecasting, ethical reasoning, and creative problem-solving in the context of climate policy",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chess_strategy",
+    "description_of_task": "Generate a strategic plan for a given Chess position and evaluate the potential outcomes.",
+    "capability_being_measured": "strategic reasoning, understanding of Chess rules, logical thinking",
+    "estimated_human_difficulty": "5"
+}

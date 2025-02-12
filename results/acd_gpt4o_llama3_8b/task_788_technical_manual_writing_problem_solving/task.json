@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_manual_writing_problem_solving",
+    "description_of_task": "Write a technical manual for a fictional device and solve a problem related to this device based on the manual.",
+    "capability_being_measured": "technical knowledge, structured information generation, problem-solving",
+    "estimated_human_difficulty": "4"
+}

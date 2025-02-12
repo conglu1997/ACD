@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation",
+    "description_of_task": "Convert a given melody into musical notation and generate a melody based on specified musical notation.",
+    "capability_being_measured": "musical understanding, creativity, representation skills",
+    "estimated_human_difficulty": "4"
+}

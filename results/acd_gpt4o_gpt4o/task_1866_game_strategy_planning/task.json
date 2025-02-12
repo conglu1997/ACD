@@ -1,0 +1,6 @@
+{
+    "name_of_task": "game_strategy_planning",
+    "description_of_task": "Develop and describe strategies for winning specified board or card games based on given rules.",
+    "capability_being_measured": "strategic thinking, rule comprehension, adaptability",
+    "estimated_human_difficulty": "4"
+}

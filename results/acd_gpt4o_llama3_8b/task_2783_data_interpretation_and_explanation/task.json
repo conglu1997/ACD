@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_interpretation_and_explanation",
+    "description_of_task": "Interpret data from a given chart or graph and provide a detailed explanation of the insights that can be drawn from it.",
+    "capability_being_measured": "data interpretation, analytical skills, multimodal comprehension",
+    "estimated_human_difficulty": "4"
+}

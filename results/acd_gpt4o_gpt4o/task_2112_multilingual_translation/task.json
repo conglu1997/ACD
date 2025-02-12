@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_translation",
+    "description_of_task": "Translate given texts between different languages while preserving meaning, context, and nuances.",
+    "capability_being_measured": "multilingual understanding, translation accuracy, contextual comprehension",
+    "estimated_human_difficulty": "4"
+}

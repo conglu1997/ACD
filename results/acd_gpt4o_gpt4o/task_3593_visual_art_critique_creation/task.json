@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_critique_creation",
+    "description_of_task": "Critique a given piece of visual art based on specific criteria and create a conceptual description of a new piece of art based on a specified theme.",
+    "capability_being_measured": "visual arts knowledge, creativity, analytical skills",
+    "estimated_human_difficulty": "4"
+}

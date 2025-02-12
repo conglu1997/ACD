@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_image_matching",
+    "description_of_task": "Match textual descriptions to the correct images from a provided set.",
+    "capability_being_measured": "multi-modal understanding, visual comprehension, interpretation",
+    "estimated_human_difficulty": "3"
+}

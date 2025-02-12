@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_reasoning",
+    "description_of_task": "Generate plausible scientific hypotheses based on given observations and design experiments to test these hypotheses.",
+    "capability_being_measured": "scientific reasoning, hypothesis generation, experimental design",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_experiment_simulation",
+    "description_of_task": "Simulate a scientific experiment by explaining the steps and predicting the outcomes based on given parameters.",
+    "capability_being_measured": "knowledge, procedural understanding, scientific reasoning",
+    "estimated_human_difficulty": "4"
+}

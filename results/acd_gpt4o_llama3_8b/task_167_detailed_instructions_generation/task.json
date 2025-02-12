@@ -1,0 +1,6 @@
+{
+    "name_of_task": "detailed_instructions_generation",
+    "description_of_task": "Generate detailed step-by-step instructions for performing a specific task.",
+    "capability_being_measured": "procedural knowledge, logical sequencing, clarity of instruction",
+    "estimated_human_difficulty": "3"
+}

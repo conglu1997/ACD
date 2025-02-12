@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_generation",
+    "description_of_task": "Generate and describe a piece of visual art based on given criteria.",
+    "capability_being_measured": "creativity, visual imagination, descriptive language",
+    "estimated_human_difficulty": "4"
+}

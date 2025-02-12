@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation",
+    "description_of_task": "Generate analogies that illustrate the relationship between pairs of concepts.",
+    "capability_being_measured": "conceptual understanding and analogical reasoning",
+    "estimated_human_difficulty": "3"
+}

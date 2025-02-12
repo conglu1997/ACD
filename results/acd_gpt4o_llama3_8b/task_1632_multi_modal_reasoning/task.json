@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_modal_reasoning",
+    "description_of_task": "Interpret a textual description and generate a corresponding visual or spatial layout, ensuring logical consistency and adherence to given constraints.",
+    "capability_being_measured": "multi-modal reasoning, spatial reasoning, language understanding",
+    "estimated_human_difficulty": "4"
+}

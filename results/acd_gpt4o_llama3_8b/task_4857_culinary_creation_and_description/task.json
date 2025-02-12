@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_creation_and_description",
+    "description_of_task": "Describe given culinary dishes and create new recipes based on specific criteria.",
+    "capability_being_measured": "creativity, descriptive language, sensory understanding",
+    "estimated_human_difficulty": "3"
+}

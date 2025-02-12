@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ancient_language_reconstruction",
+    "description_of_task": "Design an AI system to reconstruct an ancient language using limited linguistic data and historical context, then use it to translate a given text.",
+    "capability_being_measured": "computational linguistics, historical reasoning, creative inference, and interdisciplinary problem-solving",
+    "estimated_human_difficulty": "5"
+}

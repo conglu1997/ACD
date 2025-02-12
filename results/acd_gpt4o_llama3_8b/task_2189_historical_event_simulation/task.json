@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_simulation",
+    "description_of_task": "Simulate a historical event with altered key variables and predict plausible alternative outcomes.",
+    "capability_being_measured": "historical knowledge, causal reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

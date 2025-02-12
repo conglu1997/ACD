@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_review",
+    "description_of_task": "Analyze code snippets and identify potential bugs or suggest improvements.",
+    "capability_being_measured": "programming knowledge, attention to detail, problem-solving",
+    "estimated_human_difficulty": "4"
+}

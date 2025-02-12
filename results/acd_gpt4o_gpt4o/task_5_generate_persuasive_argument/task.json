@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_persuasive_argument",
+    "description_of_task": "Generate a persuasive argument based on a given topic or premise.",
+    "capability_being_measured": "reasoning, synthesis, persuasion",
+    "estimated_human_difficulty": "4"
+}

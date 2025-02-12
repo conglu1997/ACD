@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_reasoning",
+    "description_of_task": "Solve problems involving geometric shapes and their transformations based on verbal descriptions.",
+    "capability_being_measured": "spatial reasoning, geometric understanding, visualization",
+    "estimated_human_difficulty": "3"
+}

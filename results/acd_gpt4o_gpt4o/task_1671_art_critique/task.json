@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_critique",
+    "description_of_task": "Evaluate and critique a piece of visual art based on a detailed textual description.",
+    "capability_being_measured": "visual imagination, cultural knowledge, critical thinking",
+    "estimated_human_difficulty": "4"
+}

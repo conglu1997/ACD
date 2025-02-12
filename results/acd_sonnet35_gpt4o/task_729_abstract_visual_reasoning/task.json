@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_visual_reasoning",
+    "description_of_task": "Interpret textual descriptions of abstract visual scenes, manipulate these mental images, and use them to solve problems or answer questions.",
+    "capability_being_measured": "visual-spatial reasoning, abstract thinking, and language-vision integration",
+    "estimated_human_difficulty": "4"
+}

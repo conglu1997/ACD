@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_scientific_discovery",
+    "description_of_task": "Create a fictional scientific discovery and explain it as if it were a real article in a popular science magazine.",
+    "capability_being_measured": "scientific knowledge, creativity, technical writing, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

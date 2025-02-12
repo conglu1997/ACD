@@ -1,0 +1,6 @@
+{
+    "name_of_task": "news_article_generation",
+    "description_of_task": "Generate a news article based on given headlines and key points.",
+    "capability_being_measured": "information synthesis, language understanding, structured content generation",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetic_imagery",
+    "description_of_task": "Generate and interpret poetic imagery based on given prompts, assessing linguistic creativity and comprehension.",
+    "capability_being_measured": "linguistic creativity, comprehension, poetic expression",
+    "estimated_human_difficulty": "4"
+}

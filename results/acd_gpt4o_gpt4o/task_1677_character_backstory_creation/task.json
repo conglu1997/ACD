@@ -1,0 +1,6 @@
+{
+    "name_of_task": "character_backstory_creation",
+    "description_of_task": "Create detailed backstories for fictional characters based on given prompts.",
+    "capability_being_measured": "creativity, narrative coherence, consistency",
+    "estimated_human_difficulty": "3"
+}

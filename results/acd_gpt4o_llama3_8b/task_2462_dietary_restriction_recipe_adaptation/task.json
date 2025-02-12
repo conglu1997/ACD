@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dietary_restriction_recipe_adaptation",
+    "description_of_task": "Adapt a given recipe to meet specific dietary restrictions while maintaining the original dish's flavor and texture as much as possible.",
+    "capability_being_measured": "practical knowledge, creativity, adaptability",
+    "estimated_human_difficulty": "4"
+}

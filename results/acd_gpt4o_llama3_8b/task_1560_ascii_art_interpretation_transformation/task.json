@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_interpretation_transformation",
+    "description_of_task": "Interpret and transform given ASCII art according to specified criteria.",
+    "capability_being_measured": "visual pattern recognition, textual transformation, creativity",
+    "estimated_human_difficulty": "4"
+}

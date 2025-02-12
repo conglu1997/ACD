@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sentiment_and_emotional_tone_analysis",
+    "description_of_task": "Analyze text to identify the underlying sentiment and emotional tone conveyed by the author.",
+    "capability_being_measured": "sentiment analysis, emotional intelligence, language comprehension",
+    "estimated_human_difficulty": "4"
+}

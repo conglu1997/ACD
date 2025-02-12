@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_recognition_generation",
+    "description_of_task": "Recognize and describe visual patterns, and generate new patterns based on given criteria.",
+    "capability_being_measured": "visual reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

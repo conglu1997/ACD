@@ -1,0 +1,6 @@
+{
+    "name_of_task": "solve_riddles",
+    "description_of_task": "Solve given riddles by interpreting their clues and providing accurate answers.",
+    "capability_being_measured": "logical reasoning, linguistic interpretation, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

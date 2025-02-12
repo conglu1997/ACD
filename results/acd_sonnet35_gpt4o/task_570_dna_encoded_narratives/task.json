@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dna_encoded_narratives",
+    "description_of_task": "Create a story encoding system using DNA base pairs, then use it to write a short story that can be transcribed into a valid DNA sequence.",
+    "capability_being_measured": "interdisciplinary knowledge application, creative writing, understanding of genetics and information theory",
+    "estimated_human_difficulty": "5"
+}

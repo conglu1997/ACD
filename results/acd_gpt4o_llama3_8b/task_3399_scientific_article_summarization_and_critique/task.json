@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_article_summarization_and_critique",
+    "description_of_task": "Summarize a provided scientific article and provide a critical analysis of its methodology, results, and conclusions.",
+    "capability_being_measured": "comprehension, summarization, critical thinking",
+    "estimated_human_difficulty": "5"
+}

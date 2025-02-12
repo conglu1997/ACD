@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis_argumentation",
+    "description_of_task": "Analyze a historical event and provide a reasoned argument or analysis based on the given facts and historical context.",
+    "capability_being_measured": "historical knowledge, reasoning, argumentation",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_visual_imagination",
+    "description_of_task": "Solve problems that require understanding and manipulating spatial relationships, such as visualizing geometric transformations and describing spatial layouts.",
+    "capability_being_measured": "spatial reasoning, visual imagination",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_explanation",
+    "description_of_task": "Explain a given scientific concept in both layman's terms and in a technical manner suitable for experts.",
+    "capability_being_measured": "knowledge, reasoning, communication",
+    "estimated_human_difficulty": "4"
+}

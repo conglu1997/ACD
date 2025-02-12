@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_ladder",
+    "description_of_task": "Generate or solve a word ladder by transforming one word into another, changing one letter at a time, with each intermediate step being a valid word.",
+    "capability_being_measured": "linguistic creativity and problem-solving",
+    "estimated_human_difficulty": "3"
+}

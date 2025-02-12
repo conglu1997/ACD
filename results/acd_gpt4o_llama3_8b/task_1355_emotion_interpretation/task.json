@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_interpretation",
+    "description_of_task": "Interpret and describe emotions conveyed through facial expressions in given images.",
+    "capability_being_measured": "visual-spatial reasoning, emotional intelligence, descriptive language skills",
+    "estimated_human_difficulty": "3"
+}

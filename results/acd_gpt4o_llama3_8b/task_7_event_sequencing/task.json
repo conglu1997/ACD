@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_sequencing",
+    "description_of_task": "Reorder a given list of events into the correct chronological sequence.",
+    "capability_being_measured": "temporal reasoning",
+    "estimated_human_difficulty": "3"
+}

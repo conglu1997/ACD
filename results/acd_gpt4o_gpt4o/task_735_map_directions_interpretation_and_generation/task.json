@@ -1,0 +1,6 @@
+{
+    "name_of_task": "map_directions_interpretation_and_generation",
+    "description_of_task": "Interpret given map directions and generate new map directions based on provided start and end locations.",
+    "capability_being_measured": "spatial reasoning, linguistic skills, visualization",
+    "estimated_human_difficulty": "3"
+}

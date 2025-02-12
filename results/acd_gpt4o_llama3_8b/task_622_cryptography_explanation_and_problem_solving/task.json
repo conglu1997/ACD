@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptography_explanation_and_problem_solving",
+    "description_of_task": "Explain cryptographic concepts and solve related cryptography problems based on given prompts.",
+    "capability_being_measured": "technical knowledge, problem-solving, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Interpret spatial descriptions and generate spatial solutions, such as arranging objects in a given space or solving spatial puzzles.",
+    "capability_being_measured": "spatial reasoning, logical thinking, problem-solving",
+    "estimated_human_difficulty": "4"
+}

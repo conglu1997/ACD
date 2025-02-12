@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_code_generation",
+    "description_of_task": "Generate creative and functional code snippets based on given prompts.",
+    "capability_being_measured": "programming skills, creativity, problem-solving",
+    "estimated_human_difficulty": "4"
+}

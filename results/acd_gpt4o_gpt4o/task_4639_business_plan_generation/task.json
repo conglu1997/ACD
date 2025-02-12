@@ -1,0 +1,6 @@
+{
+    "name_of_task": "business_plan_generation",
+    "description_of_task": "Generate a business plan based on given parameters and analyze the feasibility of a provided business plan.",
+    "capability_being_measured": "strategic thinking, business knowledge, analytical skills",
+    "estimated_human_difficulty": "4"
+}

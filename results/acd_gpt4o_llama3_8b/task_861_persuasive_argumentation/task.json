@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argumentation",
+    "description_of_task": "Generate persuasive arguments and counterarguments based on given topics.",
+    "capability_being_measured": "logical reasoning, persuasive writing, multi-perspective understanding",
+    "estimated_human_difficulty": "4"
+}

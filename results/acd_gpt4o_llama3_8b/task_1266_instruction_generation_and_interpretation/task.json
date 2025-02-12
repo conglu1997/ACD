@@ -1,0 +1,6 @@
+{
+    "name_of_task": "instruction_generation_and_interpretation",
+    "description_of_task": "Generate detailed, step-by-step instructions for a given task and interpret provided instructions to identify potential errors or ambiguities.",
+    "capability_being_measured": "procedural knowledge, clarity of expression, step-by-step reasoning",
+    "estimated_human_difficulty": "4"
+}

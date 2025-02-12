@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_narrative_reconstruction",
+    "description_of_task": "Reconstruct a detailed historical narrative based on a given event or period.",
+    "capability_being_measured": "historical knowledge, narrative coherence, factual accuracy",
+    "estimated_human_difficulty": "4"
+}

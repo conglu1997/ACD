@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_arrangement_description",
+    "description_of_task": "Describe the spatial arrangement of objects based on given textual clues.",
+    "capability_being_measured": "spatial reasoning, language understanding",
+    "estimated_human_difficulty": "3"
+}

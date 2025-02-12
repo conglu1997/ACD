@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_comprehension",
+    "description_of_task": "Interpret information from a textual description of an image and answer questions based on it.",
+    "capability_being_measured": "multimodal comprehension, visual reasoning, text interpretation",
+    "estimated_human_difficulty": "4"
+}

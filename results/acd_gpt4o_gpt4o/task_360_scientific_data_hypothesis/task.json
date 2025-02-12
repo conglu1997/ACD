@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_data_hypothesis",
+    "description_of_task": "Analyze a given dataset and generate plausible scientific hypotheses or explanations based on the data.",
+    "capability_being_measured": "data interpretation, scientific reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

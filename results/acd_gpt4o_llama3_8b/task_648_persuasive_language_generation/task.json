@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_language_generation",
+    "description_of_task": "Generate persuasive texts based on given topics and evaluate the persuasiveness of provided texts.",
+    "capability_being_measured": "persuasion, rhetoric, language understanding",
+    "estimated_human_difficulty": "4"
+}

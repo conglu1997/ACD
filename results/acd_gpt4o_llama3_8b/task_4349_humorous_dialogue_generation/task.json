@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humorous_dialogue_generation",
+    "description_of_task": "Generate a humorous fictional dialogue based on a given scenario and characters.",
+    "capability_being_measured": "creativity, context understanding, humor generation",
+    "estimated_human_difficulty": "4"
+}

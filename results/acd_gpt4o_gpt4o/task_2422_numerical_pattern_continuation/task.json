@@ -1,0 +1,6 @@
+{
+    "name_of_task": "numerical_pattern_continuation",
+    "description_of_task": "Identify and continue given numerical patterns.",
+    "capability_being_measured": "numerical reasoning, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

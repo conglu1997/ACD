@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_paradoxes",
+    "description_of_task": "Interpret given logical paradoxes and generate new logical paradoxes based on specified criteria.",
+    "capability_being_measured": "logical reasoning, linguistic creativity, comprehension",
+    "estimated_human_difficulty": "4"
+}

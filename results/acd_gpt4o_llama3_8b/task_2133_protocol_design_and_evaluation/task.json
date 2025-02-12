@@ -1,0 +1,6 @@
+{
+    "name_of_task": "protocol_design_and_evaluation",
+    "description_of_task": "Design a protocol for a given scenario and evaluate the effectiveness of an existing protocol.",
+    "capability_being_measured": "logical reasoning, process understanding, critical evaluation, articulation",
+    "estimated_human_difficulty": "4"
+}

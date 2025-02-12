@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_language_generation",
+    "description_of_task": "Generate a set of vocabulary and basic grammar rules for a fictional language, and then translate a given sentence using the created language.",
+    "capability_being_measured": "creativity, linguistic understanding, consistency",
+    "estimated_human_difficulty": "4"
+}

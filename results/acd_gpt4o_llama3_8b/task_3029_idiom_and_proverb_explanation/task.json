@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_and_proverb_explanation",
+    "description_of_task": "Generate idiomatic expressions and cultural proverbs, then explain their meanings and contexts.",
+    "capability_being_measured": "cultural knowledge, idiomatic understanding, interpretive skills",
+    "estimated_human_difficulty": "4"
+}

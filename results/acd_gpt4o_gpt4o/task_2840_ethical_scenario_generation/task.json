@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_scenario_generation",
+    "description_of_task": "Generate complex ethical scenarios based on given parameters that involve moral dilemmas and require nuanced ethical reasoning.",
+    "capability_being_measured": "ethical reasoning, creativity, understanding of moral complexities",
+    "estimated_human_difficulty": "4"
+}

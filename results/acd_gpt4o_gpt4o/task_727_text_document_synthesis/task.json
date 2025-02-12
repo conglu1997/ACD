@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_document_synthesis",
+    "description_of_task": "Understand and synthesize information from provided text documents to generate coherent and contextually appropriate responses.",
+    "capability_being_measured": "natural language understanding, synthesis, generation",
+    "estimated_human_difficulty": "4"
+}

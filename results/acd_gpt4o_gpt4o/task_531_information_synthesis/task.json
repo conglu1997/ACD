@@ -1,0 +1,6 @@
+{
+    "name_of_task": "information_synthesis",
+    "description_of_task": "Synthesize information from multiple sources or lengthy inputs and generate cohesive, insightful summaries.",
+    "capability_being_measured": "information synthesis, summarization, coherence, relevance",
+    "estimated_human_difficulty": "4"
+}

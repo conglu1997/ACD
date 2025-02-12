@@ -1,0 +1,6 @@
+{
+    "name_of_task": "character_interaction_storytelling",
+    "description_of_task": "Generate a story based on given character descriptions and a scenario, and analyze the character development and interactions throughout the story.",
+    "capability_being_measured": "creativity, narrative coherence, character development",
+    "estimated_human_difficulty": "4"
+}

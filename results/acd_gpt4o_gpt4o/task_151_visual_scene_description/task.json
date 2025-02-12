@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description",
+    "description_of_task": "Describe a complex visual scene in detail based on a given prompt.",
+    "capability_being_measured": "visual imagination, descriptive language, creativity",
+    "estimated_human_difficulty": "4"
+}

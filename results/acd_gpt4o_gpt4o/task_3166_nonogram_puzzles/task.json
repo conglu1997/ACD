@@ -1,0 +1,6 @@
+{
+    "name_of_task": "nonogram_puzzles",
+    "description_of_task": "Solve nonogram puzzles by determining which cells in a grid should be filled based on given numerical clues.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

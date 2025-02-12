@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artistic_style_transfer",
+    "description_of_task": "Transform a given piece of text into a specific artistic style.",
+    "capability_being_measured": "creativity, language understanding, style adaptation",
+    "estimated_human_difficulty": "4"
+}

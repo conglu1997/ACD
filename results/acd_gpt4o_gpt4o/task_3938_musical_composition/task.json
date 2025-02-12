@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Compose a melody based on given constraints such as key, tempo, and theme.",
+    "capability_being_measured": "musical creativity, pattern recognition, knowledge of musical theory",
+    "estimated_human_difficulty": "4"
+}

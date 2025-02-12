@@ -1,0 +1,6 @@
+{
+    "name_of_task": "horror_story_generation",
+    "description_of_task": "Generate and analyze short horror stories based on given prompts.",
+    "capability_being_measured": "creativity, narrative skills, genre understanding",
+    "estimated_human_difficulty": "4"
+}

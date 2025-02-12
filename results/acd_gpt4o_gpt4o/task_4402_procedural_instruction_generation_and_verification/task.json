@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_instruction_generation_and_verification",
+    "description_of_task": "Generate detailed procedural instructions for a given task and verify the correctness of given procedural instructions.",
+    "capability_being_measured": "procedural reasoning, structured language comprehension, attention to detail",
+    "estimated_human_difficulty": "4"
+}

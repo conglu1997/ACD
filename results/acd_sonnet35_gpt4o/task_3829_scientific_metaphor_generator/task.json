@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_metaphor_generator",
+    "description_of_task": "Design an AI system that generates and analyzes metaphors for complex scientific concepts, then use it to create and evaluate metaphors for a specific scientific phenomenon.",
+    "capability_being_measured": "interdisciplinary knowledge integration, creative language use, scientific understanding, metaphor comprehension, and visual representation",
+    "estimated_human_difficulty": "5"
+}

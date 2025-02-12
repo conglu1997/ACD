@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_interaction_response",
+    "description_of_task": "Generate appropriate responses to given social interaction scenarios, considering the context and tone.",
+    "capability_being_measured": "language understanding, social intelligence, context awareness",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_bias_simulator",
+    "description_of_task": "Design an AI system that simulates human decision-making processes, incorporating cognitive biases, emotional factors, and social influences, then apply it to a complex real-world scenario.",
+    "capability_being_measured": "Understanding of human psychology, behavioral economics, and decision-making processes; ability to model complex human behaviors; interdisciplinary knowledge integration",
+    "estimated_human_difficulty": "5"
+}

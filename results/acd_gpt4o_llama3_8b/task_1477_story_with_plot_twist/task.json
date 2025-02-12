@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_with_plot_twist",
+    "description_of_task": "Generate a short story based on a given prompt that includes a surprising plot twist.",
+    "capability_being_measured": "creativity, narrative coherence, logical consistency",
+    "estimated_human_difficulty": "4"
+}

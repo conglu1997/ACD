@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning",
+    "description_of_task": "Provide legal advice based on a given scenario and interpret legal language in a given text.",
+    "capability_being_measured": "legal understanding, reasoning, interpretation",
+    "estimated_human_difficulty": "5"
+}

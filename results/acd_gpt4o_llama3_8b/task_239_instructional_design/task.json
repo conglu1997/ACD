@@ -1,0 +1,6 @@
+{
+    "name_of_task": "instructional_design",
+    "description_of_task": "Generate step-by-step instructions for building a physical object from a set of given materials.",
+    "capability_being_measured": "comprehension, logical reasoning, practical reasoning, and instructional generation",
+    "estimated_human_difficulty": "3"
+}

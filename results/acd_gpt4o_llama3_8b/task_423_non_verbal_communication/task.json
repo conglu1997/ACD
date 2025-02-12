@@ -1,0 +1,6 @@
+{
+    "name_of_task": "non_verbal_communication",
+    "description_of_task": "Interpret given descriptions of body language, facial expressions, and gestures to infer emotions or intentions, and generate descriptions of non-verbal communication cues for specified scenarios.",
+    "capability_being_measured": "emotional intelligence, social understanding, descriptive language",
+    "estimated_human_difficulty": "4"
+}

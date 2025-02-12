@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_visual_analysis",
+    "description_of_task": "Create a recipe based on given ingredients and a final dish image, ensuring the recipe matches the visual appearance and uses the provided ingredients.",
+    "capability_being_measured": "creativity, multimodal integration, understanding of cooking processes",
+    "estimated_human_difficulty": "3"
+}

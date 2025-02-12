@@ -1,0 +1,6 @@
+{
+    "name_of_task": "economic_scenario_simulation",
+    "description_of_task": "Simulate and reason about given economic scenarios, providing analyses based on economic principles.",
+    "capability_being_measured": "economic reasoning, logical analysis, application of knowledge",
+    "estimated_human_difficulty": "4"
+}

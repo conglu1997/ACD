@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_argumentation",
+    "description_of_task": "Construct a valid logical argument based on a given premise and identify logical fallacies in provided arguments.",
+    "capability_being_measured": "logical reasoning, critical thinking",
+    "estimated_human_difficulty": "4"
+}

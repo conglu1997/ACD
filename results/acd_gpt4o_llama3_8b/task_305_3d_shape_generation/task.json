@@ -1,0 +1,6 @@
+{
+    "name_of_task": "3d_shape_generation",
+    "description_of_task": "Generate and describe complex 3D shapes based on given criteria.",
+    "capability_being_measured": "spatial reasoning, geometry, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

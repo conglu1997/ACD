@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physical_experiment_prediction",
+    "description_of_task": "Predict the outcome of a physical experiment based on given initial conditions and principles of physics.",
+    "capability_being_measured": "physical reasoning, knowledge of physics, predictive ability",
+    "estimated_human_difficulty": "3"
+}

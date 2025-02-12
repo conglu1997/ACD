@@ -1,0 +1,6 @@
+{
+    "name_of_task": "urban_planning_scenarios",
+    "description_of_task": "Create a detailed urban planning proposal based on given requirements and constraints.",
+    "capability_being_measured": "spatial reasoning, environmental knowledge, creative problem-solving",
+    "estimated_human_difficulty": "4"
+}

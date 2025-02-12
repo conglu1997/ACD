@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_logical_puzzle",
+    "description_of_task": "Solve a spatial logical puzzle by deducing the correct arrangement or solution based on given clues.",
+    "capability_being_measured": "spatial reasoning, logical deduction",
+    "estimated_human_difficulty": "4"
+}

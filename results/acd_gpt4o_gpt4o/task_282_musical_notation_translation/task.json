@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_notation_translation",
+    "description_of_task": "Translate given musical notations into plain text instructions.",
+    "capability_being_measured": "multi-modal understanding, attention to detail",
+    "estimated_human_difficulty": "3"
+}

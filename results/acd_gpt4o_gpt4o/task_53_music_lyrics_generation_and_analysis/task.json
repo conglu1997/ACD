@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_lyrics_generation_and_analysis",
+    "description_of_task": "Generate song lyrics based on a given theme and interpret the meaning of provided song lyrics.",
+    "capability_being_measured": "creativity, linguistic understanding, musical knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "philosophical_argumentation",
+    "description_of_task": "Generate and evaluate philosophical arguments based on given philosophical prompts.",
+    "capability_being_measured": "abstract reasoning, logical structuring, comprehension of philosophical concepts",
+    "estimated_human_difficulty": "4"
+}

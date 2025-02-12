@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_pattern_description_generation",
+    "description_of_task": "Describe a given geometric pattern and generate a new pattern based on specified criteria.",
+    "capability_being_measured": "visual-spatial reasoning, creativity, pattern recognition",
+    "estimated_human_difficulty": "3"
+}

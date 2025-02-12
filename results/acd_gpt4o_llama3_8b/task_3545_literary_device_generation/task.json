@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_device_generation",
+    "description_of_task": "Identify and generate examples of different literary devices based on given prompts.",
+    "capability_being_measured": "linguistic knowledge, creativity, textual analysis",
+    "estimated_human_difficulty": "3"
+}

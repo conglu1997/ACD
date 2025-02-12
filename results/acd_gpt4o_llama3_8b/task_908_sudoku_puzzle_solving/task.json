@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sudoku_puzzle_solving",
+    "description_of_task": "Solve a given Sudoku puzzle by filling in the missing numbers according to Sudoku rules.",
+    "capability_being_measured": "logical reasoning, pattern recognition, numeric problem-solving",
+    "estimated_human_difficulty": "4"
+}

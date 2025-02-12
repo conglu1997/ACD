@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_argumentation",
+    "description_of_task": "Construct and analyze logical arguments based on given premises or statements.",
+    "capability_being_measured": "reasoning, comprehension, language generation",
+    "estimated_human_difficulty": "4"
+}

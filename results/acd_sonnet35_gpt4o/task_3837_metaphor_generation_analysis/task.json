@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_generation_analysis",
+    "description_of_task": "Design and implement an AI system that can generate and analyze novel metaphors based on abstract concepts, then apply it to explain complex scientific theories.",
+    "capability_being_measured": "abstract reasoning, linguistic creativity, interdisciplinary knowledge integration, and ability to explain complex concepts through metaphor",
+    "estimated_human_difficulty": "4"
+}

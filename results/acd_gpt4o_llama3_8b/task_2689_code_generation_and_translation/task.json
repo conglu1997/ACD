@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_translation",
+    "description_of_task": "Generate code snippets based on given specifications and translate code between different programming languages.",
+    "capability_being_measured": "programming knowledge, code generation, code translation",
+    "estimated_human_difficulty": "4"
+}

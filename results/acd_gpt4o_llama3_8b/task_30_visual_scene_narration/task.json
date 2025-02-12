@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_narration",
+    "description_of_task": "Generate a detailed narrative or description based on a given visual scene description.",
+    "capability_being_measured": "spatial reasoning, creativity, and descriptive language",
+    "estimated_human_difficulty": "3"
+}

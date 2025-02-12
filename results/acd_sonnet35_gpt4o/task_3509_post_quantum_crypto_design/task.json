@@ -1,0 +1,6 @@
+{
+    "name_of_task": "post_quantum_crypto_design",
+    "description_of_task": "Design a post-quantum cryptographic system and analyze its technical, societal, and ethical implications.",
+    "capability_being_measured": "understanding of quantum computing principles, cryptography, system design, and ethical reasoning",
+    "estimated_human_difficulty": "5"
+}

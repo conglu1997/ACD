@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_system_analysis",
+    "description_of_task": "Analyze multiple sources of information about a complex system and make an informed decision based on the given data.",
+    "capability_being_measured": "multi-modal comprehension, synthesis, decision-making",
+    "estimated_human_difficulty": "4"
+}

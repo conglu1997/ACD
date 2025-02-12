@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_story_generation",
+    "description_of_task": "Generate a coherent and engaging short story based on a complex, interwoven prompt.",
+    "capability_being_measured": "creativity, coherence, narrative skills, consistency",
+    "estimated_human_difficulty": "4"
+}

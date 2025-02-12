@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_interpretation",
+    "description_of_task": "Interpret abstract art pieces and generate visual descriptions based on given prompts.",
+    "capability_being_measured": "creativity, visual literacy, descriptive language skills",
+    "estimated_human_difficulty": "4"
+}

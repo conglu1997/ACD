@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_recognize_humor",
+    "description_of_task": "Generate a joke based on a given prompt and recognize the humorous intent in a given statement.",
+    "capability_being_measured": "creativity, cultural knowledge, linguistic understanding",
+    "estimated_human_difficulty": "4"
+}

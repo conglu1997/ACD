@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sound_recognition_interpretation",
+    "description_of_task": "Interpret textual descriptions of sounds and match them to appropriate sound categories or generate plausible sound descriptions for given situations.",
+    "capability_being_measured": "sensory interpretation, contextual understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

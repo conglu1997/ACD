@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_visual_metaphor_generation",
+    "description_of_task": "Generate culturally-appropriate visual metaphors based on given abstract concepts and cultural contexts, then provide detailed descriptions of these metaphors.",
+    "capability_being_measured": "visual imagination, cultural understanding, linguistic creativity, and abstract reasoning",
+    "estimated_human_difficulty": "4"
+}

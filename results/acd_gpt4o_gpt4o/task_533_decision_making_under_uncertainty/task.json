@@ -1,0 +1,6 @@
+{
+    "name_of_task": "decision_making_under_uncertainty",
+    "description_of_task": "Make optimal decisions based on incomplete or probabilistic information in given scenarios.",
+    "capability_being_measured": "decision making, reasoning, handling uncertainty",
+    "estimated_human_difficulty": "4"
+}

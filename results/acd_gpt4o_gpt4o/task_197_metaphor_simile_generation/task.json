@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_simile_generation",
+    "description_of_task": "Generate creative metaphors and similes based on given topics.",
+    "capability_being_measured": "language understanding, creativity, figurative language generation",
+    "estimated_human_difficulty": "4"
+}

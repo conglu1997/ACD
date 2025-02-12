@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_generation",
+    "description_of_task": "Generate a coherent short story based on a series of given prompts, ensuring that the story is engaging and logically consistent.",
+    "capability_being_measured": "creativity, narrative construction, natural language understanding",
+    "estimated_human_difficulty": "3"
+}

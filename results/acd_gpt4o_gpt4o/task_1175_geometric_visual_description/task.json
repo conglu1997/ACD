@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_visual_description",
+    "description_of_task": "Generate and interpret visual descriptions of geometric shapes, focusing on spatial relationships and descriptive accuracy.",
+    "capability_being_measured": "spatial reasoning, descriptive language, geometric reasoning",
+    "estimated_human_difficulty": "3"
+}

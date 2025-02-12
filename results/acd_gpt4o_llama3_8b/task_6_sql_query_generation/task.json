@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sql_query_generation",
+    "description_of_task": "Generate SQL queries based on given database schemas and requirements.",
+    "capability_being_measured": "technical knowledge and query generation",
+    "estimated_human_difficulty": "4"
+}

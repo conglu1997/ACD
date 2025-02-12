@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition_interpretation_and_generation",
+    "description_of_task": "Interpret given musical compositions and generate new musical compositions based on specified themes or emotions.",
+    "capability_being_measured": "creativity, musical understanding, descriptive ability",
+    "estimated_human_difficulty": "5"
+}

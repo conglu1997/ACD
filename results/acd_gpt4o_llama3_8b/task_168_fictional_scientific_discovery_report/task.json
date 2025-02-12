@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_scientific_discovery_report",
+    "description_of_task": "Write a fictional scientific discovery report based on given scientific data and constraints.",
+    "capability_being_measured": "cross-disciplinary integration, scientific knowledge, creativity, narrative skills",
+    "estimated_human_difficulty": "4"
+}

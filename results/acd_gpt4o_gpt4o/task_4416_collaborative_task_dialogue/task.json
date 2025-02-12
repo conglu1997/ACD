@@ -1,0 +1,6 @@
+{
+    "name_of_task": "collaborative_task_dialogue",
+    "description_of_task": "Generate a dialogue between two agents collaborating on a task, ensuring coherence, appropriateness, and task completion.",
+    "capability_being_measured": "dialogue management, contextual understanding, coherence",
+    "estimated_human_difficulty": "4"
+}

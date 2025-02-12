@@ -1,0 +1,6 @@
+{
+    "name_of_task": "table_data_interpretation",
+    "description_of_task": "Interpret data from a structured table and generate a textual summary.",
+    "capability_being_measured": "data interpretation, summarization, coherence",
+    "estimated_human_difficulty": "3"
+}

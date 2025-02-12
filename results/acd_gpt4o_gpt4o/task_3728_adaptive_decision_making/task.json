@@ -1,0 +1,6 @@
+{
+    "name_of_task": "adaptive_decision_making",
+    "description_of_task": "Make real-time decisions based on evolving scenarios and constraints, demonstrating adaptability and dynamic planning.",
+    "capability_being_measured": "real-time decision-making, adaptability, dynamic planning",
+    "estimated_human_difficulty": "4"
+}

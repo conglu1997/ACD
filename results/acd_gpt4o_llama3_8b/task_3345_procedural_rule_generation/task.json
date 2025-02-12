@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_rule_generation",
+    "description_of_task": "Generate a complete set of procedural instructions for a hypothetical board game, including game mechanics, rules, and winning conditions.",
+    "capability_being_measured": "logical reasoning, comprehensive understanding, rule generation",
+    "estimated_human_difficulty": "5"
+}

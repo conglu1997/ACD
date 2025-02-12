@@ -1,0 +1,6 @@
+{
+    "name_of_task": "syllogism_solver",
+    "description_of_task": "Analyze a syllogism and determine the valid conclusion, if any.",
+    "capability_being_measured": "logical reasoning, understanding of formal logic structures",
+    "estimated_human_difficulty": "3"
+}

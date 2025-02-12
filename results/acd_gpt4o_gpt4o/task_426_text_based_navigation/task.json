@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_based_navigation",
+    "description_of_task": "Navigate a virtual environment described in text and provide instructions to reach a specified destination.",
+    "capability_being_measured": "spatial reasoning, descriptive understanding, logical structuring",
+    "estimated_human_difficulty": "3"
+}

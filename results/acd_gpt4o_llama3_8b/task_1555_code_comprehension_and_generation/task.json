@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_comprehension_and_generation",
+    "description_of_task": "Interpret given natural language descriptions of programming tasks and generate the corresponding code snippets.",
+    "capability_being_measured": "technical knowledge, problem-solving, code synthesis",
+    "estimated_human_difficulty": "4"
+}

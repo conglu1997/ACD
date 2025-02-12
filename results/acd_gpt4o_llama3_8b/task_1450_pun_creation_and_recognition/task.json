@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pun_creation_and_recognition",
+    "description_of_task": "Create puns based on given prompts and identify the pun in a given sentence.",
+    "capability_being_measured": "creative language skills, understanding of wordplay, humor comprehension",
+    "estimated_human_difficulty": "3"
+}

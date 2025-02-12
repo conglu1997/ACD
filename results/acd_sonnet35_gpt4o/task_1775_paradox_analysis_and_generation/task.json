@@ -1,0 +1,6 @@
+{
+    "name_of_task": "paradox_analysis_and_generation",
+    "description_of_task": "Analyze given paradoxes, explain their logical structure, and generate new paradoxes based on similar principles",
+    "capability_being_measured": "Advanced language understanding, logical reasoning, and creative manipulation of concepts",
+    "estimated_human_difficulty": "4"
+}

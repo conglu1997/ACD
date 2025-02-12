@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_detection_response_generation",
+    "description_of_task": "Detect emotions from given text and generate appropriate responses that reflect understanding and empathy.",
+    "capability_being_measured": "emotional intelligence, empathy, language understanding",
+    "estimated_human_difficulty": "4"
+}

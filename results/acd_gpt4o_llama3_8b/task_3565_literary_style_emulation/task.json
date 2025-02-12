@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_style_emulation",
+    "description_of_task": "Continue or transform a given piece of text in the style of a famous author, maintaining consistency with the author's tone, style, and literary devices.",
+    "capability_being_measured": "creativity, language processing, literary knowledge",
+    "estimated_human_difficulty": "4"
+}

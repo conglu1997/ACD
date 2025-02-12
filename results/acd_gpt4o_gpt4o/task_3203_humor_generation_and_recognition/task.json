@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_generation_and_recognition",
+    "description_of_task": "Generate a joke based on a given topic and explain why it is funny. Additionally, identify and explain the humor in a provided joke.",
+    "capability_being_measured": "creativity, linguistic skills, cultural understanding, humor recognition",
+    "estimated_human_difficulty": "4"
+}

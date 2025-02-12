@@ -1,0 +1,6 @@
+{
+    "name_of_task": "graph_theory_puzzles",
+    "description_of_task": "Solve graph theory problems, such as finding the shortest path or determining if a graph is bipartite.",
+    "capability_being_measured": "abstract reasoning, mathematical problem-solving",
+    "estimated_human_difficulty": "4"
+}

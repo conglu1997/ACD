@@ -1,0 +1,6 @@
+{
+    "name_of_task": "escape_room_puzzles",
+    "description_of_task": "Solve a series of interconnected puzzles to escape a virtual room.",
+    "capability_being_measured": "logical reasoning, spatial reasoning, creativity, problem-solving",
+    "estimated_human_difficulty": "4"
+}

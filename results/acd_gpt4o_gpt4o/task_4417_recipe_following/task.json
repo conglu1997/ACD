@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_following",
+    "description_of_task": "Generate a detailed cooking recipe based on a given set of ingredients and predict the outcome of the recipe.",
+    "capability_being_measured": "procedural understanding, sequencing, creativity",
+    "estimated_human_difficulty": "3"
+}

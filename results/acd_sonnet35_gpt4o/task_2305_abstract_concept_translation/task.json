@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_concept_translation",
+    "description_of_task": "Translate abstract concepts between different representational systems, such as mathematical notation, logical symbols, set theory, and natural language.",
+    "capability_being_measured": "formal reasoning, symbolic manipulation, and cross-domain abstract concept understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logic_puzzle_solving",
+    "description_of_task": "Solve and generate logic puzzles, such as Sudoku or crosswords, based on given criteria.",
+    "capability_being_measured": "logical reasoning, problem-solving, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

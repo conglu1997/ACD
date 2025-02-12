@@ -1,0 +1,6 @@
+{
+    "name_of_task": "joke_generation_interpretation",
+    "description_of_task": "Generate and interpret jokes to assess humor, language understanding, and creativity.",
+    "capability_being_measured": "humor, language understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "landscape_description_and_interpretation",
+    "description_of_task": "Generate a detailed description of an imaginary landscape and interpret a given description to visualize the landscape.",
+    "capability_being_measured": "creativity, spatial reasoning, descriptive writing",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "metaphor_comprehension_generation",
+    "description_of_task": "Interpret given metaphors and generate new metaphors based on specified themes.",
+    "capability_being_measured": "abstract language understanding, creativity, cultural knowledge",
+    "estimated_human_difficulty": "4"
+}

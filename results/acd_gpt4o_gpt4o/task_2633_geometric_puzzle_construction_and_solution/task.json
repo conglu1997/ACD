@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_puzzle_construction_and_solution",
+    "description_of_task": "Create a geometric puzzle based on given constraints and solve a provided geometric puzzle.",
+    "capability_being_measured": "spatial reasoning, logical thinking, creativity",
+    "estimated_human_difficulty": "4"
+}

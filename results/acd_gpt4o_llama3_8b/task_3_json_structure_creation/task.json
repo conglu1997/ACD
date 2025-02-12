@@ -1,0 +1,6 @@
+{
+    "name_of_task": "json_structure_creation",
+    "description_of_task": "Generate a nested JSON structure based on given specifications.",
+    "capability_being_measured": "data structuring and syntax generation",
+    "estimated_human_difficulty": "3"
+}

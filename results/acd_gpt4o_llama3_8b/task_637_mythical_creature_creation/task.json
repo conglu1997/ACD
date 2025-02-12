@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mythical_creature_creation",
+    "description_of_task": "Create and describe a mythical creature based on given criteria.",
+    "capability_being_measured": "creativity, cultural knowledge, logical consistency",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "auditory_scene_description",
+    "description_of_task": "Describe auditory scenes based on given scenarios or instructions.",
+    "capability_being_measured": "auditory imagination, linguistic skills, creativity",
+    "estimated_human_difficulty": "4"
+}

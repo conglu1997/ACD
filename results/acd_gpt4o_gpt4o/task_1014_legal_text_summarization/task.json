@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_summarization",
+    "description_of_task": "Summarize complex legal texts and identify key legal principles or clauses within the text.",
+    "capability_being_measured": "comprehension, summarization, domain-specific knowledge",
+    "estimated_human_difficulty": "5"
+}

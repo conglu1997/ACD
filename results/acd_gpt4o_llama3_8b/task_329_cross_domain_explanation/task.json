@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_explanation",
+    "description_of_task": "Generate explanations that connect concepts from different domains, demonstrating the ability to synthesize and integrate knowledge.",
+    "capability_being_measured": "synthesis, cross-disciplinary understanding",
+    "estimated_human_difficulty": "4"
+}

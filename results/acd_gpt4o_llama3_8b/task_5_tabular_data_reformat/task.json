@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tabular_data_reformat",
+    "description_of_task": "Parse and restructure tabular data based on given specifications.",
+    "capability_being_measured": "data manipulation and transformation",
+    "estimated_human_difficulty": "3"
+}

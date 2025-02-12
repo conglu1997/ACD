@@ -1,0 +1,6 @@
+{
+    "name_of_task": "word_problem_solving",
+    "description_of_task": "Translate word problems into mathematical expressions and solve them.",
+    "capability_being_measured": "linguistic reasoning, mathematical reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_experiment_simulation",
+    "description_of_task": "Simulate and describe the results of a basic physics experiment, including predictions and explanations based on physical principles.",
+    "capability_being_measured": "scientific knowledge, reasoning, explanation",
+    "estimated_human_difficulty": "4"
+}

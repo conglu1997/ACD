@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_formulation",
+    "description_of_task": "Formulate scientific hypotheses based on given data and scenarios, and provide reasoning for each hypothesis.",
+    "capability_being_measured": "scientific reasoning, hypothesis generation, data interpretation",
+    "estimated_human_difficulty": "4"
+}

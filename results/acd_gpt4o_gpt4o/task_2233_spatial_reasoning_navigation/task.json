@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_navigation",
+    "description_of_task": "Describe a path through a maze and give directions based on a map.",
+    "capability_being_measured": "spatial reasoning, navigation, descriptive language",
+    "estimated_human_difficulty": "3"
+}

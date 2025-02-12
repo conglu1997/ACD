@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis_extrapolation",
+    "description_of_task": "Analyze a given historical event and extrapolate potential future consequences based on a hypothetical change in the event.",
+    "capability_being_measured": "historical knowledge, analytical reasoning, creative thinking",
+    "estimated_human_difficulty": "5"
+}

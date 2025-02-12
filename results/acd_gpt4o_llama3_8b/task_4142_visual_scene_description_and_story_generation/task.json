@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description_and_story_generation",
+    "description_of_task": "Generate a detailed description of a visual scene based on given textual clues and then create a coherent story or narrative based on that scene.",
+    "capability_being_measured": "multimodal reasoning, descriptive ability, creativity",
+    "estimated_human_difficulty": "4"
+}

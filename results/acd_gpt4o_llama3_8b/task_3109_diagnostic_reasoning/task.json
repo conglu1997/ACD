@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diagnostic_reasoning",
+    "description_of_task": "Diagnose a problem based on given symptoms or issues, and provide an explanation or solution.",
+    "capability_being_measured": "diagnostic reasoning, knowledge application, logical deduction",
+    "estimated_human_difficulty": "4"
+}

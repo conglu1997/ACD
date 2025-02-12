@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_and_generation",
+    "description_of_task": "Describe a given visual scene in detail or generate a visual scene based on a detailed description.",
+    "capability_being_measured": "visual-spatial reasoning and descriptive language skills",
+    "estimated_human_difficulty": "4"
+}

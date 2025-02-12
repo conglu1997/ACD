@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_clause_generation_modification",
+    "description_of_task": "Generate a legal clause based on given criteria and modify an existing clause according to specified changes.",
+    "capability_being_measured": "legal reasoning, adaptation, logical structuring",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_synthesis",
+    "description_of_task": "Synthesize information from two distinct fields to create a novel insight or solution.",
+    "capability_being_measured": "integrative thinking, interdisciplinary knowledge, creativity",
+    "estimated_human_difficulty": "5"
+}

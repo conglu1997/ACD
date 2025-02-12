@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzle_generation",
+    "description_of_task": "Generate and solve complex logical puzzles based on given constraints.",
+    "capability_being_measured": "logical reasoning, problem-solving, creativity",
+    "estimated_human_difficulty": "4"
+}

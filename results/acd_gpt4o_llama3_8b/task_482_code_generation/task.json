@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation",
+    "description_of_task": "Generate a Python function based on given specifications and constraints.",
+    "capability_being_measured": "programming skills, logical reasoning, syntax understanding",
+    "estimated_human_difficulty": "3"
+}

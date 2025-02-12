@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ancient_text_translation_and_interpretation",
+    "description_of_task": "Translate and interpret ancient texts, providing both a modern translation and a brief historical context.",
+    "capability_being_measured": "language translation, historical knowledge, cultural understanding, interpretation skills",
+    "estimated_human_difficulty": "4"
+}

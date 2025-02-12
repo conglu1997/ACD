@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_simulation",
+    "description_of_task": "Simulate a coherent, contextually appropriate dialogue between two individuals on a given topic.",
+    "capability_being_measured": "natural language understanding, dialogue management, contextual coherence",
+    "estimated_human_difficulty": "3"
+}

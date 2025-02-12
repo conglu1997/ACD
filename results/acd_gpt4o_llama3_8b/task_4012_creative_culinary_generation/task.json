@@ -1,0 +1,6 @@
+{
+    "name_of_task": "creative_culinary_generation",
+    "description_of_task": "Generate creative recipes based on unusual or limited ingredients and suggest cooking techniques.",
+    "capability_being_measured": "creativity, procedural knowledge, culinary expertise",
+    "estimated_human_difficulty": "3"
+}

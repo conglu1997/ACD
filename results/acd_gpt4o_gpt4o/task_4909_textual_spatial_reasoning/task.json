@@ -1,0 +1,6 @@
+{
+    "name_of_task": "textual_spatial_reasoning",
+    "description_of_task": "Interpret and generate textual descriptions of spatial arrangements.",
+    "capability_being_measured": "spatial reasoning, comprehension, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

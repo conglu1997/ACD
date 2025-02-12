@@ -1,0 +1,6 @@
+{
+    "name_of_task": "create_schedule",
+    "description_of_task": "Generate a detailed schedule given a set of tasks with specific constraints.",
+    "capability_being_measured": "planning, constraint satisfaction, problem-solving",
+    "estimated_human_difficulty": "4"
+}

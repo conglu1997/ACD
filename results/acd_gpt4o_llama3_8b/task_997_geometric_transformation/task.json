@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_transformation",
+    "description_of_task": "Describe the transformation of a 2D geometric shape when it undergoes specified transformations such as rotation, reflection, and translation.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive skills",
+    "estimated_human_difficulty": "4"
+}

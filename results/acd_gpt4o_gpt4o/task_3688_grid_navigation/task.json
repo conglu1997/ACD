@@ -1,0 +1,6 @@
+{
+    "name_of_task": "grid_navigation",
+    "description_of_task": "Navigate through a grid-based map with specific constraints and goals, ensuring the path is optimal and adheres to the given rules.",
+    "capability_being_measured": "spatial reasoning, logical planning, optimization",
+    "estimated_human_difficulty": "3"
+}

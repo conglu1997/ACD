@@ -1,0 +1,6 @@
+{
+    "name_of_task": "textual_maze_navigation",
+    "description_of_task": "Navigate through a maze described in textual form and provide the path from start to finish.",
+    "capability_being_measured": "spatial reasoning, problem-solving, following complex instructions",
+    "estimated_human_difficulty": "4"
+}

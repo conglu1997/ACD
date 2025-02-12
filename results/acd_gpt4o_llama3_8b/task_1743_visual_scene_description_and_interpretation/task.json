@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description_and_interpretation",
+    "description_of_task": "Given a detailed description of a visual scene, interpret or transform it based on specific instructions.",
+    "capability_being_measured": "creativity, descriptive language, understanding of visual scenes",
+    "estimated_human_difficulty": "4"
+}

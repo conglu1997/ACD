@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_interpretation_generation",
+    "description_of_task": "Generate song lyrics based on a given theme and interpret musical notation to describe the music in words.",
+    "capability_being_measured": "creativity, musical understanding, interpretative skills",
+    "estimated_human_difficulty": "4"
+}

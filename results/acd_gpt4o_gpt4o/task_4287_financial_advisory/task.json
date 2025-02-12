@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_advisory",
+    "description_of_task": "Provide financial advice and create savings plans based on given scenarios.",
+    "capability_being_measured": "numerical reasoning, financial literacy, practical advice generation",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description",
+    "description_of_task": "Interpret a given visual scene and generate a detailed description of it.",
+    "capability_being_measured": "visual reasoning, descriptive language, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

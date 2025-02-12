@@ -1,0 +1,6 @@
+{
+  "name_of_task": "name_capital_city",
+  "description_of_task": "Return the capital city of a given country.",
+  "capability_being_measured": "knowledge",
+  "estimated_human_difficulty": "2"
+}

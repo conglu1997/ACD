@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_recipe_creation_and_critique",
+    "description_of_task": "Create a recipe based on given dietary restrictions and critique an existing recipe for its nutritional balance and flavor profile.",
+    "capability_being_measured": "creativity, domain-specific knowledge, practical reasoning",
+    "estimated_human_difficulty": "3"
+}

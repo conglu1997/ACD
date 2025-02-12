@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis",
+    "description_of_task": "Analyze historical events and draw meaningful connections between them.",
+    "capability_being_measured": "knowledge, historical analysis, synthesis",
+    "estimated_human_difficulty": "4"
+}

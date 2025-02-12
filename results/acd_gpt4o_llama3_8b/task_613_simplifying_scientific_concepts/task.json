@@ -1,0 +1,6 @@
+{
+    "name_of_task": "simplifying_scientific_concepts",
+    "description_of_task": "Simplify complex scientific concepts into layman's terms.",
+    "capability_being_measured": "comprehension, summarization, communication",
+    "estimated_human_difficulty": "3"
+}

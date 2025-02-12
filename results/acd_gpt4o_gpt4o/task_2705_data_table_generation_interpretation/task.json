@@ -1,0 +1,6 @@
+{
+    "name_of_task": "data_table_generation_interpretation",
+    "description_of_task": "Generate data tables based on specified criteria and interpret data from existing tables to answer questions.",
+    "capability_being_measured": "data handling, analytical skills, structured data interpretation",
+    "estimated_human_difficulty": "3"
+}

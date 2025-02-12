@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_generation",
+    "description_of_task": "Draft a legal document based on given specifications and provide a summary of its key clauses.",
+    "capability_being_measured": "legal knowledge, precision, attention to detail, clarity of communication",
+    "estimated_human_difficulty": "5"
+}

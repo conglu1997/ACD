@@ -1,0 +1,6 @@
+{
+    "name_of_task": "paraphrase_and_synonym",
+    "description_of_task": "Rephrase a given sentence to convey the same meaning using different words and structures.",
+    "capability_being_measured": "linguistic dexterity, paraphrasing, synonym generation",
+    "estimated_human_difficulty": "3"
+}

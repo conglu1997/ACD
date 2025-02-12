@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_dilemma_resolution",
+    "description_of_task": "Interpret a given social dilemma and provide a thoughtful resolution considering the perspectives of all parties involved.",
+    "capability_being_measured": "social reasoning, empathy, conflict resolution",
+    "estimated_human_difficulty": "3"
+}

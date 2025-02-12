@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_fictional_dialogue_generation",
+    "description_of_task": "Generate a fictional dialogue between multiple characters based on detailed constraints including character traits, emotional tones, and situational contexts.",
+    "capability_being_measured": "dialogue generation, understanding of social interactions, creativity",
+    "estimated_human_difficulty": "4"
+}

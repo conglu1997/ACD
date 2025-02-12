@@ -1,0 +1,6 @@
+{
+    "name_of_task": "figurative_language_generation",
+    "description_of_task": "Generate sentences using specific idioms, metaphors, or similes based on given prompts.",
+    "capability_being_measured": "figurative language understanding, creativity, contextual comprehension",
+    "estimated_human_difficulty": "4"
+}

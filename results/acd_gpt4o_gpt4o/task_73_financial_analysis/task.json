@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_analysis",
+    "description_of_task": "Analyze financial data and generate insights based on the given information.",
+    "capability_being_measured": "numerical reasoning, financial understanding, articulation",
+    "estimated_human_difficulty": "4"
+}

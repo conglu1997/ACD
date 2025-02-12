@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation",
+    "description_of_task": "Generate a detailed recipe for a specified dish, including ingredients, quantities, and step-by-step instructions.",
+    "capability_being_measured": "procedural writing, domain knowledge, clarity",
+    "estimated_human_difficulty": "3"
+}

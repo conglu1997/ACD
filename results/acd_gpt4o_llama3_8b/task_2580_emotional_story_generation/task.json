@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_story_generation",
+    "description_of_task": "Generate a short story based on given emotional scenarios and provide a rationale for the emotional arc of the story.",
+    "capability_being_measured": "emotional understanding, creativity, language generation",
+    "estimated_human_difficulty": "4"
+}

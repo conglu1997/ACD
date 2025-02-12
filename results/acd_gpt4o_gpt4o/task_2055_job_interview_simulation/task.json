@@ -1,0 +1,6 @@
+{
+    "name_of_task": "job_interview_simulation",
+    "description_of_task": "Simulate job interview scenarios by generating both interview questions and responses for different job roles, demonstrating an understanding of professional etiquette, communication skills, and situational appropriateness.",
+    "capability_being_measured": "social interaction, professional knowledge, communication skills",
+    "estimated_human_difficulty": "4"
+}

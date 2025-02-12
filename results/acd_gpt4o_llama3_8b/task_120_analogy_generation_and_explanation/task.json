@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_and_explanation",
+    "description_of_task": "Generate analogies based on given concepts and explain the reasoning behind the analogies.",
+    "capability_being_measured": "abstract reasoning and creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "engineering_design_documentation",
+    "description_of_task": "Generate a detailed engineering design document based on given specifications and constraints.",
+    "capability_being_measured": "technical knowledge, synthesis, technical writing",
+    "estimated_human_difficulty": "4"
+}

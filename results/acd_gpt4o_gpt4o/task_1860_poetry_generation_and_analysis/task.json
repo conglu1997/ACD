@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_and_analysis",
+    "description_of_task": "Generate a poem based on a given theme and analyze the poetic devices and themes used in the poem.",
+    "capability_being_measured": "creativity, linguistic skills, cultural understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_plan_execution",
+    "description_of_task": "Create a detailed procedural plan for a project, and then generate a narrative that follows the steps of the plan.",
+    "capability_being_measured": "planning, logical sequencing, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

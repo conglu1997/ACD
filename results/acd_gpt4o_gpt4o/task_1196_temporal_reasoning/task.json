@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_reasoning",
+    "description_of_task": "Create a timeline of events based on a given narrative or historical account and answer questions or make predictions based on that timeline.",
+    "capability_being_measured": "temporal reasoning, comprehension, prediction",
+    "estimated_human_difficulty": "4"
+}

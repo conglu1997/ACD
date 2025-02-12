@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation",
+    "description_of_task": "Generate a simple function based on a given description.",
+    "capability_being_measured": "code understanding and generation",
+    "estimated_human_difficulty": "3"
+}

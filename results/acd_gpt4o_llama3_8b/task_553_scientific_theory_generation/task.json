@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_theory_generation",
+    "description_of_task": "Generate a plausible scientific theory based on given observations or experimental data.",
+    "capability_being_measured": "scientific understanding, reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

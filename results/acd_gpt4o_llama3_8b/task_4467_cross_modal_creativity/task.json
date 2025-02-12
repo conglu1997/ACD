@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_creativity",
+    "description_of_task": "Translate concepts between textual descriptions and visual representations to test cross-modal synthesis capabilities.",
+    "capability_being_measured": "cross-modal synthesis, creativity, descriptive accuracy",
+    "estimated_human_difficulty": "4"
+}

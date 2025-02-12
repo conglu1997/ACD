@@ -1,0 +1,6 @@
+{
+    "name_of_task": "nested_json_transformation",
+    "description_of_task": "Transform a given nested JSON structure according to specified rules.",
+    "capability_being_measured": "data comprehension, logical reasoning, programming",
+    "estimated_human_difficulty": "4"
+}

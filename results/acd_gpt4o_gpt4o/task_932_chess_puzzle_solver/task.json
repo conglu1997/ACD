@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chess_puzzle_solver",
+    "description_of_task": "Solve given chess puzzles and provide the sequence of moves leading to checkmate or a significant advantage.",
+    "capability_being_measured": "game theory, problem-solving, spatial reasoning",
+    "estimated_human_difficulty": "4"
+}

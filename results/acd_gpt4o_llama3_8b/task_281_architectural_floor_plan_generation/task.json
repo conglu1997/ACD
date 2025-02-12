@@ -1,0 +1,6 @@
+{
+    "name_of_task": "architectural_floor_plan_generation",
+    "description_of_task": "Generate a simple architectural floor plan based on given requirements, including room dimensions and placements.",
+    "capability_being_measured": "spatial reasoning, design logic, creativity",
+    "estimated_human_difficulty": "4"
+}

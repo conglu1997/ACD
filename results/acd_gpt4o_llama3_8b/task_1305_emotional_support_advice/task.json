@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_support_advice",
+    "description_of_task": "Provide emotional support and advice based on given hypothetical scenarios.",
+    "capability_being_measured": "empathy, emotional intelligence, supportive communication",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "home_maintenance",
+    "description_of_task": "Diagnose common household issues based on symptoms and provide step-by-step solutions to fix them.",
+    "capability_being_measured": "practical reasoning, procedural knowledge, context-specific understanding",
+    "estimated_human_difficulty": "3"
+}

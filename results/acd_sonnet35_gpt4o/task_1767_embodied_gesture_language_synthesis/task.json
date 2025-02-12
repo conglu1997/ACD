@@ -1,0 +1,6 @@
+{
+    "name_of_task": "embodied_gesture_language_synthesis",
+    "description_of_task": "Design an AI system that can interpret complex gestures and generate corresponding natural language descriptions, then use this system to create a gesture-based language for abstract concepts.",
+    "capability_being_measured": "cross-modal reasoning, embodied cognition understanding, creative language generation, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

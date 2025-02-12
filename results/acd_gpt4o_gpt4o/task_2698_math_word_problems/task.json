@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems",
+    "description_of_task": "Solve mathematical word problems by interpreting the given text and performing the necessary calculations.",
+    "capability_being_measured": "mathematical reasoning, language comprehension",
+    "estimated_human_difficulty": "3"
+}

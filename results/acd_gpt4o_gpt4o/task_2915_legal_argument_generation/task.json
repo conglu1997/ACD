@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argument_generation",
+    "description_of_task": "Generate a detailed legal argument for or against a given proposition based on provided context and legal principles.",
+    "capability_being_measured": "legal knowledge, reasoning, argumentative skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "event_planning",
+    "description_of_task": "Plan a sequence of activities to achieve a specified goal, considering constraints like time, resources, and dependencies.",
+    "capability_being_measured": "planning, prioritization, complex reasoning",
+    "estimated_human_difficulty": "4"
+}

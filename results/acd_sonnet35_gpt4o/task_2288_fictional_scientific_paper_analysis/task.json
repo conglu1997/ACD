@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_scientific_paper_analysis",
+    "description_of_task": "Create and analyze a fictional scientific paper abstract on a given interdisciplinary topic, following academic writing conventions and demonstrating scientific reasoning.",
+    "capability_being_measured": "scientific reasoning, interdisciplinary knowledge application, academic writing skills, and creative problem-solving",
+    "estimated_human_difficulty": "4"
+}

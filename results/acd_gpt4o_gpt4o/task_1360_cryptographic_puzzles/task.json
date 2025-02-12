@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptographic_puzzles",
+    "description_of_task": "Solve cryptographic puzzles that require logical reasoning and pattern recognition to decipher encoded messages.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

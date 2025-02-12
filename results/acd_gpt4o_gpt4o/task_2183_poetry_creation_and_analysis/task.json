@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_creation_and_analysis",
+    "description_of_task": "Generate a poem based on given constraints and analyze an existing poem.",
+    "capability_being_measured": "creativity, literary analysis, comprehension",
+    "estimated_human_difficulty": "4"
+}

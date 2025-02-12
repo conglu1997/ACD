@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_generation",
+    "description_of_task": "Generate visually coherent patterns based on given constraints.",
+    "capability_being_measured": "spatial reasoning, creativity, constraint satisfaction",
+    "estimated_human_difficulty": "3"
+}

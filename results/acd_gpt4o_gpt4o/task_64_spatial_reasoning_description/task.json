@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_description",
+    "description_of_task": "Describe spatial arrangements based on given scenarios.",
+    "capability_being_measured": "spatial reasoning, visualization",
+    "estimated_human_difficulty": "3"
+}

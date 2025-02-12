@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation",
+    "description_of_task": "Navigate a grid or maze to find the shortest path from a starting point to a target destination.",
+    "capability_being_measured": "spatial reasoning and algorithmic thinking",
+    "estimated_human_difficulty": "4"
+}

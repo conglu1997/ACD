@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation",
+    "description_of_task": "Interpret a given legal scenario and generate appropriate legal arguments for both sides.",
+    "capability_being_measured": "legal reasoning, argumentation, understanding of legal principles",
+    "estimated_human_difficulty": "4"
+}

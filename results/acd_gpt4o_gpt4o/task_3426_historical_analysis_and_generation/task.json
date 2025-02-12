@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis_and_generation",
+    "description_of_task": "Generate historically accurate speeches and interpret the significance of historical events.",
+    "capability_being_measured": "historical knowledge, contextual reasoning, creative generation",
+    "estimated_human_difficulty": "4"
+}

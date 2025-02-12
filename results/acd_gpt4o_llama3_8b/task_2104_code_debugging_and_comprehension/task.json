@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debugging_and_comprehension",
+    "description_of_task": "Identify and fix bugs in a given code snippet, and explain the functionality of the corrected code.",
+    "capability_being_measured": "programming skill, problem-solving, code comprehension",
+    "estimated_human_difficulty": "4"
+}

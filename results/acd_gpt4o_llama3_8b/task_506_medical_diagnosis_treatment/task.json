@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_diagnosis_treatment",
+    "description_of_task": "Provide a plausible medical diagnosis and suggest a treatment plan based on a given set of symptoms.",
+    "capability_being_measured": "specialized knowledge, reasoning, language generation",
+    "estimated_human_difficulty": "5"
+}

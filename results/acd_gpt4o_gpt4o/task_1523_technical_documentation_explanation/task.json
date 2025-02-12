@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation_explanation",
+    "description_of_task": "Explain complex technical systems or concepts based on provided documentation.",
+    "capability_being_measured": "technical comprehension, explanatory skills, simplification of complex concepts",
+    "estimated_human_difficulty": "4"
+}

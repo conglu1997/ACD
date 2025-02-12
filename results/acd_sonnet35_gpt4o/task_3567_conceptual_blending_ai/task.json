@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conceptual_blending_ai",
+    "description_of_task": "Design an AI system that performs conceptual blending across different domains to generate novel ideas, then analyze its output for creativity and practicality",
+    "capability_being_measured": "abstract reasoning, creativity, cross-domain knowledge integration, and analytical evaluation of novel concepts",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conceptual_blending",
+    "description_of_task": "Combine concepts from different domains to create coherent and creative analogies or narratives.",
+    "capability_being_measured": "creativity, abstract reasoning, cross-domain knowledge",
+    "estimated_human_difficulty": "4"
+}

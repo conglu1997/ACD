@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_recognition_and_generation",
+    "description_of_task": "Interpret a given visual pattern described in text and generate a new visual pattern based on specified criteria.",
+    "capability_being_measured": "logical reasoning, visual pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sustained_conversation",
+    "description_of_task": "Engage in a multi-turn conversation on a given topic, ensuring coherence, relevance, and context retention across all turns.",
+    "capability_being_measured": "conversational coherence, contextual understanding, interactive language skills",
+    "estimated_human_difficulty": "3"
+}

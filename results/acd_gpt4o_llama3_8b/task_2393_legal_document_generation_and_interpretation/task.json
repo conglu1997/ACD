@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_generation_and_interpretation",
+    "description_of_task": "Generate a legal contract based on given criteria and interpret a provided legal document.",
+    "capability_being_measured": "legal knowledge, language understanding, document generation",
+    "estimated_human_difficulty": "4"
+}

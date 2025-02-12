@@ -1,0 +1,6 @@
+{
+    "name_of_task": "time_calculation",
+    "description_of_task": "Calculate the total time required to complete a set of activities based on given conditions.",
+    "capability_being_measured": "procedural following and mathematical reasoning",
+    "estimated_human_difficulty": "3"
+}

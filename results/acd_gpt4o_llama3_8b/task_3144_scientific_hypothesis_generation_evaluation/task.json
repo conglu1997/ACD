@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_generation_evaluation",
+    "description_of_task": "Generate scientific hypotheses based on given data and context, and evaluate the strengths and weaknesses of provided hypotheses.",
+    "capability_being_measured": "scientific reasoning, critical thinking, knowledge application",
+    "estimated_human_difficulty": "4"
+}

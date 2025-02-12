@@ -1,0 +1,6 @@
+{
+    "name_of_task": "situational_judgment_tests",
+    "description_of_task": "Evaluate the best course of action in given real-life scenarios to measure decision-making and ethical reasoning.",
+    "capability_being_measured": "decision-making, ethical reasoning, social intelligence",
+    "estimated_human_difficulty": "3"
+}

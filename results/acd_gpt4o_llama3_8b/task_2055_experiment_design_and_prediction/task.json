@@ -1,0 +1,6 @@
+{
+    "name_of_task": "experiment_design_and_prediction",
+    "description_of_task": "Design a scientific experiment based on given parameters and predict the outcomes.",
+    "capability_being_measured": "scientific knowledge, application of principles, creativity",
+    "estimated_human_difficulty": "4"
+}

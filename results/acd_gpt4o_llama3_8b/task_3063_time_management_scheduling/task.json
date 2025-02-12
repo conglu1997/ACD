@@ -1,0 +1,6 @@
+{
+    "name_of_task": "time_management_scheduling",
+    "description_of_task": "Create an optimal schedule for a set of tasks with various constraints and dependencies.",
+    "capability_being_measured": "logical reasoning, prioritization, optimization",
+    "estimated_human_difficulty": "4"
+}

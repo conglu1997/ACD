@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_limerick",
+    "description_of_task": "Generate a limerick based on a given prompt. A limerick is a humorous five-line poem with a specific rhyme scheme (AABBA) and meter.",
+    "capability_being_measured": "creativity, linguistic skills, adherence to poetic structure",
+    "estimated_human_difficulty": "3"
+}

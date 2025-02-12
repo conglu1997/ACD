@@ -1,0 +1,6 @@
+{
+    "name_of_task": "counterfactual_reasoning",
+    "description_of_task": "Generate and reason about counterfactual scenarios based on given events or conditions.",
+    "capability_being_measured": "hypothetical reasoning, creativity, logical thinking",
+    "estimated_human_difficulty": "4"
+}

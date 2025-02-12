@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_literacy",
+    "description_of_task": "Interpret financial statements and make budget decisions based on provided financial data.",
+    "capability_being_measured": "financial literacy, analytical reasoning, decision-making",
+    "estimated_human_difficulty": "4"
+}

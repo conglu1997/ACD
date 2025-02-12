@@ -1,0 +1,6 @@
+{
+    "name_of_task": "daily_scheduling_prioritization",
+    "description_of_task": "Create a daily schedule based on given tasks, priorities, and constraints.",
+    "capability_being_measured": "time management, decision making, prioritization",
+    "estimated_human_difficulty": "3"
+}

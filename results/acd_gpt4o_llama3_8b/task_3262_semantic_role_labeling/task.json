@@ -1,0 +1,6 @@
+{
+    "name_of_task": "semantic_role_labeling",
+    "description_of_task": "Identify the predicate-argument structures in the given sentences.",
+    "capability_being_measured": "language understanding, syntactic and semantic analysis",
+    "estimated_human_difficulty": "3"
+}

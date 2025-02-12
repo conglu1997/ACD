@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_explanation_modification",
+    "description_of_task": "Explain and modify given code snippets based on specified requirements.",
+    "capability_being_measured": "code understanding, logical reasoning, and articulation of complex ideas",
+    "estimated_human_difficulty": "4"
+}

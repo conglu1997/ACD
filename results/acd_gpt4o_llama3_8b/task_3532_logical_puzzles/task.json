@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzles",
+    "description_of_task": "Solve classic logical puzzles and explain the reasoning process.",
+    "capability_being_measured": "logical reasoning, problem-solving, deductive reasoning",
+    "estimated_human_difficulty": "4"
+}

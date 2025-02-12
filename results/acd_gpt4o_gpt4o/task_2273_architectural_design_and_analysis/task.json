@@ -1,0 +1,6 @@
+{
+    "name_of_task": "architectural_design_and_analysis",
+    "description_of_task": "Generate a detailed architectural plan based on given constraints and analyze a provided architectural blueprint for design elements and functionality.",
+    "capability_being_measured": "spatial reasoning, design thinking, technical knowledge",
+    "estimated_human_difficulty": "5"
+}

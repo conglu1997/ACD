@@ -1,0 +1,6 @@
+{
+    "name_of_task": "language_style_transformation",
+    "description_of_task": "Transform a given text from one style to another while preserving the original meaning.",
+    "capability_being_measured": "linguistic flexibility, creativity, language understanding",
+    "estimated_human_difficulty": "3"
+}

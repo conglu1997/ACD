@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis_and_prediction",
+    "description_of_task": "Analyze given historical events and make reasoned predictions about future events based on patterns and trends.",
+    "capability_being_measured": "historical knowledge, pattern recognition, predictive reasoning",
+    "estimated_human_difficulty": "4"
+}

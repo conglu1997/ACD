@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation",
+    "description_of_task": "Plan and describe a route through a defined spatial environment based on a given map and specific requirements.",
+    "capability_being_measured": "spatial reasoning, navigation, direction following",
+    "estimated_human_difficulty": "3"
+}

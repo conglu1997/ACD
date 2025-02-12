@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logic_puzzle_creation_and_solving",
+    "description_of_task": "Create a logic puzzle and provide instructions for solving it. The agent must solve the puzzle and explain their solution process.",
+    "capability_being_measured": "logical reasoning, problem-solving, instruction following",
+    "estimated_human_difficulty": "4"
+}

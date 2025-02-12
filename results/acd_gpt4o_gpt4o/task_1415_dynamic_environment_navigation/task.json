@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dynamic_environment_navigation",
+    "description_of_task": "Interpret data from a simulated environment and make real-time decisions for navigation.",
+    "capability_being_measured": "real-time decision making, spatial-temporal reasoning, data interpretation",
+    "estimated_human_difficulty": "4"
+}

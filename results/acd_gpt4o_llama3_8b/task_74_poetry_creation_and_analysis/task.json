@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_creation_and_analysis",
+    "description_of_task": "Generate and analyze poetry based on given themes or prompts.",
+    "capability_being_measured": "creativity, language generation, literary analysis",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning",
+    "description_of_task": "Predict the outcome of spatial transformations applied to 2D shapes.",
+    "capability_being_measured": "spatial reasoning, mental rotation, visual understanding",
+    "estimated_human_difficulty": "3"
+}

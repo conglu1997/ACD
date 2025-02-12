@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_cognitive_metaphor_translation",
+    "description_of_task": "Design and implement a system that translates complex cognitive metaphors between different conceptual domains, then analyze an AI language model's ability to understand and generate these metaphor translations.",
+    "capability_being_measured": "abstract reasoning, cross-domain knowledge integration, metaphorical thinking, and linguistic creativity",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "procedural_instruction_generation",
+    "description_of_task": "Interpret a set of procedural instructions to complete a task and create a new set of procedural instructions for a different task.",
+    "capability_being_measured": "comprehension, logical sequencing, instructional clarity",
+    "estimated_human_difficulty": "3"
+}

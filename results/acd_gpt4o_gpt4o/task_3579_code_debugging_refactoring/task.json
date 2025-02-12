@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debugging_refactoring",
+    "description_of_task": "Identify and fix errors in a given code snippet and refactor the code to improve its readability and efficiency.",
+    "capability_being_measured": "programming skills, code comprehension, problem-solving",
+    "estimated_human_difficulty": "4"
+}

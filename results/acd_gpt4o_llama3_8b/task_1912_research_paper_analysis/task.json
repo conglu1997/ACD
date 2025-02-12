@@ -1,0 +1,6 @@
+{
+    "name_of_task": "research_paper_analysis",
+    "description_of_task": "Analyze a given research paper's abstract and data, summarize key findings, and generate a visual representation of the data.",
+    "capability_being_measured": "data comprehension, reasoning, synthesis, visualization",
+    "estimated_human_difficulty": "4"
+}

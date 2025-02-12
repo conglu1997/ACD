@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_diary_entry",
+    "description_of_task": "Write a diary entry from the perspective of a historical figure based on a given date and event.",
+    "capability_being_measured": "historical knowledge, contextual reasoning, narrative generation",
+    "estimated_human_difficulty": "4"
+}

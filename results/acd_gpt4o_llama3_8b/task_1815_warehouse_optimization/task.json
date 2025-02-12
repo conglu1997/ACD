@@ -1,0 +1,6 @@
+{
+    "name_of_task": "warehouse_optimization",
+    "description_of_task": "Optimize the layout and inventory management of a warehouse given specific constraints.",
+    "capability_being_measured": "logical reasoning, mathematical optimization, resource management",
+    "estimated_human_difficulty": "4"
+}

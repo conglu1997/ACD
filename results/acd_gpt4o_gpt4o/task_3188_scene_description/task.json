@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scene_description",
+    "description_of_task": "Provide a detailed textual description of a scene based on given visual elements and constraints.",
+    "capability_being_measured": "comprehension, descriptive abilities, visual interpretation",
+    "estimated_human_difficulty": "3"
+}

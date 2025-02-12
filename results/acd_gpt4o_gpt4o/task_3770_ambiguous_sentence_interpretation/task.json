@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ambiguous_sentence_interpretation",
+    "description_of_task": "Interpret sentences with multiple meanings and provide explanations for each possible interpretation.",
+    "capability_being_measured": "linguistic parsing, contextual understanding, ambiguity resolution",
+    "estimated_human_difficulty": "4"
+}

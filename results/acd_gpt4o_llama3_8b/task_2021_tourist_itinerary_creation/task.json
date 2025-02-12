@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tourist_itinerary_creation",
+    "description_of_task": "Create a detailed tourist itinerary for a hypothetical visitor in a given city, including activities, places to visit, and dining options.",
+    "capability_being_measured": "synthesis of information, creativity, travel knowledge, organizational skills",
+    "estimated_human_difficulty": "3"
+}

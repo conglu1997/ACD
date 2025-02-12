@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_3d",
+    "description_of_task": "Interpret and manipulate 3D objects described in text form.",
+    "capability_being_measured": "spatial reasoning, visual comprehension, logical thinking",
+    "estimated_human_difficulty": "4"
+}

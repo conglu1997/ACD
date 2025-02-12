@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_continuation",
+    "description_of_task": "Continue a story based on a given theme and writing style.",
+    "capability_being_measured": "creative writing, language understanding, style adaptation",
+    "estimated_human_difficulty": "4"
+}

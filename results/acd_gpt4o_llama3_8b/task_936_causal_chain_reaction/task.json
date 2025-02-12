@@ -1,0 +1,6 @@
+{
+    "name_of_task": "causal_chain_reaction",
+    "description_of_task": "Predict the outcomes of a sequence of actions based on given starting conditions.",
+    "capability_being_measured": "logical reasoning, causal analysis",
+    "estimated_human_difficulty": "4"
+}

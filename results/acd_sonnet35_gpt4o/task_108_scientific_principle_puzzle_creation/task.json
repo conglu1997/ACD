@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_principle_puzzle_creation",
+    "description_of_task": "Create and solve a puzzle based on a given scientific principle, then explain how the puzzle demonstrates the principle.",
+    "capability_being_measured": "scientific understanding, creative problem-solving, and effective communication of complex concepts",
+    "estimated_human_difficulty": "4"
+}

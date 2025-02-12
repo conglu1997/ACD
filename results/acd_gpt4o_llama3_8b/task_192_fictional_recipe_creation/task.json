@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fictional_recipe_creation",
+    "description_of_task": "Create a detailed recipe for a fictional dish, including ingredients, steps, and a brief description of the dish.",
+    "capability_being_measured": "creativity, language understanding, procedural knowledge",
+    "estimated_human_difficulty": "3"
+}

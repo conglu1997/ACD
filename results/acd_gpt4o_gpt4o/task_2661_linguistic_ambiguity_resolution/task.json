@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_ambiguity_resolution",
+    "description_of_task": "Interpret sentences with multiple possible meanings and clarify the intended meaning based on context.",
+    "capability_being_measured": "linguistic understanding, contextual reasoning",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_music_notation",
+    "description_of_task": "Convert a textual description of a musical piece into a simplified musical notation.",
+    "capability_being_measured": "musical understanding, text-to-notation conversion, structured data generation",
+    "estimated_human_difficulty": "4"
+}

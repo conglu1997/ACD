@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_grid_puzzle",
+    "description_of_task": "Solve and create mathematical grid puzzles based on given rules and constraints.",
+    "capability_being_measured": "logical reasoning, problem-solving, mathematical understanding",
+    "estimated_human_difficulty": "4"
+}

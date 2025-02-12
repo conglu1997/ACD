@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description",
+    "description_of_task": "Generate detailed visual descriptions from images and create images based on textual descriptions.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive language, creativity",
+    "estimated_human_difficulty": "4"
+}

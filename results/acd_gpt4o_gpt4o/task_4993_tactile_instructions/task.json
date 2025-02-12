@@ -1,0 +1,6 @@
+{
+    "name_of_task": "tactile_instructions",
+    "description_of_task": "Create detailed instructions for making a tangible object (e.g., origami, simple craft) and interpret similar tactile instructions.",
+    "capability_being_measured": "spatial reasoning, sequential thinking, creativity",
+    "estimated_human_difficulty": "4"
+}

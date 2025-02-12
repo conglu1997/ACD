@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_poetry_generation",
+    "description_of_task": "Generate abstract poetry based on given themes and constraints.",
+    "capability_being_measured": "creativity, linguistic dexterity, emotional expression",
+    "estimated_human_difficulty": "4"
+}

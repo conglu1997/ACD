@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_interpretation",
+    "description_of_task": "Interpret a detailed visual scene description and generate a coherent and accurate written description or story based on that scene.",
+    "capability_being_measured": "visualization, descriptive skills, spatial reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

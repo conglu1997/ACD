@@ -1,0 +1,6 @@
+{
+    "name_of_task": "assembly_instruction_generation",
+    "description_of_task": "Generate step-by-step assembly instructions for a given set of parts to form a specified object.",
+    "capability_being_measured": "spatial reasoning, sequential instruction generation, descriptive language",
+    "estimated_human_difficulty": "4"
+}

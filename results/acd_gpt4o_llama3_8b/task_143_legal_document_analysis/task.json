@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_analysis",
+    "description_of_task": "Analyze a given legal document and answer specific questions based on its clauses.",
+    "capability_being_measured": "legal knowledge, reading comprehension, critical thinking",
+    "estimated_human_difficulty": "5"
+}

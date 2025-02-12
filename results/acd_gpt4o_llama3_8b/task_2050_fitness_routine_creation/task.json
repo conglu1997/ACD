@@ -1,0 +1,6 @@
+{
+    "name_of_task": "fitness_routine_creation",
+    "description_of_task": "Interpret given fitness goals and constraints to generate a suitable fitness routine.",
+    "capability_being_measured": "domain-specific knowledge (fitness), creativity, practical problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_puzzle_solving",
+    "description_of_task": "Solve visual puzzles by describing the sequence of moves needed to achieve a specific outcome.",
+    "capability_being_measured": "spatial reasoning, problem-solving, logical sequencing",
+    "estimated_human_difficulty": "4"
+}

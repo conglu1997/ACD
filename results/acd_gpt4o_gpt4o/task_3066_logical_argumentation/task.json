@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_argumentation",
+    "description_of_task": "Evaluate the validity of arguments based on given premises and generate logically coherent arguments.",
+    "capability_being_measured": "logical reasoning, coherence, argumentation",
+    "estimated_human_difficulty": "4"
+}

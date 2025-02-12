@@ -1,0 +1,6 @@
+{
+    "name_of_task": "chord_progression_generation",
+    "description_of_task": "Generate a chord progression based on given musical parameters and explain the choices made.",
+    "capability_being_measured": "musical theory understanding, creativity, structured rule application",
+    "estimated_human_difficulty": "3"
+}

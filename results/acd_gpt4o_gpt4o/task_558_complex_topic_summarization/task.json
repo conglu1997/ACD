@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_topic_summarization",
+    "description_of_task": "Summarize a given complex topic at various levels of detail.",
+    "capability_being_measured": "comprehension, summarization, communication skills",
+    "estimated_human_difficulty": "4"
+}

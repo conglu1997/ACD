@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation_generation",
+    "description_of_task": "Generate and interpret music notation based on given instructions.",
+    "capability_being_measured": "knowledge of music theory, pattern recognition, creative composition",
+    "estimated_human_difficulty": "3"
+}

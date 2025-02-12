@@ -1,0 +1,6 @@
+{
+    "name_of_task": "reverse_engineering_code",
+    "description_of_task": "Understand and reproduce the functionality of given code snippets. The task involves analyzing a provided code snippet and then writing a new code snippet that achieves the same functionality without directly copying the original code.",
+    "capability_being_measured": "code comprehension, reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

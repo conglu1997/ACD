@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_historical_context_inference",
+    "description_of_task": "Infer and generate information about cultural and historical contexts based on given prompts.",
+    "capability_being_measured": "knowledge, contextual understanding, inference",
+    "estimated_human_difficulty": "3"
+}

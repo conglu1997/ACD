@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_puzzle_solving",
+    "description_of_task": "Solve spatial puzzles that require visual-spatial manipulation and logical deduction.",
+    "capability_being_measured": "spatial reasoning, logical deduction",
+    "estimated_human_difficulty": "5"
+}

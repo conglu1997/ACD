@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_calculations",
+    "description_of_task": "Solve financial calculation problems based on given scenarios, such as loan amortizations or investment growth.",
+    "capability_being_measured": "numerical reasoning, problem-solving, practical application of mathematical concepts",
+    "estimated_human_difficulty": "3"
+}

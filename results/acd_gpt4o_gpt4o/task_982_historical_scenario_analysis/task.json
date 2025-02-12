@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_scenario_analysis",
+    "description_of_task": "Analyze a given historical event and predict plausible future scenarios based on historical continuity and causal reasoning.",
+    "capability_being_measured": "historical understanding, causal reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

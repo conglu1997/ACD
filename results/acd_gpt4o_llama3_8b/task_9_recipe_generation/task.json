@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_generation",
+    "description_of_task": "Generate a recipe based on given specifications.",
+    "capability_being_measured": "structured information generation and language understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_reconstruction",
+    "description_of_task": "Reconstruct a timeline and provide a detailed narrative of given historical events.",
+    "capability_being_measured": "historical knowledge, reasoning, narrative skills",
+    "estimated_human_difficulty": "4"
+}

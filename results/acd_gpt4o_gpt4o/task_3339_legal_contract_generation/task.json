@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_contract_generation",
+    "description_of_task": "Generate legal contracts based on given scenarios and translate legal jargon into layman's terms.",
+    "capability_being_measured": "legal understanding, language generation, clarity of communication",
+    "estimated_human_difficulty": "4"
+}

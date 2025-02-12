@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ethical_argumentation",
+    "description_of_task": "Generate ethical arguments for both sides of a given ethical dilemma.",
+    "capability_being_measured": "ethical reasoning and argumentation",
+    "estimated_human_difficulty": "4"
+}

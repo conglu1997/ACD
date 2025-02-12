@@ -1,0 +1,6 @@
+{
+    "name_of_task": "conversational_role_playing",
+    "description_of_task": "Engage in a role-playing conversation to achieve a specific outcome based on given scenarios.",
+    "capability_being_measured": "conversational skills, context maintenance, dynamic adaptation",
+    "estimated_human_difficulty": "3"
+}

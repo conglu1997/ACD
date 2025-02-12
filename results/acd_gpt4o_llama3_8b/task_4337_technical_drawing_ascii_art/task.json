@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_drawing_ascii_art",
+    "description_of_task": "Convert a given textual description of a mechanical component into an ASCII art representation, ensuring the depiction accurately reflects the described object.",
+    "capability_being_measured": "technical understanding, spatial reasoning, creativity",
+    "estimated_human_difficulty": "5"
+}

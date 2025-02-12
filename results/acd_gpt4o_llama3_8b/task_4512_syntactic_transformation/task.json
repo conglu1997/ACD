@@ -1,0 +1,6 @@
+{
+    "name_of_task": "syntactic_transformation",
+    "description_of_task": "Transform given sentences by applying specified syntactic changes.",
+    "capability_being_measured": "syntactic understanding, linguistic manipulation, language comprehension",
+    "estimated_human_difficulty": "3"
+}

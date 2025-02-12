@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_narrative_construction",
+    "description_of_task": "Construct a short narrative that follows a given logical structure and translate logical statements into natural language.",
+    "capability_being_measured": "abstract reasoning, knowledge of formal logic, and creative writing",
+    "estimated_human_difficulty": "4"
+}

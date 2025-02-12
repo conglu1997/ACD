@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_poetry",
+    "description_of_task": "Compose a poem that accurately and creatively represents a given scientific concept.",
+    "capability_being_measured": "knowledge, creativity, synthesis",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_role_play",
+    "description_of_task": "Simulate a dialogue where you play a character in a historical scenario.",
+    "capability_being_measured": "historical knowledge, creativity, dialogue generation, consistency",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_cipher_challenge",
+    "description_of_task": "Decode a given historical cipher and create a new cipher based on a different historical period.",
+    "capability_being_measured": "historical knowledge, cryptography skills, linguistic creativity, and logical reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_speculative_fiction",
+    "description_of_task": "Create a speculative fiction narrative based on a given historical event and include accurate historical details.",
+    "capability_being_measured": "historical knowledge, creativity, cross-domain integration",
+    "estimated_human_difficulty": "4"
+}

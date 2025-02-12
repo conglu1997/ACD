@@ -1,0 +1,6 @@
+{
+    "name_of_task": "prose_poetry_transformation",
+    "description_of_task": "Convert given prose into poetry and given poetry into prose while maintaining meaning and coherence.",
+    "capability_being_measured": "linguistic skills, creativity, text transformation",
+    "estimated_human_difficulty": "4"
+}

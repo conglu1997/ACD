@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_synthesis_prediction",
+    "description_of_task": "Synthesize information from given historical events and predict plausible outcomes based on a hypothetical scenario.",
+    "capability_being_measured": "knowledge, reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

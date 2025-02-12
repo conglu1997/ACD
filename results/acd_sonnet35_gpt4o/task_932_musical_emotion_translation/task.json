@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_emotion_translation",
+    "description_of_task": "Translate emotional content between musical elements and natural language, then compose a short musical piece based on a given emotional narrative.",
+    "capability_being_measured": "Understanding of music theory, emotional intelligence, linguistic creativity, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "4"
+}

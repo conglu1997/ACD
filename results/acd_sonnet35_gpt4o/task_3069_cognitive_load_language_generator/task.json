@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cognitive_load_language_generator",
+    "description_of_task": "Design and implement an AI system that generates sentences with varying levels of cognitive load, then analyzes and explains the cognitive demands of processing these sentences.",
+    "capability_being_measured": "Understanding of cognitive linguistics, ability to simulate human-like language processing, and meta-cognitive reasoning about language complexity",
+    "estimated_human_difficulty": "5"
+}

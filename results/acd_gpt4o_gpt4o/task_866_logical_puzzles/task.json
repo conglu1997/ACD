@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzles",
+    "description_of_task": "Solve classic logical puzzles such as river crossing and truth-teller and liar puzzles.",
+    "capability_being_measured": "logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

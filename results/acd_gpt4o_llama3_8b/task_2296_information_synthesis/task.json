@@ -1,0 +1,6 @@
+{
+    "name_of_task": "information_synthesis",
+    "description_of_task": "Summarize complex scenarios by synthesizing information from multiple provided texts.",
+    "capability_being_measured": "comprehension, synthesis, summarization",
+    "estimated_human_difficulty": "4"
+}

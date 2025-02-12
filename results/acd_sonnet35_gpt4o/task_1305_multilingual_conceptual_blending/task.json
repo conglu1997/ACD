@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_conceptual_blending",
+    "description_of_task": "Design and implement a multilingual conceptual blending system that generates creative solutions to complex problems by combining concepts from different languages and domains.",
+    "capability_being_measured": "multilingual processing, abstract reasoning, creative problem-solving, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

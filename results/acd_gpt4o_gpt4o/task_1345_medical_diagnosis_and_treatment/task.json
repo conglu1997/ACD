@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_diagnosis_and_treatment",
+    "description_of_task": "Diagnose a medical condition based on presented symptoms and provide a treatment plan.",
+    "capability_being_measured": "medical knowledge, diagnostic reasoning, synthesis",
+    "estimated_human_difficulty": "5"
+}

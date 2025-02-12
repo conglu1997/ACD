@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_style_rewriting",
+    "description_of_task": "Rewrite a given text segment in a specified literary style.",
+    "capability_being_measured": "literary understanding, creativity, stylistic adaptation",
+    "estimated_human_difficulty": "4"
+}

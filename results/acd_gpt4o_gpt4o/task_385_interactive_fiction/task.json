@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_fiction",
+    "description_of_task": "Engage in a conversation-driven interactive fiction where the model must respond to user inputs while maintaining a coherent and engaging story.",
+    "capability_being_measured": "creativity, coherence, responsiveness",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "contextual_language_translation_transformation",
+    "description_of_task": "Translate a given text between languages and transform it according to specific stylistic or contextual requirements.",
+    "capability_being_measured": "language translation, contextual adaptation, creativity",
+    "estimated_human_difficulty": "4"
+}

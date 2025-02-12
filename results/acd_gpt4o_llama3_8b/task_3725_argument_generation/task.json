@@ -1,0 +1,6 @@
+{
+    "name_of_task": "argument_generation",
+    "description_of_task": "Generate coherent and logically consistent arguments for and against a given controversial topic.",
+    "capability_being_measured": "logical reasoning, persuasive writing, understanding complex issues",
+    "estimated_human_difficulty": "4"
+}

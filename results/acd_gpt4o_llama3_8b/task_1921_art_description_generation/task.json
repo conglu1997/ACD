@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_description_generation",
+    "description_of_task": "Generate detailed descriptions of visual artworks based on given prompts.",
+    "capability_being_measured": "creativity, descriptive writing, visual understanding",
+    "estimated_human_difficulty": "4"
+}

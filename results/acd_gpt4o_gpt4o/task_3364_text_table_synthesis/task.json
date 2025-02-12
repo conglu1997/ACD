@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_table_synthesis",
+    "description_of_task": "Interpret information from a combination of textual descriptions and tabular data, then synthesize this information to answer questions or solve problems.",
+    "capability_being_measured": "multimodal data interpretation, synthesis, analytical reasoning",
+    "estimated_human_difficulty": "4"
+}

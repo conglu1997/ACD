@@ -1,0 +1,6 @@
+{
+    "name_of_task": "api_documentation_generation",
+    "description_of_task": "Generate technical API documentation for a given set of functions, including descriptions, parameter explanations, and example usage.",
+    "capability_being_measured": "technical understanding, language generation, clarity of explanation",
+    "estimated_human_difficulty": "4"
+}

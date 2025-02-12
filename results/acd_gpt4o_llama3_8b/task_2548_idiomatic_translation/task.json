@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiomatic_translation",
+    "description_of_task": "Translate idiomatic expressions and compound sentences between English and another specified language while preserving the meaning and cultural nuances.",
+    "capability_being_measured": "multilingual understanding, translation accuracy, cultural nuance comprehension",
+    "estimated_human_difficulty": "4"
+}

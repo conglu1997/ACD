@@ -1,0 +1,6 @@
+{
+    "name_of_task": "board_game_strategy",
+    "description_of_task": "Analyze a given board game scenario and provide the best move along with a detailed explanation of the strategy.",
+    "capability_being_measured": "logical reasoning, strategic thinking, game mechanics understanding",
+    "estimated_human_difficulty": "4"
+}

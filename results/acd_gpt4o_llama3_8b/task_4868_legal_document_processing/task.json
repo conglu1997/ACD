@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_document_processing",
+    "description_of_task": "Generate legal clauses based on given requirements and identify issues in provided legal text.",
+    "capability_being_measured": "legal comprehension, precise language use, formal structure adherence",
+    "estimated_human_difficulty": "5"
+}

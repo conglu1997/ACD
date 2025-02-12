@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_description_interpretation",
+    "description_of_task": "Interpret a detailed description of an image and generate a coherent narrative or explanation based on the description.",
+    "capability_being_measured": "spatial reasoning, descriptive ability, attention to detail",
+    "estimated_human_difficulty": "4"
+}

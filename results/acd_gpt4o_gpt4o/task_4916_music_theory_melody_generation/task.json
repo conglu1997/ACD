@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_theory_melody_generation",
+    "description_of_task": "Identify musical scales and generate melodies based on given scales and constraints.",
+    "capability_being_measured": "knowledge, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

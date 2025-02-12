@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cryptographic_puzzles",
+    "description_of_task": "Solve and create cryptographic puzzles based on given criteria.",
+    "capability_being_measured": "logical reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "4"
+}

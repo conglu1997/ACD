@@ -1,0 +1,6 @@
+{
+    "name_of_task": "document_generation",
+    "description_of_task": "Generate a structured document based on given prompts and formatting guidelines.",
+    "capability_being_measured": "structural organization, creativity, formatting skills",
+    "estimated_human_difficulty": "4"
+}

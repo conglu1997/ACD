@@ -1,0 +1,6 @@
+{
+    "name_of_task": "combinatorial_optimization",
+    "description_of_task": "Solve combinatorial optimization problems such as the Traveling Salesman Problem (TSP) and the Knapsack Problem.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, heuristic reasoning",
+    "estimated_human_difficulty": "4"
+}

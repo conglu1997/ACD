@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_argumentation",
+    "description_of_task": "Construct and analyze legal arguments based on given case descriptions and legal precedents.",
+    "capability_being_measured": "legal knowledge, logical reasoning, language comprehension",
+    "estimated_human_difficulty": "5"
+}

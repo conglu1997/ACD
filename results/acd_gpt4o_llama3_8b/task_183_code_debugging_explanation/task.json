@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debugging_explanation",
+    "description_of_task": "Identify and explain bugs in a given piece of code.",
+    "capability_being_measured": "programming knowledge, problem-solving, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

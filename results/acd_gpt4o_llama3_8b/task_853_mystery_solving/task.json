@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mystery_solving",
+    "description_of_task": "Analyze given clues from a fictional mystery and generate a plausible solution with a detailed explanation.",
+    "capability_being_measured": "multi-step logical reasoning, consistency, narrative generation",
+    "estimated_human_difficulty": "4"
+}

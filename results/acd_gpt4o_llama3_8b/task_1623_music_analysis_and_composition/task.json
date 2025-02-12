@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_analysis_and_composition",
+    "description_of_task": "Analyze a given musical piece and generate a new melody based on specified criteria.",
+    "capability_being_measured": "musical knowledge, creativity, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

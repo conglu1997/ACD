@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_construction_description",
+    "description_of_task": "Describe the steps to construct a specific geometric shape or object using given materials.",
+    "capability_being_measured": "spatial reasoning, physical intuition, language understanding",
+    "estimated_human_difficulty": "4"
+}

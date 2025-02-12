@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_identification",
+    "description_of_task": "Identify and explain a historical event based on a given description.",
+    "capability_being_measured": "knowledge, reasoning, synthesis",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_concept_synthesis",
+    "description_of_task": "Design an AI system capable of generating novel visual concepts by combining and transforming memories of observed images, then analyze its creative process and outputs.",
+    "capability_being_measured": "visual reasoning, associative memory, creative synthesis, and interdisciplinary AI system design",
+    "estimated_human_difficulty": "5"
+}

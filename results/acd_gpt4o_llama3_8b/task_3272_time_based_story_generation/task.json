@@ -1,0 +1,6 @@
+{
+    "name_of_task": "time_based_story_generation",
+    "description_of_task": "Generate coherent narratives based on given temporal sequences and interpret temporal sequences in given narratives.",
+    "capability_being_measured": "temporal reasoning, narrative generation, logical sequencing",
+    "estimated_human_difficulty": "4"
+}

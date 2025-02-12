@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_generation_and_usage",
+    "description_of_task": "Generate sentences using specified idiomatic expressions correctly, demonstrating an understanding of their meanings and appropriate contexts.",
+    "capability_being_measured": "language understanding, creative language use, contextual comprehension",
+    "estimated_human_difficulty": "3"
+}

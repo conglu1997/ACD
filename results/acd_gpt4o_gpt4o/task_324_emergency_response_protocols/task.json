@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emergency_response_protocols",
+    "description_of_task": "Generate detailed instructions for handling emergency situations and interpret given emergency protocols.",
+    "capability_being_measured": "comprehension, procedural knowledge, instructional clarity",
+    "estimated_human_difficulty": "4"
+}

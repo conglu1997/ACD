@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation_conversion",
+    "description_of_task": "Convert musical notation from one form to another, such as from sheet music to ABC notation or vice versa.",
+    "capability_being_measured": "musical knowledge, pattern recognition, conversion skills",
+    "estimated_human_difficulty": "4"
+}

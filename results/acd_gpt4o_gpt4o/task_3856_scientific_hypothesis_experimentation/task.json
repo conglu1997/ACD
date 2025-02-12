@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_experimentation",
+    "description_of_task": "Formulate a scientific hypothesis based on given data, design an experiment to test it, and draw conclusions from experimental results.",
+    "capability_being_measured": "scientific reasoning, critical thinking, problem-solving",
+    "estimated_human_difficulty": "4"
+}

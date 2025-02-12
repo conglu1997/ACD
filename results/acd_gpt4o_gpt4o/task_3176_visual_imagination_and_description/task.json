@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_imagination_and_description",
+    "description_of_task": "Generate a detailed visual description based on a given prompt and interpret a detailed visual description into a narrative.",
+    "capability_being_measured": "visual imagination, descriptive language, narrative skills",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_diary_entries",
+    "description_of_task": "Generate fictional diary entries from historical figures based on given historical events.",
+    "capability_being_measured": "historical knowledge, creative writing, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

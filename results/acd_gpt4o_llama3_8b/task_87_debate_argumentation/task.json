@@ -1,0 +1,6 @@
+{
+    "name_of_task": "debate_argumentation",
+    "description_of_task": "Generate persuasive arguments for and against a given debate topic.",
+    "capability_being_measured": "persuasive writing, critical thinking, structured argumentation",
+    "estimated_human_difficulty": "4"
+}

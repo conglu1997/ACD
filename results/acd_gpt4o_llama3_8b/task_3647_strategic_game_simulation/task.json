@@ -1,0 +1,6 @@
+{
+    "name_of_task": "strategic_game_simulation",
+    "description_of_task": "Simulate a turn-based strategy game scenario and provide a detailed plan for achieving victory, considering various factors such as resource management, unit positioning, and enemy actions.",
+    "capability_being_measured": "planning, strategic thinking, scenario simulation",
+    "estimated_human_difficulty": "4"
+}

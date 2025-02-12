@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_instructions_execution",
+    "description_of_task": "Interpret a series of spatial instructions and describe the resulting configuration.",
+    "capability_being_measured": "spatial reasoning, language understanding",
+    "estimated_human_difficulty": "4"
+}

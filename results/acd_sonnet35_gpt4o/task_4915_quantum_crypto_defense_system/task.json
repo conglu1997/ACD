@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_crypto_defense_system",
+    "description_of_task": "Design a quantum-based cryptographic defense system for a critical infrastructure network, then analyze its resilience against both classical and quantum attacks.",
+    "capability_being_measured": "understanding of quantum computing, cryptography, network security, and ethical implications of advanced cybersecurity measures",
+    "estimated_human_difficulty": "5"
+}

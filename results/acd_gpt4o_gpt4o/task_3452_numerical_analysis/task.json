@@ -1,0 +1,6 @@
+{
+    "name_of_task": "numerical_analysis",
+    "description_of_task": "Interpret numerical data and perform calculations based on given scenarios.",
+    "capability_being_measured": "numerical reasoning, mathematical calculation, data interpretation",
+    "estimated_human_difficulty": "3"
+}

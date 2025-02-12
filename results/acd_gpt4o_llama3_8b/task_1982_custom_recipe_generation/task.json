@@ -1,0 +1,6 @@
+{
+    "name_of_task": "custom_recipe_generation",
+    "description_of_task": "Generate a recipe based on specified constraints such as dietary requirements, ingredients, and cuisine type.",
+    "capability_being_measured": "creativity, knowledge of culinary arts, understanding of dietary needs",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_analysis",
+    "description_of_task": "Analyze and interpret historical events or periods based on provided prompts, and generate insightful essays or reports.",
+    "capability_being_measured": "historical knowledge, analytical thinking, synthesis",
+    "estimated_human_difficulty": "4"
+}

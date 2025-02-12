@@ -1,0 +1,6 @@
+{
+    "name_of_task": "non_linear_temporal_language_model",
+    "description_of_task": "Design and implement a language model that incorporates non-linear time perception, then use it to generate and analyze text with complex temporal structures.",
+    "capability_being_measured": "advanced natural language processing, cognitive modeling, and creative problem-solving in the context of non-linear temporal reasoning",
+    "estimated_human_difficulty": "5"
+}

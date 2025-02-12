@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multi_threaded_narrative_ai",
+    "description_of_task": "Design an AI system capable of generating and analyzing complex multi-threaded narratives with intertwining plot lines and character arcs, then use it to create and deconstruct a story in a specified genre.",
+    "capability_being_measured": "narrative comprehension, long-term coherence, character development, creative writing, and understanding of human psychology and social dynamics",
+    "estimated_human_difficulty": "5"
+}

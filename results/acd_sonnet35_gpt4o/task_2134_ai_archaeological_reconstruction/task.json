@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ai_archaeological_reconstruction",
+    "description_of_task": "Design an AI system to reconstruct and analyze ancient civilizations from fragmentary archaeological evidence, then use it to generate hypotheses about a specific historical mystery.",
+    "capability_being_measured": "interdisciplinary knowledge integration, pattern recognition in sparse data, creative hypothesis generation, and analytical reasoning in historical contexts",
+    "estimated_human_difficulty": "5"
+}

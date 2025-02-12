@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_problem_solving_and_generation",
+    "description_of_task": "Solve a given complex mathematical problem and generate a new problem with a solution in a similar domain.",
+    "capability_being_measured": "mathematical understanding, logical reasoning, problem formulation",
+    "estimated_human_difficulty": "5"
+}

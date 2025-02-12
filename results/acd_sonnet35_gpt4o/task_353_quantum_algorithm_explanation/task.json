@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_algorithm_explanation",
+    "description_of_task": "Explain a given quantum algorithm in simple terms and propose a novel application in a specified field.",
+    "capability_being_measured": "understanding of quantum computing concepts, creative problem-solving, and ability to simplify complex ideas",
+    "estimated_human_difficulty": "5"
+}

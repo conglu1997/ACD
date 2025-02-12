@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_concept_translation",
+    "description_of_task": "Design a system that translates abstract concepts across different sensory modalities (e.g., visual to auditory, tactile to olfactory) while preserving their essential meaning and associations.",
+    "capability_being_measured": "interdisciplinary knowledge integration, creative problem-solving, understanding of human perception and cognition",
+    "estimated_human_difficulty": "5"
+}

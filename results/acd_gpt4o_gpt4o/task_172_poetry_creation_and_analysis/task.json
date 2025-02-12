@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_creation_and_analysis",
+    "description_of_task": "Assess the model's ability to create original poetry and analyze given poems for their themes, style, and emotional impact.",
+    "capability_being_measured": "creativity, linguistic understanding, emotional intelligence",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "nested_json_manipulation",
+    "description_of_task": "Parse, understand, and manipulate nested JSON data according to given instructions.",
+    "capability_being_measured": "technical proficiency, data manipulation, language comprehension",
+    "estimated_human_difficulty": "3"
+}

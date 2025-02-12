@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_interpretation_and_generation",
+    "description_of_task": "Interpret a given piece of code and generate a new piece of code based on provided specifications.",
+    "capability_being_measured": "programming skills, logical reasoning, comprehension",
+    "estimated_human_difficulty": "4"
+}

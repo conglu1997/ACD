@@ -1,0 +1,6 @@
+{
+    "name_of_task": "software_design_specification",
+    "description_of_task": "Generate software design specifications based on given requirements.",
+    "capability_being_measured": "technical writing, software engineering knowledge, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

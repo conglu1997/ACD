@@ -1,0 +1,6 @@
+{
+    "name_of_task": "itinerary_planning",
+    "description_of_task": "Create a detailed travel itinerary based on given constraints and preferences.",
+    "capability_being_measured": "planning, integrating information, optimization, strategic thinking",
+    "estimated_human_difficulty": "4"
+}

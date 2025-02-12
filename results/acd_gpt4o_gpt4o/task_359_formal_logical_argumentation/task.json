@@ -1,0 +1,6 @@
+{
+    "name_of_task": "formal_logical_argumentation",
+    "description_of_task": "Generate a formal logical argument based on given premises and analyze the validity of a provided argument.",
+    "capability_being_measured": "logical reasoning, structured thinking",
+    "estimated_human_difficulty": "4"
+}

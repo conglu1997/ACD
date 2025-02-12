@@ -1,0 +1,6 @@
+{
+    "name_of_task": "artwork_analysis_description",
+    "description_of_task": "Analyze and describe a piece of artwork, focusing on its elements, themes, and possible interpretations.",
+    "capability_being_measured": "visual understanding, creativity, descriptive writing",
+    "estimated_human_difficulty": "3"
+}

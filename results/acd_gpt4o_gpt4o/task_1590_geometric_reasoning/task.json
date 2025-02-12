@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_reasoning",
+    "description_of_task": "Generate a description of a geometric shape based on given parameters and solve a geometric puzzle.",
+    "capability_being_measured": "spatial reasoning, geometric understanding, problem-solving",
+    "estimated_human_difficulty": "3"
+}

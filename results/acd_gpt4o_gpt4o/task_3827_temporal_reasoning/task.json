@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_reasoning",
+    "description_of_task": "Extract and reason about temporal information from a given text to answer questions accurately.",
+    "capability_being_measured": "temporal reasoning, comprehension, information extraction",
+    "estimated_human_difficulty": "4"
+}

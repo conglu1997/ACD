@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_to_diagram_conversion",
+    "description_of_task": "Convert a textual description into a corresponding diagram.",
+    "capability_being_measured": "multimodal reasoning, spatial understanding, text interpretation",
+    "estimated_human_difficulty": "3"
+}

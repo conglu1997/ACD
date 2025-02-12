@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_description",
+    "description_of_task": "Generate descriptive narratives based on detailed textual descriptions of visual scenes.",
+    "capability_being_measured": "visual reasoning, descriptive language skills, attention to detail",
+    "estimated_human_difficulty": "4"
+}

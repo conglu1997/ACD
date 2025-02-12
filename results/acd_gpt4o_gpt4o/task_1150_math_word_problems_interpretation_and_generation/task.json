@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems_interpretation_and_generation",
+    "description_of_task": "Interpret given mathematical word problems and generate new word problems based on provided mathematical expressions.",
+    "capability_being_measured": "mathematical reasoning, linguistic articulation, problem formulation",
+    "estimated_human_difficulty": "4"
+}

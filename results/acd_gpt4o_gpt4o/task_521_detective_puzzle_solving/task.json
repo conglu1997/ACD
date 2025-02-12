@@ -1,0 +1,6 @@
+{
+    "name_of_task": "detective_puzzle_solving",
+    "description_of_task": "Analyze given clues to solve a detective puzzle and identify the perpetrator or missing item.",
+    "capability_being_measured": "logical reasoning, comprehension, problem-solving",
+    "estimated_human_difficulty": "4"
+}

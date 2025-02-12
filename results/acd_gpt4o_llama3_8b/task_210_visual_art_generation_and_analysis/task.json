@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_art_generation_and_analysis",
+    "description_of_task": "Generate ASCII art based on given descriptions and analyze visual art by providing detailed descriptions.",
+    "capability_being_measured": "creativity, language understanding, visual-to-text translation",
+    "estimated_human_difficulty": "4"
+}

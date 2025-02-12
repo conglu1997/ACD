@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_scenario_simulation",
+    "description_of_task": "Interpret a social scenario and generate an appropriate response considering social norms and context.",
+    "capability_being_measured": "social understanding, contextual awareness, language comprehension",
+    "estimated_human_difficulty": "3"
+}

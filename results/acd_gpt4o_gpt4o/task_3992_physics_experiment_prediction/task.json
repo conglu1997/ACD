@@ -1,0 +1,6 @@
+{
+    "name_of_task": "physics_experiment_prediction",
+    "description_of_task": "Explain the principles behind a given physics experiment and predict the outcomes based on provided conditions.",
+    "capability_being_measured": "scientific knowledge, reasoning, predictive abilities",
+    "estimated_human_difficulty": "4"
+}

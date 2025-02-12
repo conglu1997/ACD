@@ -1,0 +1,6 @@
+{
+    "name_of_task": "structured_poetry_generation",
+    "description_of_task": "Generate a poem that adheres to a specified poetic form, including rhyme scheme and meter.",
+    "capability_being_measured": "creativity, understanding of poetic structures, language generation",
+    "estimated_human_difficulty": "4"
+}

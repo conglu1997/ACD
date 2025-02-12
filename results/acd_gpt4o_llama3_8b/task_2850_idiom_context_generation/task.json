@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_context_generation",
+    "description_of_task": "Generate contextually appropriate sentences using specified idiomatic expressions.",
+    "capability_being_measured": "linguistic nuance, cultural knowledge, context-based understanding",
+    "estimated_human_difficulty": "3"
+}

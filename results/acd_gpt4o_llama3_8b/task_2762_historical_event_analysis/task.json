@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_event_analysis",
+    "description_of_task": "Analyze historical events and generate insights or hypothetical scenarios based on given prompts.",
+    "capability_being_measured": "historical knowledge, reasoning, creativity",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "motivational_speech_generation",
+    "description_of_task": "Generate a motivational speech tailored to a specific scenario or audience.",
+    "capability_being_measured": "persuasion, empathy, contextual language adaptation",
+    "estimated_human_difficulty": "4"
+}

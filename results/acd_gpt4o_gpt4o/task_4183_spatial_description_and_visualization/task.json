@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_description_and_visualization",
+    "description_of_task": "Generate detailed descriptions of 3D objects based on given blueprints and interpret descriptions into blueprints.",
+    "capability_being_measured": "spatial reasoning, visual imagination, descriptive language",
+    "estimated_human_difficulty": "4"
+}

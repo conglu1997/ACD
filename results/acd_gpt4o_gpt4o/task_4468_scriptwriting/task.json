@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scriptwriting",
+    "description_of_task": "Generate a script for a short scene based on given genre and prompt. The script should include dialogue, character actions, and scene descriptions.",
+    "capability_being_measured": "creativity, narrative coherence, genre understanding",
+    "estimated_human_difficulty": "4"
+}

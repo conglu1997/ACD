@@ -1,0 +1,6 @@
+{
+    "name_of_task": "strategic_planning_simulation",
+    "description_of_task": "Simulate a strategic planning scenario and evaluate the model's decision-making process.",
+    "capability_being_measured": "strategic reasoning, decision-making, long-term planning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_transformation_paraphrasing",
+    "description_of_task": "Transform a given text into different linguistic forms, such as changing the tone, rewriting for a different audience, or converting prose to poetry.",
+    "capability_being_measured": "linguistic ingenuity, creativity, understanding of tone",
+    "estimated_human_difficulty": "4"
+}

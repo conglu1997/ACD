@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ui_code_generation",
+    "description_of_task": "Generate HTML and CSS code for a given user interface design prompt.",
+    "capability_being_measured": "programming, user interface design, creativity",
+    "estimated_human_difficulty": "4"
+}

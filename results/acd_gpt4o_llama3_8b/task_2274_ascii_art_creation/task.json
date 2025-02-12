@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_creation",
+    "description_of_task": "Create an ASCII art representation based on a given textual description.",
+    "capability_being_measured": "visual-spatial reasoning, creativity",
+    "estimated_human_difficulty": "3"
+}

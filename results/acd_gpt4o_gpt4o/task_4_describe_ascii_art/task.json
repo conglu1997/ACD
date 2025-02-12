@@ -1,0 +1,6 @@
+{
+    "name_of_task": "describe_ascii_art",
+    "description_of_task": "Interpret and describe visual patterns presented as ASCII art.",
+    "capability_being_measured": "visual pattern recognition, descriptive ability",
+    "estimated_human_difficulty": "3"
+}

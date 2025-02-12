@@ -1,0 +1,6 @@
+{
+    "name_of_task": "idiom_generation_and_analysis",
+    "description_of_task": "Generate idioms based on given themes and analyze their meanings and usage in specified contexts.",
+    "capability_being_measured": "cultural knowledge, language generation, reasoning",
+    "estimated_human_difficulty": "4"
+}

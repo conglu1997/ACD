@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_deduction_puzzle",
+    "description_of_task": "Solve logical deduction puzzles by inferring the correct answer based on given constraints and logical rules.",
+    "capability_being_measured": "logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

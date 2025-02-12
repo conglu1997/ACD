@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_debug_optimization",
+    "description_of_task": "Identify and fix bugs in given code snippets and optimize code for better performance.",
+    "capability_being_measured": "technical understanding, problem-solving, code optimization",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_creation_and_interpretation",
+    "description_of_task": "Interpret given analogies and generate new analogies based on specified criteria.",
+    "capability_being_measured": "abstract thinking, relational reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

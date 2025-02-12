@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_generation_and_debugging",
+    "description_of_task": "Generate a piece of code based on given prompt and debug a faulty piece of code.",
+    "capability_being_measured": "coding skills, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

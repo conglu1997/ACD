@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cultural_humor_generation",
+    "description_of_task": "Generate jokes or humorous content based on given cultural references.",
+    "capability_being_measured": "cultural knowledge, creativity, linguistic subtlety",
+    "estimated_human_difficulty": "4"
+}

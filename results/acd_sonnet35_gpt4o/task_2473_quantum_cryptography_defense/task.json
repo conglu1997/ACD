@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_cryptography_defense",
+    "description_of_task": "Design a quantum-resistant cybersecurity system for a critical infrastructure network, then analyze potential vulnerabilities and propose countermeasures.",
+    "capability_being_measured": "Understanding of quantum computing, cryptography, and cybersecurity principles, as well as creative problem-solving and strategic thinking in a complex technological domain",
+    "estimated_human_difficulty": "5"
+}

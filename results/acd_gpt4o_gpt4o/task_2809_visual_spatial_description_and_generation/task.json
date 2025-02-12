@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_spatial_description_and_generation",
+    "description_of_task": "Interpret given visual-spatial descriptions and generate new spatial layouts based on specified criteria.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive ability, imagination",
+    "estimated_human_difficulty": "4"
+}

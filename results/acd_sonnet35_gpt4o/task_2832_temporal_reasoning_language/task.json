@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_reasoning_language",
+    "description_of_task": "Design a specialized language for expressing and reasoning about complex temporal relationships, then use this language to solve problems involving time-based scenarios.",
+    "capability_being_measured": "abstract reasoning, linguistic creativity, temporal cognition, and problem-solving in domains involving complex time relationships",
+    "estimated_human_difficulty": "5"
+}

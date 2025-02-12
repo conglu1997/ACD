@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_deduction_puzzles",
+    "description_of_task": "Solve logical deduction puzzles based on provided clues.",
+    "capability_being_measured": "logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "puzzle_creation_and_solution",
+    "description_of_task": "Create a unique puzzle based on a given theme and provide a solution for the created puzzle.",
+    "capability_being_measured": "creativity, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

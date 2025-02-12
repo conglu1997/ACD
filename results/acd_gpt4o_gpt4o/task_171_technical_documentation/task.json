@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_documentation",
+    "description_of_task": "Interpret and generate technical documentation for a given software feature or API.",
+    "capability_being_measured": "technical understanding, clarity of communication, attention to detail",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_generation_and_solving",
+    "description_of_task": "Generate challenging riddles for given answers and solve provided riddles.",
+    "capability_being_measured": "creativity, linguistic skills, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

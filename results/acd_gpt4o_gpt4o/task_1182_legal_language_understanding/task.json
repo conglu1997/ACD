@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_language_understanding",
+    "description_of_task": "Interpret and generate legal clauses based on given instructions and requirements.",
+    "capability_being_measured": "comprehension, precision, formal language use",
+    "estimated_human_difficulty": "4"
+}

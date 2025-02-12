@@ -1,0 +1,6 @@
+{
+    "name_of_task": "generate_and_analyze_limerick",
+    "description_of_task": "Generate a limerick based on a given prompt and analyze the structure and theme of a provided limerick.",
+    "capability_being_measured": "creativity, linguistic understanding, poetic structure comprehension",
+    "estimated_human_difficulty": "4"
+}

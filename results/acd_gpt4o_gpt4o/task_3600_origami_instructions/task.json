@@ -1,0 +1,6 @@
+{
+    "name_of_task": "origami_instructions",
+    "description_of_task": "Interpret given origami instructions and generate new origami instructions based on specified shapes.",
+    "capability_being_measured": "spatial reasoning, comprehension, precise language use",
+    "estimated_human_difficulty": "4"
+}

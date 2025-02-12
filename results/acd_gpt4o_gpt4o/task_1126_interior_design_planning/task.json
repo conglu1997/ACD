@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interior_design_planning",
+    "description_of_task": "Create and describe an interior design plan based on given requirements and constraints.",
+    "capability_being_measured": "spatial reasoning, creativity, practical application",
+    "estimated_human_difficulty": "4"
+}

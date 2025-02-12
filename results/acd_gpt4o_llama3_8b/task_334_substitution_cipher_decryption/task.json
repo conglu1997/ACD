@@ -1,0 +1,6 @@
+{
+    "name_of_task": "substitution_cipher_decryption",
+    "description_of_task": "Decrypt a given text that has been encrypted using a simple Caesar cipher.",
+    "capability_being_measured": "logical reasoning and pattern recognition",
+    "estimated_human_difficulty": "4"
+}

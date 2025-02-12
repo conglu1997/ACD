@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_linguistic_abstraction",
+    "description_of_task": "Design an AI system that can generate and interpret abstract visual representations of complex linguistic structures, then use it to solve a problem in computational linguistics.",
+    "capability_being_measured": "cross-modal abstraction, linguistic understanding, visual-spatial reasoning, and creative problem-solving in computational linguistics",
+    "estimated_human_difficulty": "5"
+}

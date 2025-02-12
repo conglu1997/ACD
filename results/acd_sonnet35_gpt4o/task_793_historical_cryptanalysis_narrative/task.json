@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_cryptanalysis_narrative",
+    "description_of_task": "Decrypt a given historical cipher and use the decrypted information to construct a plausible historical narrative",
+    "capability_being_measured": "cryptanalysis skills, historical knowledge application, and creative narrative construction",
+    "estimated_human_difficulty": "5"
+}

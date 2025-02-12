@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pattern_recognition_and_generation",
+    "description_of_task": "Identify or generate patterns based on given sequences or prompts.",
+    "capability_being_measured": "logical reasoning, pattern recognition, creativity",
+    "estimated_human_difficulty": "3"
+}

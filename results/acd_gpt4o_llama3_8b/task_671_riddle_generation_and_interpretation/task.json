@@ -1,0 +1,6 @@
+{
+    "name_of_task": "riddle_generation_and_interpretation",
+    "description_of_task": "Generate riddles based on given themes and contexts, and interpret riddles to explain their solutions.",
+    "capability_being_measured": "creativity, language understanding, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

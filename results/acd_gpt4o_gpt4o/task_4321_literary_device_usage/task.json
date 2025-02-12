@@ -1,0 +1,6 @@
+{
+    "name_of_task": "literary_device_usage",
+    "description_of_task": "Identify and generate literary devices such as metaphors, similes, and personification based on given prompts.",
+    "capability_being_measured": "literary comprehension, language understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "graphical_data_interpretation",
+    "description_of_task": "Interpret textual descriptions of graphical data and answer related questions.",
+    "capability_being_measured": "comprehension, analytical skills, data interpretation",
+    "estimated_human_difficulty": "3"
+}

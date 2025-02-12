@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_inference",
+    "description_of_task": "Infer the emotional states and intentions of characters in a given social scenario.",
+    "capability_being_measured": "emotional understanding, social reasoning, language comprehension",
+    "estimated_human_difficulty": "4"
+}

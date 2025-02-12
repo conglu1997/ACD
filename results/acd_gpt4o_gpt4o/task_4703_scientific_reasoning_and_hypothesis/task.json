@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_reasoning_and_hypothesis",
+    "description_of_task": "Generate hypotheses based on given scientific scenarios and design experiments to test them.",
+    "capability_being_measured": "scientific knowledge, reasoning, problem-solving",
+    "estimated_human_difficulty": "4"
+}

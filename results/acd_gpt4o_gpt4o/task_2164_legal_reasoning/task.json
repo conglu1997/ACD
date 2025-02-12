@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning",
+    "description_of_task": "Interpret legal statutes and apply them to hypothetical scenarios to determine the outcome.",
+    "capability_being_measured": "logical reasoning, comprehension, synthesis",
+    "estimated_human_difficulty": "5"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "linguistic_analysis",
+    "description_of_task": "Analyze the etymology and morphology of given words.",
+    "capability_being_measured": "linguistic knowledge, historical linguistics, morphological analysis",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_description",
+    "description_of_task": "Generate detailed descriptions or narratives based on given pieces of ASCII art.",
+    "capability_being_measured": "multi-modal understanding, descriptive ability, creativity",
+    "estimated_human_difficulty": "3"
+}

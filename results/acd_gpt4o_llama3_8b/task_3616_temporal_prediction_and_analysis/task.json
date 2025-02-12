@@ -1,0 +1,6 @@
+{
+    "name_of_task": "temporal_prediction_and_analysis",
+    "description_of_task": "Analyze a given sequence of events and predict future outcomes based on provided trends.",
+    "capability_being_measured": "temporal reasoning, predictive analysis, understanding of causality",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_and_interpretation",
+    "description_of_task": "Generate an analogy based on a given concept and interpret the meaning of a provided analogy.",
+    "capability_being_measured": "abstract reasoning, creativity, language understanding",
+    "estimated_human_difficulty": "4"
+}

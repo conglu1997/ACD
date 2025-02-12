@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_humor_generation",
+    "description_of_task": "Generate a humorous caption or dialogue based on a given visual description.",
+    "capability_being_measured": "creativity, visual imagination, humor generation",
+    "estimated_human_difficulty": "4"
+}

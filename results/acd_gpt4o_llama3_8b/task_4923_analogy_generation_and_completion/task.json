@@ -1,0 +1,6 @@
+{
+    "name_of_task": "analogy_generation_and_completion",
+    "description_of_task": "Generate analogies based on a given concept and complete analogies by identifying the relationship between pairs of words or phrases.",
+    "capability_being_measured": "analogical reasoning, language understanding, creativity",
+    "estimated_human_difficulty": "3"
+}

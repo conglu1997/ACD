@@ -1,0 +1,6 @@
+{
+    "name_of_task": "humor_detection_and_generation",
+    "description_of_task": "Detect humor in given statements and generate humorous content based on specific contexts.",
+    "capability_being_measured": "linguistic nuance, cultural understanding, creativity",
+    "estimated_human_difficulty": "4"
+}

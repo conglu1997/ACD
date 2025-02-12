@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_detection_empathy",
+    "description_of_task": "Detect the emotion conveyed in a given text and generate an empathetic response.",
+    "capability_being_measured": "comprehension, linguistic understanding, empathy",
+    "estimated_human_difficulty": "4"
+}

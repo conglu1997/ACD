@@ -1,0 +1,6 @@
+{
+    "name_of_task": "new_language_translation",
+    "description_of_task": "Translate sentences from an invented language into English based on provided examples and translation rules.",
+    "capability_being_measured": "linguistic understanding, pattern recognition, language translation",
+    "estimated_human_difficulty": "4"
+}

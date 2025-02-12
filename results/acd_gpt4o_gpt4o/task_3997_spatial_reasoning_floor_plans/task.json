@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_floor_plans",
+    "description_of_task": "Interpret and generate floor plans to assess spatial reasoning and visual interpretation skills.",
+    "capability_being_measured": "spatial reasoning, visual interpretation",
+    "estimated_human_difficulty": "4"
+}

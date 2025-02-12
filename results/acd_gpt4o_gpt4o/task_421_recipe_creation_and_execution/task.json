@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_creation_and_execution",
+    "description_of_task": "Create a recipe based on given ingredients and provide detailed step-by-step instructions for cooking the dish.",
+    "capability_being_measured": "creativity, procedural knowledge, practical application",
+    "estimated_human_difficulty": "4"
+}

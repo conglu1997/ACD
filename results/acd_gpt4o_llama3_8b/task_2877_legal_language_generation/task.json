@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_language_generation",
+    "description_of_task": "Interpret legal clauses and draft new legal clauses based on given scenarios.",
+    "capability_being_measured": "language understanding, technical writing, legal knowledge",
+    "estimated_human_difficulty": "5"
+}

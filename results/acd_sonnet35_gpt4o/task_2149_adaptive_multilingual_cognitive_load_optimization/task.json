@@ -1,0 +1,6 @@
+{
+    "name_of_task": "adaptive_multilingual_cognitive_load_optimization",
+    "description_of_task": "Design and implement an AI system that dynamically adjusts the complexity of multilingual text based on real-time cognitive load assessment, then apply it to a complex scenario involving simultaneous translation and summarization.",
+    "capability_being_measured": "understanding of cognitive load theory, multilingual natural language processing, real-time text adaptation, and interdisciplinary problem-solving",
+    "estimated_human_difficulty": "5"
+}

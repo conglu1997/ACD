@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_generation_analysis",
+    "description_of_task": "Generate a fictional dialogue based on given characters and settings, and analyze an existing dialogue.",
+    "capability_being_measured": "creativity, language generation, interpretative skills",
+    "estimated_human_difficulty": "4"
+}

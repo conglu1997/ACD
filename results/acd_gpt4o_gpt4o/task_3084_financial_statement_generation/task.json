@@ -1,0 +1,6 @@
+{
+    "name_of_task": "financial_statement_generation",
+    "description_of_task": "Generate financial statements based on given data and ensure they are formatted correctly.",
+    "capability_being_measured": "financial knowledge, data synthesis, formatting skills",
+    "estimated_human_difficulty": "4"
+}

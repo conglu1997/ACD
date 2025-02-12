@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_modal_reasoning",
+    "description_of_task": "Interpret and integrate information from multiple sensory modalities (visual, auditory, textual) to solve problems or generate outputs.",
+    "capability_being_measured": "cross-modal understanding, integrative reasoning, sensory imagination",
+    "estimated_human_difficulty": "4"
+}

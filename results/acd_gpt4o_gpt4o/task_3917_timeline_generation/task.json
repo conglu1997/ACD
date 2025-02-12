@@ -1,0 +1,6 @@
+{
+    "name_of_task": "timeline_generation",
+    "description_of_task": "Generate a coherent and logically consistent timeline of events based on a given prompt.",
+    "capability_being_measured": "temporal reasoning, narrative coherence",
+    "estimated_human_difficulty": "3"
+}

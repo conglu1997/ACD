@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotion_color_mapping_analysis",
+    "description_of_task": "Design a system for mapping emotions to colors, analyze cross-cultural data on color-emotion associations, and create visualizations based on the findings.",
+    "capability_being_measured": "Understanding of color theory, emotional psychology, data analysis, and creative visualization skills",
+    "estimated_human_difficulty": "4"
+}

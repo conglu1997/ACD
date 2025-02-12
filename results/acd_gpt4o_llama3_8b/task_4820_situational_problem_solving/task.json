@@ -1,0 +1,6 @@
+{
+    "name_of_task": "situational_problem_solving",
+    "description_of_task": "Diagnose a problem in a given scenario and propose a viable solution.",
+    "capability_being_measured": "deductive reasoning, problem-solving, practical application",
+    "estimated_human_difficulty": "3"
+}

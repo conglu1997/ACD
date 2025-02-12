@@ -1,0 +1,6 @@
+{
+    "name_of_task": "meta_cognition",
+    "description_of_task": "Reflect on a given response to identify potential errors or areas for improvement and provide a revised version.",
+    "capability_being_measured": "self-awareness, error-checking, reflective thinking",
+    "estimated_human_difficulty": "4"
+}

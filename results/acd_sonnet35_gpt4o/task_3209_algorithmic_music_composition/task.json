@@ -1,0 +1,6 @@
+{
+    "name_of_task": "algorithmic_music_composition",
+    "description_of_task": "Design an AI system that can compose music in the style of a given composer, incorporating elements of music theory, emotional expression, and cultural context.",
+    "capability_being_measured": "understanding of music theory, creative problem-solving, emotional intelligence, and cultural knowledge integration",
+    "estimated_human_difficulty": "4"
+}

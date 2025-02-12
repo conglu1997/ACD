@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_interpretation_and_narrative",
+    "description_of_task": "Interpret historical events and draft historical narratives based on given prompts.",
+    "capability_being_measured": "historical knowledge, comprehension, narrative skills",
+    "estimated_human_difficulty": "4"
+}

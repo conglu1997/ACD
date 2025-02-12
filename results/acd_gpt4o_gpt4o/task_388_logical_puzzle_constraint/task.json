@@ -1,0 +1,6 @@
+{
+    "name_of_task": "logical_puzzle_constraint",
+    "description_of_task": "Solve logical puzzles that require satisfying specific constraints.",
+    "capability_being_measured": "logical reasoning, problem-solving, constraint satisfaction",
+    "estimated_human_difficulty": "4"
+}

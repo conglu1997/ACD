@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_lingual_metaphor_generation",
+    "description_of_task": "Design an AI system capable of understanding and generating metaphors across multiple languages, then apply it to create culturally appropriate metaphors for abstract concepts.",
+    "capability_being_measured": "linguistic creativity, cross-cultural understanding, abstract reasoning, and metaphorical thinking",
+    "estimated_human_difficulty": "5"
+}

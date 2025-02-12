@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_analogies",
+    "description_of_task": "Generate analogies that connect concepts from different domains.",
+    "capability_being_measured": "abstract reasoning, creativity, cross-domain knowledge",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "medical_diagnosis_and_management",
+    "description_of_task": "Diagnose medical conditions based on symptoms and provide management plans for given conditions.",
+    "capability_being_measured": "medical knowledge, diagnostic reasoning, practical advice",
+    "estimated_human_difficulty": "5"
+}

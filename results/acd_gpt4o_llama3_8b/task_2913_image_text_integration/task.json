@@ -1,0 +1,6 @@
+{
+    "name_of_task": "image_text_integration",
+    "description_of_task": "Interpret an image and combine its description with textual data to solve a problem or answer a question.",
+    "capability_being_measured": "multimodal integration, comprehension, problem-solving",
+    "estimated_human_difficulty": "4"
+}

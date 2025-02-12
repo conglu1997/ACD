@@ -1,0 +1,6 @@
+{
+    "name_of_task": "style_imitation",
+    "description_of_task": "Generate a passage imitating the writing style of a famous author or historical figure based on a given prompt.",
+    "capability_being_measured": "linguistic style imitation, historical and literary knowledge",
+    "estimated_human_difficulty": "4"
+}

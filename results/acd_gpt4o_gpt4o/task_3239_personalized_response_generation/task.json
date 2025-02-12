@@ -1,0 +1,6 @@
+{
+    "name_of_task": "personalized_response_generation",
+    "description_of_task": "Generate responses tailored to different user profiles based on provided contexts.",
+    "capability_being_measured": "social reasoning, empathy, customization",
+    "estimated_human_difficulty": "4"
+}

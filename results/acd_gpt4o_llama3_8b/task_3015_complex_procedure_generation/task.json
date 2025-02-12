@@ -1,0 +1,6 @@
+{
+    "name_of_task": "complex_procedure_generation",
+    "description_of_task": "Generate and explain complex procedures based on given scenarios or tasks.",
+    "capability_being_measured": "procedural knowledge, clarity of explanation, sequential reasoning",
+    "estimated_human_difficulty": "4"
+}

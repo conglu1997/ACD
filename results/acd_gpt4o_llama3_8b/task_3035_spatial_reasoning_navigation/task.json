@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_reasoning_navigation",
+    "description_of_task": "Generate mental maps and provide directions based on textual descriptions of environments. The agent needs to visualize and understand spatial relationships to give accurate directions.",
+    "capability_being_measured": "spatial reasoning, visual imagination, comprehension",
+    "estimated_human_difficulty": "4"
+}

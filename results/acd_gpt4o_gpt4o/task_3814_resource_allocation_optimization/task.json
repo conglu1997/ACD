@@ -1,0 +1,6 @@
+{
+    "name_of_task": "resource_allocation_optimization",
+    "description_of_task": "Optimize the allocation of resources based on given constraints and objectives, ensuring that the solution is both efficient and meets all specified requirements.",
+    "capability_being_measured": "logical reasoning, problem-solving, data interpretation",
+    "estimated_human_difficulty": "4"
+}

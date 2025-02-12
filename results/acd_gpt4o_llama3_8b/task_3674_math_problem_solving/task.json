@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_problem_solving",
+    "description_of_task": "Solve given mathematical problems and provide a detailed step-by-step explanation of the solutions.",
+    "capability_being_measured": "mathematical reasoning, logical progression, clear articulation of complex ideas",
+    "estimated_human_difficulty": "4"
+}

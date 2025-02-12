@@ -1,0 +1,6 @@
+{
+    "name_of_task": "archaeo_data_futurism",
+    "description_of_task": "Create a fictional ancient civilization based on given archaeological data, then use data science techniques to predict its technological advancements and societal changes",
+    "capability_being_measured": "historical knowledge application, data interpretation, predictive modeling, and creative extrapolation",
+    "estimated_human_difficulty": "5"
+}

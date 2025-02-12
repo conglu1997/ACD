@@ -1,0 +1,6 @@
+{
+    "name_of_task": "sudoku_puzzle_generation_and_solving",
+    "description_of_task": "Generate a valid Sudoku puzzle based on specific constraints and solve a given Sudoku puzzle.",
+    "capability_being_measured": "logical reasoning, pattern recognition, problem-solving",
+    "estimated_human_difficulty": "4"
+}

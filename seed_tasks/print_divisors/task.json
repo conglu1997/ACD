@@ -1,0 +1,6 @@
+{
+  "name_of_task": "print_divisors",
+  "description_of_task": "Print all numbers up to a limit that are divisible by a given divisor.",
+  "capability_being_measured": "basic arithmetic and iteration",
+  "estimated_human_difficulty": "2"
+}

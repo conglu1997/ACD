@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_story_writing",
+    "description_of_task": "Write a creative story based on given constraints such as specific characters, settings, and plot elements.",
+    "capability_being_measured": "creativity, adherence to constraints, narrative coherence",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_scene_interpretation",
+    "description_of_task": "Interpret a given visual scene and answer questions based on the observed details.",
+    "capability_being_measured": "spatial reasoning, visual memory, comprehension",
+    "estimated_human_difficulty": "4"
+}

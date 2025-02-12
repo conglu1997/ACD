@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_analysis",
+    "description_of_task": "Analyze and interpret visual artworks based on given criteria.",
+    "capability_being_measured": "visual reasoning, descriptive language, art knowledge",
+    "estimated_human_difficulty": "4"
+}

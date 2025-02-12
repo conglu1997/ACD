@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_metaphor_generation_interpretation",
+    "description_of_task": "Create a visual metaphor for a given concept and interpret a provided visual metaphor.",
+    "capability_being_measured": "creativity, abstract reasoning, visual understanding, linguistic skills",
+    "estimated_human_difficulty": "4"
+}

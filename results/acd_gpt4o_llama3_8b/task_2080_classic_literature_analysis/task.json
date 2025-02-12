@@ -1,0 +1,6 @@
+{
+    "name_of_task": "classic_literature_analysis",
+    "description_of_task": "Generate detailed summaries and analyses of classic literary works based on given excerpts or themes.",
+    "capability_being_measured": "comprehension, language generation, critical thinking",
+    "estimated_human_difficulty": "4"
+}

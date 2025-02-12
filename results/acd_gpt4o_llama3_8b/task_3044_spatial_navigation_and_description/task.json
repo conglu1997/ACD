@@ -1,0 +1,6 @@
+{
+    "name_of_task": "spatial_navigation_and_description",
+    "description_of_task": "Describe a navigation route between two points in a given environment or interpret a spatial layout based on a textual description.",
+    "capability_being_measured": "spatial reasoning, descriptive ability, comprehension",
+    "estimated_human_difficulty": "4"
+}

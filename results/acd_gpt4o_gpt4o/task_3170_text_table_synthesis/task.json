@@ -1,0 +1,6 @@
+{
+    "name_of_task": "text_table_synthesis",
+    "description_of_task": "Generate insights or summaries by synthesizing information from textual descriptions and structured data in tabular format.",
+    "capability_being_measured": "data interpretation, synthesis, multimodal reasoning",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "emotional_response_simulation",
+    "description_of_task": "Simulate and predict human emotional responses in given scenarios by generating a plausible emotional reaction and a short narrative explaining the response.",
+    "capability_being_measured": "empathy, emotional intelligence, contextual understanding",
+    "estimated_human_difficulty": "4"
+}

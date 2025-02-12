@@ -1,0 +1,6 @@
+{
+    "name_of_task": "equation_sentences",
+    "description_of_task": "Create mathematical equations that, when read aloud, form coherent sentences in English on specific topics.",
+    "capability_being_measured": "mathematical reasoning, linguistic creativity, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "5"
+}

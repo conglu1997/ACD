@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_generation",
+    "description_of_task": "Generate a coherent and engaging fictional dialogue between characters based on given prompts.",
+    "capability_being_measured": "conversational coherence, character development, creativity",
+    "estimated_human_difficulty": "4"
+}

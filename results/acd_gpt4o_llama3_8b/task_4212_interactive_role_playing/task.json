@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interactive_role_playing",
+    "description_of_task": "Engage in a role-playing scenario where the model must navigate a specific situation by maintaining context and generating coherent dialogue.",
+    "capability_being_measured": "context maintenance, dialogue generation, social reasoning",
+    "estimated_human_difficulty": "4"
+}

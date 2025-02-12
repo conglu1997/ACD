@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_conlang_generation",
+    "description_of_task": "Design a visual constructed language (conlang) based on given parameters, then use it to translate a short text and analyze its implications for visual communication and AI",
+    "capability_being_measured": "visual-linguistic creativity, cross-modal translation, analytical reasoning, and interdisciplinary knowledge application",
+    "estimated_human_difficulty": "4"
+}

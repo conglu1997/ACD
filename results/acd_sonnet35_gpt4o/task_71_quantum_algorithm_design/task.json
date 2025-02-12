@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_algorithm_design",
+    "description_of_task": "Design quantum algorithms to solve classical computing problems, analyze their complexity compared to classical algorithms, and provide a simple example or simulation.",
+    "capability_being_measured": "understanding of quantum computing principles, algorithmic thinking, complexity analysis, creative problem-solving in a highly specialized domain, and ability to simulate quantum algorithms",
+    "estimated_human_difficulty": "5"
+}

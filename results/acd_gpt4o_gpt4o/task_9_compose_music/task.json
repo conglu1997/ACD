@@ -1,0 +1,6 @@
+{
+    "name_of_task": "compose_music",
+    "description_of_task": "Compose a short piece of music based on given musical constraints.",
+    "capability_being_measured": "creativity, music theory understanding",
+    "estimated_human_difficulty": "4"
+}

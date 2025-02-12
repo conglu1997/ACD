@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_scenario_prediction",
+    "description_of_task": "Interpret social scenarios and predict the outcomes based on common social norms and human behavior.",
+    "capability_being_measured": "social reasoning, understanding of human behavior, logical deduction",
+    "estimated_human_difficulty": "4"
+}

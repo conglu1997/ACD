@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Generate a short piece of music based on given themes or emotions and identify the musical structure of a provided composition.",
+    "capability_being_measured": "musical creativity, technical understanding of music",
+    "estimated_human_difficulty": "4"
+}

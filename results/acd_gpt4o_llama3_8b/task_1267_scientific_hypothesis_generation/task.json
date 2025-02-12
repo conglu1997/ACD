@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis_generation",
+    "description_of_task": "Generate a scientific hypothesis based on a given phenomenon and propose an experimental setup to test it.",
+    "capability_being_measured": "scientific knowledge, creativity, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

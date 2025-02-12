@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_comment_generation",
+    "description_of_task": "Interpret given code and generate comments that describe the functionality of each segment. Additionally, generate a piece of code based on provided comments.",
+    "capability_being_measured": "technical comprehension, linguistic translation, code understanding",
+    "estimated_human_difficulty": "4"
+}

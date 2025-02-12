@@ -1,0 +1,6 @@
+{
+    "name_of_task": "code_refactoring_design_patterns",
+    "description_of_task": "Refactor a given piece of code to follow a specific design pattern while maintaining its functionality.",
+    "capability_being_measured": "programming skills, software design principles, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

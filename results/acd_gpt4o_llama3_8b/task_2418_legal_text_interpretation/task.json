@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_text_interpretation",
+    "description_of_task": "Interpret given legal clauses and generate appropriate summaries or responses based on the provided legal text.",
+    "capability_being_measured": "comprehension, reasoning, language processing",
+    "estimated_human_difficulty": "5"
+}

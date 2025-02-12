@@ -1,0 +1,6 @@
+{
+    "name_of_task": "diachronic_linguistic_forecasting",
+    "description_of_task": "Analyze historical language evolution patterns and use them to predict future changes in a given language, then design an AI system to model and forecast these changes.",
+    "capability_being_measured": "understanding of historical linguistics, pattern recognition in language evolution, creative extrapolation of linguistic trends, and AI system design for language modeling",
+    "estimated_human_difficulty": "5"
+}

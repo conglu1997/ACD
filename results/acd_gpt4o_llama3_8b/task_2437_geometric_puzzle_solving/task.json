@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_puzzle_solving",
+    "description_of_task": "Solve geometric puzzles by arranging given shapes to form specified target shapes.",
+    "capability_being_measured": "spatial reasoning, logical reasoning, problem-solving",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_literature_analysis",
+    "description_of_task": "Analyze and summarize given scientific articles, identifying key points and interpreting complex data.",
+    "capability_being_measured": "comprehension, summarization, data interpretation",
+    "estimated_human_difficulty": "5"
+}

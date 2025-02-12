@@ -1,0 +1,6 @@
+{
+    "name_of_task": "art_critique_and_creation",
+    "description_of_task": "Analyze given artworks and generate creative descriptions or pieces based on provided themes or styles.",
+    "capability_being_measured": "art knowledge, visual interpretation, creativity",
+    "estimated_human_difficulty": "4"
+}

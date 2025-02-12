@@ -1,0 +1,6 @@
+{
+    "name_of_task": "constrained_creative_writing",
+    "description_of_task": "Generate creative short stories or poems based on given prompts and stylistic constraints.",
+    "capability_being_measured": "creativity, linguistic versatility, adherence to stylistic constraints",
+    "estimated_human_difficulty": "4"
+}

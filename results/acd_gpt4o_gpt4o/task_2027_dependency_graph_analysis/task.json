@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dependency_graph_analysis",
+    "description_of_task": "Create and analyze dependency graphs based on given constraints to identify potential issues or bottlenecks.",
+    "capability_being_measured": "logical reasoning, comprehension, problem-solving",
+    "estimated_human_difficulty": "4"
+}

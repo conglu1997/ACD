@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_drug_design",
+    "description_of_task": "Design a novel drug molecule using quantum chemistry principles, then analyze its potential efficacy and propose a quantum computing algorithm for simulating its interactions.",
+    "capability_being_measured": "understanding of quantum chemistry, creative problem-solving in drug design, interdisciplinary knowledge application, and quantum algorithm design",
+    "estimated_human_difficulty": "5"
+}

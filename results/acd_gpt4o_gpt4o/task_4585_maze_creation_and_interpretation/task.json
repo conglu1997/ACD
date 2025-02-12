@@ -1,0 +1,6 @@
+{
+    "name_of_task": "maze_creation_and_interpretation",
+    "description_of_task": "Create a maze based on given criteria and provide a solution path through the maze.",
+    "capability_being_measured": "spatial reasoning, logical reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

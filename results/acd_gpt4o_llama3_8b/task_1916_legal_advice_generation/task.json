@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_advice_generation",
+    "description_of_task": "Generate legal advice based on given scenarios, ensuring the advice is relevant, accurate, and considers applicable laws and principles.",
+    "capability_being_measured": "legal reasoning, specialized knowledge application, contextual understanding",
+    "estimated_human_difficulty": "5"
+}

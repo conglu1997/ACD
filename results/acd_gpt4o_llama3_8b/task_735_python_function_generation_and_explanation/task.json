@@ -1,0 +1,6 @@
+{
+    "name_of_task": "python_function_generation_and_explanation",
+    "description_of_task": "Generate a Python function based on given requirements and provide a detailed explanation of how it works.",
+    "capability_being_measured": "programming skills, logical reasoning, technical communication",
+    "estimated_human_difficulty": "3"
+}

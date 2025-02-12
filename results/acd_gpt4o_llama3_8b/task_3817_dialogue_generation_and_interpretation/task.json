@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_generation_and_interpretation",
+    "description_of_task": "Generate and interpret dialogues between multiple characters based on given scenarios and prompts.",
+    "capability_being_measured": "conversational abilities, creativity, context understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "electrical_circuit_troubleshooting",
+    "description_of_task": "Diagnose and troubleshoot problems in a given simple electrical circuit.",
+    "capability_being_measured": "technical knowledge, problem-solving, logical reasoning",
+    "estimated_human_difficulty": "4"
+}

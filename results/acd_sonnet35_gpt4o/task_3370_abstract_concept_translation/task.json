@@ -1,0 +1,6 @@
+{
+    "name_of_task": "abstract_concept_translation",
+    "description_of_task": "Design an AI system capable of translating abstract concepts between mathematical formulas, visual art, and natural language, then use it to explore cognitive patterns across these domains.",
+    "capability_being_measured": "abstract reasoning, cross-domain concept translation, pattern recognition, and creative application of interdisciplinary knowledge",
+    "estimated_human_difficulty": "5"
+}

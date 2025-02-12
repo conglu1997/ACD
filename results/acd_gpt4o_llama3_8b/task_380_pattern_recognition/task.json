@@ -1,0 +1,6 @@
+{
+    "name_of_task": "pattern_recognition",
+    "description_of_task": "Identify or complete visual patterns described in a text-based grid.",
+    "capability_being_measured": "pattern recognition, spatial reasoning, descriptive language",
+    "estimated_human_difficulty": "3"
+}

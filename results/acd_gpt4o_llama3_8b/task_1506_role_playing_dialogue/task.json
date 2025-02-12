@@ -1,0 +1,6 @@
+{
+    "name_of_task": "role_playing_dialogue",
+    "description_of_task": "Engage in a role-playing dialogue with a specified character and context, maintaining coherence and consistency throughout the conversation.",
+    "capability_being_measured": "conversational skills, creativity, coherence",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multilingual_dialogue_generation",
+    "description_of_task": "Generate a coherent dialogue involving multiple languages, ensuring context and meaning are preserved across language switches.",
+    "capability_being_measured": "multilingual language understanding, context preservation, dialogue generation",
+    "estimated_human_difficulty": "4"
+}

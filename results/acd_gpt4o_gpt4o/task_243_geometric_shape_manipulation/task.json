@@ -1,0 +1,6 @@
+{
+    "name_of_task": "geometric_shape_manipulation",
+    "description_of_task": "Interpret and manipulate 2D geometric shapes based on given instructions.",
+    "capability_being_measured": "spatial reasoning, visual problem-solving, rule application",
+    "estimated_human_difficulty": "4"
+}

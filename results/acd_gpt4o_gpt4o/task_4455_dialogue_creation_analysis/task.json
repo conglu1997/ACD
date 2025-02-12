@@ -1,0 +1,6 @@
+{
+    "name_of_task": "dialogue_creation_analysis",
+    "description_of_task": "Create and analyze fictional dialogues between characters based on given scenarios.",
+    "capability_being_measured": "creative writing, narrative coherence, character understanding",
+    "estimated_human_difficulty": "4"
+}

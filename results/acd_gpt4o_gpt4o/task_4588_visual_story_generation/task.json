@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_story_generation",
+    "description_of_task": "Generate a coherent and engaging short story based on the provided image.",
+    "capability_being_measured": "creativity, visual understanding, narrative generation",
+    "estimated_human_difficulty": "4"
+}

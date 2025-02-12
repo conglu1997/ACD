@@ -1,0 +1,6 @@
+{
+    "name_of_task": "turn_based_strategy_game",
+    "description_of_task": "Make optimal moves in a turn-based strategy game.",
+    "capability_being_measured": "logical reasoning, strategic thinking, decision-making",
+    "estimated_human_difficulty": "3"
+}

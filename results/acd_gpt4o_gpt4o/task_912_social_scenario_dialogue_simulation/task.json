@@ -1,0 +1,6 @@
+{
+    "name_of_task": "social_scenario_dialogue_simulation",
+    "description_of_task": "Simulate a coherent and contextually appropriate dialogue based on a given social scenario.",
+    "capability_being_measured": "linguistic understanding, contextual language usage, social reasoning",
+    "estimated_human_difficulty": "3"
+}

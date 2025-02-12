@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_explanation_generation",
+    "description_of_task": "Generate clear and concise explanations of technical concepts for a layperson.",
+    "capability_being_measured": "knowledge, language simplification, explanatory skills",
+    "estimated_human_difficulty": "4"
+}

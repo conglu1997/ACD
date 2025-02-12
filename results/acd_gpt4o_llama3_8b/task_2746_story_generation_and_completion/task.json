@@ -1,0 +1,6 @@
+{
+    "name_of_task": "story_generation_and_completion",
+    "description_of_task": "Generate a fictional story based on a provided prompt and complete an unfinished story maintaining the original style and tone.",
+    "capability_being_measured": "creativity, narrative consistency, language understanding",
+    "estimated_human_difficulty": "3"
+}

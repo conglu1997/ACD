@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_context_comprehension",
+    "description_of_task": "Generate responses based on specified historical contexts, demonstrating an understanding of historical events, cultural nuances, and temporal reasoning.",
+    "capability_being_measured": "historical knowledge, contextual understanding, temporal reasoning",
+    "estimated_human_difficulty": "3"
+}

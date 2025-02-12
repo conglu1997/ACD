@@ -1,0 +1,6 @@
+{
+    "name_of_task": "architectural_design_interpretation",
+    "description_of_task": "Interpret and describe architectural designs or generate descriptions for architectural elements based on given constraints.",
+    "capability_being_measured": "visual comprehension, spatial reasoning, descriptive language",
+    "estimated_human_difficulty": "4"
+}

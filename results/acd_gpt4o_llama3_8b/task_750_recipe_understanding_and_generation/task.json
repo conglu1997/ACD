@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_understanding_and_generation",
+    "description_of_task": "Understand a given recipe, provide a summary, and generate a new recipe based on given criteria.",
+    "capability_being_measured": "comprehension, procedural knowledge, creativity",
+    "estimated_human_difficulty": "3"
+}

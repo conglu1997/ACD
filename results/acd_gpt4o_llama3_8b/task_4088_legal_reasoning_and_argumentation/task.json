@@ -1,0 +1,6 @@
+{
+    "name_of_task": "legal_reasoning_and_argumentation",
+    "description_of_task": "Interpret a legal scenario and provide a legal argument or solution based on given laws or regulations.",
+    "capability_being_measured": "legal comprehension, reasoning, application of complex rules",
+    "estimated_human_difficulty": "4"
+}

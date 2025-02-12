@@ -1,0 +1,6 @@
+{
+    "name_of_task": "technical_tutorial_generation",
+    "description_of_task": "Generate a detailed tutorial on a given technical topic.",
+    "capability_being_measured": "knowledge, clarity of explanation, instructional design",
+    "estimated_human_difficulty": "4"
+}

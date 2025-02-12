@@ -1,0 +1,6 @@
+{
+    "name_of_task": "multimodal_synthesis",
+    "description_of_task": "Combine textual and visual information to solve a problem or create an innovative piece of work.",
+    "capability_being_measured": "multimodal understanding, creative problem-solving, integrative thinking",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "poetry_generation_explanation",
+    "description_of_task": "Generate a poem based on a given theme or prompt and provide a detailed explanation of its meaning, themes, and emotions. The poem should follow a specific structure.",
+    "capability_being_measured": "creativity, language generation, emotional expression, adherence to poetic structure",
+    "estimated_human_difficulty": "4"
+}

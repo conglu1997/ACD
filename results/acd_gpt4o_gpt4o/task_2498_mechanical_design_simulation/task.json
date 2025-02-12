@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mechanical_design_simulation",
+    "description_of_task": "Simulate a mechanical design based on given constraints and requirements. Provide a detailed explanation of how the design meets the criteria.",
+    "capability_being_measured": "engineering knowledge, problem-solving, creativity",
+    "estimated_human_difficulty": "5"
+}

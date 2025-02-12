@@ -1,0 +1,6 @@
+{
+    "name_of_task": "cross_domain_reasoning",
+    "description_of_task": "Generate and analyze content that synthesizes information from multiple domains such as science, history, and art.",
+    "capability_being_measured": "cross-domain reasoning, integration of knowledge, creativity",
+    "estimated_human_difficulty": "4"
+}

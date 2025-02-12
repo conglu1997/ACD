@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_data_interpretation",
+    "description_of_task": "Interpret and describe the contents of an image based on a textual description, and generate a new description for a similar type of image.",
+    "capability_being_measured": "visual-spatial reasoning, descriptive writing, contextual understanding",
+    "estimated_human_difficulty": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "causal_inference",
+    "description_of_task": "Infer the cause of a given effect or predict the effect from a given cause in various scenarios.",
+    "capability_being_measured": "logical reasoning, causal inference",
+    "estimated_human_difficulty": "4"
+}

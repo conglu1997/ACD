@@ -1,0 +1,6 @@
+{
+    "name_of_task": "visual_pattern_recognition",
+    "description_of_task": "Recognize and describe visual patterns based on given textual descriptions.",
+    "capability_being_measured": "spatial reasoning, pattern recognition, descriptive abilities",
+    "estimated_human_difficulty": "3"
+}

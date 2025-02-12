@@ -1,0 +1,6 @@
+{
+    "name_of_task": "narrative_generation_interpretation",
+    "description_of_task": "Generate a fictional narrative based on a given theme and interpret the narrative elements of another story.",
+    "capability_being_measured": "creativity, narrative understanding, analytical skills",
+    "estimated_human_difficulty": "4"
+}

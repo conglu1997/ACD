@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_composition",
+    "description_of_task": "Create a chord progression for a specified mood and generate a corresponding melody.",
+    "capability_being_measured": "creativity, understanding of music theory, structured generation",
+    "estimated_human_difficulty": "4"
+}

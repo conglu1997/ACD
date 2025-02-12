@@ -1,0 +1,6 @@
+{
+    "name_of_task": "psychological_profiling_text_analysis",
+    "description_of_task": "Analyze a given text to infer the psychological profile of the author, including personality traits, emotional states, and possible motivations.",
+    "capability_being_measured": "emotional intelligence, psychological analysis, natural language understanding",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "culinary_creativity",
+    "description_of_task": "Generate a creative recipe based on given ingredients and dietary constraints.",
+    "capability_being_measured": "creativity, practical reasoning, knowledge of culinary arts and nutrition",
+    "estimated_human_difficulty": "3"
+}

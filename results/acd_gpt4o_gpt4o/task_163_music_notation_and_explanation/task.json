@@ -1,0 +1,6 @@
+{
+    "name_of_task": "music_notation_and_explanation",
+    "description_of_task": "Interpret musical notation from text and generate musical notation based on a given description.",
+    "capability_being_measured": "creativity, music theory knowledge, precise formatting",
+    "estimated_human_difficulty": "4"
+}

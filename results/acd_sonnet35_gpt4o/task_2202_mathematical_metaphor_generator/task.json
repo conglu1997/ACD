@@ -1,0 +1,6 @@
+{
+    "name_of_task": "mathematical_metaphor_generator",
+    "description_of_task": "Design a language model capable of generating and interpreting metaphors that explain abstract mathematical concepts using everyday language, and vice versa.",
+    "capability_being_measured": "interdisciplinary knowledge integration, abstract reasoning, creative language generation, and deep understanding of both mathematics and linguistics",
+    "estimated_human_difficulty": "5"
+}

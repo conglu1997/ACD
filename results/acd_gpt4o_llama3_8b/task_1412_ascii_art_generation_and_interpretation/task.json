@@ -1,0 +1,6 @@
+{
+    "name_of_task": "ascii_art_generation_and_interpretation",
+    "description_of_task": "Generate ASCII art based on a given description and interpret the meaning of provided ASCII art.",
+    "capability_being_measured": "visual and spatial reasoning, creativity, attention to detail",
+    "estimated_human_difficulty": "3"
+}

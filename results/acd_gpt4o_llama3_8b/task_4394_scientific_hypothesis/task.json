@@ -1,0 +1,6 @@
+{
+    "name_of_task": "scientific_hypothesis",
+    "description_of_task": "Generate a scientific hypothesis based on given observations and evaluate its validity based on additional data.",
+    "capability_being_measured": "scientific reasoning, creativity, logical evaluation",
+    "estimated_human_difficulty": "3"
+}

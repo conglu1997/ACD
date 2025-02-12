@@ -1,0 +1,6 @@
+{
+    "name_of_task": "quantum_biology_hypothesis_generation",
+    "description_of_task": "Generate and evaluate hypotheses for quantum effects in biological systems, then design theoretical experiments to test these hypotheses.",
+    "capability_being_measured": "interdisciplinary scientific reasoning, creative hypothesis generation, experimental design, and integration of quantum physics with molecular biology",
+    "estimated_human_difficulty": "5"
+}

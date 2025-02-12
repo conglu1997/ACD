@@ -1,0 +1,6 @@
+{
+    "name_of_task": "crossword_puzzle_generation",
+    "description_of_task": "Generate a small crossword puzzle with given words and create clues for each word.",
+    "capability_being_measured": "creativity, linguistic skills, spatial reasoning",
+    "estimated_human_difficulty": "4"
+}

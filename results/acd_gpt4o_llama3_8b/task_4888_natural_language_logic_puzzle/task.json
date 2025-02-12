@@ -1,0 +1,6 @@
+{
+    "name_of_task": "natural_language_logic_puzzle",
+    "description_of_task": "Solve logic puzzles presented in natural language, requiring deductive reasoning and pattern recognition.",
+    "capability_being_measured": "logical reasoning, natural language understanding, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

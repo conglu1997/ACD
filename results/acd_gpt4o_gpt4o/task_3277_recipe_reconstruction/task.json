@@ -1,0 +1,6 @@
+{
+    "name_of_task": "recipe_reconstruction",
+    "description_of_task": "Reconstruct a detailed recipe based on a given list of ingredients and a description of the final dish.",
+    "capability_being_measured": "procedural understanding, sequential logic, synthesis",
+    "estimated_human_difficulty": "3"
+}

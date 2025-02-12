@@ -1,0 +1,6 @@
+{
+    "name_of_task": "historical_scenario_creation_and_analysis",
+    "description_of_task": "Create a plausible historical scenario based on given historical events and analyze the potential outcomes of that scenario.",
+    "capability_being_measured": "historical knowledge, reasoning, creativity",
+    "estimated_human_difficulty": "4"
+}

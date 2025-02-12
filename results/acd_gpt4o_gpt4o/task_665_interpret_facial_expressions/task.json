@@ -1,0 +1,6 @@
+{
+    "name_of_task": "interpret_facial_expressions",
+    "description_of_task": "Interpret given facial expressions and generate an appropriate response to the identified emotion or state.",
+    "capability_being_measured": "emotion recognition, contextual understanding, empathy",
+    "estimated_human_difficulty": "3"
+}

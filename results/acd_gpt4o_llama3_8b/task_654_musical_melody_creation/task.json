@@ -1,0 +1,6 @@
+{
+    "name_of_task": "musical_melody_creation",
+    "description_of_task": "Generate a simple musical melody based on given constraints and explain the musical theory behind it.",
+    "capability_being_measured": "creativity, musical knowledge, pattern recognition",
+    "estimated_human_difficulty": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "name_of_task": "persuasive_argument_generation",
+    "description_of_task": "Generate persuasive arguments to support a given position on a controversial topic.",
+    "capability_being_measured": "persuasion, logical reasoning, linguistic expression",
+    "estimated_human_difficulty": "4"
+}

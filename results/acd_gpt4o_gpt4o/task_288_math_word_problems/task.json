@@ -1,0 +1,6 @@
+{
+    "name_of_task": "math_word_problems",
+    "description_of_task": "Generate and solve math word problems involving various arithmetic operations and logical reasoning.",
+    "capability_being_measured": "mathematical reasoning, problem-solving, logical thinking",
+    "estimated_human_difficulty": "3"
+}
