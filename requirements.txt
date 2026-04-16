@@ -8,7 +8,7 @@ pandas
 numpy
 backoff
 tqdm
-sklearn
+hdbscan
 # Plotting
 plotly
 matplotlib
