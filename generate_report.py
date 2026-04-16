@@ -3,6 +3,7 @@ import concurrent.futures
 import json
 import os
 import random
+import sys
 from enum import Enum
 
 import openai
@@ -379,15 +380,16 @@ def convert_to_markdown(
     scientist, subject = acd_name.split("_")
     try:
         scientist, subject = MODEL_NAME[scientist], MODEL_NAME[subject]
-    except:
+    except KeyError:
         pass
 
     # Generate cluster visualization
     import subprocess
 
+    python_executable = sys.executable or "python"
     result = subprocess.run(
         [
-            "python",
+            python_executable,
             "src/visualize_generated_tasks_cluster.py",
             "--acd_name",
             acd_name,
@@ -400,6 +402,8 @@ def convert_to_markdown(
         text=True,
     )
     print(f"Visualization script output:\n{result.stdout}")
+    if result.stderr:
+        print(f"Visualization script stderr:\n{result.stderr}")
     cluster_vis_fig_path = os.path.abspath(f"reports/cluster_vis_{acd_name}.pdf")
     if not os.path.exists(cluster_vis_fig_path):
         print(
@@ -409,7 +413,7 @@ def convert_to_markdown(
     # Generate cluster success rate visualization
     result = subprocess.run(
         [
-            "python",
+            python_executable,
             "src/visualize_cluster_success_rate.py",
             "--acd_name",
             acd_name,
@@ -420,6 +424,8 @@ def convert_to_markdown(
         text=True,
     )
     print(f"Success rate visualization script output:\n{result.stdout}")
+    if result.stderr:
+        print(f"Success rate visualization script stderr:\n{result.stderr}")
     cluster_radar_fig_path = os.path.abspath(f"reports/cluster_radar_{acd_name}.pdf")
     if not os.path.exists(cluster_radar_fig_path):
         print(f"Warning: Cluster radar figure not found at {cluster_radar_fig_path}")

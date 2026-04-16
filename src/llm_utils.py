@@ -145,7 +145,7 @@ def get_batch_responses_from_llm(
                 model,
                 system_message,
                 print_debug=False,
-                msg_history=None,
+                msg_history=msg_history,
                 temperature=temperature,
             )
             content.append(c)

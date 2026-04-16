@@ -7,6 +7,9 @@ from math import pi
 import matplotlib.pyplot as plt
 import numpy as np
 
+MODEL_NAME = {"gpt4": "GPT-4o", "llama": "Llama-8B", "sonnet": "Claude 3.5 Sonnet"}
+EVAL_THRESHOLD = 0.6
+
 
 def plot_cluster_radar_mpl(acd_name, model_cluster_stats, models):
     """
@@ -57,8 +60,7 @@ def plot_cluster_radar_mpl(acd_name, model_cluster_stats, models):
             rates.append(rate)
         rates.append(rates[0])  # close loop
 
-        legend_label = subject
-        ax.plot(angles, rates, label=legend_label, linewidth=2)
+        ax.plot(angles, rates, label=model, linewidth=2)
         ax.fill(angles, rates, alpha=0.15)
 
     # Offset so the "gap" is at 12 o'clock
@@ -114,77 +116,79 @@ def plot_cluster_radar_mpl(acd_name, model_cluster_stats, models):
     plt.tight_layout()
     plt.savefig(f"reports/cluster_radar_{acd_name}.pdf", dpi=300, bbox_inches="tight")
 
+def main():
+    parser = argparse.ArgumentParser(description="Visualize cluster success rates")
+    parser.add_argument(
+        "--acd_name",
+        type=str,
+        default="gpt4_gpt4",
+        help="ACD experiment name (e.g. gpt4_gpt4)",
+    )
+    parser.add_argument(
+        "--clustering_labels_path",
+        type=str,
+        required=True,
+        help="Path to clustering labels JSON file",
+    )
+    args = parser.parse_args()
 
-parser = argparse.ArgumentParser(description="Visualize cluster success rates")
-parser.add_argument(
-    "--acd_name",
-    type=str,
-    default="gpt4_gpt4",
-    help="ACD experiment name (e.g. gpt4_gpt4)",
-)
-parser.add_argument(
-    "--clustering_labels_path", type=str, help="Path to clustering labels JSON file"
-)
-args = parser.parse_args()
+    _, subject = args.acd_name.split("_", maxsplit=1)
+    subject = MODEL_NAME.get(subject, subject)
 
-MODEL_NAME = {"gpt4": "GPT-4o", "llama": "Llama-8B", "sonnet": "Claude 3.5 Sonnet"}
-scientist, subject = args.acd_name.split("_")
-try:
-    scientist, subject = MODEL_NAME[scientist], MODEL_NAME[subject]
-except:
-    pass
-eval_threshold = 0.6
-
-clustering_labels_path = args.clustering_labels_path
-if not os.path.exists(clustering_labels_path):
-    raise FileNotFoundError(f"Clustering results not found at {clustering_labels_path}")
-else:
+    clustering_labels_path = args.clustering_labels_path
+    if not os.path.exists(clustering_labels_path):
+        raise FileNotFoundError(
+            f"Clustering results not found at {clustering_labels_path}"
+        )
     print(f"Found clustering results at {clustering_labels_path}")
 
-# Load clustering results
-with open(clustering_labels_path, "r") as f:
-    clustering_data = json.load(f)
+    # Load clustering results
+    with open(clustering_labels_path, "r") as f:
+        clustering_data = json.load(f)
 
-# Create a mapping of task names to cluster info
-task_to_cluster = {}
-for item in clustering_data:
-    task_to_cluster[item["dir"]] = {
-        "cluster": item["cluster"],
-        "label": item["cluster_label"],
-        "capability": item["cluster_capability"],
-    }
+    # Create a mapping of task names to cluster info
+    task_to_cluster = {}
+    for item in clustering_data:
+        task_to_cluster[item["dir"]] = {
+            "cluster": item["cluster"],
+            "label": item["cluster_label"],
+            "capability": item["cluster_capability"],
+        }
 
-# Dictionary to store cluster-level stats
-cluster_stats = {}
-total_tasks = 0
-successful_tasks = 0
+    # Dictionary to store cluster-level stats
+    cluster_stats = {}
+    total_tasks = 0
+    successful_tasks = 0
 
-for task_dir, cluster_info in task_to_cluster.items():
-    # Get success rate from metadata
-    metadata_file = os.path.join(task_dir, "metadata.json")
-    if not os.path.exists(metadata_file):
-        continue
+    for task_dir, cluster_info in task_to_cluster.items():
+        # Get success rate from metadata
+        metadata_file = os.path.join(task_dir, "metadata.json")
+        if not os.path.exists(metadata_file):
+            continue
 
-    with open(metadata_file, "r") as f:
-        metadata = json.load(f)
-    success_rate = metadata.get("success_rate", 0)
+        with open(metadata_file, "r") as f:
+            metadata = json.load(f)
+        success_rate = metadata.get("success_rate", 0)
 
-    total_tasks += 1
-    if success_rate >= eval_threshold:
-        successful_tasks += 1
+        total_tasks += 1
+        if success_rate >= EVAL_THRESHOLD:
+            successful_tasks += 1
 
-    # Track cluster success
-    cluster_label = cluster_info["label"]
-    if cluster_label not in cluster_stats:
-        cluster_stats[cluster_label] = {"total": 0, "success": 0}
-    cluster_stats[cluster_label]["total"] += 1
-    if success_rate >= eval_threshold:
-        cluster_stats[cluster_label]["success"] += 1
+        # Track cluster success
+        cluster_label = cluster_info["label"]
+        if cluster_label not in cluster_stats:
+            cluster_stats[cluster_label] = {"total": 0, "success": 0}
+        cluster_stats[cluster_label]["total"] += 1
+        if success_rate >= EVAL_THRESHOLD:
+            cluster_stats[cluster_label]["success"] += 1
 
-model_cluster_stats = {subject: cluster_stats}
-overall_success_rate = successful_tasks / total_tasks if total_tasks > 0 else 0
-print(
-    f"Overall success rate: {overall_success_rate:.2%} ({successful_tasks}/{total_tasks})"
-)
-# Call the Matplotlib radar function
-plot_cluster_radar_mpl(args.acd_name, model_cluster_stats, [subject])
+    model_cluster_stats = {subject: cluster_stats}
+    overall_success_rate = successful_tasks / total_tasks if total_tasks > 0 else 0
+    print(
+        f"Overall success rate: {overall_success_rate:.2%} ({successful_tasks}/{total_tasks})"
+    )
+    plot_cluster_radar_mpl(args.acd_name, model_cluster_stats, [subject])
+
+
+if __name__ == "__main__":
+    main()

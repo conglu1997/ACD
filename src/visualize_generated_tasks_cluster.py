@@ -156,10 +156,12 @@ def main():
             cluster_int.append(matching_result["cluster"])
             cluster_names.append(matching_result["cluster_label"])
             cluster_capabilities.append(matching_result["cluster_capability"])
+            measured_capability = matching_result["cluster_capability"]
         else:
             cluster_int.append(-1)
             cluster_names.append("")
             cluster_capabilities.append("")
+            measured_capability = "Unknown"
 
         if not task.eval_answers:
             hover_str = f"Instructions: {task.instructions[0]}"
@@ -170,9 +172,7 @@ def main():
         else:
             hover_str = f"Instructions: {task.instructions[0]}"
 
-        hover_str += (
-            f"<br><br> Measured Capability: {matching_result['cluster_capability']}"
-        )
+        hover_str += f"<br><br> Measured Capability: {measured_capability}"
 
         # Split the hover text into multiple lines for better readability.
         spacing = 120
